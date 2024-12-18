@@ -74,8 +74,8 @@ while read -r URL; do
 	content_type="/"
 	fi
 
-	dump=$(echo "<a href='./dumps-text/$LANGUE-$lineno.txt'>dump</a>")
-	aspiration=$(echo "<a href='./aspirations/$LANGUE-$lineno.html'>aspiration</a>")
+	dumplink=$(echo "<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>")
+	aspiration=$(echo "<a href='../aspirations/$LANGUE-$lineno.html'>aspiration</a>")
 
 	echo "<tr>
 		<td>$lineno</td>
@@ -84,7 +84,7 @@ while read -r URL; do
 		<td>$encodage</td>
 		<td>$nb_mots</td>
 		<td>$aspiration</td>
-		<td>$dump</td>
+		<td>$dumplink</td>
 	</tr>"
 	
     ((lineno++))
