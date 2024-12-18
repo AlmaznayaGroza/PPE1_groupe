@@ -8,3 +8,8 @@ Je suis en train de constituer ma collection de liens pour les 2 termes qui trad
 - **сумленне**: la conscience morale -> dimension éthique
 
 J'avoue que j'ai encore du mal à déterminer ce qui constitue une "bonne" page (ie vraiment pertinente pour le projet)...
+
+
+## (Maïwenn) 18/12 - Modifications du script et créations des dossiers
+
+J'ai fini de modifier le script afin de récupérer les aspirations et dumps textuels des pages, et je les ai ajoutés en colonne du tableau. J'ai aussi ajouté les dossiers nécessaires pour cela donc les dossiers aspirations, dumps-text, et URLs.
