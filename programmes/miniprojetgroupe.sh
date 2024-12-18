@@ -46,6 +46,8 @@ echo "<!DOCTYPE html>
 									<th>Nombre de mots</th>
 									<th>Aspiration</th>
 									<th>Dump</th>
+									<th>Occurences de 'Conscience' (sens moral)</th>
+									<th>Occurences de 'Conscience' (sens physiologique/mental))</th>
 								</tr>
 							</thead>
                     		<tbody>"
@@ -74,8 +76,12 @@ while read -r URL; do
 	content_type="/"
 	fi
 
+
 	dumplink=$(echo "<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>")
 	aspiration=$(echo "<a href='../aspirations/$LANGUE-$lineno.html'>aspiration</a>")
+	compte_acception1=$(bash ./programmes/occurences-$LANGUE.sh | head -n $lineno | tail -n 1 | cut -f 1)
+	compte_acception2=$(bash ./programmes/occurences-$LANGUE.sh | head -n $lineno | tail -n 1 | cut -f 2)
+
 
 	echo "<tr>
 		<td>$lineno</td>
@@ -85,6 +91,8 @@ while read -r URL; do
 		<td>$nb_mots</td>
 		<td>$aspiration</td>
 		<td>$dumplink</td>
+		<td>$compte_acception1</td>
+		<td>$compte_acception2</td>
 	</tr>"
 	
     ((lineno++))

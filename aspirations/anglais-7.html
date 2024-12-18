@@ -1339,6 +1339,10 @@ text-decoration-thickness: 2px!important;
 				</div>
 		
 <script nitro-exclude>
+    var heartbeatData = new FormData(); heartbeatData.append('nitroHeartbeat', '1');
+    fetch(location.href, {method: 'POST', body: heartbeatData, credentials: 'omit'});
+</script>
+<script nitro-exclude>
     document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ? '0' : '1') + '; path=/; SameSite=Lax';
 </script>
 <script nitro-exclude>
