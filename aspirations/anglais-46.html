@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head><meta charset="UTF-8" /><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="1.2.6",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.everythingLoaded&&this.m()})),this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))})),document.addEventListener("DOMContentLoaded",(()=>{this.k()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}p(t){document.hidden?t.t():(this.triggerEvents.forEach((e=>window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.S(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.M()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.M()}O(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerWPRocketBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerWPRocketBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i=>{i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}D(){return new Promise((t=>{this.P?this.M=t:t()}))}C(){this.P=!0}M(){this.P=!1}S(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}k(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.T(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.j(this),this.F(this),this.I(),this.W(),this.q(),await this.A(this.delayedScripts.normal),await this.A(this.delayedScripts.defer),await this.A(this.delayedScripts.async);try{await this.U(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.D().then((()=>{this.O()})),this.N()}W(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed-network"),e()})),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: data-uri blocked by CSP -> fallback"),t.removeAttribute("src"),this.B(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())})),s?(t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async A(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.A(t)):Promise.resolve()}q(){this.T([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}T(t,e){var i=document.createDocumentFragment();t.forEach((t=>{const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o&&!o.startsWith("data:")){const s=document.createElement("link");s.href=o,s.rel=e,"preconnect"!==e&&(s.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(s.crossOrigin=!0),t.crossOrigin&&(s.crossOrigin=t.crossOrigin),t.integrity&&(s.integrity=t.integrity),i.appendChild(s),this.trash.push(s)}})),document.head.appendChild(i)}j(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)>=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function s(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o||function(){},set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),s(document,"onreadystatechange"),s(window,"onload"),s(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(t){const e=o.fn[t];o.fn[t]=o.fn.init.prototype[t]=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this}}o&&o.fn&&!t.allJQueries.includes(o)&&(o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=>e.bind(document)(o))),o([])},s("on"),s("one"),t.allJQueries.push(o)),e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t=>{e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async U(){this.domReadyFired=!0;try{document.readyState="interactive"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){try{document.readyState="complete"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}I(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async G(){Date.now()-this.lastBreath>45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}N(){this.trash.forEach((t=>t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.p(t)}}RocketLazyLoadScripts.run()})();</script>
+<script type="rocketlazyloadscript" async data-rocket-src="https://www.googleoptimize.com/optimize.js?id=OPT-MT88426"></script>
+	
+<!--ORGANIZATION SCHEMA-->
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "#organization",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.9,
+      "bestRating": 5,
+      "worstRating": 0,
+      "reviewCount": "92"
+    },
+    "url": "https://www.hli.org/",
+    "additionalType": [
+      "NGO",
+      "https://en.wikipedia.org/wiki/Non-governmental_organization",
+      "https://www.wikidata.org/wiki/Q79913",
+      "https://en.wikipedia.org/wiki/Non-governmental_organization"
+    ],
+    "knowsAbout": ["Abortion", "Birth Control", "Population Control", "Marriage, Family, & LGBTQ Issues", "End-of-Life Issues", "Assisted Reproduction", "Podcast"],
+    "logo": {
+      "@type": "ImageObject",
+      "@id": "#logo",
+      "contentUrl": "https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp",
+      "url": "https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp"
+    },
+    "brand": { "@id": "#organization" },
+    "name": "Human Life International",
+    "alternatename": "Human life International",
+    "legalName": "Human life international",
+    "description": "Leaders like Seminarian D’amour can turn communities pro-life. But only if they get the right training.
+    That’s where you come in. You can make a difference today by sending a donation to form the next generation of pro-life leaders.",
+    "disambiguatingDescription": "Right now, the UN is pushing a treaty called EU-ACP. If ratified, it will force 79 countries to adopt Planned Parenthood’s version of “reproductive rights.”
+    Most of them are small developing countries. They’ll be steamrolled by the pro-abortion UN unless you help them fight back.",
+    "actionableFeedbackPolicy": "https://www.hli.org/",
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "@id": "#orgarea",
+        "geo": {
+          "@type": "GeoShape",
+          "postalCode": [
+          "22193",
+          "23464",
+          "22191",
+          "23462",
+          "20147",
+          "23322",
+          "22407",
+          "22030",
+          "23320",
+          "23456",
+          "20148",
+          "22192",
+          "22554",
+          "22003",
+          "23454",
+          "23452",
+          "23223",
+          "23112",
+          "22204",
+          "23666",
+          "23185",
+          "23434",
+          "20176",
+          "20171",
+          "20110",
+          "22304",
+          "23455",
+          "24060",
+          "23234",
+          "22015",
+          "20109",
+          "23451",
+          "23188",
+          "20120",
+          "23608",
+          "20170",
+          "20164",
+          "23225",
+          "23323",
+          "23602",
+          "23803",
+          "23059",
+          "24502",
+          "22903",
+          "23669",
+          "23832",
+          "22201",
+          "23224",
+          "22033",
+          "23321",
+          "24018",
+          "24153",
+          "22079",
+          "22801",
+          "23111",
+          "20155",
+          "23231",
+          "22630"
+          ]
+        },
+        "containsPlace": [
+          {
+            "@type": "City",
+            "name": "Front Royal",
+            "url": [
+              "https://www.google.com/maps/place/Front_Royal,+Virginia,+USA/",
+              "https://en.wikipedia.org/wiki/Front_Royal,_Virginia"
+            ]
+          }
+        ]
+      }
+    ],
+    "sameAs": [],
+    "image": {
+      "@type": "ImageObject",
+      "@id": "#image",
+      "contentUrl": "https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp",
+      "url": "https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp"
+    },
+    "email": "hli@hli.org",
+    "telephone": "1-800-549-5433",
+    "founder": "Paul Marx",
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "@id": "#postaladdress",
+        "streetAddress": "4 Family Life Lane",
+        "addressLocality": "Front Royal",
+        "addressRegion": "VA",
+        "postalCode": "22630",
+        "addressCountry": "USA"
+      }
+    },
+    "slogan": "Human Life International is a Catholic, pro-life non-profit. Through us, pro-lifers like you sponsor life-saving missions in over 100 countries. We also work hard to make sure you have the truth about life and family issues at your fingertips.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "@id": "#contactPoint",
+      "name": "Human Life International",
+      "description": "Leaders like Seminarian D’amour can turn communities pro-life. But only if they get the right training.
+      That’s where you come in. You can make a difference today by sending a donation to form the next generation of pro-life leaders.",
+      "contactType": "Customer Service",
+      "telephone": "1-800-549-5433",
+      "areaServed": { "@id": "#orgarea" }
+    },
+    "makesOffer": {
+      "@type": "Offer",
+      "@id": "#offer",
+      "itemOffered": [
+        { "@id": "#abortion" },
+        { "@id": "#birthcontrol" },
+        { "@id": "#populationcontrol" },
+        { "@id": "#marriage,family,&lgbtqissues" },
+        { "@id": "#end-of-lifeissues" },
+        { "@id": "#assistedreproduction" },
+        { "@id": "#podcast" }
+      ]
+    },
+    "subOrganization": [
+      { "@id": "#frontroyal" },
+      { "@id": "#virginia" }
+    ]
+  }
+</script>
+<!-- WEBSITE SCHEMA -->
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "#organization",
+    "name": "Human Life International",
+    "url": "https://www.hli.org/",
+    "keywords": "pro-life conferences, seminarian and priest training, pro life resources, natural family planning, pregnancy care centers, pro-life activism",
+    "about": [
+    {"@type": "Thing", "name": "pro-life", "sameAs": ["https://en.wikipedia.org/wiki/Anti-abortion_movements",
+    "https://www.google.com/search?q=pro-life&kgmid=/m/0ncq5r7"]},
+    {"@type": "Thing", "name": "abortion", "sameAs": ["https://en.wikipedia.org/wiki/Anti-abortion_movements",
+    "https://www.google.com/search?q=abortion&kgmid=/m/0ncq5r7"]},
+    {"@type": "Thing", "name": "human life international", "sameAs": ["https://en.wikipedia.org/wiki/Human_Life_International",
+    "https://www.google.com/search?q=human+life+international&kgmid=/m/02h2fq"]},
+    {"@type": "Thing", "name": "seminarians", "sameAs": ["https://en.wikipedia.org/wiki/Seminary",
+    "https://www.google.com/search?q=seminarians&kgmid=/m/01yzk8"]},
+    {"@type": "Thing", "name": "the gospel", "sameAs": ["https://en.wikipedia.org/wiki/The_gospel",
+    "https://www.google.com/search?q=the+gospel&kgmid=/m/06_25c"]},
+    {"@type": "Thing", "name": "prayer", "sameAs": ["https://en.wikipedia.org/wiki/Prayer",
+    "https://www.google.com/search?q=prayer&kgmid=/m/0687y"]},
+    {"@type": "Thing", "name": "parish", "sameAs": ["https://en.wikipedia.org/wiki/Parish",
+    "https://www.google.com/search?q=parish&kgmid=/m/05wqv"]},
+    {"@type": "Thing", "name": "human dignity", "sameAs": ["https://en.wikipedia.org/wiki/Dignity",
+    "https://www.google.com/search?q=human+dignity&kgmid=/m/048krx1"]},
+    {"@type": "Thing", "name": "euthanasia", "sameAs": ["https://en.wikipedia.org/wiki/Euthanasia",
+    "https://www.google.com/search?q=euthanasia&kgmid=/m/02m25"]},
+    {"@type": "Thing", "name": "god", "sameAs": ["https://en.wikipedia.org/wiki/God",
+    "https://www.google.com/search?q=god&kgmid=/m/0d05l6"]},
+    {"@type": "Thing", "name": "dignity", "sameAs": ["https://en.wikipedia.org/wiki/Dignity",
+    "https://www.google.com/search?q=dignity&kgmid=/m/048krx1"]},
+    {"@type": "Thing", "name": "priests", "sameAs": ["https://en.wikipedia.org/wiki/Priest",
+    "https://www.google.com/search?q=priests&kgmid=/m/05xjb"]},
+    {"@type": "Thing", "name": "truth", "sameAs": ["https://en.wikipedia.org/wiki/Truth",
+    "https://www.google.com/search?q=truth&kgmid=/m/07cb8"]},
+    {"@type": "Thing", "name": "diocesan", "sameAs": ["https://en.wikipedia.org/wiki/Diocese",
+    "https://www.google.com/search?q=diocesan&kgmid=/m/0dc9p"]},
+    {"@type": "Thing", "name": "contraception", "sameAs": ["https://en.wikipedia.org/wiki/Birth_control",
+    "https://www.google.com/search?q=contraception&kgmid=/m/01cnz"]},
+    {"@type": "Thing", "name": "usccb", "sameAs": ["https://en.wikipedia.org/wiki/United_States_Conference_of_Catholic_Bishops",
+    "https://www.google.com/search?q=usccb&kgmid=/m/03f2fw"]},
+    {"@type": "Thing", "name": "culture of life", "sameAs": ["https://en.wikipedia.org/wiki/Culture_of_life",
+    "https://www.google.com/search?q=culture+of+life&kgmid=/m/05k_47"]},
+    {"@type": "Thing", "name": "pro-life activities", "sameAs": ["https://en.wikipedia.org/wiki/Anti-abortion_movements",
+    "https://www.google.com/search?q=pro-life+activities&kgmid=/m/0ncq5r7"]},
+    {"@type": "Thing", "name": "pregnancy", "sameAs": ["https://en.wikipedia.org/wiki/Pregnancy",
+    "https://www.google.com/search?q=pregnancy&kgmid=/m/05vqh7"]},
+    {"@type": "Thing", "name": "violence", "sameAs": ["https://en.wikipedia.org/wiki/Violence",
+    "https://www.google.com/search?q=violence&kgmid=/m/0chbx"]},
+    {"@type": "Thing", "name": "summit", "sameAs": ["https://en.wikipedia.org/wiki/Summit",
+    "https://www.google.com/search?q=summit&kgmid=/m/0388sn"]},
+    {"@type": "Thing", "name": "the united states", "sameAs": ["https://en.wikipedia.org/wiki/United_States",
+    "https://www.google.com/search?q=the+united+states&kgmid=/m/09c7w0"]},
+    {"@type": "Thing", "name": "committee", "sameAs": ["https://en.wikipedia.org/wiki/Committee",
+    "https://www.google.com/search?q=committee&kgmid=/m/06g47pz"]},
+    {"@type": "Thing", "name": "masculinity", "sameAs": ["https://en.wikipedia.org/wiki/Masculinity",
+    "https://www.google.com/search?q=masculinity&kgmid=/m/02p189v"]},
+    {"@type": "Thing", "name": "pope john paul ii", "sameAs": ["https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+    "https://www.google.com/search?q=pope+john+paul+ii&kgmid=/m/05pwcp"]}
+    ]
+  }
+</script>	
+	
+
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+
+<!-- Author Meta Tags by Molongui Authorship Pro, visit: https://www.molongui.com/wordpress-plugin-post-authors -->
+<meta name="author" content="Brian Clowes, PhD">
+<meta property="article:author" content="https://www.facebook.com/" />
+<!-- /Molongui Authorship -->
+
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>How Does Conscience Relate to Morality?</title><link rel="preload" data-rocket-preload as="image" href="https://www.hli.org/wp-content/uploads/2021/09/Cosmetics-e-book-ad-300-x-250.jpg.webp" fetchpriority="high">
+<meta name="description" content="How does conscience relate to morality? What&#039;s important is that moral conscience is not the source of morality, but instead a witness..."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How Does Conscience Relate to Morality?" />
+<meta property="og:description" content="How does conscience relate to morality? What&#039;s important is that moral conscience is not the source of morality, but instead a witness..." />
+<meta property="og:url" content="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/" />
+<meta property="og:site_name" content="Human Life International" />
+<meta property="article:publisher" content="https://www.facebook.com/HumanLifeInternational" />
+<meta property="og:updated_time" content="2024-05-20T15:44:00-04:00" />
+<meta property="og:image" content="https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678-1024x430.jpeg" />
+<meta property="og:image:secure_url" content="https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678-1024x430.jpeg" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="430" />
+<meta property="og:image:alt" content="decision making; conscience" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2021-10-15T08:59:34-04:00" />
+<meta property="article:modified_time" content="2024-05-20T15:44:00-04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="How Does Conscience Relate to Morality?" />
+<meta name="twitter:description" content="How does conscience relate to morality? What&#039;s important is that moral conscience is not the source of morality, but instead a witness..." />
+<meta name="twitter:site" content="@HumanLifeIntnl" />
+<meta name="twitter:creator" content="@HumanLifeIntnl" />
+<meta name="twitter:image" content="https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678-1024x430.jpeg" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.hli.org/#organization","name":"Human Life International","sameAs":["https://www.facebook.com/HumanLifeInternational","https://twitter.com/HumanLifeIntnl"],"logo":{"@type":"ImageObject","@id":"https://www.hli.org/#logo","url":"https://www.hli.org/wp-content/uploads/2018/05/HLI_Logo_black.jpg","contentUrl":"https://www.hli.org/wp-content/uploads/2018/05/HLI_Logo_black.jpg","caption":"Human Life International","inLanguage":"en-US","width":"540","height":"602"}},{"@type":"WebSite","@id":"https://www.hli.org/#website","url":"https://www.hli.org","name":"Human Life International","publisher":{"@id":"https://www.hli.org/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678.jpeg","url":"https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678.jpeg","width":"2560","height":"1075","caption":"decision making; conscience","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/#webpage","url":"https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/","name":"How Does Conscience Relate to Morality?","datePublished":"2021-10-15T08:59:34-04:00","dateModified":"2024-05-20T15:44:00-04:00","isPartOf":{"@id":"https://www.hli.org/#website"},"primaryImageOfPage":{"@id":"https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678.jpeg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.hli.org/author/bclowes/","name":"Brian Clowes, PhD","description":"Brian Clowes, PhD has been HLI\u2019s director of research since 1995, and is one of the most accomplished and respected intellectuals in the international pro-life movement. Best known as author of the most exhaustive pro-life informational resource volume The Facts of Life, and for his Pro-Life Basic Training Course, Brian is the author of nine books and over 500 scholarly and popular articles, and has traveled to 70 countries on six continents as a pro-life speaker, educator and trainer.","url":"https://www.hli.org/author/bclowes/","image":{"@type":"ImageObject","@id":"https://www.hli.org/wp-content/uploads/2012/12/brian.jpg","url":"https://www.hli.org/wp-content/uploads/2012/12/brian.jpg","caption":"Brian Clowes, PhD","inLanguage":"en-US"},"worksFor":{"@id":"https://www.hli.org/#organization"}},{"@type":"Article","headline":"How Does Conscience Relate to Morality?","datePublished":"2021-10-15T08:59:34-04:00","dateModified":"2024-05-20T15:44:00-04:00","author":{"@id":"https://www.hli.org/author/bclowes/","name":"Brian Clowes, PhD"},"publisher":{"@id":"https://www.hli.org/#organization"},"description":"How does conscience relate to morality? What&#039;s important is that moral conscience is not the source of morality, but instead a witness...","name":"How Does Conscience Relate to Morality?","@id":"https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/#richSnippet","isPartOf":{"@id":"https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/#webpage"},"image":{"@id":"https://www.hli.org/wp-content/uploads/2018/09/decision-making-conscience-e1623330670678.jpeg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Human Life International &raquo; Feed" href="https://www.hli.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Human Life International &raquo; Comments Feed" href="https://www.hli.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Human Life International &raquo; What is the Role of Conscience in Moral Decision-Making? Comments Feed" href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/feed/" />
+<link rel="preload" href="https://www.hli.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.hli.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.hli.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.hli.org/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='wpjoli-joli-table-of-contents-style-inline-css'>
+
+
+</style>
+<link data-minify="1" rel='stylesheet' id='activecampaign-form-block-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1733938980' media='all' />
+<style id='rank-math-toc-block-style-inline-css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #333333;--wp--preset--color--fl-body-bg: #f2f2f2;--wp--preset--color--fl-body-text: #3a3a3a;--wp--preset--color--fl-accent: #388db7;--wp--preset--color--fl-accent-hover: #2e6c96;--wp--preset--color--fl-topbar-bg: #0a5289;--wp--preset--color--fl-topbar-text: #ffffff;--wp--preset--color--fl-topbar-link: #ffffff;--wp--preset--color--fl-topbar-hover: #428bca;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #000000;--wp--preset--color--fl-header-link: #428bca;--wp--preset--color--fl-header-hover: #428bca;--wp--preset--color--fl-nav-bg: #0a5289;--wp--preset--color--fl-nav-link: #ffffff;--wp--preset--color--fl-nav-hover: #91afc9;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #0a5289;--wp--preset--color--fl-footer-widgets-text: #ffffff;--wp--preset--color--fl-footer-widgets-link: #428bca;--wp--preset--color--fl-footer-widgets-hover: #72a1c9;--wp--preset--color--fl-footer-bg: #ffffff;--wp--preset--color--fl-footer-text: #000000;--wp--preset--color--fl-footer-link: #428bca;--wp--preset--color--fl-footer-hover: #428bca;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='scriptlesssocialsharing-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/scriptless-social-sharing/includes/css/scriptlesssocialsharing-style.css?ver=1733938980' media='all' />
+<style id='scriptlesssocialsharing-inline-css'>
+.scriptlesssocialsharing__buttons a.button { padding: 12px; flex: 1; }
+</style>
+<link data-minify="1" rel='stylesheet' id='ppress-frontend-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=1733938980' media='all' />
+<link rel='stylesheet' id='ppress-flatpickr-css' href='https://www.hli.org/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.15.11' media='all' />
+<link rel='stylesheet' id='ppress-select2-css' href='https://www.hli.org/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.6.1' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-5-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=1733938980' media='all' />
+<link data-minify="1" rel='stylesheet' id='icon-1648583720-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/uploads/bb-plugin/icons/icon-1648583720/style.css?ver=1733938980' media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-builder-layout-bundle-eb1824e388a7a4c5c0b2196975d480ca-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/eb1824e388a7a4c5c0b2196975d480ca-layout-bundle.css?ver=1733939316' media='all' />
+<link rel='stylesheet' id='search-filter-plugin-styles-css' href='https://www.hli.org/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.18' media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css' href='https://www.hli.org/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.8.3.3' media='all' />
+<link rel='stylesheet' id='base-css' href='https://www.hli.org/wp-content/themes/bb-theme/css/base.min.css?ver=1.7.15.3' media='all' />
+<link data-minify="1" rel='stylesheet' id='fl-automator-skin-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/uploads/bb-theme/skin-666201949ae4e.css?ver=1733938980' media='all' />
+<link rel='stylesheet' id='wp-add-custom-css-css' href='https://www.hli.org?display_custom_css=css&#038;ver=6.6.1' media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://www.hli.org/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.15.11" id="ppress-flatpickr-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.15.11" id="ppress-select2-js" defer></script>
+<link rel="https://api.w.org/" href="https://www.hli.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.hli.org/wp-json/wp/v2/resources/13194" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hli.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.hli.org/?p=13194' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.hli.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.hli.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F&#038;format=xml" />
+        <style>
+            .molongui-disabled-link
+            {
+                border-bottom: none !important;
+                text-decoration: none !important;
+                color: inherit !important;
+                cursor: inherit !important;
+            }
+            .molongui-disabled-link:hover,
+            .molongui-disabled-link:hover span
+            {
+                border-bottom: none !important;
+                text-decoration: none !important;
+                color: inherit !important;
+                cursor: inherit !important;
+            }
+        </style>
+                    <style>
+                .molongui-content-wrap
+                {
+                    --molongui-post-template__content-wrap--column-gap: 3em;
+                    --molongui-post-template__content-wrap--padding: 3em;
+                }
+                .molongui-content-area
+                {
+                    --molongui-post-template__content-area--max-width: 800px;
+                }
+                .molongui-post-wrap
+                {
+                    --molongui-post-template__post-wrap--row-gap: 2em;
+                    --molongui-post-template__post-wrap--padding: 0em;
+                }
+            </style>
+        <script type="rocketlazyloadscript" id="google_gtagjs" data-rocket-src="https://www.hli.org/?local_ga_js=ddb754a38a153130d6cbcbd4d19a135a" async></script>
+<script type="rocketlazyloadscript" id="google_gtagjs-inline">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-3H9CY6FWHS', {'anonymize_ip': true} );
+</script>
+<link rel="icon" href="https://www.hli.org/wp-content/uploads/2022/11/cropped-HLI-Favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.hli.org/wp-content/uploads/2022/11/cropped-HLI-Favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.hli.org/wp-content/uploads/2022/11/cropped-HLI-Favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.hli.org/wp-content/uploads/2022/11/cropped-HLI-Favicon-1-270x270.png" />
+		<style id="wp-custom-css">
+			.mr-stories-deck {
+	font-size: 24px;
+	line-height: 1.4;
+	letter-spacing: 0;
+	color: #6d6d6d;
+	line-height: 1.4;
+	margin-bottom: 100px;
+	font-style: italic;
+}
+
+blockquote {
+    background-color: #f3f1f1;
+}
+
+.related {
+  background-color: #eeeeee;
+  padding: 20px;
+  border-left: 6px solid #0a5289;
+}
+
+.related a {
+  color:#000000;
+}
+.searchicon a{
+color: #ffffff!important;
+}
+
+.searchicon {
+
+background-image: url('https://www.hli.org/wp-content/uploads/2022/11/search-icon2.png');
+background-repeat: no-repeat;
+background-position: center;
+padding-left: 15px;
+	margin-left: 15px;
+}
+
+.wpforms-container input.wpforms-field-medium, .wpforms-container select.wpforms-field-medium, .wpforms-container .wpforms-field-row.wpforms-field-medium {
+    max-width: 100%;
+}
+
+.wpforms-container .wpforms-field:first-child {
+    padding: 0;
+    position: relative;
+}
+
+.wpforms-container .wpforms-submit-container {
+    padding: 0;
+}
+
+.wpforms-field-email {
+	margin-top: 10px!important
+}
+
+button#wpforms-submit-22911 {
+	width: 100%
+}
+div.wpforms-container-full input[type=date], div.wpforms-container-full input[type=datetime], div.wpforms-container-full input[type=datetime-local], div.wpforms-container-full input[type=email], div.wpforms-container-full input[type=month], div.wpforms-container-full input[type=number], div.wpforms-container-full input[type=password], div.wpforms-container-full input[type=range], div.wpforms-container-full input[type=search], div.wpforms-container-full input[type=tel], div.wpforms-container-full input[type=text], div.wpforms-container-full input[type=time], div.wpforms-container-full input[type=url], div.wpforms-container-full input[type=week], div.wpforms-container-full select, div.wpforms-container-full textarea {
+	border: 1px solid #2aaadf
+}
+
+div.wpforms-container-full input[type=submit]:not(:hover):not(:active), div.wpforms-container-full button[type=submit]:not(:hover):not(:active), div.wpforms-container-full .wpforms-page-button:not(:hover):not(:active) {
+    background-color: #ed8e00;
+}
+
+.wpforms-form input[type=submit]:hover, 
+.wpforms-form input[type=submit]:active, 
+.wpforms-form button[type=submit]:hover, 
+.wpforms-form button[type=submit]:active {
+    background-color: #8e5500!important;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><!-- Google Tag Manager -->
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K9XT24Q');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='vwoCode'>window.addEventListener('DOMContentLoaded', function() {
+window._vwo_code || (function() {
+var account_id=772459,
+version=2.0,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=this.getSettings(),n=d.createElement('script'),i=this;if(t){n.textContent=t;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);i.load(e)}}else{n.fetchPriority='high';n.src=e;n.type='text/javascript';n.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(n)}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t=d.currentScript,n=d.createElement('style'),i=this.hide_element(),r=t&&!t.async&&i?i+this.hide_element_style():'',c=d.getElementsByTagName('head')[0];n.setAttribute('id','_vis_opt_path_hides');v&&n.setAttribute('nonce',v.nonce);n.setAttribute('type','text/css');if(n.styleSheet)n.styleSheet.cssText=r;else n.appendChild(d.createTextNode(r));c.appendChild(n);this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&vn='+version)}};w._vwo_code=code;code.init();})();
+});</script>
+<!-- End VWO Async SmartCode -->
+
+
+</head>
+<body class="resources-template-default single single-resources postid-13194 single-format-standard fl-builder-2-8-3-3 fl-themer-1-4-10 fl-theme-1-7-15-3 fl-theme-builder-footer fl-theme-builder-footer-footer fl-theme-builder-header fl-theme-builder-header-2022-redesign-home-header fl-theme-builder-singular fl-theme-builder-singular-posts-and-resources right-sidebar fl-framework-base fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9XT24Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- OptinMonster -->
+<script type="rocketlazyloadscript">(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.account=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,19629,5766);</script>
+<!-- end OptinMonster --><a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-builder-content fl-builder-content-21022 fl-builder-global-templates-locked" data-post-id="21022" data-type="header" data-sticky="1" data-sticky-on="desktop" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0" data-overlay-bg="transparent" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-3bmofhr7px12 fl-row-default-height fl-row-align-center fl-visible-desktop fl-visible-large" data-node="3bmofhr7px12">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-efgd8ilu5jay fl-col-group-equal-height fl-col-group-align-center" data-node="efgd8ilu5jay">
+			<div class="fl-col fl-node-6iqgwx3ayknf fl-col-small" data-node="6iqgwx3ayknf">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-m4prws8f3ixb" data-node="m4prws8f3ixb">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.hli.org/" target="_self" itemprop="url">
+				<img decoding="async" class="fl-photo-img wp-image-21632 size-full" src="https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp" alt="Human Life International: empowering you to build a pro-life world" itemprop="image" height="224" width="1240" title="Masthead 2022 Empowering You 541"  data-no-lazy="1" srcset="https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541.png.webp 1240w,https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541-300x54.png.webp 300w,https://www.hli.org/wp-content/uploads/2022/06/Masthead-2022-Empowering-You-541-1024x185.png.webp 1024w" sizes="(max-width: 1240px) 100vw, 1240px" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-cf2bqd0mvi7r fl-col-small" data-node="cf2bqd0mvi7r">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-2zldkqv0fouh" data-node="2zldkqv0fouh">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-mobile">
+	<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-main-menu" class="menu fl-menu-horizontal fl-toggle-arrows"><li id="menu-item-23316" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/about-us/">Mission</a></li><li id="menu-item-23322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a>Resources</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-23324" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/abortion-facts/">Abortion</a></li>	<li id="menu-item-23323" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/contraception-facts/">Birth Control</a></li>	<li id="menu-item-23584" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/population-control-facts/">Population Control</a></li>	<li id="menu-item-23319" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/marriage-family-sexuality/">Marriage, Family, &#038; LGBTQ Issues</a></li>	<li id="menu-item-25175" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/catholic-faith/">Faith</a></li>	<li id="menu-item-23317" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/end-of-life-issues/">End-of-Life Issues</a></li>	<li id="menu-item-23318" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/assisted-reproduction-facts/">Assisted Reproduction</a></li>	<li id="menu-item-23325" class="menu-item menu-item-type-post_type_archive menu-item-object-podcast"><a href="https://www.hli.org/podcast/">Podcast</a></li></ul></li><li id="menu-item-23328" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.hli.org/free-ebooks/">Free Ebooks</a></li><li id="menu-item-23905" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.hli.org/news/">News</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-gmniaf1s384k fl-col-small" data-node="gmniaf1s384k">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon fl-node-90otwbdefzsm" data-node="90otwbdefzsm">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="https://www.hli.org/search/" target="_self">
+							<i class="fas fa-search" aria-hidden="true"></i>
+				<span class="sr-only">Search</span>
+						</a>
+			</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-62tsd7a3ehpc fl-col-small" data-node="62tsd7a3ehpc">
+	<div class="fl-col-content fl-node-content"><div id="top-right-donate-button" class="fl-module fl-module-button fl-node-acf5wlo4eyd1 top-right-donate-button" data-node="acf5wlo4eyd1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
+			<a href="https://www.hli.org/giving/" target="_self" class="fl-button">
+							<span class="fl-button-text">DONATE</span>
+					</a>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-xtbgjo7ch1mp fl-row-default-height fl-row-align-center fl-visible-medium fl-visible-mobile" data-node="xtbgjo7ch1mp">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-m1ux2ledboq8 fl-col-group-equal-height fl-col-group-align-center fl-col-group-custom-width" data-node="m1ux2ledboq8">
+			<div class="fl-col fl-node-q2w4caxulpij fl-col-small-custom-width" data-node="q2w4caxulpij">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-hul6amg31nqy" data-node="hul6amg31nqy">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://www.hli.org/" target="_self" itemprop="url">
+				<img decoding="async" class="fl-photo-img wp-image-21539 size-large" src="https://www.hli.org/wp-content/uploads/2022/10/10868-1024x243.jpg.webp" alt="Human Life International logo" itemprop="image" height="243" width="1024" title="10868"  data-no-lazy="1" srcset="https://www.hli.org/wp-content/uploads/2022/10/10868-1024x243.jpg.webp 1024w,https://www.hli.org/wp-content/uploads/2022/10/10868-300x71.jpg.webp 300w,https://www.hli.org/wp-content/uploads/2022/10/10868-1536x365.jpg.webp 1536w,https://www.hli.org/wp-content/uploads/2022/10/10868-scaled.jpg.webp 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-ixns7tdcrylz fl-col-small fl-col-small-custom-width" data-node="ixns7tdcrylz">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-xzujgdintpqr" data-node="xzujgdintpqr">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu fl-menu-responsive-toggle-always fl-menu-responsive-flyout-overlay fl-flyout-right">
+	<button class="fl-menu-mobile-toggle hamburger" aria-label="Menu"><span class="fl-menu-icon svg-container"><svg version="1.1" class="hamburger-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<rect class="fl-hamburger-menu-top" width="512" height="102"/>
+<rect class="fl-hamburger-menu-middle" y="205" width="512" height="102"/>
+<rect class="fl-hamburger-menu-bottom" y="410" width="512" height="102"/>
+</svg>
+</span></button>	<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-mobile-menu" class="menu fl-menu-horizontal fl-toggle-arrows"><li id="menu-item-18793" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/about-us/">Mission</a></li><li id="menu-item-19785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children fl-has-submenu"><div class="fl-has-submenu-container"><a>Resources</a><span class="fl-menu-toggle"></span></div><ul class="sub-menu">	<li id="menu-item-23334" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/abortion-facts/">Abortion</a></li>	<li id="menu-item-23335" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/contraception-facts/">Birth Control</a></li>	<li id="menu-item-23583" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/population-control-facts/">Population Control</a></li>	<li id="menu-item-23331" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/marriage-family-sexuality/">Marriage, Family, &#038; LGBTQ Issues</a></li>	<li id="menu-item-25176" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/catholic-faith/">Faith</a></li>	<li id="menu-item-23329" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/end-of-life-issues/">End-of-Life Issues</a></li>	<li id="menu-item-23330" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/assisted-reproduction-facts/">Assisted Reproduction</a></li>	<li id="menu-item-20852" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.hli.org/podcast/">Podcast</a></li></ul></li><li id="menu-item-23906" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.hli.org/news/">News</a></li><li id="menu-item-23336" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/free-ebooks/">Free Ebooks</a></li><li id="menu-item-18892" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.hli.org/giving/">Donate</a></li><li id="menu-item-18799" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.hli.org/search/">Search</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-tfimwgnb5eu0 fl-row-default-height fl-row-align-center" data-node="tfimwgnb5eu0">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-t49zg28oxah5" data-node="t49zg28oxah5">
+			<div class="fl-col fl-node-4rzup0x8efko" data-node="4rzup0x8efko">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-bxo0367djnet eb01-link-site-wide-blue-bar" data-node="bxo0367djnet">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>Free Ebook: <u><a href="https://www.hli.org/offers/cosmetics-e-book/">Which Cosmetics Use Fetal Cells?</a></u></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		<div class="fl-builder-content fl-builder-content-22076 fl-builder-global-templates-locked" data-post-id="22076"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-xzsloeu9kcgh fl-row-default-height fl-row-align-center" data-node="xzsloeu9kcgh">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-1ecbzomsulfx" data-node="1ecbzomsulfx">
+			<div class="fl-col fl-node-jyakonedxbft" data-node="jyakonedxbft">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-ny518f4mrd2e" data-node="ny518f4mrd2e">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">What is the Role of Conscience in Moral Decision-Making?</span>
+	</h1>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-3498rudevl6p fl-row-default-height fl-row-align-center" data-node="3498rudevl6p">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-qxc07abwnmlg" data-node="qxc07abwnmlg">
+			<div class="fl-col fl-node-b2hrjtocy6z0" data-node="b2hrjtocy6z0">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-fl-post-info fl-node-z52ybftr0op8" data-node="z52ybftr0op8">
+	<div class="fl-module-content fl-node-content">
+		<span class="fl-post-info-author"><a href="https://www.hli.org/author/bclowes/">Brian Clowes, PhD</a></span><span class="fl-post-info-sep">|</span><span class="fl-post-info-date">October 15, 2021</span><span class="fl-post-info-sep">|</span><span class="fl-post-info-comments"><a href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/#respond" tabindex="-1" aria-hidden="true">No Comments</a></span>	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-tof94ed20lpx fl-col-small fl-visible-desktop fl-visible-large" data-node="tof94ed20lpx">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-ov798zb0m5pu" data-node="ov798zb0m5pu">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: right;"><span style="font-size: 16px;"><a href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/print/" title="Print" rel="nofollow"><img width="16" height="16" decoding="async" class="WP-PrintIcon" src="https://www.hli.org/wp-content/plugins/wp-print/images/printer_famfamfam.gif" alt="Print" title="Print" style="border: 0px;" /></a>&nbsp;<a href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/print/" title="Print" rel="nofollow">Print</a></span></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-tofpl24mrb5n fl-row-default-height fl-row-align-center" data-node="tofpl24mrb5n">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-bfm6izj5p0yw" data-node="bfm6izj5p0yw">
+			<div class="fl-col fl-node-t8zq9jb652rk" data-node="t8zq9jb652rk">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-fl-post-content fl-node-0d2ls415bmej" data-node="0d2ls415bmej">
+	<div class="fl-module-content fl-node-content">
+		<h2>The Modern Misunderstanding of Conscience</h2>
+<p>The Catholic Church teaches that the conscience is a natural facility of our reason that directs us to do good and avoid evil; that makes judgments about the good and evil of particular acts; and that bears witness after the fact to the good or evil that we have done, such as what we call “having a guilty conscience.”<sup>1</sup></p>
+<p>A fundamental misunderstanding of the role of the human conscience lies at the root of many of the problems in the Catholic Church today. Very few Catholics even know what that role actually is. When pressed, many will say something along the lines of “If my conscience tells me that a particular action is all right, I can do it.”</p>
+<p>This is just another way of saying “If it feels good, do it.” If an improperly-formed conscience leads a person to accept something as right and good based simply on his or her uninformed opinions and feelings, that person will fall into grave errors for which there is no good excuse before God:</p>
+<blockquote><p>When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law. They show that what the law requires is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or perhaps excuse them on that day when, according to my gospel, God judges the secrets of men by Christ Jesus. (Romans 2:14-15)</p></blockquote>
+<p>Many Catholics erroneously believe that the conscience is a <em>teacher</em>, not a <em>pupil</em>; that it is the <em>source</em> of morality. This is not the teaching of the Catholic Church. According to the Church, the conscience is a witness to the moral law authored by God. Each Catholic is required to obey that moral law in all things. The conscience, if properly formed, calls him to obey that moral law and helps him to understand how to apply it in particular cases.</p>
+<p>This is why the cultivation of the cardinal virtue of <i>prudence</i> is essential. As the <i>Catechism</i> teaches, &#8220;Man strives to interpret the data of experience and the signs of the times assisted by the virtue of prudence, by the advice of competent people, and by the help of the Holy Spirit and his gifts” (¶1788).</p>
+<p><img decoding="async" class="aligncenter wp-image-13195 size-large" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20417'%3E%3C/svg%3E" alt="statue of man thinking" width="1024" height="417" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1024x417.jpg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-300x122.jpg.webp 300w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1536x625.jpg.webp 1536w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206.jpg.webp 1791w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1024x417.jpg.webp" /><noscript><img decoding="async" class="aligncenter wp-image-13195 size-large" src="https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1024x417.jpg.webp" alt="statue of man thinking" width="1024" height="417" srcset="https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1024x417.jpg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-300x122.jpg.webp 300w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206-1536x625.jpg.webp 1536w,https://www.hli.org/wp-content/uploads/2018/07/pondering-e1533057044206.jpg.webp 1791w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<p>&nbsp;</p>
+<h2>Result: A Deformed Belief System</h2>
+<p>The belief that the conscience is a moral authority in its own right has resulted in Catholics supporting and promoting many intrinsic evils, including contraception, sterilization, abortion, homosexual activity, pornography and euthanasia.</p>
+<p>Many organizations vigorously promote this false understanding of the human conscience in order to gain more support from Catholic laity. One of these groups is &#8220;Catholics&#8221; for Choice (CFC), whose mission consists of attempting to convince people that they can be pro-abortion and still be “good Catholics.” In its quarterly magazine, ironically entitled <i>Conscience</i>, CFC attempts to legitimize the obvious paradox that “Church law affirms both the right and the responsibility of a Catholic to follow his or her conscience, <em>even when it conflicts with church teaching</em>”<sup>2</sup> (emphasis added).</p>
+<p>CFC also alleges:</p>
+<blockquote><p>The Catholic Church officially teaches that the conscience of an individual is supreme. If you carefully examine your conscience and then decide that an abortion is the most moral act you can do at this time, you are not committing a sin. Therefore, you are not excommunicated. Nor need you tell it in confession, since, in your case, abortion is not a sin.<sup>3</sup></p></blockquote>
+<p>It is easy to demonstrate that CFC does not really believe this principle itself. For example, would it concede that it was legitimate for someone to “carefully examine their conscience” and then decide that torching an abortion clinic in the middle of the night was “the most moral act they could do at this time?”</p>
+<p>Obviously not.</p>
+<p>This is a fundamental error, and are many examples of how it naturally carries over into other moral issues. Teresa Kelly, a member of Toronto’s Catholic school board, recently said that being part of a gay-straight alliance whose purpose is to disseminate homophile propaganda in the schools is “the embodiment of a perfectly-formed Catholic conscience.” She dismissed her critics, who quoted <em>actual</em> Church teachings on homosexuality, as “archaic.”<sup>4</sup></p>
+<p><img decoding="async" class="aligncenter wp-image-15000 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20700'%3E%3C/svg%3E" alt="catholic confessional" width="1024" height="700" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2018/09/confessional.jpg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/09/confessional-300x205.jpg.webp 300w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.hli.org/wp-content/uploads/2018/09/confessional.jpg.webp" /><noscript><img decoding="async" class="aligncenter wp-image-15000 size-full" src="https://www.hli.org/wp-content/uploads/2018/09/confessional.jpg.webp" alt="catholic confessional" width="1024" height="700" srcset="https://www.hli.org/wp-content/uploads/2018/09/confessional.jpg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/09/confessional-300x205.jpg.webp 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<p>&nbsp;</p>
+<h2>Personal Judgement vs. Objective Standards</h2>
+<p>How does conscience relate to morality?</p>
+<p>In order for a person’s conscience to be conditioned to accept evil, it must first decisively turn away from God’s teachings and decide that it can determine for <em>itself</em> what is right and wrong, ignoring all external and objective standards if necessary in order to reach the desired conclusion.</p>
+<p>This means that dissenters must justify their claims by assuming that there is no fixed morality that is binding on all persons. The only source of morality is the conscience of each individual. One phrase that is coming into common usage among the self-appointed elite is “This is <em>my</em> truth.”</p>
+<p>However, the intrinsic flaw with that understanding is the fact that every human being is naturally attuned to their own subjective view of the world. This subjective view exists in order to promote the highest good of the individual. However, if that view is not held to an objective standard, it is easy for the individual to consider not what is <em>morally</em> good (i.e., virtuous) but rather what is <em>personally</em> good (i.e., convenient).</p>
+<p>This type of thinking leads many to justify actions that no moral law would permit.</p>
+<p><img decoding="async" class="alignnone size-full wp-image-20134" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20768'%3E%3C/svg%3E" alt="natural law gives moral principles to conscience, which then makes decisions" width="1024" height="768" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2021/10/Conscience.png.webp 1024w,https://www.hli.org/wp-content/uploads/2021/10/Conscience-300x225.png.webp 300w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.hli.org/wp-content/uploads/2021/10/Conscience.png.webp" /><noscript><img decoding="async" class="alignnone size-full wp-image-20134" src="https://www.hli.org/wp-content/uploads/2021/10/Conscience.png.webp" alt="natural law gives moral principles to conscience, which then makes decisions" width="1024" height="768" srcset="https://www.hli.org/wp-content/uploads/2021/10/Conscience.png.webp 1024w,https://www.hli.org/wp-content/uploads/2021/10/Conscience-300x225.png.webp 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></p>
+<p>&nbsp;</p>
+<h2>Catholics and Church Teaching</h2>
+<p>It is one thing for a person to say “I disagree with the Church’s teaching on abortion.” It is another thing entirely to say “The Church teaches that abortion is permissible, so long as my conscience allows it.” This statement is false, and can only be uttered by one who is grossly ignorant of <a href="https://www.hli.org/resources/has-the-catholic-church-always-condemned-abortion/">Church teaching</a> or who deliberately lies about such teaching.</p>
+<p>Ignorance is certainly no excuse for committing sin because every Catholic has the duty to know what is evil and what is not, and, further, they should know <em>why</em> certain activities are evil. Secular courts enforce the general rule that “ignorance of the law is no excuse,” and everyone accepts this principle; why should it be any different for the eternal law?</p>
+<p>A person is culpable for the evil he commits when he “takes little trouble to find out what is true and good, or when conscience is by degrees almost blinded through the habit of committing sin.”<sup>5</sup></p>
+<p><img decoding="async" class="aligncenter wp-image-15002 size-Post-width" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20784%20300'%3E%3C/svg%3E" alt="ignorance" width="784" height="300" data-lazy-src="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_181883355-784x300.jpeg.webp" /><noscript><img decoding="async" class="aligncenter wp-image-15002 size-Post-width" src="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_181883355-784x300.jpeg.webp" alt="ignorance" width="784" height="300" /></noscript></p>
+<p>&nbsp;</p>
+<h2>The Formation of the Conscience</h2>
+<p>The conscience is a precious gift and it must be cared for by forming it with prayer and education for the duration of our lives.</p>
+<p>The <i>Catechism</i> states, “The education of conscience is indispensable for human beings who are subjected to negative influences and tempted by sin to prefer their own judgment and to reject authoritative teachings” (¶1783).</p>
+<p>A dead giveaway that a person’s conscience is improperly formed is when he or she says something like “I respect the teachings of the Church, but I follow my own conscience in matters of sexual morality.” Nancy Pelosi gave us a typical example of this deception when she claimed that she was a “practicing and respectful Catholic” but, regarding the Church’s teachings on abortion, “My faith isn’t about what their position is.”<sup>6</sup></p>
+<p>This means that the person’s conscience has become disconnected from the truth. This has several root causes (<i>Catechism</i>, ¶1792):</p>
+<ul>
+<li>“Ignorance of Christ and His Gospel,</li>
+<li>Bad example given by others,</li>
+<li>Enslavement to one’s passions,</li>
+<li>Assertion of a mistaken notion of autonomy of conscience,</li>
+<li>Rejection of the Church’s authority and her teaching,</li>
+<li>Lack of conversion and of charity.&#8221;</li>
+</ul>
+<p>By contrast, a <em>properly‑formed</em> Catholic conscience has been rigorously educated, is fully aware of the intrinsically evil nature of abortion and other evils, and is led by this knowledge to vigorously oppose them.</p>
+<p>Failure to act is not a viable option.</p>
+<p>It is true that Catholics must follow their consciences, but their consciences must be formed by the Word of God, which is authentically interpreted and taught by the Magisterium of the Catholic Church, to which Christ entrusted His authority to teach in His Name. The conscience must be continuously schooled to <em>recognize</em>, not to <em>determine</em>, what is and is not moral activity.</p>
+<p>As the <i>Catechism</i> teaches, “Objective rules of morality express the rational order of good and evil, <em>attested</em> to by conscience.… It is by the judgment of conscience that man <i>perceives</i> and <i>recognizes</i> the prescriptions of the divine law” (¶1751, 1778).</p>
+<p>&nbsp;</p>
+<p><img decoding="async" class="aligncenter wp-image-14998 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%204288%202848'%3E%3C/svg%3E" alt="decision making; conscience" width="4288" height="2848" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451.jpeg.webp 2560w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-300x199.jpeg.webp 300w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-1024x680.jpeg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-1536x1020.jpeg.webp 1536w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-2048x1360.jpeg.webp 2048w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-225x150.jpeg.webp 225w" data-lazy-sizes="(max-width: 4288px) 100vw, 4288px" data-lazy-src="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451.jpeg.webp" /><noscript><img decoding="async" class="aligncenter wp-image-14998 size-full" src="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451.jpeg.webp" alt="decision making; conscience" width="4288" height="2848" srcset="https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451.jpeg.webp 2560w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-300x199.jpeg.webp 300w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-1024x680.jpeg.webp 1024w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-1536x1020.jpeg.webp 1536w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-2048x1360.jpeg.webp 2048w,https://www.hli.org/wp-content/uploads/2018/09/AdobeStock_43000451-225x150.jpeg.webp 225w" sizes="(max-width: 4288px) 100vw, 4288px" /></noscript></p>
+<h2>Conscience and Vatican II</h2>
+<p>Some appeal to an ill‑defined “Spirit of Vatican II” to support their concept of the human conscience. They use vague terms such as “renewal,” “reinvigoration” and “rejuvenation” of the Church, while consciously misrepresenting what the documents of the Council actually say. They often quote the Vatican II document <i><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html" target="_blank" rel="noopener">Dignitatis Humanae</a></i> (“Declaration on Religious Freedom”) in support of their contention that people should be able to do anything their uneducated consciences do not object to.<sup>7</sup></p>
+<p>However, this is obviously not what the Fathers of Vatican II taught. They instead laid out very clearly the multiple dangers inherent in this line of thinking. In <i><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html" target="_blank" rel="noopener">Gaudium et Spes</a></i>, they wrote, “Conscience frequently errs from invincible ignorance without losing its dignity. The same cannot be said for a man who cares but little for truth and goodness, or for a conscience which by degrees grows practically sightless as a result of habitual sin” (¶16‑17). Furthermore, the document notes that “not a few can be found who seem inclined to use the name of freedom as the pretext for refusing to submit to authority and for making light of the duty of obedience.”<sup>8</sup></p>
+<p>The document continues by confirming an essential principle: <em>That the conscience must submit itself to the authority of the Church</em>:</p>
+<blockquote><p>In forming their consciences, the Christian faithful must give careful attention to the sacred and certain teaching of the Church. For the Catholic Church is by the will of Christ the teacher of truth. Her charge is to announce and teach authentically that truth which is Christ, and at the same time with her authority to declare and confirm the principles of the moral order which derive from human nature itself. (¶14)</p></blockquote>
+<p>Conscience does have a very particular and necessary role given by God. As defined in Romans 2:12‑16 and Jeremiah 31:33, God imprints the natural law on the heart and soul of man, and this leads him to know whether or not an act is moral or evil.<sup>9</sup> This means that the “natural law” is man’s instinctual knowledge of what is right and what is wrong ― his “conscience.” However, the conscience must work with the teachings of the Church, never against it.</p>
+<p>&nbsp;</p>
+<h2>Conscientious Objection</h2>
+<p>The Church, as demonstrated in a particularly vivid manner by Her martyrs, has always held that a person’s properly-formed conscience may never be violated. Countless men, women and even children have courageously stated, “You may kill me, but you will never force me to violate my conscience.”</p>
+<p>This principle has more recently been recognized by secular authorities. The United Nations, in both its 1948 <i>Universal Declaration of Human Rights</i> and its 1966 <i>International Covenant on Civil and Political Rights</i>, states that “everyone has the right to freedom of thought, conscience and religion.”</p>
+<p>When society fails to acknowledge conscience as a human right and does not provide protections for individuals to follow their own consciences, grave conflicts inevitably result. Either people will heroically obey their consciences whatever the cost, or they will lose their moral integrity with all the devastating effects that flow from this on society at large.</p>
+<p>There are thousands of incidents on record where conscientious objectors are severely punished, particularly in the health care profession. Many have been fined, dismissed from their jobs, and even in some cases jailed for refusing to participate in such intrinsic evils such as dispensing contraceptives and abortifacients and refusing to participate in such fundamental violations of human dignity as abortion, euthanasia, and so-called “sex-changed” surgeries.</p>
+<p>&nbsp;</p>
+<h2>Conclusion</h2>
+<p>Tragically, many Catholics possess a fatally flawed concept of conscience, denying the need for formation in the truth, and treating mere desire as an absolute. Conscience is indeed a decision-maker, but it must be freely submitted to the law of God, to which it is a witness, not an arbiter.</p>
+<p>The error lies not in affirming the freedom of conscience to decide, but in misinterpreting the <em>nature</em> of such freedom. Freedom of conscience must be at the service of moral truth but can never be its determinant.</p>
+<p>&nbsp;</p>
+<h2>Endnotes:</h2>
+<p>[1] <i>Catechism of the Catholic Church</i>, ¶1776; “Moral Conscience: Catholic Teaching for a Strong Faith&#8221; at <a href="http://beginningcatholic.com/conscience" target="_blank" rel="noopener">http://beginningcatholic.com/conscience</a>.</p>
+<p>[2] Steve Askin. “Challenging the Right.” <i>Conscience</i> [newsletter of &#8220;Catholics&#8221; for Choice], Spring 1994, pages 65 and 66; “Abortion and Catholic Thought: The Little‑Known History.” <i>Conscience</i>, Autumn 1996, pages 2 to 5.</p>
+<p>[3] &#8220;Catholics&#8221; for Choice. “You Are Not Alone: Information for Catholic Women about the Abortion Decision” [Washington, D.C.: CFC], 2000 reprint.</p>
+<p>[4] Patrick B. Craine. “Toronto Catholic Teacher: Joining Gay Club is ‘Embodiment of a Perfectly-Formed Catholic Conscience.&#8217;” <i>LifeSite Daily News</i>, May 27, 2013.</p>
+<p>[5] <i>Catechism of the Catholic Church</i>, ¶1791; Vatican II, <i>Gaudium et Spes</i> [“On the Church in the Modern World”], ¶16.</p>
+<p>[6] John Jalsevac. “Pelosi Laughs Off Priest’s Letter Challenging Abortion Views, Says He Was ‘Acting Hysterically.’” LifeSite Daily News, June 25, 2013.</p>
+<p>[7] As one example, Frances Kissling says, “In its approach to the [abortion] issue, the organization [&#8220;Catholics&#8221; for Choice] relied on the <i>Declaration on Religious Freedom</i>, the Second Vatican Council’s endorsement of the separation of church and state, pluralism, and the primacy of conscience” [Frances Kissling, in “CFFC Notebook: A Mouse that Roars Turns 20.” <i>Conscience</i>, Spring/Summer 1993, page 54].</p>
+<p>[8] <i>Dignitatis Humanae</i>, ¶8. Father John Courtney Murray, S.J., principal author of this document, anticipated this kind of dishonesty. He stated in a footnote to the Abbott‑Gallagher edition of the Council texts:</p>
+<blockquote><p>The <i>Declaration</i> does not base the right to the free exercise of religion on &#8220;freedom of conscience.&#8221; Nowhere does this phrase occur. And the <i>Declaration</i> nowhere lends its authority to the theory for which the phrase frequently stands, namely, that I have the right to do what my conscience tells me to do, simply because my conscience tells me to do it. This is a perilous theory. Its particular peril is subjectivism ― the notion that, in the end, it is my conscience, and not the objective truth, which determines what is right and wrong, true or false.</p></blockquote>
+<p>Father John Courtney Murray, S.J., principal author of Vatican II’s <i>Declaration on Religious Freedom</i>, quoted in Russell Shaw. “Answers.” <i>National Catholic Register</i>, September 13, 1992, page 4.</p>
+<p>[9] The Bible contains many references to the human conscience. It describes the fate of someone who does not guard or “keep” his conscience (Hebrews 9:14 and 1 Peter 3:16), and who allows his conscience to become “seared” (1 Timothy 4:2). The Bible also speaks of a “weak conscience” (1 Corinthians 8:7), a “wounded conscience” (1 Corinthians 8:12), a “good” and “perfect” conscience (Hebrews 9:9 and 13:18; 1 Peter 3:21; and 1 Timothy 1:5,19); a “clear” or blameless conscience (Acts 24:16 and 1 Timothy 3:9), and a conscience that is “evil” or defiled (Titus 1:15).</p>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-qh5rkpxueyjn" data-node="qh5rkpxueyjn">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><div class="scriptlesssocialsharing"><div class="scriptlesssocialsharing__buttons"><a class="button facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F" rel="noopener noreferrer nofollow" ><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="scriptlesssocialsharing__icon facebook" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+<span class="screen-reader-text">Share on Facebook</span></a><a class="button twitter" target="_blank" href="https://twitter.com/intent/tweet?text=What%20is%20the%20Role%20of%20Conscience%20in%20Moral%20Decision-Making%3F&#038;url=https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F&#038;via=HumanLifeIntnl&#038;related=HumanLifeIntnl" rel="noopener noreferrer nofollow" ><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="scriptlesssocialsharing__icon twitter" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+<span class="screen-reader-text">Share on X (Twitter)</span></a><a class="button email" href="mailto:?body=I%20saw%20this%20from%20Human%20Life%20International%20and%20wanted%20to%20share%20it%20with%20you%3A%20https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F&#038;subject=Worth%20sharing%3A%20What%20is%20the%20Role%20of%20Conscience%20in%20Moral%20Decision-Making%3F" rel="noopener noreferrer nofollow" ><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="scriptlesssocialsharing__icon email" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>
+<span class="screen-reader-text">Share on Email</span></a><a class="button sms" target="_blank" href="sms:?&amp;body=What%20is%20the%20Role%20of%20Conscience%20in%20Moral%20Decision-Making%3F%20https%3A%2F%2Fwww.hli.org%2Fresources%2Fwhat-is-the-role-of-conscience-in-moral-decision-making%2F" rel="noopener noreferrer nofollow" ><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" class="scriptlesssocialsharing__icon sms" fill="currentcolor" height="1em" width="1em" aria-hidden="true" focusable="false" role="img"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7 1.3 3 4.1 4.8 7.3 4.8 66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32zM128.2 304H116c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h12.3c6 0 10.4-3.5 10.4-6.6 0-1.3-.8-2.7-2.1-3.8l-21.9-18.8c-8.5-7.2-13.3-17.5-13.3-28.1 0-21.3 19-38.6 42.4-38.6H156c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8h-12.3c-6 0-10.4 3.5-10.4 6.6 0 1.3.8 2.7 2.1 3.8l21.9 18.8c8.5 7.2 13.3 17.5 13.3 28.1.1 21.3-19 38.6-42.4 38.6zm191.8-8c0 4.4-3.6 8-8 8h-16c-4.4 0-8-3.6-8-8v-68.2l-24.8 55.8c-2.9 5.9-11.4 5.9-14.3 0L224 227.8V296c0 4.4-3.6 8-8 8h-16c-4.4 0-8-3.6-8-8V192c0-8.8 7.2-16 16-16h16c6.1 0 11.6 3.4 14.3 8.8l17.7 35.4 17.7-35.4c2.7-5.4 8.3-8.8 14.3-8.8h16c8.8 0 16 7.2 16 16v104zm48.3 8H356c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h12.3c6 0 10.4-3.5 10.4-6.6 0-1.3-.8-2.7-2.1-3.8l-21.9-18.8c-8.5-7.2-13.3-17.5-13.3-28.1 0-21.3 19-38.6 42.4-38.6H396c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8h-12.3c-6 0-10.4 3.5-10.4 6.6 0 1.3.8 2.7 2.1 3.8l21.9 18.8c8.5 7.2 13.3 17.5 13.3 28.1.1 21.3-18.9 38.6-42.3 38.6z"></path></svg>
+<span class="screen-reader-text">Share on SMS</span></a></div></div></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-gd6qhcb0ifl1 fl-col-small" data-node="gd6qhcb0ifl1">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-spv25du0i8a1" data-node="spv25du0i8a1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-jpg">
+				<a href="https://www.hli.org/offers/cosmetics-e-book/" target="_self" itemprop="url">
+				<img fetchpriority="high" decoding="async" class="fl-photo-img wp-image-22848 size-full" src="https://www.hli.org/wp-content/uploads/2021/09/Cosmetics-e-book-ad-300-x-250.jpg.webp" alt="Cosmetics-e-book-ad-300-x-250" itemprop="image" height="250" width="300" title="Cosmetics-e-book-ad-300-x-250"  />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-8ey1dhsutgl2" data-node="8ey1dhsutgl2">
+			<div class="fl-col fl-node-uthk0429dgvw" data-node="uthk0429dgvw">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-ywsi94n0vrmq" data-node="ywsi94n0vrmq">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Did you find this useful?</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-0nuw4gfto52m" data-node="0nuw4gfto52m">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<script type="rocketlazyloadscript" data-rocket-src="https://cdn.virtuoussoftware.com/virtuous.embed.min.js" data-vform="541C43D2-3091-4ABA-A70A-630F410EE61C" data-orgid="1432" data-isgiving="false" data-dependencies="[]" defer>
+</script></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-053ly1d6nfvs" data-node="053ly1d6nfvs">
+			<div class="fl-col fl-node-xtadb1siyeh8" data-node="xtadb1siyeh8">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-y7qucljfgz9b" data-node="y7qucljfgz9b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><div class="molongui-clearfix"></div><div id="mab-9329020666" class="m-a-box " data-is-shortcode="yes" data-box-layout="slim" data-box-position="below" data-multiauthor="false" data-author-id="954" data-author-type="user" data-author-archived=""><div class="m-a-box-container"><div class="m-a-box-tab m-a-box-content m-a-box-profile" data-profile-layout="layout-1" data-author-ref="user-954" itemscope itemid="https://www.hli.org/author/bclowes/" itemtype="https://schema.org/Person"><div class="m-a-box-content-top"></div><div class="m-a-box-content-middle"><div class="m-a-box-item m-a-box-avatar" data-source="local"><a class="m-a-box-avatar-url" href="https://www.hli.org/author/bclowes/"><img width="125" height="125" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" class="attachment-125x125 size-125x125" alt="Brian Clowes, PhD" itemprop="image" decoding="async" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-125x125.jpg 125w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-75x75.jpg 75w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-70x70.jpg 70w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882.jpg 150w" data-lazy-sizes="(max-width: 125px) 100vw, 125px" data-lazy-src="https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-125x125.jpg"/><noscript><img width="125" height="125" src="https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-125x125.jpg" class="attachment-125x125 size-125x125" alt="Brian Clowes, PhD" itemprop="image" decoding="async" srcset="https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-125x125.jpg 125w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-75x75.jpg 75w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882-70x70.jpg 70w, https://www.hli.org/wp-content/uploads/2012/12/brian-e1683042428882.jpg 150w" sizes="(max-width: 125px) 100vw, 125px"/></noscript></a></div><div class="m-a-box-item m-a-box-data"><div class="m-a-box-name m-a-box-title"><h3 itemprop="name"><a class="m-a-box-name-url " href="https://www.hli.org/author/bclowes/" itemprop="url"> Brian Clowes, PhD</a></h3></div><div class="m-a-box-bio" itemprop="description"><p>Dr. Brian Clowes has been HLI’s director of research since 1995 and is one of the most accomplished and respected intellectuals in the international pro-life movement. Best known as author of the most exhaustive pro-life informational resource volume <em>The Facts of Life</em>, and for his <em>Pro-Life Basic Training Course</em>, Brian is the author of nine books and over 500 scholarly and popular articles, and has traveled to 70 countries on six continents as a pro-life speaker, educator and trainer.</p></div></div></div><div class="m-a-box-content-bottom"></div></div></div></div><style id="molongui-author-box-shortcode-inline-css" type="text/css">#mab-9329020666.m-a-box{width:100%;margin-top:20px!important;margin-right:!important;margin-bottom:20px!important;margin-left:!important}#mab-9329020666 .m-a-box-header{margin-bottom:20px}#mab-9329020666 .m-a-box-header>:first-child,#mab-9329020666 .m-a-box-header a.m-a-box-header-url{font-size:px;line-height:px}#mab-9329020666 .m-a-box-container{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;border-style:none;border-top-width:1px;border-right-width:0;border-bottom-width:1px;border-left-width:0;border-color:#e8e8e8;background-color:#0E416B1F;box-shadow:0 0 0 0 transparent}#mab-9329020666 .m-a-box-avatar img,#mab-9329020666 .m-a-box-avatar div[data-avatar-type=acronym]{border-style:none;border-width:2px;border-color:#0E416B;border-radius:100%}#mab-9329020666 .m-a-box-name *{font-size:22px;line-height:px;text-transform:uppercase;text-align:left;color:#0E416B!important}#mab-9329020666 .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-name *{text-align:left}#mab-9329020666 .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-meta{text-align:right}#mab-9329020666 .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-meta *{font-size:14px;line-height:px;font-style:italic}#mab-9329020666 .m-a-box-meta-divider{padding:0 .2em}#mab-9329020666 .m-a-box-bio>*{font-size:16px;line-height:px}#mab-9329020666 .m-icon-container{background-color:inherit;border-color:inherit;color:#999999!important;font-size:20px}#mab-9329020666 .m-a-box-related-entry-title,#mab-9329020666 .m-a-box-related-entry-title a{font-size:14px}.m-a-box-name:hover{text-decoration:underline}</style></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-ruzqbos5cl09" data-node="ruzqbos5cl09">
+			<div class="fl-col fl-node-kqdit64l7ey0" data-node="kqdit64l7ey0">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-fl-comments fl-node-p8ywuvljnf9z" data-node="p8ywuvljnf9z">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-comments">
+
+	
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/resources/what-is-the-role-of-conscience-in-moral-decision-making/#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://www.hli.org/wp-comments-post.php?wpe-comment-post=humanlifeinter" method="post" id="fl-comment-form" class="fl-comment-form"><label for="fl-comment">Comment</label><textarea id="fl-comment" name="comment" class="form-control" cols="60" rows="8"></textarea><br /><label for="fl-author">Name (required)</label>
+									<input type="text" id="fl-author" name="author" class="form-control" value="" aria-required="true" /><br />
+<label for="fl-email">Email (will not be published) (required)</label>
+									<input type="text" id="fl-email" name="email" class="form-control" value="" aria-required="true" /><br />
+<p class="form-submit"><input name="submit" type="submit" id="fl-comment-form-submit" class="btn btn-primary" value="Submit Comment" /> <input type='hidden' name='comment_post_ID' value='13194' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1573f0d7e4" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="57"/><script type="rocketlazyloadscript">document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+		</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div>
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-18821 fl-builder-global-templates-locked" data-post-id="18821" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-608a996107df6 fl-row-default-height fl-row-align-center hli-custom-footer" data-node="608a996107df6">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-unqxyz32wdtk fl-col-group-custom-width" data-node="unqxyz32wdtk">
+			<div class="fl-col fl-node-fok1ah8ywvus fl-col-small fl-col-small-custom-width" data-node="fok1ah8ywvus">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-m4kjs5duvonq" data-node="m4kjs5duvonq">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-left" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-22179 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201915%20482'%3E%3C/svg%3E" alt="human-life-international-white-logo" itemprop="image" height="482" width="1915" title="human-life-international-white-logo" data-lazy-srcset="https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942.png 1915w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-300x76.png 300w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-1024x258.png 1024w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-1536x387.png 1536w" data-lazy-sizes="(max-width: 1915px) 100vw, 1915px" data-lazy-src="https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942.png" /><noscript><img decoding="async" class="fl-photo-img wp-image-22179 size-full" src="https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942.png" alt="human-life-international-white-logo" itemprop="image" height="482" width="1915" title="human-life-international-white-logo" srcset="https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942.png 1915w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-300x76.png 300w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-1024x258.png 1024w, https://www.hli.org/wp-content/uploads/2021/04/human-life-international-white-logo-e1678314977942-1536x387.png 1536w" sizes="(max-width: 1915px) 100vw, 1915px" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-g9574eabmqol" data-node="g9574eabmqol">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="font-weight: 400;">Human Life International is a Catholic, pro-life non-profit. Through us, pro-lifers like you sponsor life-saving missions in over 100 countries. We also work hard to make sure you have the truth about life and family issues at your fingertips.</p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon-group fl-node-298dx0z5ay16" data-node="298dx0z5ay16">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-group">
+	<span class="fl-icon">
+								<a href="https://www.facebook.com/HumanLifeInternational" target="_blank" rel="noopener" >
+							<i class="fab fa-facebook-f" aria-hidden="true"></i>
+				<span class="sr-only">Facebook</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.youtube.com/@HumanLifeInternational" target="_blank" rel="noopener" >
+							<i class="fab fa-youtube" aria-hidden="true"></i>
+				<span class="sr-only">YouTube</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://open.spotify.com/show/48H0alN1Pm9xQt1O3Lfm7z?si=4b5469ec113e4dae" target="_blank" rel="noopener" >
+							<i class="fab fa-spotify" aria-hidden="true"></i>
+				<span class="sr-only">Spotify</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://podcasts.apple.com/us/podcast/living-a-culture-of-life/id1615575859" target="_blank" rel="noopener" >
+							<i class="podcasts-applepodcasts" aria-hidden="true"></i>
+				<span class="sr-only">Apple Podcasts</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.instagram.com/humanlifeintnl/" target="_blank" rel="noopener" >
+							<i class="fab fa-instagram" aria-hidden="true"></i>
+				<span class="sr-only">Instagram</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://x.com/HumanLifeIntnl" target="_self">
+							<i class="fab fa-twitter-square" aria-hidden="true"></i>
+						</a>
+			</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-an2f5grm1c8h fl-col-small fl-col-small-custom-width" data-node="an2f5grm1c8h">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-u1pkh3yiw9v0" data-node="u1pkh3yiw9v0">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Quick Links</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-60df91c2cf645" data-node="60df91c2cf645">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><a href="https://www.hli.org/about-us/leadership/">Leadership</a><br />
+<a href="https://www.hli.org/about-us/offices/">Offices</a><br />
+<a href="https://www.hli.org/about-us/our-lady-of-guadalupe-patroness-of-the-unborn/">Patroness</a><br />
+<a href="https://hlistore.org/">Store</a><br />
+<a href="https://www.hli.org/st-michael/">St. Michael Campaign</a><br />
+<a href="https://www.hli.org/ways-to-give/">Ways to Give</a><br />
+<a href="https://www.hli.org/about-us/annual-report-2022/">Annual Report</a><br />
+<a href="https://www.hli.org/mission-reports/">Mission Reports</a><br />
+<a href="https://www.hli.org/media/">Media</a><br />
+<a href="https://www.hli.org/donor-privacy/">Privacy Policy</a><br />
+<a href="https://www.hli.org/whistleblower-policy/">Whistleblower Policy</a></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-608a9aeaa4873" data-node="608a9aeaa4873">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-ikwpnfa73tbo fl-col-small fl-col-small-custom-width" data-node="ikwpnfa73tbo">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-8ksawnx2rofh" data-node="8ksawnx2rofh">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Ebooks</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-q18nf7pc4jk2" data-node="q18nf7pc4jk2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><a href="https://www.hli.org/offers/planned-parenthood/">Planned Parenthood Under the Surface: What You Know is Just the Tip of the Iceberg</a></p>
+<p><a href="https://www.hli.org/offers/cosmetics-e-book/">Which Cosmetics Use Fetal Cells?</a></p>
+<p><a href="https://www.hli.org/offers/discover-why-contraception-always-leads-to-abortion/">How Contraception Built the Abortion Culture</a></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-fhj5rtsvqcy6" data-node="fhj5rtsvqcy6">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-yfiwcr8lv0u9 fl-col-small fl-col-small-custom-width" data-node="yfiwcr8lv0u9">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-6zbvum5qxrdn" data-node="6zbvum5qxrdn">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Contact</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-tj7ewacpvo5f" data-node="tj7ewacpvo5f">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><a href="https://www.hli.org/about-us/contact/">Contact Form</a></p>
+<p><a href="mailto:hli@hli.org">hli@hli.org</a></p>
+<p><a href="tel:+18005495433">1-800-549-5433</a></p>
+<p>4 Family Life Lane,<br />
+Front Royal, VA 22630</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-9z5162sqa0k7 fl-row-default-height fl-row-align-center" data-node="9z5162sqa0k7">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-xwqh80tvez54" data-node="xwqh80tvez54">
+			<div class="fl-col fl-node-jlyfx7es8w5i" data-node="jlyfx7es8w5i">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-608a9b2c67f32" data-node="608a9b2c67f32">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>© 2024 Human Life International</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer>	</div><!-- .fl-page -->
+<link data-minify="1" rel='stylesheet' id='molongui-authorship-box-css' href='https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/molongui-authorship-pro/assets/css/author-box.e40d.min.css?ver=1733938981' media='all' />
+<style id='molongui-authorship-box-inline-css'>
+:root{ --m-a-box-bp: 600px; --m-a-box-bp-l: 599px; }.m-a-box-container[min-width~="600px"] .m-a-box-content .m-a-box-content-top,
+                   .m-a-box-container[min-width~="600px"] .m-a-box-content .m-a-box-content-middle,
+                   .m-a-box-container[min-width~="600px"] .m-a-box-content .m-a-box-content-bottom { flex-direction: row; flex-wrap: nowrap; }
+                  .m-a-box-container[max-width~="599px"] .m-a-box-name > :first-child { text-align: center !important; }
+                   .m-a-box-container[max-width~="599px"] .m-a-box-meta { text-align: center !important; }
+                  .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-data { flex: 1 0; margin-top: 0; }
+                   .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-name * { text-align: left; }
+                   .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-meta { text-align: right; }
+                  .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-avatar { flex: 0 0 auto; align-self: center; padding: 0 20px 0 0; min-width: auto; }
+                       .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-social { display: flex; flex-direction: column; margin-top: 0; padding: 0 20px 0 0; }
+                      .m-a-box-container[min-width~="600px"] .m-a-box-content .m-a-box-social .m-a-box-social-icon { margin: 0.4em 0; }.m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-2].m-a-box-profile .m-a-box-content-middle { flex-direction: row-reverse; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-2].m-a-box-profile .m-a-box-avatar { padding: 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-2].m-a-box-profile .m-a-box-data { padding: 0 20 0 0; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-3].m-a-box-profile .m-a-box-avatar { order: 2; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-3].m-a-box-profile .m-a-box-social { order: 1; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-3].m-a-box-profile .m-a-box-data   { order: 3; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-4].m-a-box-profile .m-a-box-avatar { order: 2; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-4].m-a-box-profile .m-a-box-social { order: 3; padding: 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-4].m-a-box-profile .m-a-box-data   { order: 1; padding: 0 20 0 0; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-5].m-a-box-profile .m-a-box-avatar { order: 1; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-5].m-a-box-profile .m-a-box-social { order: 3; padding: 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-5].m-a-box-profile .m-a-box-data   { order: 2; padding: 0 20 0 0; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-6].m-a-box-profile .m-a-box-avatar { order: 3; padding: 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-6].m-a-box-profile .m-a-box-social { order: 1; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-6].m-a-box-profile .m-a-box-data   { order: 2; padding: 0 20 0 0; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-7].m-a-box-profile .m-a-box-content-middle { flex-direction: row; flex-wrap: wrap; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-7].m-a-box-profile .m-a-box-data { flex: 1 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-7].m-a-box-profile .m-a-box-social { flex-direction: row; align-self: start; margin: 10px 0; padding: 0 20; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-content-middle { flex-direction: row; flex-wrap: wrap; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-data { flex: 1 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-social { flex-direction: row; align-self: start; margin: 10px 0; padding: 0 20; }
+    .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-content-middle { flex-direction: row-reverse; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-avatar { padding: 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-data { padding: 0 20 0 0; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-social { align-self: end; }
+               .m-a-box-container[min-width~="600"] .m-a-box-content[data-profile-layout=layout-8].m-a-box-profile .m-a-box-social .m-a-box-social-icon:last-child { margin-right: 0; }
+    .m-a-box {width:100%;margin-top:20px !important;margin-right: !important;margin-bottom:20px !important;margin-left: !important;} .m-a-box-header {margin-bottom:20px;} .m-a-box-header > :first-child,  .m-a-box-header a.m-a-box-header-url {font-size:px;line-height:px;} .m-a-box-container {padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;border-style:none;border-top-width:1px;border-right-width:0;border-bottom-width:1px;border-left-width:0;border-color:#e8e8e8;background-color:#0E416B1F;box-shadow:0 0 0 0 transparent ;} .m-a-box-avatar img,  .m-a-box-avatar div[data-avatar-type="acronym"] {border-style:none;border-width:2px;border-color:#0E416B;border-radius:100%;} .m-a-box-name *  {font-size:22px;line-height:px;text-transform:uppercase;text-align:left;color:#0E416B !important;} .m-a-box-container[min-width~="600px"] .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-name * {text-align:left;} .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-meta {text-align:right;} .m-a-box-content.m-a-box-profile .m-a-box-data .m-a-box-meta * {font-size:14px;line-height:px;font-style:italic;} .m-a-box-meta-divider {padding:0 0.2em;} .m-a-box-bio > * {font-size:16px;line-height:px;} .m-icon-container {background-color: inherit; border-color: inherit; color: #999999 !important;font-size:20px;} .m-a-box-related-entry-title,  .m-a-box-related-entry-title a {font-size:14px;}.m-a-box-name:hover {text-decoration: underline;}
+</style>
+<script id="site_tracking-js-extra">
+var php_data = {"ac_settings":{"tracking_actid":92526214,"site_tracking_default":1},"user_email":""};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=1733938981" id="site_tracking-js" defer></script>
+<script id="ppress-frontend-script-js-extra">
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.hli.org\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"2d3e959488","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.15.11" id="ppress-frontend-script-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/bb-plugin/js/jquery.imagesloaded.min.js?ver=2.8.3.3" id="imagesloaded-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.8.3.3" id="jquery-throttle-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2" id="jquery-fitvids-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.hli.org/wp-content/cache/min/1/wp-content/uploads/bb-plugin/cache/21130f29b340a744757280e57421b3e9-layout-bundle.js?ver=1733939317" id="fl-builder-layout-bundle-21130f29b340a744757280e57421b3e9-js" defer></script>
+<script id="molongui-authorship-byline-js-extra">
+var molongui_authorship_byline_params = {"byline_prefix":"","byline_suffix":"","byline_separator":"; ","byline_last_separator":" and ","byline_link_title":"View all posts by","byline_link_class":"","byline_dom_tree":"","byline_dom_prepend":"","byline_dom_append":"","byline_decoder":"v3"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/molongui-authorship/assets/js/byline.334a.min.js?ver=4.9.5" id="molongui-authorship-byline-js" defer></script>
+<script type="rocketlazyloadscript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/offers\/sign-up-now-for-updates\/|\/thank-you-fb2023\/|\/offers\/conference-signup\/|\/giving\/thank-you-fb\/|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.hli.org","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script type="rocketlazyloadscript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.8.3.3" id="jquery-magnificpopup-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-includes/js/comment-reply.min.js?ver=6.6.1" id="comment-reply-js" async data-wp-strategy="async"></script>
+<script id="fl-automator-js-extra">
+var themeopts = {"medium_breakpoint":"768","mobile_breakpoint":"500","scrollTopPosition":"800"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.hli.org/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.15.3" id="fl-automator-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" defer data-rocket-src="https://www.hli.org/wp-content/cache/min/1/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1733938981" id="akismet-frontend-js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.hli.org/wp-content/cache/min/1/npm/css-element-queries@1.2.2/src/ResizeSensor.min.js?ver=1733938981" id="molongui-resizesensor-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.hli.org/wp-content/cache/min/1/npm/css-element-queries@1.2.2/src/ElementQueries.min.js?ver=1733938981" id="molongui-elementqueries-js" defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.hli.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt,l){var t='<img data-lazy-src="https://i.ytimg.com/vi_webp/ID/hqdefault.webp" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi_webp/ID/hqdefault.webp" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';if(l){t=t.replace('data-lazy-','');t=t.replace('loading="lazy"','');t=t.replace(/<noscript>.*?<\/noscript>/g,'');}t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?"":"&"+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow","accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var exclusions=[];var e,t,p,u,l,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)(e=document.createElement("div")),(u='https://i.ytimg.com/vi_webp/ID/hqdefault.webp'),(u=u.replace('ID',a[t].dataset.id)),(l=exclusions.some(exclusion=>u.includes(exclusion))),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query",a[t].dataset.query),e.setAttribute("data-src",a[t].dataset.src),(e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt,l)),a[t].appendChild(e),(p=e.querySelector(".play")),(p.onclick=lazyLoadYoutubeIframe)});</script>
+</body>
+
+
+<script type="rocketlazyloadscript">
+    (function (config) { var s = document.createElement('script'); s.src = 'https://cdn.virtuoussoftware.com/tracker/virtuous.tracker.shim.min.js';
+    s.type = 'text/javascript'; s.onload = function () { virtuousTrackerShim.init(config); };
+    document.getElementsByTagName('script')[0].parentNode.appendChild(s);
+    }({
+        organizationId: '5724b055-3562-484f-b6ee-23978871418c'
+    }));
+</script>
+
+
+
+
+
+</html>
+<!-- Rocket has webp -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

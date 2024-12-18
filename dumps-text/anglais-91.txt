@@ -1,0 +1,222 @@
+   [tr?id=273693587454404&amp;ev=PageView &amp;noscript=1]
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5L4DWF4
+
+   Menu
+   Institutional Login
+     * Institutional Login
+
+   search ____________________
+   (Reset) reset
+   (BUTTON) Search
+   Advanced Search
+
+     * Home
+     * About
+          + About REP
+          + Reviews
+          + A Message from the Consulting Editor
+          + Background
+          + Editorial Board
+          + Current Subject Editors
+          + Past Subject Editors
+          + Contributors
+          + About Taylor and Francis
+          + FAQs
+     * Browse
+          + All
+          + Overviews
+          + Topics
+          + Periods
+          + Regions
+          + Religions
+     * What's new
+     * Librarians
+     * Free trial
+     * Help
+     * Tell us what you think
+     * Resources
+     * Teaching and Learning Resources
+
+   (BUTTON) Back to top
+
+   Access to the full content is only available to members of institutions
+   that have purchased access. If you belong to such an institution,
+   please log in or find out more about how to order.
+     __________________________________________________________________
+
+   Share
+   (BUTTON) Cite
+   Cite
+   (BUTTON) close
+
+   Loading content
+
+   We were unable to load the content
+   Print
+
+Contents
+
+     * Article Summary
+     * content locked
+       1
+       Pre-Cartesian uses of ‘consciousness’
+     * content locked
+       2
+       Post-Cartesian uses of ‘consciousness’
+     * content locked
+       3
+       Subjectivity and the phenomenal
+     * content locked
+       4
+       Dualism and the phenomenal
+     * content locked
+       5
+       Eliminativism and the phenomenal
+     * content locked
+       6
+       Introspection and the phenomenal
+     * content locked
+       7
+       Completeness of introspection
+     * content locked
+       8
+       Reliability of introspection
+     * content locked
+       9
+       Introspection as inner perception
+     * content locked
+       10
+       Alternatives to inner perception
+     * content locked
+       Bibliography
+
+   Thematic
+
+Consciousness
+
+     * By
+     * Lormand, Eric
+
+   DOI
+   10.4324/9780415249126-W011-1
+   DOI: 10.4324/9780415249126-W011-1
+   Version: v1,  Published online: 1998
+   Retrieved December 18, 2024, from
+   https://www.rep.routledge.com/articles/thematic/consciousness/v-1
+     __________________________________________________________________
+
+Article Summary
+
+   Philosophers have used the term ‘consciousness’ for four main topics:
+   knowledge in general, intentionality, introspection (and the knowledge
+   it specifically generates) and phenomenal experience. This entry
+   discusses the last two uses. Something within one’s mind is
+   ‘introspectively conscious’ just in case one introspects it (or is
+   poised to do so). Introspection is often thought to deliver one’s
+   primary knowledge of one’s mental life. An experience or other mental
+   entity is ‘phenomenally conscious’ just in case there is ‘something it
+   is like’ for one to have it. The clearest examples are: perceptual
+   experiences, such as tastings and seeings; bodily-sensational
+   experiences, such as those of pains, tickles and itches; imaginative
+   experiences, such as those of one’s own actions or perceptions; and
+   streams of thought, as in the experience of thinking ‘in words’ or ‘in
+   images’. Introspection and phenomenality seem independent, or
+   dissociable, although this is controversial.
+
+   Phenomenally conscious experiences have been argued to be nonphysical,
+   or at least inexplicable in the manner of other physical entities.
+   Several such arguments allege that phenomenal experience is
+   ‘subjective’; that understanding some experiences requires undergoing
+   them (or their components). The claim is that any objective physical
+   science would leave an ‘explanatory gap’, failing to describe what it
+   is like to have a particular experience and failing to explain why
+   there are phenomenal experiences at all. From this, some philosophers
+   infer ‘dualism’ rather than ‘physicalism’ about consciousness,
+   concluding that some facts about consciousness are not wholly
+   constituted by physical facts. This dualist conclusion threatens claims
+   that phenomenal consciousness has causal power, and that it is knowable
+   in others and in oneself.
+
+   In reaction, surprisingly much can be said in favour of ‘eliminativism’
+   about phenomenal consciousness; the denial of any realm of phenomenal
+   objects and properties of experience. Most (but not all) philosophers
+   deny that there are phenomenal objects – mental images with colour and
+   shape, pain-objects that throb or burn, inner speech with pitch and
+   rhythm, and so on. Instead, experiences may simply seem to involve such
+   objects. The central disagreement concerns whether these experiences
+   have phenomenal properties – ‘qualia’; particular aspects of what
+   experiences are like for their bearers. Some philosophers deny that
+   there are phenomenal properties – especially if these are thought to be
+   intrinsic, completely and immediately introspectible, ineffable,
+   subjective or otherwise potentially difficult to explain on physicalist
+   theories. More commonly, philosophers acknowledge qualia of
+   experiences, either articulating less bold conceptions of qualia, or
+   defending dualism about boldly conceived qualia.
+
+   Introspective consciousness has seemed less puzzling than phenomenal
+   consciousness. Most thinkers agree that introspection is far from
+   complete about the mind and far from infallible. Perhaps the most
+   familiar account of introspection is that, in addition to ‘outwardly
+   perceiving’ non-mental entities in one’s environment and body, one
+   ‘inwardly perceives’ one’s mental entities, as when one seems to see
+   visual images with one’s ‘mind’s eye’. This view faces several serious
+   objections. Rival views of introspective consciousness fall into three
+   categories, according to whether they treat introspective access (1) as
+   epistemically looser or less direct than inner perception, (2) as
+   tighter or more direct, or (3) as fundamentally non-epistemic or
+   nonrepresentational. Theories in category (1) explain introspection as
+   always retrospective, or as typically based on self-directed
+   theoretical inferences. Rivals from category (2) maintain that an
+   introspectively conscious mental state reflexively represents itself,
+   or treat introspection as involving no mechanism of access at all.
+   Category (3) theories treat a mental state as introspectively conscious
+   if it is distinctively available for linguistic or rational processing,
+   even if it is not itself perceived or otherwise thought about.
+   Share
+   (BUTTON) Cite
+   Cite
+   (BUTTON) close
+
+   Loading content
+
+   We were unable to load the content
+   Print
+   Citing this article:
+   Lormand, Eric. Consciousness, 1998, doi:10.4324/9780415249126-W011-1.
+   Routledge Encyclopedia of Philosophy, Taylor and Francis,
+   https://www.rep.routledge.com/articles/thematic/consciousness/v-1.
+   Copyright © 1998-2024 Routledge.
+
+Related Articles
+
+     * Awareness in Indian thought By Phillips, Stephen H.
+     * Colour and qualia By Levine, Joseph
+     * Consciousness, phenomenology of By Jacobs, Hanne
+     * Dualism By Rosenthal, David M.
+     * Materialism in the philosophy of mind By Robinson, Howard
+     * Mind, Indian philosophy of By Laine, Joy
+     * Nirvāṇa By Cousins, L.S.
+     * Phenomenological movement By Embree, Lester
+     * Qualia By Levin, Janet
+     * Reductionism in the philosophy of mind By Sterelny, Kim
+     * Split brains By Schechter, Elizabeth
+     * Turing, Alan Mathison (1912–54) By Moor, James H.
+     * Supervenience of the mental By Loewer, Barry
+     __________________________________________________________________
+
+     * facebook
+     * twitter
+
+     * About Routledge
+     * Contact us
+     * How to Buy
+     * Librarians
+
+     * Help
+     * Privacy Policy
+     * Cookie Policy
+     * Terms
+
+   © 2024 Informa UK Limited, an Informa Group Company
+   Site Title
