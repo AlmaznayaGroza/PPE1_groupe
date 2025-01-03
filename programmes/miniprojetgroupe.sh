@@ -47,7 +47,7 @@ echo "<!DOCTYPE html>
 									<th>Aspiration</th>
 									<th>Dump</th>
 									<th>Occurences de 'Conscience' (sens moral)</th>
-									<th>Occurences de 'Conscience' (sens physiologique/mental))</th>
+									<th>Occurences de 'Conscience' (sens physiologique/mental)</th>
 								</tr>
 							</thead>
                     		<tbody>"
