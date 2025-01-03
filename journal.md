@@ -23,3 +23,7 @@ Les termes-cibles en russe seront donc **сознание** et **совесть*
 Problèmes avec:
 * une des pages Web, qui contient un PDF (pas d'encodage reconnu -> pas de cyrillique);
 * ainsi qu'avec une autre, qui utilise JavaScript (ce qui a l'air de poser des problèmes à lynx et curl...).
+
+## (Maïwenn) 03/01 - Contextes
+
+J'ai ajouté un script à part pour récupérer les contextes pour chaque occurence (2 lignes avant et après) et cela pour les 2 acceptions de mon mot. J'ai modifié le script principal pour qu'il appelle ce script et ainsi pouvoir récupérer les contextes pour chaque fichier et en ajouter le lien vers le fichier txt correspondant dans le tableau. J'ai donc ajouté aussi le dossier contextes.
