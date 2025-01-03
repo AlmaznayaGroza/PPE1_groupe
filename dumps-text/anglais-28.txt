@@ -153,6 +153,7 @@ My Latest Book
 
 Recent Posts
 
+     * Types of Conscience
      * Christmas in the Early Church
      * Understanding Legalism
      * What to Do with Truth
@@ -162,15 +163,14 @@ Recent Posts
      * Sowing and Reaping
      * Taking Meals Together
      * Revisiting Bible Authority
-     * Judged by the Law of Liberty
 
 Recently Added:
 
+     * Types of Conscience
      * Christmas in the Early Church
      * Understanding Legalism
      * What to Do with Truth
      * Contentment: What It Is and Is Not
-     * Willing to Forgive
 
    Scripture quotations taken from the NASB.
 
@@ -199,5 +199,5 @@ Archives
 
    Return to top of page
 
-   Copyright © 2024 · Balance Child Theme on Genesis Framework · WordPress
+   Copyright © 2025 · Balance Child Theme on Genesis Framework · WordPress
    · Log in

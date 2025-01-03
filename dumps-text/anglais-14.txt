@@ -13,6 +13,7 @@
                o Advent Communal Penance Services
                o Christmas Mass Schedules
                o Good Friday Meditations
+               o New Years Mass Schedule
           + Historical Timeline
      * About the Catholic Church
           + About the Church
@@ -177,7 +178,8 @@
             Catholic
                o Abortion
                o Anointing and Last Rites
-               o Baptism
+               o Baptism -- How do I get my child baptized?
+               o Baptism - Why do Catholics baptize infants and children
                o Becoming Catholic
                     # More Information About Joining the Catholic Church
                o Bible -- What do Catholics believe about the Bible?

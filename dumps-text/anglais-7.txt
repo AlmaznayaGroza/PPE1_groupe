@@ -1,6 +1,8 @@
-   #Privat psykolog Oslo sentrum - Psykologvirke » Feed Privat psykolog
+    #Privat psykolog Oslo sentrum - Psykologvirke » Feed Privat psykolog
    Oslo sentrum - Psykologvirke » Comments Feed alternate alternate
    alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TJSPF6Z
 
      * The psychologists
           + Therapy directions
@@ -494,11 +496,5 @@ Pattern of the “Blame Game”
    Book an appointment directly via our online booking.
    Booking
 
-   IFRAME:
-   https://maps.google.com/maps?q=Psykologvirke%20as&t=m&z=15&output=embed
-   &iwloc=near
-
-   nb_NO NO
-   nb_NO NO en_GB EN
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TJSPF6Z
+   en_GB EN
+   en_GB EN nb_NO NO

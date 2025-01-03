@@ -323,19 +323,22 @@ Translations
        وِجْدَان (ar) m (wijdān)
      * Armenian: խիղճ (hy) (xiġč)
      * Azerbaijani: vicdan (az), insaf (az)
-     * Belarusian: со́весць f (sóvjescʹ), сумле́нне n (sumljénnje)
+     * Belarusian: со́весць f (sóvjescʹ), со́весьць f (sóvjesʹcʹ),
+       сумле́нне n (sumljénnje), сумле́ньне n (sumljénʹnje)
      * Bengali: বিবেক (bn) (bibek)
      * Bulgarian: съ́вест (bg) f (sǎ́vest)
      * Burmese: အသိတရား (my) (a.si.ta.ra:)
      * Catalan: consciència (ca)
      * Chinese:
 
+                Cantonese: 良心 (loeng^4 sam^1), 天良 (tin^1 loeng^4)
                 Mandarin: 良心 (zh) (liángxīn), 天良 (zh) (tiānliáng)
 
      * Coptic: ⲥⲩⲛⲏⲇⲉⲥⲓⲥ f (sunēdesis)
      * Czech: svědomí (cs) n
      * Danish: samvittighed c
      * Dutch: geweten (nl) n, gewisse (nl) n
+     * Esperanto: konscienco (eo)
      * Estonian: südametunnistus (et), süüme (et)
      * Faroese: samvitska f
      * Finnish: omatunto (fi)
@@ -349,7 +352,8 @@ Translations
                 Ancient: συνείδησις f (suneídēsis)
 
      * Hebrew: מַצְפּוּן (he) m (matspún)
-     * Hindi: विवेक (hi) m (vivek), अन्तरात्मा (hi) (antarātmā)
+     * Hindi: विवेक (hi) m (vivek), अन्तरात्मा (hi) (antarātmā),
+       अंतःकरण (hi) m (antaḥkaraṇ)
      * Hungarian: lelkiismeret (hu)
      * Icelandic: samviska (is) f
      * Ido: koncienco (io)
@@ -395,13 +399,20 @@ Translations
      * Old Norse: samvizka f
      * Ottoman Turkish: وجدان (vicdan), ضمیر (zamir)
      * Pashto: وجدان m (wejdān), ضمير (ps) m (zamīr)
-     * Persian: وجدان (fa) (vejdân), ضمیر (fa) (zamir)
+     * Persian:
+
+                Iranian Persian: وِجْدان (fa) (vejdân), وُجْدان (fa)
+                (vojdân), ضَمیر (fa) (zamir), باطِن (fa) (bâten)
+
      * Polish: sumienie (pl) n
 
                 Old Polish: sąmnienie n
 
      * Portuguese: consciência (pt) f
-     * Punjabi: ਜ਼ਮੀਰ f (zamīr)
+     * Punjabi:
+
+                Gurmukhi: ਜ਼ਮੀਰ f (zamīr)
+
      * Romanian: conștiință (ro) f
      * Russian: со́весть (ru) f (sóvestʹ)
      * Sanskrit: मनस्साक्षिन् m (manassākṣin), अन्तःकरण (sa) n
@@ -419,14 +430,15 @@ Translations
      * Swahili: dhamiri
      * Swedish: samvete (sv) n
      * Tagalog: budhi
-     * Tajik: виҷдон (vijdon)
+     * Tajik: виҷдон (vijdon), замир (zamir), ботин (botin)
      * Tatar: вөҗдан (tt) (wöcdan)
      * Telugu: అంతరాత్ (antarāt)
      * Thai: สำนึก (th) (sǎm-nʉ́k), มโนธรรม (th) (má-noo-tam)
+     * Tigrinya: ሕልና (ḥəlna)
      * Turkish: vicdan (tr)
      * Turkmen: wyjdan, ynsap
      * Ukrainian: со́вість (uk) f (sóvistʹ), сумлі́ння (uk) n (sumlínnja)
-     * Urdu: ضَمِیر (ur) m (zamīr)
+     * Urdu: ضَمِیر (ur) m (zamīr), باطِن m (bātin), اِیمان m (īmān)
      * Uyghur: ۋىجدان (wijdan), ئىنساپ (insap)
      * Uzbek: vijdon (uz), insof (uz)
      * Vietnamese: lương tâm (vi) (良心)
@@ -592,7 +604,7 @@ Descendants
      → Irish: coinsias
 
    Retrieved from
-   "https://en.wiktionary.org/w/index.php?title=conscience&oldid=82955639"
+   "https://en.wiktionary.org/w/index.php?title=conscience&oldid=83357853"
 
    Categories:
      * English terms derived from Proto-Indo-European
@@ -658,12 +670,14 @@ Descendants
      * Terms with Bulgarian translations
      * Terms with Burmese translations
      * Terms with Catalan translations
+     * Terms with Cantonese translations
      * Mandarin terms with redundant transliterations
      * Terms with Mandarin translations
      * Terms with Coptic translations
      * Terms with Czech translations
      * Terms with Danish translations
      * Terms with Dutch translations
+     * Terms with Esperanto translations
      * Terms with Estonian translations
      * Terms with Faroese translations
      * Terms with Finnish translations
@@ -729,6 +743,7 @@ Descendants
      * Terms with Tatar translations
      * Terms with Telugu translations
      * Terms with Thai translations
+     * Terms with Tigrinya translations
      * Terms with Turkish translations
      * Terms with Turkmen translations
      * Terms with Ukrainian translations
@@ -740,7 +755,7 @@ Descendants
      * Terms with West Frisian translations
      * Terms with Yiddish translations
 
-     * This page was last edited on 11 December 2024, at 18:07.
+     * This page was last edited on 2 January 2025, at 06:48.
      * Definitions and other text are available under the Creative Commons
        Attribution-ShareAlike License; additional terms may apply. By
        using this site, you agree to the Terms of Use and Privacy Policy.

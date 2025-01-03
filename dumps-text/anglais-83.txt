@@ -72,7 +72,6 @@ interpretable deep learning
    Nature Communications volume 13, Article number: 1064 (2022) Cite this
    article
      * 24k Accesses
-     * 52 Citations
      * 76 Altmetric
      * Metrics details
 
@@ -1715,28 +1714,6 @@ Share this article
 
    Provided by the Springer Nature SharedIt content-sharing initiative
 
-This article is cited by
-
-     * Accurate depth of anesthesia monitoring based on EEG signal
-       complexity and frequency features
-          + Tianning Li
-          + Yi Huang
-          + Yan Li
-       Brain Informatics (2024)
-     * Critical dynamics in spontaneous EEG predict anesthetic-induced
-       loss of consciousness and perturbational complexity
-          + Charlotte Maschke
-          + Jordan O’Byrne
-          + Stefanie Blain-Moraes
-       Communications Biology (2024)
-     * PerBrain: a multimodal approach to personalized tracking of
-       evolving state-of-consciousness in brain-injured patients: protocol
-       of an international, multicentric, observational study
-          + L. Willacker
-          + T. M. Raiser
-          + J. D. Sitt
-       BMC Neurology (2022)
-
    Download PDF
 
    Advertisement
@@ -1862,7 +1839,7 @@ Regional websites
 
    Springer Nature
 
-   © 2024 Springer Nature Limited
+   © 2025 Springer Nature Limited
 
    (BUTTON) Close banner Close
    Nature Briefing

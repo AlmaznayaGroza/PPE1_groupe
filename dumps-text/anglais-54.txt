@@ -266,7 +266,7 @@ Consciousness
    cognition, experience, feeling, or perception. It may be awareness,
    awareness of awareness, metacognition, or self-awareness, either
    continuously changing or not.^[3]^[4] The disparate range of research,
-   notions and speculations raises a curiosity about whether the right
+   notions, and speculations raises a curiosity about whether the right
    questions are being asked.^[5]
 
    Examples of the range of descriptions, definitions or explanations are:
@@ -348,7 +348,7 @@ Problem of definition
 
    The common-usage definitions of consciousness in Webster's Third New
    International Dictionary (1966) are as follows:
-    1. awareness
+    1.
           + awareness or perception of an inward psychological or
             spiritual fact; intuitively perceived knowledge of something
             in one's inner self
@@ -545,13 +545,13 @@ Influence on research
    rather than explained, there could be no "conception of what
    consciousness is"^[24]^: 18  and in 1990, he reaffirmed the traditional
    idea of the phenomenon called 'consciousness', writing that "its
-   denotative definition is, as it was for Descartes, Locke, and Hume,
-   what is introspectable".^[2]^: 450  Jaynes saw consciousness as an
-   important but small part of human mentality, and he asserted: "there
-   can be no progress in the science of consciousness until ... what is
-   introspectable [is] sharply distinguished"^[2]^: 447  from the
-   unconscious processes of cognition such as perception, reactive
-   awareness and attention, and automatic forms of learning,
+   denotative definition is, as it was for René Descartes, John Locke, and
+   David Hume, what is introspectable".^[2]^: 450  Jaynes saw
+   consciousness as an important but small part of human mentality, and he
+   asserted: "there can be no progress in the science of consciousness
+   until ... what is introspectable [is] sharply distinguished"^[2]^: 447 
+   from the unconscious processes of cognition such as perception,
+   reactive awareness and attention, and automatic forms of learning,
    problem-solving, and decision-making.^[24]^: 21-47 
 
    The cognitive science point of view—with an inter-disciplinary
@@ -1214,7 +1214,7 @@ Claustrum being the conductor for consciousness
 
    The proposal is backed by a study done in 2014, where a team at the
    George Washington University induced unconsciousness in a 54-year-old
-   woman suffering from intractable epilepsy by simulating her claustrum.
+   woman suffering from intractable epilepsy by stimulating her claustrum.
    The woman underwent depth electrode implantation and electrical
    stimulation mapping. The electrode between the left claustrum and
    anterior-dorsal insula was the one which induced unconsciousness.
@@ -1861,6 +1861,8 @@ See also
 
    [edit]
 
+     * Animal consciousness – Quality or state of self-awareness within an
+       animal
      * Bicameral mentality – Hypothesis in psychology
      * Chaitanya – Hindu philosophical conceptPages displaying wikidata
        descriptions as a fallback
@@ -3381,8 +3383,8 @@ External links
      * Israel
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Consciousness&oldid=1262874
-   649"
+   "https://en.wikipedia.org/w/index.php?title=Consciousness&oldid=1266662
+   047"
 
    Categories:
      * Cognitive neuroscience
@@ -3429,7 +3431,7 @@ External links
      * Spoken articles
      * Commons category link from Wikidata
 
-     * This page was last edited on 13 December 2024, at 14:38 (UTC).
+     * This page was last edited on 1 January 2025, at 17:50 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        4.0 License; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a
