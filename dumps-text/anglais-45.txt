@@ -1,245 +1,269 @@
-   #Centre for Constitutional Studies » Feed Centre for Constitutional
-   Studies » Comments Feed Centre for Constitutional Studies » Freedom of
-   Conscience Comments Feed JSON oEmbed (JSON) oEmbed (XML)
+[]
 
-     * The Constitution
-          + Constitution
-          + Charter
-          + Federalism
-          + Aboriginal Rights
-          + Governance
-     * Journals
-          + Review of Constitutional Studies
-               o All Issues
-          + Constitutional Forum
-               o All Issues
-     * Resources
-          + Key Terms
-          + Supreme Law
-     * Podcasts
-          + Charlottetown Accord
-          + Duty to Consult
-          + Abortion Rights in Canada: Morgentaler and Beyond
-          + Free Expression: The Future of a Fundamental Freedom
-          + Extremism, Polarization, and the Future of Democracy
-     * Events
-          + McDonald Lectures
-          + Charter Series
-          + Speakers & Panels
-          + Conferences and Symposia
-               o The Media and the Charter (2006)
-               o Patriation Negotiation (2011)
-               o Time for Boldness on Senate Reform (2015)
-               o Reconciliation: Wahkohtowin (2017)
-               o Legacies of Patriation (2022)
-               o Reimagining Rivers (2022)
-     * Seven/Fifty Blog
-     * About
-          + Contact
+[]
 
-   close
+-   The Constitution
+    -   Constitution
+    -   Charter
+    -   Federalism
+    -   Aboriginal Rights
+    -   Governance
+-   Journals
+    -   Review of Constitutional Studies
+        -   All Issues
+    -   Constitutional Forum
+        -   All Issues
+-   Resources
+    -   Key Terms
+    -   Supreme Law
+-   Podcasts
+    -   Charlottetown Accord
+    -   Duty to Consult
+    -   Abortion Rights in Canada: Morgentaler and Beyond
+    -   Free Expression: The Future of a Fundamental Freedom
+    -   Extremism, Polarization, and the Future of Democracy
+-   Events
+    -   McDonald Lectures
+    -   Charter Series
+    -   Speakers & Panels
+    -   Conferences and Symposia
+        -   The Media and the Charter (2006)
+        -   Patriation Negotiation (2011)
+        -   Time for Boldness on Senate Reform (2015)
+        -   Reconciliation: Wahkohtowin (2017)
+        -   Legacies of Patriation (2022)
+        -   Reimagining Rivers (2022)
+-   Seven/Fifty Blog
+-   About
+    -   Contact
 
-   Key Terms
-   Freedom of conscience (section 2(a)), The Charter
+[]close
+
+[]
+
+Key Terms
+
+Freedom of conscience (section 2(a)), The Charter
 
 Freedom of Conscience
 
-   July 4, 2019
-   image_pdf
-   image_print
-   PrintDownload PDF
+July 4, 2019
 
-   Freedom of conscience is one of the fundamental freedoms protected by
-   section 2 of the Canadian Charter of Rights and Freedoms.[1]
+[image_pdf]
 
-   What is the legal impact of this freedom?
+[image_print]
 
-   Ultimately, the freedom of conscience constitutionally recognizes “the
-   centrality of individual conscience and the inappropriateness of
-   governmental intervention … to constrain its manifestation.”[2] In
-   fact, the Supreme Court has ruled that “an emphasis on individual
-   conscience and individual judgment … lies at the heart of our
-   democratic political tradition. The ability of each citizen to make
-   free and informed decisions is the absolute prerequisite for the
-   legitimacy, acceptability, and efficacy of our system of
-   self‑government.”[3]
+PrintDownload PDF
 
-   What is legally protected from government interference?
+Freedom of conscience is one of the fundamental freedoms protected by
+section 2 of the Canadian Charter of Rights and Freedoms.[1]
 
-   The only Supreme Court case considering the freedom of conscience
-   directly is R v Morgentaler.[4] This 1988 case dealt with the
-   constitutionality of abortion laws. Justice Wilson stated: “[t]he
-   decision whether or not to terminate a pregnancy is essentially a moral
-   decision and … the conscience of the individual must be
-   paramount.”[5] She also held that the freedoms guaranteed by section
-   2(a) “should be broadly construed to extend to conscientiously-held
-   beliefs whether grounded in religion or in a secular
-   morality.”[6] However, since Justice Wilson opposed the majority
-   decision of the Court, her judgment is not considered a settled
-   statement of the law.
+What is the legal impact of this freedom?
 
-   Without guidance from the Supreme Court, lower courts have had to
-   figure out on their own what the freedom of conscience protects. From
-   the limited jurisprudence that exists, we know “[t]he guarantee of
-   freedom of conscience … is directed at an individual's overarching …
-   normative value system.”[7] If a person’s actions are not motivated by
-   a “comprehensive value system” (in a secular context),  then they are
-   not protected by section 2(a).[8] This can be quite limiting: when
-   people have argued that their freedom of conscience was violated by
-   mandatory seatbelt laws for example, their arguments failed because
-   their objections were not supported by a comprehensive value system.
+Ultimately, the freedom of conscience constitutionally recognizes “the
+centrality of individual conscience and the inappropriateness of
+governmental intervention … to constrain its manifestation.”[2] In fact,
+the Supreme Court has ruled that “an emphasis on individual conscience
+and individual judgment … lies at the heart of our democratic political
+tradition. The ability of each citizen to make free and informed
+decisions is the absolute prerequisite for the legitimacy,
+acceptability, and efficacy of our system of self‑government.”[3]
 
-   ‘Insubstantial’ infringements upon a person’s conscience are also
-   outside of the scope of the guarantee.[9] This is a limitation that all
-   the fundamental freedoms share: the freedom of religion for instance
-   does not extend to protect against ‘trivial’ infringements upon a
-   person’s religious practice.[10]
+What is legally protected from government interference?
 
-   One of the few lower court decisions solely considering the freedom of
-   conscience, rather than conscience and religion together, was Maurice v
-   Canada (Attorney General).[11] Mr. Maurice wanted to receive vegetarian
-   meals in prison. Originally, he was provided with these meals in
-   recognition of his freedom of religion. However, when he renounced his
-   religious beliefs, the prison stopped providing vegetarian meals. He
-   successfully claimed that, since he remained vegetarian for
-   conscientious reasons, this was a violation of his freedom of
-   conscience.[12] The Federal Court agreed, declaring that the “Charter …
-   entitle[s] the Applicant to a vegetarian diet.”[13]
+The only Supreme Court case considering the freedom of conscience
+directly is R v Morgentaler.[4] This 1988 case dealt with the
+constitutionality of abortion laws. Justice Wilson stated: “[t]he
+decision whether or not to terminate a pregnancy is essentially a moral
+decision and … the conscience of the individual must be
+paramount.”[5] She also held that the freedoms guaranteed by section
+2(a) “should be broadly construed to extend to conscientiously-held
+beliefs whether grounded in religion or in a secular
+morality.”[6] However, since Justice Wilson opposed the majority
+decision of the Court, her judgment is not considered a settled
+statement of the law.
 
-   The freedom of conscience garnered some attention in 2015 when the
-   Supreme Court decided Carter v Canada (Attorney General). In that case,
-   a number of interveners claimed that providing access to
-   physician-assisted dying would infringe the freedom of conscience of
-   medical professionals.[14] This argument went beyond the scope of what
-   needed to be decided in that case. However the Court noted that
-   physician-assisted dying was indeed a “matter of conscience” and that
-   at some point “the Charter rights of patients and physicians will need
-   to be reconciled.”[15]
+Without guidance from the Supreme Court, lower courts have had to figure
+out on their own what the freedom of conscience protects. From the
+limited jurisprudence that exists, we know “[t]he guarantee of freedom
+of conscience … is directed at an individual's overarching … normative
+value system.”[7] If a person’s actions are not motivated by a
+“comprehensive value system” (in a secular context),  then they are not
+protected by section 2(a).[8] This can be quite limiting: when people
+have argued that their freedom of conscience was violated by mandatory
+seatbelt laws for example, their arguments failed because their
+objections were not supported by a comprehensive value system.
 
-   What are the limitations on the freedom of conscience?
+‘Insubstantial’ infringements upon a person’s conscience are also
+outside of the scope of the guarantee.[9] This is a limitation that all
+the fundamental freedoms share: the freedom of religion for instance
+does not extend to protect against ‘trivial’ infringements upon a
+person’s religious practice.[10]
 
-   While the freedom of conscience is a fundamental freedom, it is not
-   absolute. As with all other rights and freedoms in the Charter, if a
-   breach of this freedom is found by a court, the government can argue
-   that its laws are reasonable and justifiable under section 1 of
-   the Charter.[16]
-                           _______________________
+One of the few lower court decisions solely considering the freedom of
+conscience, rather than conscience and religion together, was Maurice v
+Canada (Attorney General).[11] Mr. Maurice wanted to receive vegetarian
+meals in prison. Originally, he was provided with these meals in
+recognition of his freedom of religion. However, when he renounced his
+religious beliefs, the prison stopped providing vegetarian meals. He
+successfully claimed that, since he remained vegetarian for
+conscientious reasons, this was a violation of his freedom of
+conscience.[12] The Federal Court agreed, declaring that the “Charter …
+entitle[s] the Applicant to a vegetarian diet.”[13]
 
-   [1] Canadian Charter of Rights and Freedoms, s 2, Part 1 of
-   the Constitution Act, 1982, being Schedule B to the Canada
-   Act 1982 (UK), 1982, c 11 .
+The freedom of conscience garnered some attention in 2015 when the
+Supreme Court decided Carter v Canada (Attorney General). In that case,
+a number of interveners claimed that providing access to
+physician-assisted dying would infringe the freedom of conscience of
+medical professionals.[14] This argument went beyond the scope of what
+needed to be decided in that case. However the Court noted that
+physician-assisted dying was indeed a “matter of conscience” and that at
+some point “the Charter rights of patients and physicians will need to
+be reconciled.”[15]
 
-   [2] R v Big M Drug Mart, [1985] 1 SCR 295 at 346, 18 DLR (4th) 321 .
+What are the limitations on the freedom of conscience?
 
-   [3] Ibid.
+While the freedom of conscience is a fundamental freedom, it is not
+absolute. As with all other rights and freedoms in the Charter, if a
+breach of this freedom is found by a court, the government can argue
+that its laws are reasonable and justifiable under section 1 of
+the Charter.[16]
 
-   [4] R v Morgentaler, [1988] 1 SCR 30, 44 DLR (4th) 385.
+------------------------------------------------------------------------
 
-   [5] Ibid at 175–76.
+[1] Canadian Charter of Rights and Freedoms, s 2, Part 1 of
+the Constitution Act, 1982, being Schedule B to the Canada
+Act 1982 (UK), 1982, c 11 .
 
-   [6] Ibid at 179.
+[2] R v Big M Drug Mart, [1985] 1 SCR 295 at 346, 18 DLR (4th) 321 .
 
-   [7] R v Locke, 2004 ABPC 152 at para 24.
+[3] Ibid.
 
-   [8] Ibid at para 25.
+[4] R v Morgentaler, [1988] 1 SCR 30, 44 DLR (4th) 385.
 
-   [9] R v Warman, 2001 BCSC 1771 (The Warman ruling considered section 7
-   of the Charter of Rights and Freedoms. However, the reasoning was
-   adopted in the section 2 context by R v Dubbin, 2009 BCPC 164).
+[5] Ibid at 175–76.
 
-   [10] Note that the freedom of expression has a similar threshold: for
-   example, see Police Services Union, Port Moody, District 43 v Port
-   Moody Police Board, (1991) 78 DLR (4th) 79 at 88–89 ; 54 BCLR (2d) 2
-   (BCCA): “These types of cases may be cases of expression but in my
-   opinion they are not cases of constitutionally protected freedom of
-   expression. They are too trivial.”
+[6] Ibid at 179.
 
-   [11] 210 DLR (4th) 186, 90 CRR (2d) 240.
+[7] R v Locke, 2004 ABPC 152 at para 24.
 
-   [12] Ibid at para 15.
+[8] Ibid at para 25.
 
-   [13] Ibid.
+[9] R v Warman, 2001 BCSC 1771 (The Warman ruling considered section 7
+of the Charter of Rights and Freedoms. However, the reasoning was
+adopted in the section 2 context by R v Dubbin, 2009 BCPC 164).
 
-   [14] 2015 SCC 5 (Factum of the Interveners Catholic Civil Rights
-   League, Faith and Freedom Alliance and Protection of Conscience Project
-   at para 33); See also 2015 SCC 5 (Factum of the Intervener the Canadian
-   Medical Association) (The Canadian Medical Association did not refer to
-   section 2(a) of the Charter of Rights and Freedoms, but did state the
-   importance of physicians being able to follow their conscience.
+[10] Note that the freedom of expression has a similar threshold: for
+example, see Police Services Union, Port Moody, District 43 v Port Moody
+Police Board, (1991) 78 DLR (4th) 79 at 88–89 ; 54 BCLR (2d) 2 (BCCA):
+“These types of cases may be cases of expression but in my opinion they
+are not cases of constitutionally protected freedom of expression. They
+are too trivial.”
 
-   [15] Ibid at para 132.
+[11] 210 DLR (4th) 186, 90 CRR (2d) 240.
 
-   [16] Charter of Rights and Freedoms, supra note 1, s 1.
+[12] Ibid at para 15.
 
-   Subscription Form
+[13] Ibid.
+
+[14] 2015 SCC 5 (Factum of the Interveners Catholic Civil Rights League,
+Faith and Freedom Alliance and Protection of Conscience Project at para
+33); See also 2015 SCC 5 (Factum of the Intervener the Canadian Medical
+Association) (The Canadian Medical Association did not refer to section
+2(a) of the Charter of Rights and Freedoms, but did state the importance
+of physicians being able to follow their conscience.
+
+[15] Ibid at para 132.
+
+[16] Charter of Rights and Freedoms, supra note 1, s 1.
+
+Subscription Form
 
 Subscribe
 
-   ____________________
-   Name:
-   ____________________
-   Sign up for:
-   [ ] Newsletter
-   [ ] Event Updates
-   [ ] Review of Constitutional Studies
-   [ ] Constitutional Forum
-   (BUTTON) Subscribe
+Name:
 
-   Protection of Privacy – Personal information provided is collected in
-   accordance with Section 33(c) of the Alberta Freedom of Information and
-   Protection of Privacy Act (the FOIP Act) and will be protected under
-   Part 2 of that Act. It will be used for the purpose of managing CCS’
-   email subscription lists. Should you require further information about
-   collection, use and disclosure of personal information, or to
-   unsubscribe, please contact: Administrator, Centre for Constitutional
-   Studies, 448D Law Centre, University of Alberta, Edmonton AB, T6G 2H5,
-   Tel: 780-492-5681, Email: ccslaw@ualberta.ca. You may unsubscribe from
-   our email lists at any time.
+Sign up for:
 
-     * The Constitution
-     * Journals
-     * Resources
-     * Podcasts
-     * Events
-     * Seven/Fifty Blog
-     * About
+Newsletter
 
-   Centre for Constitutional Studies
-   448D Law Centre
-   University of Alberta
-   Edmonton, AB T6G 2H5
+Event Updates
 
-     * The Constitution
-          + Constitution
-          + Charter
-          + Federalism
-          + Aboriginal Rights
-          + Governance
-     * Journals
-          + Review of Constitutional Studies
-               o All Issues
-          + Constitutional Forum
-               o All Issues
-     * Resources
-          + Key Terms
-          + Supreme Law
-     * Podcasts
-          + Charlottetown Accord
-          + Duty to Consult
-          + Abortion Rights in Canada: Morgentaler and Beyond
-          + Free Expression: The Future of a Fundamental Freedom
-          + Extremism, Polarization, and the Future of Democracy
-     * Events
-          + McDonald Lectures
-          + Charter Series
-          + Speakers & Panels
-          + Conferences and Symposia
-               o The Media and the Charter (2006)
-               o Patriation Negotiation (2011)
-               o Time for Boldness on Senate Reform (2015)
-               o Reconciliation: Wahkohtowin (2017)
-               o Legacies of Patriation (2022)
-               o Reimagining Rivers (2022)
-     * Seven/Fifty Blog
-     * About
-          + Contact
+Review of Constitutional Studies
+
+Constitutional Forum
+
+Subscribe
+
+[][][][]
+
+Protection of Privacy – Personal information provided is collected in
+accordance with Section 33(c) of the Alberta Freedom of Information and
+Protection of Privacy Act (the FOIP Act) and will be protected under
+Part 2 of that Act. It will be used for the purpose of managing CCS’
+email subscription lists. Should you require further information about
+collection, use and disclosure of personal information, or to
+unsubscribe, please contact: Administrator, Centre for Constitutional
+Studies, 448D Law Centre, University of Alberta, Edmonton AB, T6G 2H5,
+Tel: 780-492-5681, Email: ccslaw@ualberta.ca. You may unsubscribe from
+our email lists at any time.
+
+-   The Constitution
+-   Journals
+-   Resources
+-   Podcasts
+-   Events
+-   Seven/Fifty Blog
+-   About
+
+[]
+
+Centre for Constitutional Studies
+448D Law Centre
+University of Alberta
+Edmonton, AB T6G 2H5
+
+[][]
+
+[]
+
+-   The Constitution
+    -   Constitution
+    -   Charter
+    -   Federalism
+    -   Aboriginal Rights
+    -   Governance
+-   Journals
+    -   Review of Constitutional Studies
+        -   All Issues
+    -   Constitutional Forum
+        -   All Issues
+-   Resources
+    -   Key Terms
+    -   Supreme Law
+-   Podcasts
+    -   Charlottetown Accord
+    -   Duty to Consult
+    -   Abortion Rights in Canada: Morgentaler and Beyond
+    -   Free Expression: The Future of a Fundamental Freedom
+    -   Extremism, Polarization, and the Future of Democracy
+-   Events
+    -   McDonald Lectures
+    -   Charter Series
+    -   Speakers & Panels
+    -   Conferences and Symposia
+        -   The Media and the Charter (2006)
+        -   Patriation Negotiation (2011)
+        -   Time for Boldness on Senate Reform (2015)
+        -   Reconciliation: Wahkohtowin (2017)
+        -   Legacies of Patriation (2022)
+        -   Reimagining Rivers (2022)
+-   Seven/Fifty Blog
+-   About
+    -   Contact
+
+[]
+
+[]
+
+[]

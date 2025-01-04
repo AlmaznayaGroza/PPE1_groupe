@@ -1,1220 +1,1790 @@
-   #alternate alternate alternate alternate alternate alternate alternate
-   alternate alternate alternate alternate alternate
+[]
 
-   (BUTTON)
-   (BUTTON)
+[]
 
-   News
-     * Today's news
-     * US
-     * Politics
-     * World
-     * Tech (BUTTON)
-          + (BUTTON)
-          + Reviews and deals
-          + Audio
-          + Computing
-          + Gaming
-          + Health
-          + Home
-          + Phones
-          + Science
-          + TVs
-     * Climate change
-     * Health
-     * Science
-     * 2024 election
-     * Originals (BUTTON)
-          + (BUTTON)
-          + The 360
-     * Newsletters
+[]
 
-   Life
-     * Health (BUTTON)
-          + (BUTTON)
-          + COVID-19
-          + Fall allergies
-          + Health news
-          + Mental health
-          + Relax
-          + Sexual health
-          + Studies
-          + The Unwind
-     * Parenting (BUTTON)
-          + (BUTTON)
-          + Family health
-          + So mini ways
-     * Style and beauty (BUTTON)
-          + (BUTTON)
-          + It Figures
-          + Unapologetically
-     * Horoscopes
-     * Shopping (BUTTON)
-          + (BUTTON)
-          + Buying guides
-     * Food
-     * Travel
-     * Autos
-     * Gift ideas
-     * Buying guides
+[]
 
-   Entertainment
-     * Celebrity
-     * TV
-     * Movies
-     * Music
-     * How to Watch
-     * Interviews
-     * Videos
+News
 
-   Finance
-     * My portfolio (BUTTON)
-          + (BUTTON)
-          + My watchlist
-     * News (BUTTON)
-          + (BUTTON)
-          + Stock market
-          + Economics
-          + Earnings
-          + Crypto
-          + Politics
-          + Biden economy
-          + Personal finance
-     * Markets (BUTTON)
-          + (BUTTON)
-          + Stocks: most active
-          + Stocks: gainers
-          + Stocks: losers
-          + Trending tickers
-          + Futures
-          + World indices
-          + US Treasury bonds
-          + Currencies
-          + Crypto
-          + Top ETFs
-          + Top mutual funds
-          + Highest open interest
-          + Highest implied volatility
-          + Currency converter
-     * Sectors (BUTTON)
-          + (BUTTON)
-          + Basic materials
-          + Communication services
-          + Consumer cyclical
-          + Consumer defensive
-          + Energy
-          + Financial services
-          + Healthcare
-          + Industrials
-          + Real estate
-          + Technology
-          + Utilities
-     * Screeners (BUTTON)
-          + (BUTTON)
-          + Watchlists
-          + Equities
-          + ETFs
-          + Futures
-          + Index
-          + Mutual funds
-          + Analyst rating screener
-          + Technical events screener
-          + Smart money screener
-          + Top holdings screener
-     * Personal finance (BUTTON)
-          + (BUTTON)
-          + Credit cards
-          + Balance transfer cards
-          + Cash back cards
-          + Rewards cards
-          + Travel cards
-          + Banking
-          + CD rates
-          + Online checking
-          + High-yield savings
-          + Money market
-          + Mortgage
-          + Home equity loan
-          + HELOC
-          + Personal loans
-          + Student loans
-          + Insurance
-          + Taxes
-     * Videos (BUTTON)
-          + (BUTTON)
-          + ETF report
-          + FA corner
-          + Options pit
-     * Crypto
-     * Industries
+[]
 
-   Sports
-     * Fantasy (BUTTON)
-          + (BUTTON)
-          + News
-          + Fantasy football
-          + Best Ball
-          + Pro Pick 'Em
-          + College Pick 'Em
-          + Fantasy baseball
-          + Fantasy hockey
-          + Fantasy basketball
-          + Download the app
-     * Daily fantasy
-     * NFL (BUTTON)
-          + (BUTTON)
-          + News
-          + Scores and schedules
-          + Standings
-          + Stats
-          + Teams
-          + Players
-          + Drafts
-          + Injuries
-          + Odds
-          + Super Bowl
-          + GameChannel
-          + Videos
-     * MLB (BUTTON)
-          + (BUTTON)
-          + News
-          + Scores and schedules
-          + Standings
-          + Stats
-          + Teams
-          + Players
-          + Odds
-          + Videos
-          + World Baseball Classic
-     * NBA (BUTTON)
-          + (BUTTON)
-          + News
-          + Draft
-          + Scores and schedules
-          + Standings
-          + Stats
-          + Teams
-          + Players
-          + Injuries
-          + Videos
-          + Odds
-          + Playoffs
-     * NHL (BUTTON)
-          + (BUTTON)
-          + News
-          + Scores and schedules
-          + Standings
-          + Stats
-          + Teams
-          + Players
-          + Odds
-          + Playoffs
-     * Soccer (BUTTON)
-          + (BUTTON)
-          + News
-          + Scores and schedules
-          + Premier League
-          + MLS
-          + NWSL
-          + Liga MX
-          + CONCACAF League
-          + Champions League
-          + La Liga
-          + Serie A
-          + Bundesliga
-          + Ligue 1
-          + World Cup
-     * College football (BUTTON)
-          + (BUTTON)
-          + News
-          + Scores and schedules
-          + Standings
-          + Rankings
-          + Stats
-          + Teams
-     * (BUTTON) Show all (BUTTON)
-          + (BUTTON)
-          + MMA
-          + WNBA
-          + Sportsbook
-          + NCAAF
-          + Tennis
-          + Golf
-          + NASCAR
-          + NCAAB
-          + NCAAW
-          + Boxing
-          + USFL
-          + Cycling
-          + Motorsports
-          + Olympics
-          + Horse racing
-          + GameChannel
-          + Rivals
-          + Newsletters
-          + Podcasts
-          + Videos
-          + RSS
-          + Jobs
-          + Help
-          + World Cup
-          + More news
+-   Today's news
+-   US
+-   Politics
+-   World
+-   Tech
+    []
+    -   []
+    -   Reviews and deals
+    -   Audio
+    -   Computing
+    -   Gaming
+    -   Health
+    -   Home
+    -   Phones
+    -   Science
+    -   TVs
+-   Climate change
+-   Health
+-   Science
+-   2024 election
+-   Originals
+    []
+    -   []
+    -   The 360
+-   Newsletters
 
-   New on Yahoo
-     * Creators
-     * Games
-     * Tech
+Life
 
-     * Terms
-     * Privacy
-     * Privacy & Cookie Settings
-     * Feedback
+[]
 
-US English Select edition
+-   Health
+    []
+    -   []
+    -   COVID-19
+    -   Fall allergies
+    -   Health news
+    -   Mental health
+    -   Relax
+    -   Sexual health
+    -   Studies
+    -   The Unwind
+-   Parenting
+    []
+    -   []
+    -   Family health
+    -   So mini ways
+-   Style and beauty
+    []
+    -   []
+    -   It Figures
+    -   Unapologetically
+-   Horoscopes
+-   Shopping
+    []
+    -   []
+    -   Buying guides
+-   Food
+-   Travel
+-   Autos
+-   Gift ideas
+-   Buying guides
 
-     * USEnglish
-     * US y LATAMEspañol
-     * AustraliaEnglish
-     * CanadaEnglish
-     * CanadaFrançais
-     * DeutschlandDeutsch
-     * FranceFrançais
-     * 香港繁中
-     * MalaysiaEnglish
-     * New ZealandEnglish
-     * SingaporeEnglish
-     * 台灣繁中
-     * UKEnglish
+Entertainment
 
-   © 2025 All rights reserved.
-   About our ads Advertising Careers
+[]
+
+-   Celebrity
+-   TV
+-   Movies
+-   Music
+-   How to Watch
+-   Interviews
+-   Videos
+
+Finance
+
+[]
+
+-   My portfolio
+    []
+    -   []
+    -   My watchlist
+-   News
+    []
+    -   []
+    -   Stock market
+    -   Economics
+    -   Earnings
+    -   Crypto
+    -   Politics
+    -   Biden economy
+    -   Personal finance
+-   Markets
+    []
+    -   []
+    -   Stocks: most active
+    -   Stocks: gainers
+    -   Stocks: losers
+    -   Trending tickers
+    -   Futures
+    -   World indices
+    -   US Treasury bonds
+    -   Currencies
+    -   Crypto
+    -   Top ETFs
+    -   Top mutual funds
+    -   Highest open interest
+    -   Highest implied volatility
+    -   Currency converter
+-   Sectors
+    []
+    -   []
+    -   Basic materials
+    -   Communication services
+    -   Consumer cyclical
+    -   Consumer defensive
+    -   Energy
+    -   Financial services
+    -   Healthcare
+    -   Industrials
+    -   Real estate
+    -   Technology
+    -   Utilities
+-   Screeners
+    []
+    -   []
+    -   Watchlists
+    -   Equities
+    -   ETFs
+    -   Futures
+    -   Index
+    -   Mutual funds
+    -   Analyst rating screener []
+    -   Technical events screener []
+    -   Smart money screener []
+    -   Top holdings screener []
+-   Personal finance
+    []
+    -   []
+    -   Credit cards
+    -   Balance transfer cards
+    -   Cash back cards
+    -   Rewards cards
+    -   Travel cards
+    -   Banking
+    -   CD rates
+    -   Online checking
+    -   High-yield savings
+    -   Money market
+    -   Mortgage
+    -   Home equity loan
+    -   HELOC
+    -   Personal loans
+    -   Student loans
+    -   Insurance
+    -   Taxes
+-   Videos
+    []
+    -   []
+    -   ETF report
+    -   FA corner
+    -   Options pit
+-   Crypto
+-   Industries
+
+Sports
+
+[]
+
+-   Fantasy
+    []
+    -   []
+    -   News
+    -   Fantasy football
+    -   Best Ball
+    -   Pro Pick 'Em
+    -   College Pick 'Em
+    -   Fantasy baseball
+    -   Fantasy hockey
+    -   Fantasy basketball
+    -   Download the app
+-   Daily fantasy
+-   NFL
+    []
+    -   []
+    -   News
+    -   Scores and schedules
+    -   Standings
+    -   Stats
+    -   Teams
+    -   Players
+    -   Drafts
+    -   Injuries
+    -   Odds
+    -   Super Bowl
+    -   GameChannel
+    -   Videos
+-   MLB
+    []
+    -   []
+    -   News
+    -   Scores and schedules
+    -   Standings
+    -   Stats
+    -   Teams
+    -   Players
+    -   Odds
+    -   Videos
+    -   World Baseball Classic
+-   NBA
+    []
+    -   []
+    -   News
+    -   Draft
+    -   Scores and schedules
+    -   Standings
+    -   Stats
+    -   Teams
+    -   Players
+    -   Injuries
+    -   Videos
+    -   Odds
+    -   Playoffs
+-   NHL
+    []
+    -   []
+    -   News
+    -   Scores and schedules
+    -   Standings
+    -   Stats
+    -   Teams
+    -   Players
+    -   Odds
+    -   Playoffs
+-   Soccer
+    []
+    -   []
+    -   News
+    -   Scores and schedules
+    -   Premier League
+    -   MLS
+    -   NWSL
+    -   Liga MX
+    -   CONCACAF League
+    -   Champions League
+    -   La Liga
+    -   Serie A
+    -   Bundesliga
+    -   Ligue 1
+    -   World Cup
+-   College football
+    []
+    -   []
+    -   News
+    -   Scores and schedules
+    -   Standings
+    -   Rankings
+    -   Stats
+    -   Teams
+-   Show all
+    []
+    -   []
+    -   MMA
+    -   WNBA
+    -   Sportsbook
+    -   NCAAF
+    -   Tennis
+    -   Golf
+    -   NASCAR
+    -   NCAAB
+    -   NCAAW
+    -   Boxing
+    -   USFL
+    -   Cycling
+    -   Motorsports
+    -   Olympics
+    -   Horse racing
+    -   GameChannel
+    -   Rivals
+    -   Newsletters
+    -   Podcasts
+    -   Videos
+    -   RSS
+    -   Jobs
+    -   Help
+    -   World Cup
+    -   More news
+
+New on Yahoo
+
+[]
+
+-   Creators
+-   Games
+-   Tech
+
+-   Terms
+-   Privacy
+-   Privacy & Cookie Settings
+-   Feedback
+
+[] US English Select edition[]
+
+-   USEnglish []
+-   US y LATAMEspañol
+-   AustraliaEnglish
+-   CanadaEnglish
+-   CanadaFrançais
+-   DeutschlandDeutsch
+-   FranceFrançais
+-   香港繁中
+-   MalaysiaEnglish
+-   New ZealandEnglish
+-   SingaporeEnglish
+-   台灣繁中
+-   UKEnglish
+
+© 2025 [] All rights reserved.
+
+About our ads Advertising Careers
 
 Yahoo Home
 
-   Yahoo Home
-   Search query ____________________
-   (BUTTON) (BUTTON)
-   (Search)
+[] Yahoo Home
 
-   Select edition (BUTTON)
-     * USEnglish
-     * US y LATAMEspañol
-     * AustraliaEnglish
-     * CanadaEnglish
-     * CanadaFrançais
-     * DeutschlandDeutsch
-     * FranceFrançais
-     * 香港繁中
-     * MalaysiaEnglish
-     * New ZealandEnglish
-     * SingaporeEnglish
-     * 台灣繁中
-     * UKEnglish
+Search query
 
-     * News
-     * Finance
-     * Sports
-     * (BUTTON) More
-          + News
-               o Today's news
-               o US
-               o Politics
-               o World
-               o Weather
-               o Climate change
-               o Health
-               o Science
-               o 2024 election
-               o Originals
-               o Newsletters
-          + Life
-               o Health
-               o Parenting
-               o Style and beauty
-               o Horoscopes
-               o Shopping
-               o Food
-               o Travel
-               o Autos
-               o Gift ideas
-               o Buying guides
-          + Entertainment
-               o Celebrity
-               o TV
-               o Movies
-               o Music
-               o How to watch
-               o Interviews
-               o Videos
-          + Finance
-               o My portfolio
-               o Watchlists
-               o Markets
-               o News
-               o Videos
-               o Screeners
-               o Personal finance
-               o Crypto
-               o Industries
-          + Sports
-               o Fantasy
-               o NFL
-               o NBA
-               o MLB
-               o NHL
-               o College football
-               o College basketball
-               o Soccer
-               o MMA
-               o Yahoo Sports AM
-          +
-               o New on Yahoo
-                    # Creators
-                    # Games
-                    # Tech
-               o Selected edition
-                 (BUTTON) USEnglish
+[]
 
-   (BUTTON) Mail
-   Sign in
-     * Mail
-     * News
-     * Finance
-     * Sports
-     * Entertainment
-     * Life
-     * Yahoo Plus
-     * More...
+[][]
 
-   (BUTTON) …
+[]
+
+[]
+
+Select edition
+
+[]
+
+-   USEnglish []
+-   US y LATAMEspañol
+-   AustraliaEnglish
+-   CanadaEnglish
+-   CanadaFrançais
+-   DeutschlandDeutsch
+-   FranceFrançais
+-   香港繁中
+-   MalaysiaEnglish
+-   New ZealandEnglish
+-   SingaporeEnglish
+-   台灣繁中
+-   UKEnglish
+
+-   News
+-   Finance
+-   Sports
+-   More[]
+    -   News
+        -   Today's news
+        -   US
+        -   Politics
+        -   World
+        -   Weather
+        -   Climate change
+        -   Health
+        -   Science
+        -   2024 election
+        -   Originals
+        -   Newsletters
+
+    -   Life
+        -   Health
+        -   Parenting
+        -   Style and beauty
+        -   Horoscopes
+        -   Shopping
+        -   Food
+        -   Travel
+        -   Autos
+        -   Gift ideas
+        -   Buying guides
+
+    -   Entertainment
+        -   Celebrity
+        -   TV
+        -   Movies
+        -   Music
+        -   How to watch
+        -   Interviews
+        -   Videos
+
+    -   Finance
+        -   My portfolio
+        -   Watchlists
+        -   Markets
+        -   News
+        -   Videos
+        -   Screeners
+        -   Personal finance
+        -   Crypto
+        -   Industries
+
+    -   Sports
+        -   Fantasy
+        -   NFL
+        -   NBA
+        -   MLB
+        -   NHL
+        -   College football
+        -   College basketball
+        -   Soccer
+        -   MMA
+        -   Yahoo Sports AM
+
+    -   -   New on Yahoo
+
+            -   Creators
+            -   Games
+            -   Tech
+
+        -   
+            Selected edition []
+
+            USEnglish
+
+[] Mail
+
+Sign in
+
+-   [] Mail
+-   News
+-   Finance
+-   Sports
+-   Entertainment
+-   Life
+-   Yahoo Plus
+-   More...
+
+…
 
 Skip navigation links
 
-     * Skip to main content
-     * Skip to sidebar
+-   Skip to main content
+-   Skip to sidebar
 
-   Advertisement
-   The Yodel:
-
-Updates on New Orleans attack and Vegas blast; Meghan Markle’s Netflix return
-— and more
-
-   Get caught up on the biggest stories of the day with our newsletter.
+Advertisement
 
 top stories
 
-Colossal winter storm to unleash severe weather from Plains to the
-mid-Atlantic
+[]
 
-   A massive storm is expected to bring both wintry and severe weather to
-   more than a dozen states, meteorologists warn.
+Biden awards Medal of Freedom to 19 icons in sport, movies, politics and more
 
-   Thunderstorms forecast in the South »
-     *
+Of the 19 recipients of the nation's highest civilian honor, four were
+recognized posthumously.
 
-Millie Bobby Brown is being shamed for looking 'way older' than she is
-     *
+'You all embody the nation's creed' »
 
-1,000-pound piece of space junk falls on Kenyan village. Who owns it?
-     *
+-   
 
-Missing boy survives for 5 days eating wild fruit in lion-inhabited park
-     *
+    []
 
-Surgeon general calls for cancer warnings on alcoholic drinks
-     *
+    Sonny Smart, father of Georgia coach Kirby Smart, dies after fall in New Orleans
 
-First lady got the most expensive gift out of all the Bidens received from
-abroad
+-   
+
+    []
+
+    Jeff Baena, indie filmmaker and Aubrey Plaza's husband, dies at 47
+
+-   
+
+    []
+
+    Here's how to make the best scrambled eggs, according to pro chefs
+
+-   
+
+    []
+
+    Seeking a better quality of life? These 15 cities ranked best in the U.S.
+
+-   
+
+    []
+
+    Chick-fil-A alters the recipe for its waffle fries. Some customers aren't happy.
 
 Stories for you
 
-     * Entertainment·Yahoo Entertainment
-
-2025 Golden Globes: 'Emilia Pérez,' 'The Bear' lead film, TV nominations as
-Nikki Glaser makes history as 1st woman solo host. What to know about the
-awards show.
-       The 2025 awards season kicks off with the 82nd annual Golden Globes
-       on Jan. 5.
-       7 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-With a trick and some tears, Notre Dame finally gets over hump in big-time
-bowl game
-       Irish special teams coach Marty Biagi has been through the ringer
-       the past couple weeks. But his perseverance is emblematic of this
-       Irish team — they don't quit, and they play full-tilt all 60
-       minutes.
-       7 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Kirby Smart complains about officials allowing Notre Dame's 11-man
-substitution on critical Sugar Bowl play
-       Notre Dame got the best of Georgia on fourth-and-1, and Kirby Smart
-       was not happy.
-       5 min read
-       Thanks for your feedback!
-     * Celebrity·Yahoo Entertainment
-
-Nikki Glaser tells stars attending the Golden Globes 'come ready to laugh.'
-But don't expect any 'It Ends With Us' jokes.
-       One "hot-button" topic Glaser will steer clear from is the Blake
-       Lively-Justin Baldoni dispute. "I'm mad I even know his name to be
-       honest with you," she told Yahoo Entertainment.
-       5 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Notre Dame handles Georgia in Sugar Bowl, advances to face Penn State in
-College Football Playoff semifinal
-       Three teams have booked their tickets to the College Football
-       Playoff semifinals. Who will be the fourth?
-       1 min read
-       Thanks for your feedback!
-     * US·Yahoo News
-
-New Orleans truck attack: What we know as details emerge about the suspect,
-the victims and the ‘ISIS-inspired’ plot
-       At least 15 people have died after the attack on Bourbon Street
-       early on Wednesday, officials said.
-       6 min read
-       Thanks for your feedback!
-     * Entertainment·Yahoo Entertainment
-
-How to watch the 'RuPaul's Drag Race' Season 17 premiere tonight: Start time,
-channel and more
-       The new season of Drag Race premieres on MTV on Friday, here's
-       everything you need to know.
-       3 min read
-       Thanks for your feedback!
-     * Politics·Yahoo News
-
-What do former GOP Rep. Adam Kinzinger and the 'far left' director of 'Hot
-Tub Time Machine' have in common? A lot, it turns out.
-       "The Last Republican," a new documentary directed by Steve Pink,
-       follows former Rep. Adam Kinzinger during his last year in Congress
-       as one of two Republicans serving on the House select committee
-       investigating the Jan. 6 Capitol attack.
-       4 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-NFL Pro Bowl 2025 rosters announced: 9 Ravens to represent AFC, no Patrick
-Mahomes or Baker Mayfield
-       The Dolphins, Saints, Jets, and Titans were the only teams to not
-       have players named to either roster
-       4 min read
-       Thanks for your feedback!
-     * Celebrity·Yahoo Celebrity
-
-Blake Lively and Justin Baldoni's competing 'It Ends With Us' lawsuits:
-Breaking down the accusations
-       There have been three separate legal filings by Blake Lively and
-       Justin Baldoni about their time making "It Ends With Us." Here are
-       the main allegations.
-       8 min read
-       Thanks for your feedback!
-     * Technology·Yahoo Tech
-
-Wordle hints today for #1,294: Clues and answer for Friday, January 3
-       Does today's Wordle have you stumped? Here are some hints and the
-       answer.
-       4 min read
-       Thanks for your feedback!
-     * Celebrity·Yahoo Movies
-
-Justin Baldoni sues New York Times for $250M over Blake Lively story: A guide
-to the key players involved in the 'It Ends With Us' dispute
-       Blake Lively has formally filed a lawsuit against Baldoni and
-       others for alleged sexual harassment while filming "It Ends With
-       Us."
-       8 min read
-       Thanks for your feedback!
-     * Lifestyle·allrecipes
-
-I Asked 6 Chefs for the Best Chocolate Ice Cream, and the Brand They Swear by
-Is 'Unmatched'
-       These chefs know what makes a great scoop.
-       5 min read
-       Thanks for your feedback!
-     * Lifestyle·Tasting Table
-
-The Fast Food Restaurant That Still Uses Beef Tallow For Its Fries
-       Pricey steakhouses often cook their meats and veggie dishes in beef
-       tallow for rich, savory depth. And, so does this fast food chain.
-       2 min read
-       Thanks for your feedback!
-     * Health·Yahoo Life Shopping
-
-The health benefits of Dry January: What a month without alcohol could mean
-for your health in 2025
-       You've heard about "Dry January" — ditching alcohol for 31 days
-       — but what are the potential health benefits? A registered
-       dietitian breaks them down.
-       11 min read
-       Thanks for your feedback!
-     * Health·Yahoo Life Shopping
-
-Working out while sick: Is exercising with a cold a good idea?
-       Exercising can help boost immune function, but exercising while
-       sick — especially when you're experiencing specific symptoms — can
-       make your illness worse. Learn when you should take it easy and
-       when you should lay off your workouts completely.
-       10 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Charles Barkley goes off on JJ Redick over NBA coverage comments: 'You’re
-just a dead man walking'
-       Barkley did not take kindly to Redick's thoughts on the job the
-       league's partners are doing selling the game.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Report: Indiana QB Kurtis Rourke 'believed' to have played entire 2024 season
-with re-torn right ACL
-       Rourke first tore his right ACL at the end of the 2022 season while
-       at Ohio and is set for revision surgery next week.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Fantasy Football: These ended up as the worst draft picks of 2024
-       Kate Magdziuk identifies the worst picks in every round of 2024
-       fantasy football drafts.
-       9 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Anthony Edwards airs frustrations over getting double-teamed: 'I don't know
-what to do, honestly'
-       Edwards is shooting 39.3% over the past two weeks.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Biggest Pro Bowl snubs: Baker Mayfield and a few others should feel slighted
-       Who should have made the Pro Bowl but was left out?
-       4 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Way-too-early top 50 fantasy football rankings for 2025
-       With the 2024 fantasy football season in the books, Dalton Del Don
-       looks ahead to next season with his early rankings.
-       11 min read
-       Thanks for your feedback!
-     * Politics·Yahoo Finance
-
-Why Trump is antsy about the coming debt ceiling fight
-       A new debt ceiling established this week sets up a coming debate
-       about averting default. The parameters of that standoff are already
-       making Donald Trump unhappy.
-       5 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Players who made (or broke) your 2024 fantasy football season
-       After a season of analyzing players who made or broke our lineups,
-       Tera Roberts looks at the full picture.
-       9 min read
-       Thanks for your feedback!
-     * Sports·Uncrowned
-
-6 bold wrestling predictions for 2025, ranked from most likely to the totally
-outlandish
-       Surprises are essential in pro wrestling. So here are some of the
-       biggest and boldest we expect to see from WWE and AEW in 2025.
-       7 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Parker Jones becomes social media scapegoat in Georgia's Sugar Bowl loss
-       A sideline interference penalty cost Georgia 15 yards, earning
-       Parker Jones instant infamy.
-       3 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-MLB free agency: Corbin Burnes agrees to massive deal with Diamondbacks,
-Teoscar Hernández rejoining the Dodgers
-       Stay up to date with the latest from the baseball hot stove.
-       4 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Latest on Roki Sasaki’s decision, Red Sox offseason update | Baseball
-Bar-B-Cast
-       Jordan Shusterman and guest host Kiley McDaniel discuss the latest
-       on Roki Sasaki’s free agency, the Nationals, Pirates, and Cubs
-       making moves and the latest on the Red Sox offseason with guest
-       Chris Cotillo.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-10 wild NBA predictions for 2025: LeBron gets traded, Wemby beats Kobe's 81 |
-The Kevin O'Connor Show
-       Goodbye 2024, hello 2025. With the new year only three days into
-       existence, Kevin O'Connor is joined by Yahoo Sports contributor Tom
-       Haberstroh to conjure up ten wild predictions for the remaining 363
-       days.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Sugar Bowl preceded by moment of silence with empty seats in Superdome in
-light of New Orleans terror attack
-       Fewer fans appeared to attend the postponed Sugar Bowl between
-       Notre Dame and Georgia on Thursday in light of the terror attack in
-       New Orleans.
-       3 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Jimmy Butler loudly signals he wants trade from Heat: 'I want to get my joy
-back'
-       Jimmy Butler isn't having fun anymore with the Heat.
-       4 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-QB Room: All the pressing offseason questions, starting with the Raiders,
-Giants, Shedeur Sanders and Cam Ward
-       The two teams with the clearest need at QB are no longer in
-       position to just sit and draft one. Plus, the Vikings' plans, Brock
-       Purdy's extension situation, Aaron Rodgers' future and more.
-       16 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Browns' Myles Garrett prefers to 'mess up' Ravens' division title hopes over
-winning NFL sack crown
-       Garrett is tied with the Bengals' Trey Hendrickson with 14 sacks
-       this season
-       2 min read
-       Thanks for your feedback!
-     * Sports·Boiler Upload
-
-Quick Wrap | Purdue 81, Minnesota 61 | Smith gets to 1,000 points
-       With the shot clock running out and Purdue's offense struggling,
-       the ball ended up in familiar hands. With just under two seconds
-       left on the shot clock, Braden Smith caught the ball four feet
-       beyond the three point line above the break. Smith didn't have time
-       to dribble or think about the history he was about to make.
-       4 min read
-       Thanks for your feedback!
-     * Sports·Tide Illustrated
-
-Alabama transfer tracker: Updated list of Tide transfers, portal commits
-       With transfer season in full swing, Alabama is set for a busy
-       offseason with departures and new additions as it looks to build up
-       its roster ahead of the 2025 campaign. The winter transfer portal
-       will run from Dec. 9-28, with another spring window open from April
-       16-25, 2025. The Tide will look to replenish some holes in its
-       roster during both periods, while a few Alabama players will also
-       look toward opportunities elsewhere.
-       18 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Jared Goff vs. Sam Darnold: The epic QB battle no one saw coming
-       Castoffs from the teams that drafted them, Goff and Darnold now
-       lead their teams into one of the most consequential regular season
-       games in NFL history.
-       5 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Fantasy basketball: 10 bold predictions for the rest of the NBA season
-       We're into 2025, ladies and gents! Dan Titus looks into his crystal
-       ball to see what could happen during the rest of the fantasy
-       basketball season.
-       5 min read
-       Thanks for your feedback!
-     * Opinion·Yahoo Finance
-
-Trump eases up on China
-       Trump now opposes the TikTok ban he once tried to enact and is
-       softening on China in other ways.
-       7 min read
-       Thanks for your feedback!
-     * Business·Yahoo Finance
-
-Tesla's 'day job' still matters even if its 2025 story is about something
-more: Morning Brief
-       Tesla stock fell 6% Monday after its quarterly deliveries
-       disappointed investors — and showed a year-over-year decline. A
-       reminder that the company's job of selling cars still matters.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-Patrick Surtain II takes over as NFL Defensive Player of the Year betting
-favorite
-       Patrick Surtain II is vying to be the seventh cornerback to win
-       DPOY.
-       4 min read
-       Thanks for your feedback!
-     * Sports·The Maize And Blue Review
-
-Michigan DT Owen Wafle enters the transfer portal
-       Michigan freshman defensive tackle Owen Wafle has entered the
-       transfer portal. Wafle was a coveted recruit in the 2024 class, and
-       expected to become a high level contributor for the Wolverines. He
-       did not see the field in his freshman season.
-       1 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-NFL Week 18 preview: Vikings-Lions DEEP dive, Bengals-Steelers &
-Falcons-Panthers | Football 301
-       In this episode of Football 301, Nate Tice and Charles McDonald
-       dive deep into the high-stakes drama of Week 18, breaking down the
-       biggest matchups across the NFL, including the highly anticipated
-       showdown between the Minnesota Vikings and the Detroit Lions.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-‘I don’t know what targeting is’: Did a non-call cost Arizona State a playoff
-game?
-       Officials opted not to flag Texas for targeting at a crucial point
-       in the Peach Bowl, a non-call that left many scratching their
-       heads.
-       5 min read
-       Thanks for your feedback!
-     * Entertainment·Uncrowned
-
-WWE Raw on Netflix preview: 5 burning questions for Monday's debut on the
-streaming giant
-       WWE's flagship program, "WWE Raw," make its much-anticipated
-       Netflix debut live on January 6.
-       12 min read
-       Thanks for your feedback!
-     * Sports·Rivals
-
-Three Predictions: Ohio State, Keelon Russell, Michael Fasusi
-       Jeremiah Smith and the Ohio State Buckeyes look like College
-       Football Playoff favorites heading into the semifinals.
-       2 min read
-       Thanks for your feedback!
-     * Sports·Yahoo Sports
-
-2024 Fantasy Football Award Winners
-       It's time to look back at who got us here. Scott Pianowski and Andy
-       Behrens hand out some fantasy football hardware as the 2024 regular
-       season nears its end.
-       9 min read
-       Thanks for your feedback!
-     * Celebrity·Cosmopolitan
-
-Sydney Sweeney Drops Jet Ski swimsuit Pic After Being Hounded by Paparazzi
-       Sydney Sweeney dropped a swimsuit pic of herself on a jet ski after
-       paparazzi hounded her during her day out.
-       1 min read
-       Thanks for your feedback!
-     * Politics·dpa international
-
-Trump calls on Britain to dismantle North Sea wind turbines
-       US President-elect Donald Trump called on Friday for the United
-       Kingdom to dismantle its wind turbines in the North Sea in response
-       to a decision by a US oil company to leave the oil-rich region.
-       "The UK is making a very big mistake. Open up the North Sea. Get
-       rid of the windmills!" Trump posted on his online platform, Truth
-       Social. The post included a link to Scotland's Aberdeen & Grampian
-       Chamber of Commerce, which in early November detailed a decision
-       taken by the Apache oil firm to exit the
-       1 min read
-       Thanks for your feedback!
-     * Celebrity·People
-
-Jack Nicholson, 87, Seen in Rare Photo While Sharing a Holiday Hug with
-Daughter Lorraine
-       Lorraine shared the sweet father-daughter moment in an Instagram
-       post on Jan. 2
-       2 min read
-       Thanks for your feedback!
-     * US·WFXT
-
-Passengers say they were put on the streets ‘like animals’ after JetBlue
-flight to Boston delayed
-       “This was far beyond a delay, this was sending people to the
-       streets in a third-world country in the wee hours of the night and
-       asking them to fend for themselves with no solutions.”
-       2 min read
-       Thanks for your feedback!
-     * Celebrity·STYLECASTER
-
-Angel Reese Wore a Hot New Year’s Eve Outfit and People Online Got Mad
-       She appears to have deactivated her social media.
-       2 min read
-       Thanks for your feedback!
-     * Celebrity·Cosmopolitan
-
-Just J.Lo Chilling in Aspen Wearing a String swimsuit and Fur Boots
-       J.Lo dropped pics of herself wearing a string swimsuit and fur
-       boots during her holiday vacation in Aspen.
-       1 min read
-       Thanks for your feedback!
-     * Lifestyle·People
-
-Jennifer Aniston Shares the Workout that Has 'Transformed My Body' — Plus the
-Drink She Has Every Morning (Exclusive)
-       The actress prioritizes her health by working out consistently and
-       sipping on a special drink "first thing in the morning"
-       3 min read
-       Thanks for your feedback!
-     * Entertainment·Variety
-
-Diddy’s Bodyguard, Intern and Producer Speak Out in New Peacock Doc Trailer:
-‘I Didn’t Want to Be Around Him Unless There Was Cameras’
-       Peacock has unveiled the trailer for a new Diddy documentary in
-       which his bodyguard, intern, makeup artist and producer speak out
-       against the disgraced music mogul. “Honestly, I didn’t want to be
-       around him unless there was cameras,” one of the people in Sean
-       Combs’ inner circle says in the trailer for “Diddy: The Making …
-       2 min read
-       Thanks for your feedback!
-     * Politics·WWD
-
-Melania Trump Wears Draped Versace Gown for Mar-a-Lago New Year’s Eve Party
-       Donald Trump accompanied his wife in a black tuxedo.
-       1 min read
-       Thanks for your feedback!
-     * Politics·The Daily Beast
-
-Matt Gaetz Unveils Radical New Look During MAGA TV Debut
-       Former Florida congressman Matt Gaetz debuted his eponymous show
-       Thursday night on One America News Network—but much of the
-       attention wasn’t on what the MAGA figure had to say. Instead, many
-       viewers reacted by asking some variation of, “What happened to his
-       face?” Some placed blame on the network.
-       2 min read
-       Thanks for your feedback!
-     * Celebrity·TheBlast
-
-Wayne Osmond Dead At 73, Cause Of Death Revealed
-       Best known as the brother of Marie and Donny Osmond, Wayne Osmond's
-       passing on New Year's Day was confirmed by his family.
-       4 min read
-       Thanks for your feedback!
-     * US·Associated Press
-
-Soldier shot self in head before Cybertruck exploded outside Trump's Las
-Vegas hotel, officials say
-       The highly decorated Army soldier inside a Tesla Cybertruck packed
-       with fireworks that exploded outside Trump International Hotel in
-       Las Vegas shot himself in the head just before detonation,
-       authorities said Thursday. Clark County Sheriff Kevin McMahill said
-       Matthew Livelsberger, a 37-year-old Green Beret, likely planned a
-       more damaging attack but the steel-sided vehicle absorbed much of
-       the force from the crudely built explosive. Damage from the blast
-       was mostly limited to the interior of th
-       5 min read
-       Thanks for your feedback!
-     * Celebrity·WHERE IS THE BUZZ
-
-Internet Divided Over Drake’s Baby Mama Sophie Brussaux’s Viral New Year’s
-Eve Photo—Is She Really Hotter Than Rihanna?
-       Drake’s baby mama, Sophie Brussaux, is kicking off 2025 by taking
-       social media by storm. The artist and former model set the internet
-       ablaze after sharing her dazzling New Year’s… The post Internet
-       Divided Over Drake’s Baby Mama Sophie Brussaux’s Viral New Year’s
-       Eve Photo—Is She Really Hotter Than Rihanna? appeared first on
-       Where Is The Buzz | Breaking News, Entertainment, Exclusive
-       Interviews & More.
-       2 min read
-       Thanks for your feedback!
-     * US·The Telegraph
-
-Pro-Ukraine special forces soldier shot himself before Cybertruck explosion
-       The driver of the Tesla Cybertruck that exploded outside Donald
-       Trump’s Las Vegas hotel was a highly decorated counter-terrorism
-       Green Beret soldier who had previously shown support for Ukraine.
-       5 min read
-       Thanks for your feedback!
-     * Lifestyle·NY Post
-
-Dear Abby: I told a horrible secret to a relative — now she’s threatening
-she’ll tell my children
-       Dear Abby advises a person who is trying to protect her secret from
-       her children after confiding to a family member.
-       3 min read
-       Thanks for your feedback!
-     * Science·CNN
-
-‘Mystery volcano’ that erupted and cooled Earth in 1831 has finally been
-identified
-       Scientists have identified the “mystery volcano” that erupted in
-       1831 and cooled Earth’s climate. They have linked it to an island
-       volcano in the northwest Pacific.
-       6 min read
-       Thanks for your feedback!
-     * Sports·Associated Press
-
-College football turns upside down, but this final four is a collection of
-the sport's big programs
-       In the first round of the College Football Playoff, the teams
-       seeded 5-8 all won. The moral of this story: Who knows, other than
-       something doesn't totally add up when not a single one of the top
-       four teams, all of which received the advantage of a first-round
-       bye, advances into college football's final four. The semifinals
-       are set: Next Thursday in the Orange Bowl, it will be No. 6 Penn
-       State vs. No. 7 Notre Dame.
-       6 min read
-       Thanks for your feedback!
-     * Celebrity·BuzzFeed
-
-Women Over 30 Are Sharing The Grossest "Compliment" A Man Has Ever Given To
-Them, And I'm Gagging
-       "You have the most beautiful eye color — it reminds me of
-       diarrhea."
-       7 min read
-       Thanks for your feedback!
-     * Celebrity·Variety
-
-Kieran Culkin Admits He Swapped Mark Ruffalo’s Prop Joint for Real Marijuana
-When He Was 17: ‘I Thought This Was a Good Prank. I’m Stupid’
-       Kieran Culkin has confessed. The star of “A Real Pain” and
-       “Succession” admitted that he once swapped a prop joint for one
-       spiked with real marijuana when he was cast in a stage production
-       alongside Mark Ruffalo in 2000. “I was 17 and stupid,” Culkin said
-       in a new interview with The Guardian. “I’m like, …
-       2 min read
-       Thanks for your feedback!
-     * Politics·NBC News
-
-By blaming Biden for the New Orleans attack, Trump may be setting himself up
-for failure
-       Trump has blamed Biden for the attack in New Orleans. But the
-       president-elect risks facing similar criticism if an attack happens
-       while he is in the White House.
-       6 min read
-       Thanks for your feedback!
-     * Style·WWD
-
-JD Vance’s Wife Usha Wears Snake Dress by Retrofête for Mar-a-Lago New Year’s
-Eve Party
-       The vice president-elect wore a black tuxedo.
-       2 min read
-       Thanks for your feedback!
-     * US·TheBlast
-
-Gymnast Olivia Dunne And Boyfriend Paul Skenes Narrowly Escape Terror Attack
-In New Orleans
-       Olivia Dunne shared pictures on Instagram showing her and boyfriend
-       Paul Skenes partying in New Orleans before a deadly terror attack.
-       4 min read
-       Thanks for your feedback!
-     * Lifestyle·People
-
-Woman Tells Family Her Dryer Isn’t Working — and They're Shocked When They
-Figure Out Why (Exclusive)
-       Delaney Neal has lived by herself for two years
-       2 min read
-       Thanks for your feedback!
-     * Sports·Patriots Wire
-
-Patriots pull off massive trade with No. 1 pick in 7-round 2025 NFL mock
-draft
-       The New England Patriots, who are currently slated to pick first
-       overall in the 2025 NFL draft, find themselves at a pivota
-       6 min read
-       Thanks for your feedback!
-     * Celebrity·BuzzFeed
-
-Women Are Sharing Why They Cheated, And I Literally Have No Words
-       “Because my husband has taken all the joy out of my life, but due
-       to finances, I cannot leave.”
-       26 min read
-       Thanks for your feedback!
-     * Celebrity·E! News
-
-Vanessa Bryant Proves Daughter Capri Is Kobe Bryant’s Twin in New Pics
-       Vanessa Bryant shared new clips of her holiday with her and Kobe
-       Bryant’s daughters. See how much their youngest, Capri, resembles
-       her late father.
-       5 min read
-       Thanks for your feedback!
-     * US·KTVI
-
-How much snow will St. Louis get this weekend?
-       A winter storm system is expected to bring up to eight inches of
-       mixed precipitation to the St. Louis area, with areas north of I-70
-       seeing mainly snow, areas south of metro St. Louis facing
-       significant icing, and the metro area in a transition zone with
-       many forms of winter precipitation in the forecast.
-       2 min read
-       Thanks for your feedback!
-     * US·The Florida Times-Union
-
-Snow in Florida? Here's what Jacksonville meteorologists say about incoming
-cold wave
-       The new year is here, and that generally means colder temperatures
-       — even in Jacksonville. So what can Northeast Florida residents
-       expect?
-       3 min read
-       Thanks for your feedback!
-     * US·Cincinnati.com | The Enquirer
-
-A 33-year-old steakhouse in downtown Cincinnati has permanently closed
-       After opening Downtown in 1991, this steakhouse just recently
-       closed.
-       1 min read
-       Thanks for your feedback!
-     * US·People
-
-Loved Ones Mourn Michigan Grandparents Who Died Days Apart in Back-to-Back
-Holiday Tragedies: 'Unbelievable'
-       Scott Levitan and his wife, Marylou, were both killed between
-       Christmas and the new year, authorities said
-       2 min read
-       Thanks for your feedback!
-     * Celebrity·PureWow
-
-Simone Biles Makes Major Career Announcement
-       Simone Biles is the blueprint. The G.O.A.T. of gymnastics, with an
-       11-medal Olympic haul and 30 World Championship medals to her name,
-       she’s been dominating the sport for over a decade. She’s competed
-       in three Olympic Games—Rio, Tokyo, and Paris—and even has signature
-       moves named after her (shoutout to The Biles and The Biles II).
-       With a résumé this stacked, you’d think she’s done it all. But as
-       of now, she just announced she's adding one more honor to her
-       list:: Sports Illustrated’s 2024 Sports
-       2 min read
-       Thanks for your feedback!
-     * Politics·Reuters
-
-US Supreme Court's Thomas will not be referred to Justice Department
-       (Reuters) -A judicial policymaking body on Thursday rejected a
-       request by Democratic lawmakers to refer conservative U.S. Supreme
-       Court Justice Clarence Thomas to the Department of Justice to
-       examine claims that he failed to disclose gifts and travel provided
-       by a wealthy benefactor. The secretary to the U.S. Judicial
-       Conference, the federal judiciary's top policymaking body, in a
-       pair of letters cited amendments Thomas had made to his annual
-       financial disclosure reports that addressed several
-       2 min read
-       Thanks for your feedback!
-     * World·AFP
-
-Kim Jong Un's sister seen with children in state media images
-       South Korea's spy agency said Friday it was analysing rare state
-       media footage showing the powerful sister of North Korean leader
-       Kim Jong Un with two children -- saying they could be hers.The
-       isolated North has never officially disclosed any information about
-       Kim Yo Jong's marital status or children, but Seoul's spy agency
-       said it was examining whether the children in the state media
-       footage were hers.
-       2 min read
-       Thanks for your feedback!
-
-   Next
-   Something went wrong. Try again.
-   Refresh Page (BUTTON)
+-   []
+
+    Business·Engadget
+
+    Sony CES 2025 press conference: Watch it here Monday at 8pm ET
+
+    Tune in at 8PM ET on Monday to watch Sony's CES press conference
+    live.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Engadget
+
+    CES 2025: The new tech we're expecting to see from Samsung, NVIDIA, LG and more in Las Vegas
+
+    The world's largest electronics conference is happening again in
+    January. Here's what we expect to see.
+
+    11 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Engadget
+
+    Watch the NVIDIA CES 2025 press conference live: Monday, 9:30PM ET
+
+    Tune in at 9:30PM ET on Monday to watch NVIDIA's CES press
+    conference live.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Yahoo News
+
+    Major winter storm to bring heavy snow and ice from Plains to mid-Atlantic as arctic cold temperatures will set in through mid-January
+
+    Hazardous snow and ice are forecast for the Central Plains to the
+    mid-Atlantic over the weekend. Here's what to expect.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Entertainment·Yahoo Entertainment
+
+    2025 Golden Globes: 'Emilia Pérez,' 'The Bear' lead film, TV nominations as Nikki Glaser makes history as 1st woman solo host. What to know about the awards show.
+
+    The 2025 awards season kicks off with the 82nd annual Golden Globes
+    on Jan. 5.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Celebrity·Yahoo Entertainment
+
+    Nikki Glaser tells stars attending the Golden Globes 'come ready to laugh.' But don't expect any 'It Ends With Us' jokes.
+
+    One "hot-button" topic Glaser will steer clear from is the Blake
+    Lively-Justin Baldoni dispute. "I'm mad I even know his name to be
+    honest with you," she told Yahoo Entertainment.
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    NFL Pro Bowl 2025 rosters announced: 9 Ravens to represent AFC, no Patrick Mahomes or Baker Mayfield
+
+    The Dolphins, Saints, Jets, and Titans were the only teams to not
+    have players named to either roster
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Travis Kelce fined $14K by NFL for paying tribute to Tony Gonzalez with TD celebration dunk
+
+    Kelce's touchdown catch moved him ahead of Gonzalez for the
+    franchise record.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Lakers coach JJ Redick responds to Charles Barkley's rant against him: 'Literally don't care'
+
+    The NBA's newest feud between Charles Barkley and JJ Redick appears
+    to be a bit one-sided.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Watch what Victor Wembanyama just did to Nikola Jokić
+
+    Are we ready to call Victor Wembanyama a top 5 player?
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Yahoo Finance
+
+    What do people regret the most when they retire?
+
+    More than two-thirds of retirees wish they had saved more and on a
+    consistent basis — and half wish they hadn’t waited so long to focus
+    on it, according to a new report.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Heat suspend Jimmy Butler 7 games after contentious news conference, say they will listen to trade offers
+
+    The Jimmy Butler situation isn't getting much better in Miami.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    College Football Playoff: Sugar Bowl still draws higher TV audience than New Year's Eve Fiesta Bowl despite postponement
+
+    The game was pushed to Thursday afternoon after the terror attack on
+    Bourbon Street.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Derrick Rose insists he doesn't want a statue based on 'the way people been creating them'
+
+    Rose, who will have his jersey retired by the Bulls next season,
+    seemed skeptical about a statue in the wake of Dwyane Wade's.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    MLB free agency: Dodgers reportedly sign KBO's Hyeseong Kim, announce Teoscar Hernández deal
+
+    Stay up to date with the latest from the baseball hot stove.
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Uncrowned
+
+    WWE SmackDown results and highlights (Jan. 3): Tiffany Stratton finally cashes in, Solo Sikoa stands tall
+
+    The first "WWE SmackDown" of 2025 added an extra hour and delivered
+    plenty of excitement with a Tiffany Stratton title victory.
+
+    9 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·TechCrunch
+
+    New ship, new year: SpaceX to deploy model Starlink satellites on next Starship launch
+
+    SpaceX is significantly upping the ante of its Starship test flight
+    program, with the next rocket launch expected to demonstrate payload
+    deployment for the first time. The payload in question will be 10
+    Starlink “simulators” that will be similar in size and weight to the
+    next-gen satellites SpaceX plans to use Starship to deploy in space.
+    The operational version of these satellites, called V3, will likely
+    be the first real payloads Starship flies.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Lifestyle·Yahoo Finance
+
+    Listing a home in 2025? Here are the designs experts say buyers want.
+
+    The shiny silver fixtures and neutral paint colors that long
+    dominated interior design are no longer drawing in prospective home
+    buyers. What’s working instead: warmer-toned hues, textured
+    elements, and dollops of character like accent walls.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Inside Nebraska
+
+    Georgia Southern all-conference LB Marques Watson-Trent commits to Nebraska
+
+    Nebraska has landed a transfer portal commitment from Georgia
+    Southern linebacker Marques Watson-Trent, a 5-foot-11, 225-pound
+    uber-productive veteran defender with one year of eligibility
+    remaining. Watson-Trent, the reigning Sun Belt Conference Defensive
+    Player of Year, recorded 120 tackles, 7.5 tackles for loss and 1.5
+    sacks, along with four forced fumbles, two quarterback hurries and a
+    pass breakup in 12 games in 20-24. Across his Georgia Southern
+    career, he’s totaled 363 tackles, 26 tackl
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Yahoo Personal Finance
+
+    Mortgage and refinance rates today, January 4, 2025: Fixed rates hardly move
+
+    These are today's mortgage and refinance rates. Fixed rates have
+    ticked down, but the changes aren't drastic. Lock in your rate
+    today.
+
+    6 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Ravens LB Kyle Van Noy has fitting celebration after sack cashes $250K contract incentive
+
+    Kyle Van Noy knew exactly what a sack was worth on Saturday.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·The Osceola
+
+    Tennessee transfer WR Squirrel White sees opportunity at FSU during visit
+
+    The productive WR transfer felt the welcome atmosphere and was sold
+    on playing time during his FSU visit.
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    NFL scores, live updates: Ravens look to lock up AFC North with Week 18 win over Cleveland
+
+    The Ravens, Steelers and Bengals are all playing for playoff
+    position in the final week of the season.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·The Maize And Blue Review
+
+    Michigan 2025 defensive tackle depth chart
+
+    With multiple players leaving for the NFL, heading to Ann Arbor via
+    the transfer portal, and one player leaving via the portal, the
+    defensive front for Michigan will look very different in 2025.Let's
+    break down the potential depth chart as of today.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Rockets F Jabari Smith Jr. out 4-6 weeks after breaking hand at shootaround
+
+    A Rockets shootaround went very wrong.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Tide Illustrated
+
+    Alabama transfer tracker: Updated list of Tide transfers, portal commits
+
+    With transfer season in full swing, Alabama is set for a busy
+    offseason with departures and new additions as it looks to build up
+    its roster ahead of the 2025 campaign. The winter transfer portal
+    will run from Dec. 9-28, with another spring window open from April
+    16-25, 2025. The Tide will look to replenish some holes in its
+    roster during both periods, while a few Alabama players will also
+    look toward opportunities elsewhere.
+
+    21 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Cincinnati Bengals vs. Pittsburgh Steelers: How to watch tonight's game, kickoff time, channel and more
+
+    The Cincinnati Bengals play the Pittsburgh Steelers this Saturday
+    night, here's how to watch.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Lifestyle·Yahoo Life Shopping
+
+    Amazon Winter Sale deals: Save big on Apple, Crest, KitchenAid and more
+
+    End 2024 on a high note by scoring low prices on brands like Keurig,
+    BowFlex and iRobot.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·WV Sports
+
+    Game Preview: Oklahoma State vs. West Virginia men's basketball
+
+    West Virginia is set to hold their Big 12 home opener on Saturday
+    when they host Oklahoma State at the WVU Coliseum. Oklahoma State
+    enters Saturday's contest coming off a 60-47 loss to No. 14 Houston
+    at home.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    NFL injury tracker Week 18: Jalen Hurts out vs. Giants, Tua doubtful for Dolphins, Brock Purdy to miss 49ers' finale
+
+    Here's everything you need to know injury-wise for Week 18.
+
+    10 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Yahoo Finance
+
+    How retirement savings will change in 2025
+
+    Saving for retirement will get a boost in 2025 thanks to higher
+    contribution limits and the phase-in of provisions stemming from the
+    Secure 2.0 Act.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·HawgBeat
+
+    Social media reacts to Arkansas' 76-52 loss to Tennessee
+
+    Arkansas guard Boogie Fland and head coach John Calipari. © Randy
+    Sartin-Imagn Images In front of a raucous crowd at Thompson-Boling
+    Arena in Knoxville, Tennessee, the No. 23 Arkansas Razorbacks (11-3,
+    0-1 SEC) were defeated, 76-52, by the No.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Alex Ovechkin goals tracker: The Great Eight 23 away from breaking Wayne Gretzky’s all-time record of 894
+
+    We're tracking Alex Ovechkin's chase for Wayne Gretzky's all-time
+    goals record of 894.
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Yahoo Sports
+
+    Ravens Pro Bowl WR Zay Flowers sustains knee injury in Week 18
+
+    This would be a big loss for the Ravens.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·WV Sports
+
+    Rapid recap: West Virginia head coach Darian DeVries post-game OK State
+
+    West Virginia head coach Darian DeVries addressed the media
+    following the Oklahoma State contest. --DeVries said that they
+    certainly took their foot off the gas in the second half and
+    sometimes that's human nature. --Oklahoma State is aggressive and
+    physical but even their offense because they push it so much you
+    have to sprint back and exert energy.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Opinion·Yahoo Finance
+
+    This week in Bidenomics: Stranded steelworkers
+
+    Biden killed a deal that would have bolstered ailing US Steel. Is
+    that really good for workers?
+
+    6 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·The Osceola
+
+    FSU offers Appalachian State WR Kaedin Robinson
+
+    Florida State extended an offer to Appalachian State senior wide
+    receiver Kaedin Robinson on Friday night, just hours after he
+    entered the NCAA transfer portal. Robinson, who is 6-foot-2 and 205
+    pounds, has picked up at least 10 offers from Power 4 schools in the
+    24 hours since he entered the portal. Robinson appeared in 24 games
+    for the Mountaineers over his three seasons playing for App State.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·Moneywise
+
+    Marjorie Taylor Greene snatched Trump’s Social Security pledge and threw it on the floor — here’s why she’s so mad
+
+    Will the GOP Congress honor Trump's campaign promises?
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·USA TODAY
+
+    'Heaviest snowfall in over a decade': Mega winter storm bears down on millions
+
+    Millions should prepare for disrupted travel and winter conditions
+    as a fierce storm is set to bring ice, snow and freezing rain to
+    much of the U.S.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Fox News
+
+    Gutsy woman, 71, fends off violent attack by 4 teen girls on blue city subway
+
+    An brave 71-year-old woman fought off four teen females who punched
+    and stomped on her during a botched mugging on the New York City
+    subway system
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·The Independent
+
+    MSNBC panel erupts into laughter reading Trump weekend rant about being ‘evilly’ treated by courts
+
+    President-elect will be sentenced in his hush-money case on January
+    10
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·Politico
+
+    Johnson tells House Republicans that Trump wants one ‘big beautiful’ reconciliation package
+
+    Trump’s decision is a win for House Ways & Means Chair Jason Smith.
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·The Wrap
+
+    Washington Post Cartoonist Ann Telnaes Quits After Bezos-Owned Paper Kills Trump Satire Piece
+
+    “Trying to get in the good graces of an autocrat-in-waiting will
+    only result in undermining that free press,” the Pulitzer Prize
+    winner says of her former employer The post Washington Post
+    Cartoonist Ann Telnaes Quits After Bezos-Owned Paper Kills Trump
+    Satire Piece appeared first on TheWrap.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·USA TODAY
+
+    Donald Trump fumes over flag flying at half-staff to honor Jimmy Carter during inauguration
+
+    "Nobody wants to see this, and no American can be happy about it,"
+    Trump said of the US flag flying at half-staff during his
+    inauguration.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·KCPQ
+
+    WA skiers demanding action as 'rampant' thefts plague Stevens Pass resort
+
+    Frustrated skiers have launched a petition calling on Vail Resorts
+    to fix "rampant" thefts at Stevens Pass.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·IndyStar | The Indianapolis Star
+
+    Winter storm warning issued, Indianapolis expected to get 6+ inches of snow starting Sunday
+
+    A winter storm watch has been upgraded to a warning as the weather
+    looms. The latest snow predictions.
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Celebrity·People
+
+    Woman Says She Won’t Babysit Her Niece and Nephew Anymore After Brother Ruined Her New Year’s Plans: ‘That Hurt a Lot’
+
+    The woman revealed on Reddit that her brother laughed and said, “You
+    didn't have anything important going on anyway”
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Celebrity·WHERE IS THE BUZZ
+
+    A 1999 Photo of Lucy Liu Is Breaking the Internet—Here’s Why Everyone Is Obsessed
+
+    A photo of Lucy Liu from 1999 has taken the internet by storm, going
+    viral after it was posted on X (formerly known as Twitter)
+    yesterday. The post, featuring Liu… The post A 1999 Photo of Lucy
+    Liu Is Breaking the Internet—Here’s Why Everyone Is Obsessed
+    appeared first on Where Is The Buzz | Breaking News, Entertainment,
+    Exclusive Interviews & More.
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·LA Times
+
+    Column: What I learned from watching Fox News after the New Orleans terrorist attack
+
+    I don't regret my decision to turn on Fox News on New Year's Day,
+    because it was a sobering, necessary reminder of the fetid
+    information ecosystem that put Donald Trump in the White House,
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·WTXF
+
+    Philadelphia snow forecast: Winter Storm Watch issued with measurable snow expected Monday
+
+    Winter Storm Watches have been issued for most of the area Sunday
+    night into Monday with several inches of snow forecasted to fall.
+    Here's what you need to know.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Lifestyle·BuzzFeed
+
+    "I Left The U.S. 15 Years Ago": Expats Are Revealing The "We're Being Scammed" Realizations They Had After Moving Abroad
+
+    "When setting up my appointment, I asked about the out-of-pocket
+    cost, and the staff looked at me like I had grown two heads. There
+    was no cost, of course."
+
+    13 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·NBC News
+
+    New Orleans attacker used very rare explosive in bombs, officials say
+
+    Shamsud-Din Jabbar used a rare explosive in New Orleans that has
+    never before been used in a U.S. or European terrorist attack. A key
+    question is how he learned of the explosive and managed to produce
+    it.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Benzinga
+
+    There Won't Be Money For Social Security': Elon Musk Tells Joe Rogan About Looming Bankruptcy And $1.1 Trillion Interest
+
+    Elon Musk doesn't shy away from big ideas or bold predictions, but
+    his latest warning is a wake-up call for America. During a recent
+    appearance on The Joe Rogan Experience, Musk pulled no punches when
+    discussing the U.S. economy. His verdict? The country is heading
+    toward financial collapse if drastic action isn't taken. "We're
+    drowning in debt," Musk said, referring to the $36.14 trillion the
+    U.S. owes, as reported by the Treasury Department. He explained that
+    interest payments alone comprise 2
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·WTTG
+
+    DC winter storm warning: 5 to 10 inches of snow across DC, Maryland & Virginia
+
+    The Washington, D.C. region continues to brace for the first winter
+    storm of 2025 with a significant snow threat from Sunday night into
+    Monday.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Associated Press
+
+    Soldier who died by suicide in Las Vegas told ex-girlfriend of pain and exhaustion after Afghanistan
+
+    The highly decorated Special Forces soldier who died by suicide in a
+    Cybertruck explosion on New Year's Day confided to a former
+    girlfriend who had served as an Army nurse that he faced significant
+    pain and exhaustion that she says were key symptoms of traumatic
+    brain injury. Green Beret Matthew Livelsberger, 37, was a five-time
+    recipient of the Bronze Star, including one with a V device for
+    valor under fire. Livelsberger mostly bore that burden in private
+    but recently sought treatment for dep
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·The Hill
+
+    Trump calls for New York judge to be disbarred after hush money conviction advances
+
+    President-elect Trump in a weekend rant turned his ire on the New
+    York judge who ordered sentencing to begin next week in his hush
+    money case, calling him “the most conflicted judge in New York State
+    history.” “I never falsified business records. It is a fake, made up
+    charge by a corrupt judge who is…
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Celebrity·SheKnows
+
+    Prince Harry’s Son Prince Archie Shows Everyone His Daredevil-like Hobby No One Expected
+
+    Prince Harry and Meghan Markle, the Duke and Duchess of Sussex’s
+    children, Prince Archie and Princess Lilibet Diana, are growing up
+    so fast, and now, Archie has a rather sporty, daring hobby that he
+    does with his pops: surfing. Okay, so the photos aren’t available
+    anymore, but here are the details. On Jan 1, surfing …
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Cincinnati.com | The Enquirer
+
+    How many inches of snow could hit Cincinnati? The total forecasted amount has increased
+
+    A winter storm watch has been issued for Greater Cincinnati as a
+    potentially harsh system is forecast to make its way into the area
+    on Sunday.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Entertainment·WHERE IS THE BUZZ
+
+    The Internet Can’t Get Over Salma Hayek’s From Dusk Till Dawn Look — Is It the Best Ever?
+
+    When From Dusk Till Dawn premiered in 1996, it wasn’t just a vampire
+    action film—it was a cinematic moment that gifted audiences one of
+    the most iconic performances in film history. Salma… The post The
+    Internet Can’t Get Over Salma Hayek’s From Dusk Till Dawn Look — Is
+    It the Best Ever? appeared first on Where Is The Buzz | Breaking
+    News, Entertainment, Exclusive Interviews & More.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·CNN
+
+    62 million people under threat of major winter storm set to deliver season’s most significant blow yet
+
+    A massive winter storm poised to unleash a barrage of heavy snow,
+    treacherous ice, rain, and severe thunderstorms across a 1,300-mile
+    swath of the United States will affect an estimated 62 million
+    people starting Saturday afternoon and continuing into Monday.
+
+    7 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Kansas City Star
+
+    Possible blizzard-like winter storm targets KC area. Here’s timing, snowfall predictions
+
+    Although a major winter storm will move into the Kansas City area
+    beginning Saturday afternoon, most of the snow is expected to fall
+    on Sunday.
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Technology·PC Gamer
+
+    'Elon is a father who gets lots of sex' somehow leads to renewed claims that Elon Musk superfan Adrian Dittman is actually Musk himself
+
+    2025 is three days old and I'm already very tired.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·United Press International
+
+    Winter storm could cause severe travel delays, impact 62M over 3 days
+
+    The National Weather Services is predicting a major winter storm
+    stretching 1,300 miles across the central United States and
+    impacting up to 62 million from Saturday through Monday.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·The Hill
+
+    Johnson tells House GOP Trump wants one reconciliation package
+
+    Speaker Mike Johnson (R-La.) told House Republicans on Saturday that
+    President-elect Trump wants to pass one reconciliation package, a
+    strategy that runs counter to the two-bill effort several other GOP
+    lawmakers had been pushing for. Johnson made the announcement during
+    a private House GOP meeting at Fort McNair, five sources in the room
+    told The…
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Benzinga
+
+    Bill Gates Is So Frugal He Wears A $10 Watch But Spent $42,000 In Fines For Manure Bins At His Daughter's $8.7 Million Florida Horse Farm
+
+    Bill Gates is one of the richest men in the world, but he's not
+    exactly clinging to the title. In fact, the Microsoft cofounder has
+    said he wants to fall off the billionaires' list entirely – thanks
+    to his commitment to giving away the majority of his ...
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·Salon
+
+    "Hopefully she has learned her lesson": Trump bashes envoy in announcement of her nomination
+
+    The president-elect admitted he had a history of squabbling with
+    Morgan Ortagus in the score-settling announcement
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·HuffPost
+
+    Liz Cheney Shuts Down Trump's 'Malicious Lies' With Blunt Jan. 6 Reminder
+
+    "Donald, this is not the Soviet Union. You can't change the truth
+    and you cannot silence us," wrote the former congresswoman.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Business·Benzinga
+
+    Cathie Wood Buys 5 Million Shares Of This Aviation Stock Selling For Under $10/Per Share – Is It A Good Buy For You?
+
+    Every great investor has a different favorite sector, but two things
+    they have in common are excellent vision and timing. It's not that
+    they win every time, but more often than not, their instincts are
+    proven right in the long run. With that in mind, ...
+
+    5 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·The Weather Channel
+
+    Winter Storm Blair A Major Snow And Ice Threat Across Central And Eastern US
+
+    A widespread winter storm will stretch from the Plains to the
+    Midwest and mid-Atlantic in the coming days. Here's what to expect.
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·The Hill
+
+    Haberman says hush money sentencing won’t shrink retaliation threat: Trump’s ‘very angry’
+
+    CNN’s political analyst Maggie Haberman said President-elect Trump’s
+    hush money sentencing could end in a public fallout over the New
+    York criminal charges. “He’s very angry about this case in
+    particular. And he may decide that he wants some kind of a display
+    of fighting it,” Haberman said during a Friday evening appearance on
+    “The…
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Associated Press
+
+    Mother and son given lengthy prison terms for their roles in the killings of 8 Ohio family members
+
+    Two more family members convicted in the killings of eight members
+    of an Ohio family received lengthy prison terms on Friday for their
+    roles in the 2016 shootings, as prosecutions near completion in what
+    has been described as the most heinous crime in modern Ohio history.
+    Visiting Judge Jonathan Hein sentenced Edward “Jake” Wagner to life
+    in prison with the chance of parole in 32 years — after 12 years on
+    gun charges and then 20 for the murders of five of the eight
+    victims. It was a surprising
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    World·Reuters
+
+    Zelenskiy reports heavy Russian, N. Korean troop losses in Russia's Kursk
+
+    Ukrainian and Western assessments say that some 11,000 North Korean
+    troops are deployed in the Kursk region, where Ukrainian forces
+    occupy swathes of territory after staging a mass cross-border
+    incursion in August. In his nightly video address, Zelenskiy quoted
+    a report from top Ukrainian commander Oleksandr Syrskyi as saying
+    that the battles had taken place near the village of Makhnovka, not
+    far from the Ukrainian border.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·WFXT
+
+    Video shows man violently slamming woman to the ground in Attleboro road rage incident
+
+    The victim was transported to the hospital with a broken knee, a
+    broken foot, a significant injury to her eye socket, and a very
+    serious injury to her skull.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·Charlotte Observer
+
+    Massive estate is largest home ever sold in Charlotte, Realtor says. Here’s the sale price
+
+    The waterfront estate includes a main house and a guest house,
+    Premier Sotheby’s said.
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Sports·Come Cruise With Me
+
+    Carnival Cruise Line bans popular onboard activity
+
+    The cruise line has been adamant that it's not going to allow
+    passengers to do this anymore.
+
+    3 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·The Auto Wire
+
+    Hellcat Driver Runs From Police, Ejects At 160 MPH
+
+    Police in Arkansas were already on the lookout for a Dodge Charger
+    Hellcat stolen out of Memphis, Tennessee and registered under a fake
+    VIN when a trooper happened to spot the muscle car. Sometimes in
+    these situations the person who ends up with the vehicle has no idea
+    it’s stolen, leaving them in complete shock when police take it
+    away. However, it seems that in this case the driver might have
+    known something about that. C7 Corvette roasts on Florida highway.
+    We say that because when the troope
+
+    2 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    World·AFP
+
+    Gaza truce talks resume in Qatar as violence shows no let-up
+
+    Israel confirmed on Saturday that negotiations for a Gaza ceasefire
+    and hostage release deal had resumed in Qatar, as rescuers said more
+    than 30 people had been killed in fresh bombardment of the
+    territory.As the violence raged, Israeli Defence Minister Israel
+    Katz confirmed that indirect negotiations with Hamas had resumed in
+    Qatar for the release of hostages seized in the October 2023
+    attacks.
+
+    4 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    US·The Hill
+
+    Trump taps ex-Fox News contributor to join State department
+
+    President-elect Trump announced Friday that former Fox News
+    contributor Tammy Bruce is slated to join his State Department later
+    this month. “It is my great honor to announce that Tammy Bruce will
+    be joining our incredible Nominee for United States Secretary of
+    State, Marco Rubio, as Spokesperson for the U.S. Department of
+    State,” he wrote…
+
+    1 min read
+
+    Thanks for your feedback!
+
+-   []
+
+    Politics·MSNBC
+
+    Trump announces his pick for deputy Middle East envoy — and scolds her in the same breath
+
+    “Early on Morgan fought me for three years, but hopefully has
+    learned her lesson,” Trump wrote, adding: "These things usually
+    don't work out."
+
+    2 min read
+
+    Thanks for your feedback!
+
+Next
+
+[]
+
+Something went wrong. Try again.
+
+Refresh Page
+
+[]
 
 Trending Now
 
-   1.2025 Sugar Bowl
-   2.New Orleans Attack
-   3.Las Vegas Explosion
-   4.Russia-Ukraine War
-   5.Winter Storm Snow Forecast
-   6.Us Steel News
-   7.Squid Game
-   8.Jaia Cruz
-   9.Alcohol And Cancer
-   10.Angel Reese
+1.Kansas City Weather
 
-   Advertisement
+2.Medal Of Freedom Recipients
+
+3.Aubrey Plaza
+
+4.Donald Trump
+
+5.Russia-Ukraine War
+
+6.Jimmy Carter
+
+7.Sonny Smart
+
+8.Winter Storms
+
+9.New Orleans Attack
+
+10.Winter Storm Blair
+
+Advertisement
 
 Weather
 
 Meulan-en-Yvelines
 
-   (BUTTON) View your Locations
-   (BUTTON) Remove from favorite locations
-   (BUTTON) Detect my locationView your LocationsPlease enable location
-   service for your browser
-     * Enter City or Zipcode ____________________
-     *
+[]View your Locations
 
-   TodayCloudy. Winds variable at 2 to 6 mph (3.2 to 9.7 kph). The
-   overnight low will be 26 °F (-3.3 °C).
-   40°26°
-   SatMostly cloudy today with a high of 36 °F (2.2 °C) and a low of 26 °F
-   (-3.3 °C). There is a 76% chance of precipitation.
-   36°26°
-   SunShowers today with a high of 54 °F (12.2 °C) and a low of 25 °F
-   (-3.9 °C). There is a 56% chance of precipitation.
-   54°25°
-   MonShowers today with a high of 53 °F (11.7 °C) and a low of 36 °F (2.2
-   °C). There is a 64% chance of precipitation.
-   53°36°
-   See more
-   AccuWeather
+Remove from favorite locations[]
+
+Detect my location[]
+
+Please enable location service for your browser
+
+-   []
+    Enter City or Zipcode
+
+-   
+
+TodayScattered showers with a 77% chance of precipitation. Winds SSW at
+14 to 19 mph (22.5 to 30.6 kph). The overnight low will be 37 °F (2.8
+°C).
+
+54°34°
+
+MonShowers today with a high of 54 °F (12.2 °C) and a low of 37 °F (2.8
+°C). There is a 63% chance of precipitation.
+
+54°37°
+
+TuePartly cloudy today with a high of 46 °F (7.8 °C) and a low of 36 °F
+(2.2 °C). There is a 40% chance of precipitation.
+
+46°36°
+
+WedShowers today with a high of 46 °F (7.8 °C) and a low of 35 °F (1.7
+°C). There is a 81% chance of precipitation.
+
+46°35°
+
+See more
+
+[AccuWeather]
 
 Scoreboard
 
-   Change Sports to display different scores[Trending  ]
-   (BUTTON) Yesterday (BUTTON) Today (BUTTON) Tomorrow
-     * IND
-       128
-       Final
-       MIA
-       115
-     * BOS
-       118
-       Final
-       MIN
-       115
-     * BKN
-       113
-       Final
-       MIL
-       110
+Change Sports to display different
+scoresTrending  MLB  NBA  NCAAB  NCAAF  NFL  NHL  
 
-   See more
+Yesterday
 
-   Advertisement
+Today
+
+Tomorrow
+
+-   
+    []CIN
+
+    2:00 AM CET
+
+    []PIT
+-   
+    []CAR
+
+    7:00 PM CET
+
+    []ATL
+-   
+    []WAS
+
+    7:00 PM CET
+
+    []DAL
+
+See more
+
+Advertisement
 
 Daily Horoscope
 
-   Change your horoscope sign[Capricorn__]
+Change your horoscope
+signAquariusAriesCancerCapricornGeminiLeoLibraPiscesSagittariusScorpioTaurusVirgo
 
-   January 3 -You've got a deep well of compassion to draw on, and now you
-   need to do just that. People are in serious need! You may find one case
-   that needs your attention, or you may start to think big.
-   See more
+[]
 
-   Advertisement
+January 5 -You could have a hard time reaching a decision even if you
+were sure you knew what you wanted yesterday. It's just one of those
+days when information overload leads to indecision. It will pass.
 
-   ADVERTISEMENT
+See more
 
-   (BUTTON) Close this content, you can also use the Escape key at anytime
-   ADVERTISEMENT
+Advertisement
 
-Up next
+ADVERTISEMENT
 
-   ADVERTISEMENT
+[]Close this content, you can also use the Escape key at anytime
 
-Up next
-
-   ADVERTISEMENT
+ADVERTISEMENT
 
 Up next
 
-   ADVERTISEMENT
+ADVERTISEMENT
 
 Up next
 
-   ADVERTISEMENT
+ADVERTISEMENT
 
 Up next
 
-   [p?c1=2&c2=7241469&c5=2023538075&c7=https%3A%2F%2Fwww.yahoo.com%2F&c14=
-   -1]
+ADVERTISEMENT
+
+Up next
+
+ADVERTISEMENT
+
+Up next
+
+[]
+
+[]

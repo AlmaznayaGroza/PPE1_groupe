@@ -1,522 +1,576 @@
-   IFRAME: https://gtm-server.healthline.com/ns.html?id=GTM-MB6365D
+[][][][][]
 
-   (BUTTON)
-     * (BUTTON) Health Conditions
+[]
 
-Health Conditions
-          + Alzheimer's & Dementia
-          + Anxiety
-          + Asthma & Allergies
-          + Atopic Dermatitis
-          + Breast Cancer
-          + Cancer
-          + Cardiovascular Health
-          + COVID-19
-          + Diabetes
-          + Environment & Sustainability
-          + Exercise & Fitness
-          + Eye Health
-          + Headache & Migraine
-          + Health Equity
-          + HIV & AIDS
-          + Human Biology
-          + Leukemia
-          + LGBTQIA+
-          + Men's Health
-          + Mental Health
-          + Multiple Sclerosis (MS)
-          + Nutrition
-          + Parkinson's Disease
-          + Psoriasis
-          + Psoriatic Arthritis
-          + Sexual Health
-          + Ulcerative Colitis
-          + Women's Health
-     * (BUTTON) Health Products
+[]
 
-Health Products
-       All
-          + Nutrition & Fitness
-          + Vitamins & Supplements
-          + CBD
-          + Sleep
-          + Mental Health
-          + At-Home Testing
-          + Men’s Health
-          + Women’s Health
-     * (BUTTON) Discover
+-   Health Conditions[]
+    Health Conditions
 
-News
-          + Latest News
+    -   Alzheimer's & Dementia
+    -   Anxiety
+    -   Asthma & Allergies
+    -   Atopic Dermatitis
+    -   Breast Cancer
+    -   Cancer
+    -   Cardiovascular Health
+    -   COVID-19
+    -   Diabetes
+    -   Environment & Sustainability
+    -   Exercise & Fitness
+    -   Eye Health
+    -   Headache & Migraine
+    -   Health Equity
+    -   HIV & AIDS
+    -   Human Biology
+    -   Leukemia
+    -   LGBTQIA+
+    -   Men's Health
+    -   Mental Health
+    -   Multiple Sclerosis (MS)
+    -   Nutrition
+    -   Parkinson's Disease
+    -   Psoriasis
+    -   Psoriatic Arthritis
+    -   Sexual Health
+    -   Ulcerative Colitis
+    -   Women's Health
+-   Health Products[]
+    Health Products
 
-Original Series
-          + Medical Myths
-          + Honest Nutrition
-          + Through My Eyes
-          + New Normal Health
+    All
+    -   Nutrition & Fitness
+    -   Vitamins & Supplements
+    -   CBD
+    -   Sleep
+    -   Mental Health
+    -   At-Home Testing
+    -   Men’s Health
+    -   Women’s Health
+-   Discover[]
+    News
 
-Podcasts
-       All
-          + 5 things everyone should know about menopause
-          + 3 ways to slow down type 2 diabetes-related brain aging
-          + Toxic metals in tampons: Should you be worried?
-          + Can tattoos cause blood or skin cancer?
-          + Can we really ‘outrun the Grim Reaper’?
-          + What makes a diet truly heart-healthy?
-     * (BUTTON) Tools
+    -   Latest News
 
-General Health
-          + Drugs A-Z
-          + Health Hubs
-          + Newsletter
+    Original Series
 
-Health Tools
-          + Find a Doctor
-          + BMI Calculators and Charts
-          + Blood Pressure Chart: Ranges and Guide
-          + Breast Cancer: Self-Examination Guide
-          + Sleep Calculator
+    -   Medical Myths
+    -   Honest Nutrition
+    -   Through My Eyes
+    -   New Normal Health
 
-Quizzes
-          + RA Myths vs Facts
-          + Type 2 Diabetes: Managing Blood Sugar
-          + Ankylosing Spondylitis Pain: Fact or Fiction
-     * (BUTTON) Connect
+    Podcasts
 
-About Medical News Today
-          + Who We Are
-          + Our Editorial Process
-          + Content Integrity
-          + Conscious Language
+    All
+    -   5 things everyone should know about menopause
+    -   3 ways to slow down type 2 diabetes-related brain aging
+    -   Toxic metals in tampons: Should you be worried?
+    -   Can tattoos cause blood or skin cancer?
+    -   Can we really ‘outrun the Grim Reaper’?
+    -   What makes a diet truly heart-healthy?
+-   Tools[]
+    General Health
 
-Find Community
-          + Bezzy Breast Cancer
-          + Bezzy MS
-          + Bezzy IBD
-          + Bezzy Psoriasis
+    -   Drugs A-Z
+    -   Health Hubs
+    -   Newsletter
 
-Follow Us
+    Health Tools
 
-   (BUTTON) Subscribe
-   (BUTTON)
+    -   Find a Doctor
+    -   BMI Calculators and Charts
+    -   Blood Pressure Chart: Ranges and Guide
+    -   Breast Cancer: Self-Examination Guide
+    -   Sleep Calculator
+
+    Quizzes
+
+    -   RA Myths vs Facts
+    -   Type 2 Diabetes: Managing Blood Sugar
+    -   Ankylosing Spondylitis Pain: Fact or Fiction
+-   Connect[]
+    About Medical News Today
+
+    -   Who We Are
+    -   Our Editorial Process
+    -   Content Integrity
+    -   Conscious Language
+
+    Find Community
+
+    -   Bezzy Breast Cancer
+    -   Bezzy MS
+    -   Bezzy IBD
+    -   Bezzy Psoriasis
+
+    Follow Us
+
+Subscribe
 
 How does the human brain create consciousness, and why?
 
-   Written by James Kingsland on January 21, 2023 — Fact checked by
-   Harriet Pike, Ph.D.
+[]
 
-   Scientists and philosophers have long struggled to explain how the
-   brain generates conscious experiences. Some doubt whether the objective
-   tools of science can ever get to grips with a phenomenon that is so
-   subjective. Even so, researchers have begun to identify the changes in
-   brain activity that accompany awareness, and they also have some
-   fascinating ideas about why consciousness evolved.
-   black and white photo portrait of female presenting person with color
-   pop blue wires layered over their eyes Share on PinterestHow much do we
-   really know about human consciousness? Image credit: Oxana
-   Pervomay/Stocksy.
+Written by James Kingsland on January 21, 2023 — Fact checked by Harriet
+Pike, Ph.D.
 
-   How the brain conjures conscious awareness from the electrical activity
-   of billions of individual nerve cells remains one of the great
-   unanswered questions of life.
+Scientists and philosophers have long struggled to explain how the brain
+generates conscious experiences. Some doubt whether the objective tools
+of science can ever get to grips with a phenomenon that is so
+subjective. Even so, researchers have begun to identify the changes in
+brain activity that accompany awareness, and they also have some
+fascinating ideas about why consciousness evolved.
 
-   Each of us knows that we are conscious, in terms of having thoughts,
-   perceptions, and feelings, but we are unable to prove it to anyone
-   else. Only we have access to the mysterious essence that allows us to
-   experience those thoughts, perceptions, and feelings.
+[black and white photo portrait of female presenting person with color
+pop blue wires layered over their eyes]Share on Pinterest
 
-   In the 1990s, the philosopher David Chalmers described this
-   inaccessibility to external, objective scrutiny as the “hard problem”
-   of consciousness.
+How much do we really know about human consciousness? Image credit:
+Oxana Pervomay/Stocksy.
 
-   He proposed that an easier task for scientists to tackle would be its
-   “neural correlates” — where and how brain activity changes when people
-   have conscious experiences.
+How the brain conjures conscious awareness from the electrical activity
+of billions of individual nerve cells remains one of the great
+unanswered questions of life.
 
-   Apart from curiosity, scientists are most likely motivated to discover
-   the neural correlates of consciousness in order to help diagnose and
-   treat disorders of consciousness, such as persistent vegetative states
-   and some psychiatric disorders.
+Each of us knows that we are conscious, in terms of having thoughts,
+perceptions, and feelings, but we are unable to prove it to anyone else.
+Only we have access to the mysterious essence that allows us to
+experience those thoughts, perceptions, and feelings.
 
-   Three dimensions of consciousness
+In the 1990s, the philosopher David Chalmers described this
+inaccessibility to external, objective scrutiny as the “hard problem” of
+consciousness.
 
-   Consciousness has several distinct dimensions that they can measure.
-   Three of the most important ones are:
-     * wakefulness or physiological arousal
-     * awareness or the ability to have conscious mental experiences,
-       including thoughts, feelings, and perceptions
-     * sensory organization, or how different perceptions and more
-       abstract concepts become woven together to create a seamless
-       conscious experience.
+He proposed that an easier task for scientists to tackle would be its
+“neural correlates” — where and how brain activity changes when people
+have conscious experiences.
 
-   These three dimensions interact to produce our overall state of
-   consciousness from moment to moment. For example, when wide awake, we
-   are in a state of high awareness, but as we drift off to sleep at
-   night, both wakefulness and awareness subside.
+Apart from curiosity, scientists are most likely motivated to discover
+the neural correlates of consciousness in order to help diagnose and
+treat disorders of consciousness, such as persistent vegetative states
+and some psychiatric disorders.
 
-   Awareness and physiological arousal return during REM (rapid eye
-   movement) sleep, which is when vivid dreams are mostly likely to occur.
-   But these sensory experiences are mostly disconnected from external
-   stimuli and detached from the concepts that anchor us to reality while
-   we are awake.
+Three dimensions of consciousness
 
-   In a similar way, altered states of consciousness, such as those
-   induced by psychedelic drugs or low oxygen levels, involve normal
-   levels of arousal but disorganized sensory experiences.
+Consciousness has several distinct dimensions that they can measure.
+Three of the most important ones are:
 
-   These can include hallucinations of sounds, smells, or sights, but also
-   synesthesia, when there is cross-talk between usually discrete senses,
-   such as sounds that evoke visual experiences.
+-   wakefulness or physiological arousal
+-   awareness or the ability to have conscious mental experiences,
+    including thoughts, feelings, and perceptions
+-   sensory organization, or how different perceptions and more abstract
+    concepts become woven together to create a seamless conscious
+    experience.
 
-   People in a coma, or under anesthesia, can have levels of wakefulness
-   and awareness that are even lower than during non-REM sleep.
+These three dimensions interact to produce our overall state of
+consciousness from moment to moment. For example, when wide awake, we
+are in a state of high awareness, but as we drift off to sleep at night,
+both wakefulness and awareness subside.
 
-   Meanwhile, in a strange hybrid state of consciousness known as
-   unresponsive wakefulness syndrome, or a vegetative state, patients
-   undergo daily cycles of sleep and wakefulness, but without showing any
-   sign of awareness.
+Awareness and physiological arousal return during REM (rapid eye
+movement) sleep, which is when vivid dreams are mostly likely to occur.
+But these sensory experiences are mostly disconnected from external
+stimuli and detached from the concepts that anchor us to reality while
+we are awake.
 
-   Despite spending long periods with their eyes open, they do not exhibit
-   behavioral responses to external stimuli.
+In a similar way, altered states of consciousness, such as those induced
+by psychedelic drugs or low oxygen levels, involve normal levels of
+arousal but disorganized sensory experiences.
 
-   Some of these patients will recover limited signs of awareness, known
-   as a “minimally conscious state,” such as the ability to respond to
-   instructions or follow a moving object with their eyes.
+These can include hallucinations of sounds, smells, or sights, but also
+synesthesia, when there is cross-talk between usually discrete senses,
+such as sounds that evoke visual experiences.
 
-   The neural correlates of consciousness
+People in a coma, or under anesthesia, can have levels of wakefulness
+and awareness that are even lower than during non-REM sleep.
 
-   Patients in different states of consciousness have provided vital clues
-   about the neural correlates of consciousness.
+Meanwhile, in a strange hybrid state of consciousness known as
+unresponsive wakefulness syndrome, or a vegetative state, patients
+undergo daily cycles of sleep and wakefulness, but without showing any
+sign of awareness.
 
-   Techniques such as functional magnetic resonance imaging (fMRI) and
-   electroencephalography (EEG) have revealed the neural activity that
-   accompanies these states.
+Despite spending long periods with their eyes open, they do not exhibit
+behavioral responses to external stimuli.
 
-   Scientists detect patterns of activity through measures of functional
-   connectivity, using statistical techniques to reveal correlations
-   between the timing of neural events in different parts of the brain.
+Some of these patients will recover limited signs of awareness, known as
+a “minimally conscious state,” such as the ability to respond to
+instructions or follow a moving object with their eyes.
 
-   This reveals the networks of brain regions that are involved in working
-   memory, attention, and mind-wandering, for example.
+The neural correlates of consciousness
 
-   When they combine data from fMRI and EEG, researchers discover that
-   activity deep inside the brain, in the thalamus, varies during
-   wakefulness in step with activity in the default mode network.
+Patients in different states of consciousness have provided vital clues
+about the neural correlates of consciousness.
 
-   The thalamus operates like a sensory relay station, while the default
-   mode network is a collection of regions within the cortex — the
-   outermost layer of the brain — that are intimately involved in
-   mind-wandering and self-awareness.
+Techniques such as functional magnetic resonance imaging (fMRI) and
+electroencephalography (EEG) have revealed the neural activity that
+accompanies these states.
 
-   By contrast, during non-REM sleep and under anesthetic, functional
-   connectivity breaks down between the thalamus and the default mode
-   network and cortical networks that are involved in attention.
+Scientists detect patterns of activity through measures of functional
+connectivity, using statistical techniques to reveal correlations
+between the timing of neural events in different parts of the brain.
 
-   In disorders of consciousness, researchers can see reduced functional
-   connectivity and physical damage that affects the connections between
-   the cortex and deep brain structures.
+This reveals the networks of brain regions that are involved in working
+memory, attention, and mind-wandering, for example.
 
-   This demonstrates how important these connections are for maintaining
-   wakefulness and information exchange across the brain.
+When they combine data from fMRI and EEG, researchers discover that
+activity deep inside the brain, in the thalamus, varies during
+wakefulness in step with activity in the default mode network.
 
-   The terrain of brain activity
+The thalamus operates like a sensory relay station, while the default
+mode network is a collection of regions within the cortex — the
+outermost layer of the brain — that are intimately involved in
+mind-wandering and self-awareness.
 
-   Despite advances in our understanding of the neural correlates of
-   consciousness, however, doctors still have trouble diagnosing patients
-   who are unable to respond to questions or commands.
+By contrast, during non-REM sleep and under anesthetic, functional
+connectivity breaks down between the thalamus and the default mode
+network and cortical networks that are involved in attention.
 
-   They cannot tell whether such a patient is completely unconscious,
-   conscious but disconnected from external stimuli, or conscious and
-   aware of their environment, but unable to respond.
+In disorders of consciousness, researchers can see reduced functional
+connectivity and physical damage that affects the connections between
+the cortex and deep brain structures.
 
-   A completely new approach, reported recently in Nature Communications,
-   may provide a way to assess such a patient’s wakefulness, awareness,
-   and sensory organization.
+This demonstrates how important these connections are for maintaining
+wakefulness and information exchange across the brain.
 
-   Rather than recording the activity in particular brain regions or
-   networks of regions, the new technique measures gradients of activity
-   across the brain.
+The terrain of brain activity
 
-   This is analogous to recording the steepness of terrain on a map, and
-   how that steepness might change over time, rather than just the
-   locations of roads, towns, and villages.
+Despite advances in our understanding of the neural correlates of
+consciousness, however, doctors still have trouble diagnosing patients
+who are unable to respond to questions or commands.
 
-   This innovative way of investigating brain activity, which considers
-   how functional geometry shapes temporal dynamics, takes into account
-   the fact that each region and network has multiple functions and
-   connections.
+They cannot tell whether such a patient is completely unconscious,
+conscious but disconnected from external stimuli, or conscious and aware
+of their environment, but unable to respond.
 
-   “Consciousness is complex and studying it is like solving a scrambled
-   Rubik’s cube,” says first author Dr. Zirui Huang, research assistant
-   professor at the University of Michigan Medical School Department of
-   Anesthesiology.
+A completely new approach, reported recently in Nature Communications,
+may provide a way to assess such a patient’s wakefulness, awareness, and
+sensory organization.
 
-   “If you look at just a single surface, you may be confused by the way
-   it is organized. You need to work on the puzzle looking at all
-   dimensions,” he adds.
+Rather than recording the activity in particular brain regions or
+networks of regions, the new technique measures gradients of activity
+across the brain.
 
-   Three gradients of consciousness
+This is analogous to recording the steepness of terrain on a map, and
+how that steepness might change over time, rather than just the
+locations of roads, towns, and villages.
 
-   Dr. Huang and his colleagues looked at how gradients of neural activity
-   — as measured by fMRI — changed with the three main dimensions of
-   consciousness:
-     * arousability or wakefulness
-     * awareness
-     * sensory integration.
+This innovative way of investigating brain activity, which considers how
+functional geometry shapes temporal dynamics, takes into account the
+fact that each region and network has multiple functions and
+connections.
 
-   The researchers drew on existing fMRI data recorded from the brains of
-   people who were awake, under anesthetic, in a so-called vegetative
-   state — known as “unresponsive wakefulness syndrome” — or who had a
-   psychiatric diagnosis such as schizophrenia.
+“Consciousness is complex and studying it is like solving a scrambled
+Rubik’s cube,” says first author Dr. Zirui Huang, research assistant
+professor at the University of Michigan Medical School Department of
+Anesthesiology.
 
-   They discovered an activity gradient that corresponded to changes in
-   arousal levels that stretched from the visual and default mode areas to
-   networks involved in attention.
+“If you look at just a single surface, you may be confused by the way it
+is organized. You need to work on the puzzle looking at all dimensions,”
+he adds.
 
-   Another gradient changed in step with awareness and stretched from
-   regions involved in perception and action to regions responsible for
-   the integration of information and formation of abstract concepts.
+Three gradients of consciousness
 
-   A third gradient, linked to sensory organization, spanned the visual
-   system and the somatomotor cortex, which helps to control movement.
+Dr. Huang and his colleagues looked at how gradients of neural activity
+— as measured by fMRI — changed with the three main dimensions of
+consciousness:
 
-   “We demonstrated that disruptions of human consciousness — due to
-   pharmacological, neuropathological, or psychiatric causes — are
-   associated with a degradation of one or more of the major cortical
-   gradients depending on the state,” notes Dr. Huang.
+-   arousability or wakefulness
+-   awareness
+-   sensory integration.
 
-   He told Medical News Today that some patients who are unable to respond
-   in any way may still be conscious. “It is therefore important to
-   develop behavior-independent and task-independent approaches to
-   assessment,” he said.
+The researchers drew on existing fMRI data recorded from the brains of
+people who were awake, under anesthetic, in a so-called vegetative state
+— known as “unresponsive wakefulness syndrome” — or who had a
+psychiatric diagnosis such as schizophrenia.
 
-   “According to our work, cortical gradient measurements have the
-   potential to reduce the uncertainty of clinical assessment of
-   consciousness in those patients,” he added.
+They discovered an activity gradient that corresponded to changes in
+arousal levels that stretched from the visual and default mode areas to
+networks involved in attention.
 
-   Transcranial magnetic stimulation
+Another gradient changed in step with awareness and stretched from
+regions involved in perception and action to regions responsible for the
+integration of information and formation of abstract concepts.
 
-   Scientists like Dr. Huang have discovered a lot about its neural
-   correlates, but their findings do not shed much light on how the brain
-   generates consciousness — the “hard problem”.
+A third gradient, linked to sensory organization, spanned the visual
+system and the somatomotor cortex, which helps to control movement.
 
-   Other scientists have argued that to learn more about the causes of
-   consciousness, you have to manipulate brain activity and see what
-   happens.
+“We demonstrated that disruptions of human consciousness — due to
+pharmacological, neuropathological, or psychiatric causes — are
+associated with a degradation of one or more of the major cortical
+gradients depending on the state,” notes Dr. Huang.
 
-   Transcranial magnetic stimulation, or TMS, is a noninvasive technique
-   that changes brain activity in a tightly controlled way.
+He told Medical News Today that some patients who are unable to respond
+in any way may still be conscious. “It is therefore important to develop
+behavior-independent and task-independent approaches to assessment,” he
+said.
 
-   The technique involves passing a strong electrical pulse through a
-   conductive coil held close to the participant’s head, creating a brief
-   magnetic pulse that induces electrical activity in the part of the
-   brain closest to the coil.
+“According to our work, cortical gradient measurements have the
+potential to reduce the uncertainty of clinical assessment of
+consciousness in those patients,” he added.
 
-   This boosts the electrical activity of millions of neurons within a
-   region just a few centimeters in diameter.
+Transcranial magnetic stimulation
 
-   In an awake participant, a TMS pulse triggers a complex chain of
-   activity across multiple cortical areas, whereas in non-REM sleep, the
-   same pulse has a much briefer, more localized effect.
+Scientists like Dr. Huang have discovered a lot about its neural
+correlates, but their findings do not shed much light on how the brain
+generates consciousness — the “hard problem”.
 
-   During REM sleep, however, the pulse evokes a pattern of activity
-   similar to that seen in the brain of a person who is wide awake.
+Other scientists have argued that to learn more about the causes of
+consciousness, you have to manipulate brain activity and see what
+happens.
 
-   Intriguingly, in patients who are awake but in a vegetative state, TMS
-   induces short-lived, local effects that are similar to those seen
-   during the non-REM sleep of a healthy person.
+Transcranial magnetic stimulation, or TMS, is a noninvasive technique
+that changes brain activity in a tightly controlled way.
 
-   But in the brain of awake, minimally conscious patients, TMS evokes a
-   similar response to that seen in healthy, awake people.
+The technique involves passing a strong electrical pulse through a
+conductive coil held close to the participant’s head, creating a brief
+magnetic pulse that induces electrical activity in the part of the brain
+closest to the coil.
 
-   Researchers have therefore concluded that the complexity and spatial
-   extent of communication between brain regions subsides as levels of
-   wakefulness and awareness fall.
+This boosts the electrical activity of millions of neurons within a
+region just a few centimeters in diameter.
 
-   Theories of consciousness
+In an awake participant, a TMS pulse triggers a complex chain of
+activity across multiple cortical areas, whereas in non-REM sleep, the
+same pulse has a much briefer, more localized effect.
 
-   Despite advances in our understanding of the neural correlates of
-   consciousness, the question remains: How does consciousness arise from
-   brain activity?
+During REM sleep, however, the pulse evokes a pattern of activity
+similar to that seen in the brain of a person who is wide awake.
 
-   Scientists have proposed several theories. Two prominent ideas are
-   global neuronal workspace theory (GNWT) and integrated information
-   theory (IIT).
+Intriguingly, in patients who are awake but in a vegetative state, TMS
+induces short-lived, local effects that are similar to those seen during
+the non-REM sleep of a healthy person.
+
+But in the brain of awake, minimally conscious patients, TMS evokes a
+similar response to that seen in healthy, awake people.
+
+Researchers have therefore concluded that the complexity and spatial
+extent of communication between brain regions subsides as levels of
+wakefulness and awareness fall.
+
+Theories of consciousness
+
+Despite advances in our understanding of the neural correlates of
+consciousness, the question remains: How does consciousness arise from
+brain activity?
+
+Scientists have proposed several theories. Two prominent ideas are
+global neuronal workspace theory (GNWT) and integrated information
+theory (IIT).
 
 Global neuronal workspace
 
-   In brief, GNWT proposes that there is a network of long-range
-   connections that span the brain, called the global workspace.
+In brief, GNWT proposes that there is a network of long-range
+connections that span the brain, called the global workspace.
 
-   Neural information becomes conscious when it gains access to this
-   workspace, which allows it to be broadcast throughout the brain,
-   including to specialized hubs for memory, perception, motor output, and
-   attention.
+Neural information becomes conscious when it gains access to this
+workspace, which allows it to be broadcast throughout the brain,
+including to specialized hubs for memory, perception, motor output, and
+attention.
 
-   Crucially, it is a case of “winner takes all” for a particular
-   interpretation of sensory data when it gains access to the global
-   workspace.
+Crucially, it is a case of “winner takes all” for a particular
+interpretation of sensory data when it gains access to the global
+workspace.
 
-   According to Prof. Michael Graziano, professor of psychology and
-   neuroscience at the Princeton Neuroscience Institute, NJ, and Dr.
-   AaronSchurger, assistant professor in the Crean College of Health and
-   Behavioral Sciences at Chapman University in Irvine, CA, this explains,
-   for example, “bistable” optical illusions.
+According to Prof. Michael Graziano, professor of psychology and
+neuroscience at the Princeton Neuroscience Institute, NJ, and Dr.
+AaronSchurger, assistant professor in the Crean College of Health and
+Behavioral Sciences at Chapman University in Irvine, CA, this explains,
+for example, “bistable” optical illusions.
 
-   Two examples of these are the Necker cube and face-vase illusion, in
-   which conscious awareness switches between two alternative
-   interpretations of the same sensory data.
+Two examples of these are the Necker cube and face-vase illusion, in
+which conscious awareness switches between two alternative
+interpretations of the same sensory data.
 
 Integrated information
 
-   The communication and integration of information between brain regions
-   is at the heart of many theories of consciousness.
+The communication and integration of information between brain regions
+is at the heart of many theories of consciousness.
 
-   One of these, IIT, uses a complex equation to calculate an entity’s
-   degree of consciousness from how well it integrates information.
+One of these, IIT, uses a complex equation to calculate an entity’s
+degree of consciousness from how well it integrates information.
 
-   According to the equation, even inanimate objects such as rocks and
-   teapots have a glimmer of consciousness.
+According to the equation, even inanimate objects such as rocks and
+teapots have a glimmer of consciousness.
 
-   This is in keeping with the philosophical theory of panpsychism, which
-   proposes that consciousness is a fundamental property of all physical
-   systems.
+This is in keeping with the philosophical theory of panpsychism, which
+proposes that consciousness is a fundamental property of all physical
+systems.
 
 How it feels to control attention
 
-   Prof. Graziano has a problem with all these theories of consciousness.
-   He argues that they cannot even be termed theories because they do not
-   actually explain consciousness, they only describe it.
+Prof. Graziano has a problem with all these theories of consciousness.
+He argues that they cannot even be termed theories because they do not
+actually explain consciousness, they only describe it.
 
-   He likens this to the difference between Newton’s law of gravitation,
-   which is an equation that calculates gravitational force, and
-   Einstein’s theory of general relativity, which explains what gravity
-   actually is.
+He likens this to the difference between Newton’s law of gravitation,
+which is an equation that calculates gravitational force, and Einstein’s
+theory of general relativity, which explains what gravity actually is.
 
-   Prof. Graziano’s own theory of consciousness, the attention schema
-   theory, or AST, does not claim to have cracked the hard problem of
-   consciousness, but instead seeks to explain why we believe we are
-   conscious.
+Prof. Graziano’s own theory of consciousness, the attention schema
+theory, or AST, does not claim to have cracked the hard problem of
+consciousness, but instead seeks to explain why we believe we are
+conscious.
 
-   According to AST, animal brains evolved a model — or schema — of their
-   current state of attention that they could use to predict and control
-   their ongoing focus of attention.
+According to AST, animal brains evolved a model — or schema — of their
+current state of attention that they could use to predict and control
+their ongoing focus of attention.
 
-   In order to control our bodies, the brain uses an internal model of our
-   limbs, their location in space, and how they work. Prof. Graziano
-   believes the control of attention is no different.
+In order to control our bodies, the brain uses an internal model of our
+limbs, their location in space, and how they work. Prof. Graziano
+believes the control of attention is no different.
 
-   What is more, he argues that the attention schema leads people to
-   believe that they have an internal essence —consciousness — that allows
-   them to focus their attention.
+What is more, he argues that the attention schema leads people to
+believe that they have an internal essence —consciousness — that allows
+them to focus their attention.
 
-   Content-free awareness
+Content-free awareness
 
-   Amazingly, expert meditators may be able to achieve a state of pure
-   awareness, free from any thoughts, perceptions, feelings, or even a
-   sense of selfhood, time, or space.
+Amazingly, expert meditators may be able to achieve a state of pure
+awareness, free from any thoughts, perceptions, feelings, or even a
+sense of selfhood, time, or space.
 
-   This special state of consciousness has provided more clues about the
-   neural correlates of consciousness.
+This special state of consciousness has provided more clues about the
+neural correlates of consciousness.
 
-   Researchers at the University of Freiburg in Germany used EEG to study
-   the brain of a former Buddhist monk who described this as a “clear,
-   aware openness.”
+Researchers at the University of Freiburg in Germany used EEG to study
+the brain of a former Buddhist monk who described this as a “clear,
+aware openness.”
 
-   They found that content-free awareness was associated with a sharp fall
-   in alpha waves and an increase in theta waves.
+They found that content-free awareness was associated with a sharp fall
+in alpha waves and an increase in theta waves.
 
-   There was also a decoupling of the activity of the sensory cortex and
-   dorsal attention network, but strong activity within the attention
-   network itself. Meanwhile, there was a decline in the activity of the
-   default mode network.
+There was also a decoupling of the activity of the sensory cortex and
+dorsal attention network, but strong activity within the attention
+network itself. Meanwhile, there was a decline in the activity of the
+default mode network.
 
-   Prof. Graziano said content-free awareness in meditation may correspond
-   to the predictive model of attention described in his theory.
+Prof. Graziano said content-free awareness in meditation may correspond
+to the predictive model of attention described in his theory.
 
-   He told MNT:
+He told MNT:
 
-     “I think the model of attention, representing the property of
-     attention itself, is possible to construct in isolation,
-     unassociated with a thing to which you are attending. It may indeed
-     be the content-free awareness that meditators talk about. I do think
-     that meditation is essentially practice in using your attention
-     schema.”
+  “I think the model of attention, representing the property of
+  attention itself, is possible to construct in isolation, unassociated
+  with a thing to which you are attending. It may indeed be the
+  content-free awareness that meditators talk about. I do think that
+  meditation is essentially practice in using your attention schema.”
 
-   Even without thoughts, sensations, or feelings, it seems the mysterious
-   essence of conscious awareness remains.
-     * Neurology / Neuroscience
-     * Psychology / Psychiatry
-     * Sleep / Sleep Disorders / Insomnia
+Even without thoughts, sensations, or feelings, it seems the mysterious
+essence of conscious awareness remains.
 
-   Share this article
-   Written by James Kingsland on January 21, 2023 — Fact checked by
-   Harriet Pike, Ph.D.
+-   Neurology / Neuroscience
+-   Psychology / Psychiatry
+-   Sleep / Sleep Disorders / Insomnia
+
+Share this article
+
+[]
+
+Written by James Kingsland on January 21, 2023 — Fact checked by Harriet
+Pike, Ph.D.
 
 Latest news
 
-     * Danish studies find higher risk of optic nerve damage with Ozempic
-     * 3 ways to boost longevity in 2025
-     * Antibiotic use does not increase dementia risk, study suggests
-     * Insufficient sleep and high blood pressure may raise risk of brain
-       aging
-     * Why getting more deep sleep may help improve memory
+-   
+    Cells all over the body store 'memories': What does this mean for
+    health?
+-   
+    In-ear microphones could help doctors 'listen' for early signs of
+    Alzheimer's
+-   
+    Danish studies find higher risk of optic nerve damage with Ozempic
+-   
+    3 ways to boost longevity in 2025
+-   
+    Antibiotic use does not increase dementia risk, study suggests
 
 Related Coverage
 
-     * The science behind lucid dreaming
-       This special feature explores the science behind lucid dreaming, an
-       experience in which a person realizes they are dreaming as they
-       continue to dream.
-       READ MORE
-     *
-     * Age-related memory loss: Can we prevent or even reverse it?
-       This Special Feature looks at age-related memory loss. What is
-       normal, and what might be a sign of dementia? And can we ever
-       reverse memory loss?
-       READ MORE
-     * Can scientists 'hack' memory?
-       Is it possible to manipulate memory formation and consolidation?
-       And why would we want to do it? We explore these questions in this
-       Spotlight feature.
-       READ MORE
-     * Déjà vu: Re-experiencing the unexperienced
-       Here, we explore the common phenomenon of déjà vu: that odd sense
-       that something wholly unfamiliar is, for a fleeting moment,
-       strangely familiar.
-       READ MORE
-     * What to know about absence of the septum pellucidum (ASP)
-       Medically reviewed by Seunggu Han, M.D.
-       Absence of the septum pellucidum (ASP) is a rare condition where
-       the membrane in the middle of the brain is missing. Read more.
-       READ MORE
+-   
 
-     * About Us
-     * Contact Us
-     * Terms of Use
-     * Privacy Policy
-     * Privacy Settings
-     * Advertising Policy
+    The science behind lucid dreaming
+    This special feature explores the science behind lucid dreaming, an
+    experience in which a person realizes they are dreaming as they
+    continue to dream.
 
-     * Health Topics
-     * Health Hubs
-     * Medical Affairs
-     * Content Integrity
-     * Newsletters
-     * © 2025 Healthline Media UK Ltd, Brighton, UK. All rights reserved.
-       MNT is the registered trade mark of Healthline Media. Healthline
-       Media is an RVO Health Company. Any medical information published
-       on this website is not intended as a substitute for informed
-       medical advice and you should not take any action before consulting
-       with a healthcare professional. See additional information.
+    READ MORE
 
-   © 2025 Healthline Media UK Ltd, Brighton, UK. All rights reserved. MNT
-   is the registered trade mark of Healthline Media. Healthline Media is
-   an RVO Health Company. Any medical information published on this
-   website is not intended as a substitute for informed medical advice and
-   you should not take any action before consulting with a healthcare
-   professional. See additional information.
-   AboutCareersAdvertise with us
+-   
 
-   OUR BRANDS
-   HealthlineMedical News TodayGreatistPsych CentralBezzy
+-   
+
+    Age-related memory loss: Can we prevent or even reverse it?
+    This Special Feature looks at age-related memory loss. What is
+    normal, and what might be a sign of dementia? And can we ever
+    reverse memory loss?
+
+    READ MORE
+
+-   
+
+    Can scientists 'hack' memory?
+    Is it possible to manipulate memory formation and consolidation? And
+    why would we want to do it? We explore these questions in this
+    Spotlight feature.
+
+    READ MORE
+
+-   
+
+    Déjà vu: Re-experiencing the unexperienced
+    Here, we explore the common phenomenon of déjà vu: that odd sense
+    that something wholly unfamiliar is, for a fleeting moment,
+    strangely familiar.
+
+    READ MORE
+
+-   
+
+    What to know about absence of the septum pellucidum (ASP)
+
+    Medically reviewed by Seunggu Han, M.D.
+
+    Absence of the septum pellucidum (ASP) is a rare condition where the
+    membrane in the middle of the brain is missing. Read more.
+
+    READ MORE
+
+-   About Us
+-   Contact Us
+-   Terms of Use
+-   Privacy Policy
+-   Privacy Settings
+-   Advertising Policy
+
+-   Health Topics
+
+-   Health Hubs
+
+-   Medical Affairs
+
+-   Content Integrity
+
+-   Newsletters
+
+-   © 2025 Healthline Media UK Ltd, Brighton, UK. All rights reserved.
+    MNT is the registered trade mark of Healthline Media. Healthline
+    Media is an RVO Health Company. Any medical information published on
+    this website is not intended as a substitute for informed medical
+    advice and you should not take any action before consulting with a
+    healthcare professional. See additional information.
+
+© 2025 Healthline Media UK Ltd, Brighton, UK. All rights reserved. MNT
+is the registered trade mark of Healthline Media. Healthline Media is an
+RVO Health Company. Any medical information published on this website is
+not intended as a substitute for informed medical advice and you should
+not take any action before consulting with a healthcare professional.
+See additional information.
+
+[]
+
+AboutCareersAdvertise with us
+
+OUR BRANDS
+
+HealthlineMedical News TodayGreatistPsych CentralBezzy
+
+[]

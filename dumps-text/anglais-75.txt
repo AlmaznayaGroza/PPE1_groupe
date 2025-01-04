@@ -1,502 +1,602 @@
-   #alternate
+[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] []
+[] [] [] [] [] [] [] []
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+Skip to content
 
-   Skip to content
+[] [] Menu
 
-   (BUTTON)
-   Menu
-     * Health A-Z
-          + COVID-19
-          + Arthritis
-          + Type 2 Diabetes
-          + Heart Disease
-          + Digestive Health
-          + Multiple Sclerosis
-          + View All
-     * Prevention & Treatment
-          + Diet & Nutrition
-          + First Aid
-          + Surgery
-     * Health Care
-          + Health Insurance
-          + Public Health
-          + Patient Rights
-          + Disability
-          + Caregivers & Loved Ones
-          + End of Life Concerns
-          + View All
-     * News
-          + COVID-19
-          + Health News
-     * (BUTTON) Tools & Resources
-          + Thyroid Test Analyzer
-          + Doctor Discussion Guides
-          + Hemoglobin A1c Test Analyzer
-          + Lipid Test Analyzer
-          + Complete Blood Count (CBC) Analyzer
-          + What to Buy
-     * About Us
-          + Editorial Process
-          + Meet Our Medical Expert Board
+[]
 
-   (BUTTON) Search
+-    Health A-Z
+    -   COVID-19
+    -   Arthritis
+    -   Type 2 Diabetes
+    -   Heart Disease
+    -   Digestive Health
+    -   Multiple Sclerosis
+    -   View All []
+-    Prevention & Treatment
+    -   Diet & Nutrition
+    -   First Aid
+    -   Surgery
+-    Health Care
+    -   Health Insurance
+    -   Public Health
+    -   Patient Rights
+    -   Disability
+    -   Caregivers & Loved Ones
+    -   End of Life Concerns
+    -   View All []
+-    News
+    -   COVID-19
+    -   Health News
+-   Tools & Resources
+    -   Thyroid Test Analyzer
+    -   Doctor Discussion Guides
+    -   Hemoglobin A1c Test Analyzer
+    -   Lipid Test Analyzer
+    -   Complete Blood Count (CBC) Analyzer
+    -   What to Buy
+-   About Us
+    -   Editorial Process
+    -   Meet Our Medical Expert Board
 
-   (BUTTON) Search ____________________ (BUTTON) GO
-     * Health A-Z
-          + COVID-19
-          + Arthritis
-          + Type 2 Diabetes
-          + Heart Disease
-          + Digestive Health
-          + Multiple Sclerosis
-          + View All
-     * Prevention & Treatment
-          + Diet & Nutrition
-          + First Aid
-          + Surgery
-          + View All
-     * Health Care
-          + Health Insurance
-          + Public Health
-          + Patient Rights
-          + Disability
-          + Caregivers & Loved Ones
-          + End of Life Concerns
-          + View All
-     * News
-          + COVID-19
-          + Health News
-          + View All
+Search []
 
-   More in End of Life Concerns
-     * Assisted Living
-     * Hospice Care
-     * Palliative Care
-     * Pain & Symptom Control
-     * The Dying Process
-     * Funeral & Memorial Planning
-     * Grief & Bereavement
+Search []
 
-   View More
-   Tools & Resources
-     * Thyroid Test Analyzer
-     * Doctor Discussion Guides
-     * Hemoglobin A1c Test Analyzer
-     * Lipid Test Analyzer
-     * Complete Blood Count (CBC) Analyzer
-     * What to Buy
+GO
 
-     * About Us
-     * Editorial Process
-     * Privacy Policy
-     * Contact Us
+-    Health A-Z
+    -   COVID-19
+    -   Arthritis
+    -   Type 2 Diabetes
+    -   Heart Disease
+    -   Digestive Health
+    -   Multiple Sclerosis
+    -   View All []
+-    Prevention & Treatment
+    -   Diet & Nutrition
+    -   First Aid
+    -   Surgery
+    -   View All []
+-    Health Care
+    -   Health Insurance
+    -   Public Health
+    -   Patient Rights
+    -   Disability
+    -   Caregivers & Loved Ones
+    -   End of Life Concerns
+    -   View All []
+-    News
+    -   COVID-19
+    -   Health News
+    -   View All []
 
-   Verywell Health's content is for informational and educational purposes
-   only. Our website is not intended to be a substitute for professional
-   medical advice, diagnosis, or treatment.
-   Ⓒ 2025 Dotdash Media, Inc. — All rights reserved
+More in End of Life Concerns
 
-   IFRAME: about:blank
+-   Assisted Living
+-   Hospice Care
+-   Palliative Care
+-   Pain & Symptom Control
+-   The Dying Process
+-   Funeral & Memorial Planning
+-   Grief & Bereavement
 
-   End of Life Concerns
+View More []
+
+Tools & Resources
+
+-   Thyroid Test Analyzer
+-   Doctor Discussion Guides
+-   Hemoglobin A1c Test Analyzer
+-   Lipid Test Analyzer
+-   Complete Blood Count (CBC) Analyzer
+-   What to Buy
+
+-   About Us
+-   Editorial Process
+-   Privacy Policy
+-   Contact Us
+
+[]
+
+[]
+
+Verywell Health's content is for informational and educational purposes
+only. Our website is not intended to be a substitute for professional
+medical advice, diagnosis, or treatment.
+
+Ⓒ 2025 Dotdash Media, Inc. — All rights reserved
+
+End of Life Concerns
 
 An Overview of Level of Consciousness (LOC)
 
-   Patient Awareness, Alertness, and Wakefulness
-   By Angela Morrow, RN
-   Updated on June 27, 2024
-   Medically reviewed by David Strosberg, MD
-   Fact checked by James Lacy
-   (BUTTON) Print
-   Table of Contents
-   View All
-   Table of Contents
-     * Normal LOC
-     * Altered LOC
-     * Coma Classifications
+Patient Awareness, Alertness, and Wakefulness
 
-   "Level of consciousness" (LOC) is a medical term used to describe how
-   awake, alert, and aware you are. It also refers to how well you respond
-   to attempts to get your attention. A person with an altered level of
-   consciousness may have decreased cognitive function or be difficult to
-   arouse.
+By Angela Morrow, RN
 
-   A variety of medical conditions and drugs can affect your level of
-   consciousness, from having dementia or lethargy to being in a coma.
-   Sometimes impaired consciousness is reversible, while other times it is
-   not.
+Updated on June 27, 2024
 
-   This article covers normal and altered states of consciousness as well
-   as coma classifications.
-   A man laying in a coma in the hospital A man laying in a coma in the
-   hospital
-   Caiaimage / Sam Edwards OJO+ / Getty Images
+[] Medically reviewed by David Strosberg, MD
 
-What Is Consciousness?
+[] Fact checked by James Lacy
 
-   Medical definitions say a normal LOC means a person is either awake or
-   can be readily awakened from normal sleep. Terms include:
-     * Consciousness: A state in which a person is awake, aware, alert,
-       and responsive to stimuli
-     * Decreased consciousness: A person appears awake and aware of their
-       surroundings (conscious) but is not responding normally (acts
-       confused, odd, or sleepy).
-     * Unconsciousness: A person has a deficit in awareness and
-       responsiveness to stimuli (touch, light, sound)
+Print []
 
-   Sleeping is not considered unconsciousness if waking up would result in
-   normal consciousness Between consciousness and unconsciousness there
-   are several altered levels, each with its own definition.
+Table of Contents
 
-Altered Level of Consciousness
+View All
 
-   Altered or abnormal levels of consciousness are states in which you
-   either have decreased cognitive function or cannot be easily aroused.
+[]
 
-   Most medical conditions affect the brain and impair consciousness when
-   they become serious or life-threatening. An altered LOC usually signals
-   a serious medical problem.
+[]
+
+Table of Contents []
+
+-   Normal LOC
+
+-   Altered LOC
+
+-   Coma Classifications
+
+"Level of consciousness" (LOC) is a medical term used to describe how
+awake, alert, and aware you are. It also refers to how well you respond
+to attempts to get your attention. A person with an altered level of
+consciousness may have decreased cognitive function or be difficult to
+arouse.
+
+A variety of medical conditions and drugs can affect your level of
+consciousness, from having dementia or lethargy to being in a coma.
+Sometimes impaired consciousness is reversible, while other times it is
+not.
+
+This article covers normal and altered states of consciousness as well
+as coma classifications.
+
+[A man laying in a coma in the hospital]
+
+Caiaimage / Sam Edwards OJO+ / Getty Images
+
+ What Is Consciousness? 
+
+Medical definitions say a normal LOC means a person is either awake or
+can be readily awakened from normal sleep. Terms include:
+
+-   Consciousness: A state in which a person is awake, aware, alert, and
+    responsive to stimuli
+-   Decreased consciousness: A person appears awake and aware of their
+    surroundings (conscious) but is not responding normally (acts
+    confused, odd, or sleepy).
+-   Unconsciousness: A person has a deficit in awareness and
+    responsiveness to stimuli (touch, light, sound)
+
+Sleeping is not considered unconsciousness if waking up would result in
+normal consciousness Between consciousness and unconsciousness there are
+several altered levels, each with its own definition.
+
+ Altered Level of Consciousness 
+
+Altered or abnormal levels of consciousness are states in which you
+either have decreased cognitive function or cannot be easily aroused.
+
+Most medical conditions affect the brain and impair consciousness when
+they become serious or life-threatening. An altered LOC usually signals
+a serious medical problem.
 
 Are You at Risk of Altered Level of Consciousness?
 
-   If you are at risk for altered LOC, be sure to have the proper medical
-   precautions in place. For example, wear a medical alert bracelet or
-   download a phone app that lists your diagnoses, medications, and
-   emergency contacts. Some apps can be accessed even when your phone is
-   locked. You may also want to designate a healthcare proxy to speak for
-   you if you are unable.
+If you are at risk for altered LOC, be sure to have the proper medical
+precautions in place. For example, wear a medical alert bracelet or
+download a phone app that lists your diagnoses, medications, and
+emergency contacts. Some apps can be accessed even when your phone is
+locked. You may also want to designate a healthcare proxy to speak for
+you if you are unable.
 
-   Often, an altered LOC can deteriorate rapidly from one stage to the
-   next. They require timely diagnosis and prompt treatment.
+Often, an altered LOC can deteriorate rapidly from one stage to the
+next. They require timely diagnosis and prompt treatment.
 
-Confusion
+ Confusion 
 
-   Confusion describes disorientation that makes it difficult to:
-     * Reason
-     * Provide a medical history
-     * Participate in a medical examination
+Confusion describes disorientation that makes it difficult to:
 
-   Causes include:
-     * Sleep deprivation
-     * Fever
-     * Medications
-     * Alcohol intoxication
-     * Recreational drug use
-     * Postictal state (recovering from a seizure)
+-   Reason
+-   Provide a medical history
+-   Participate in a medical examination
 
-Delirium
+Causes include:
 
-   Delirium is a term for an acute confused state. It involves impaired
-   cognition (thought processes) and may include:
-     * Attention deficits
-     * Sleep-wake cycle changes
-     * Hyperactivity (agitation) or hypoactivity (apathy)
-     * Hallucinations (seeing things that are not there) or delusions
-       (false beliefs)
-     * Heart rate and blood pressure instability
+-   Sleep deprivation
+-   Fever
+-   Medications
+-   Alcohol intoxication
+-   Recreational drug use
+-   Postictal state (recovering from a seizure)
 
-   Causes can include:
-     * Alcohol withdrawal
-     * Recreational drugs
-     * Medications
-     * Severe infection or illness
-     * Organ failure
+ Delirium 
 
-   Delirium Risks and Effects
+Delirium is a term for an acute confused state. It involves impaired
+cognition (thought processes) and may include:
 
-Lethargy and Somnolence
+-   Attention deficits
+-   Sleep-wake cycle changes
+-   Hyperactivity (agitation) or hypoactivity (apathy)
+-   Hallucinations (seeing things that are not there) or delusions
+    (false beliefs)
+-   Heart rate and blood pressure instability
 
-   Lethargy and somnolence (sleepiness) involve:
-     * Severe drowsiness
-     * Listlessness
-     * Apathy
-     * Reduced alertness
+Causes can include:
 
-   A lethargic person may need a gentle touch or verbal stimulation before
-   they will respond.
+-   Alcohol withdrawal
+-   Recreational drugs
+-   Medications
+-   Severe infection or illness
+-   Organ failure
 
-   Causes can include:
-     * Severe illness or infection
-     * Recreational drugs
-     * Organ failure
+Delirium Risks and Effects
 
-   LOC Symptoms Causes
-   Normal Wakefulness, awareness, alertness
-   Confusion  Disorientation, inability to reason Sleep deprivation,
-   fever, drugs/alcohol, seizure recovery
-   Delirium  Impaired cognition, hallucinations, delusions, agitation or
-   apathy, unstable heart rate and blood pressure Alcohol withdrawal,
-   drugs, illness, organ failure, severe infection
-   Lethargy and somnolence Severe drowsiness, listlessness, apathy,
-   reduced alertness Severe illness, severe infection, drug use, organ
-   failure
-   Obtundation Reduced alertness, slow responses to stimuli, prolonged
-   periods of sleep, drowsiness while awake Poisoning, stroke, brain
-   swelling, blood infection, advanced organ failure
-   Stupor Minimal response to vigorous stimuli Stroke, drug overdose, lack
-   of oxygen, brain swelling, heart attack
-   Coma  Unresponsiveness to all stimuli, may lack gag reflex and/or pupil
-   response Severely diminished brain function, extreme blood loss, organ
-   failure, brain damage
+ Lethargy and Somnolence 
 
-Obtundation
+Lethargy and somnolence (sleepiness) involve:
 
-   Obtundation is reduced alertness with:
-     * Slow responses to stimuli
-     * Need of repeated stimulation to maintain attention
-     * Prolonged periods of sleep
-     * Drowsiness between these periods
+-   Severe drowsiness
+-   Listlessness
+-   Apathy
+-   Reduced alertness
 
-   Causes can include:
-     * Poisoning
-     * Stroke
-     * Brain edema (swelling)
-     * Sepsis (a blood infection)
-     * Advanced organ failure
+A lethargic person may need a gentle touch or verbal stimulation before
+they will respond.
 
-Stupor
+Causes can include:
 
-   Someone in a stupor responds minimally to vigorous stimulation, such as
-   a pinched toe or light in the eyes.
+-   Severe illness or infection
+-   Recreational drugs
+-   Organ failure
 
-   Causes can include:
-     * Stroke
-     * Drug overdose
-     * Lack of oxygen
-     * Brain edema
-     * Myocardial infarction (heart attack)
+  LOC                       Symptoms                                                                                                     Causes
+  ------------------------- ------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------
+  Normal                    Wakefulness, awareness, alertness                                                                            
+  Confusion                 Disorientation, inability to reason                                                                          Sleep deprivation, fever, drugs/alcohol, seizure recovery
+  Delirium                  Impaired cognition, hallucinations, delusions, agitation or apathy, unstable heart rate and blood pressure   Alcohol withdrawal, drugs, illness, organ failure, severe infection
+  Lethargy and somnolence   Severe drowsiness, listlessness, apathy, reduced alertness                                                   Severe illness, severe infection, drug use, organ failure
+  Obtundation               Reduced alertness, slow responses to stimuli, prolonged periods of sleep, drowsiness while awake             Poisoning, stroke, brain swelling, blood infection, advanced organ failure
+  Stupor                    Minimal response to vigorous stimuli                                                                         Stroke, drug overdose, lack of oxygen, brain swelling, heart attack
+  Coma                      Unresponsiveness to all stimuli, may lack gag reflex and/or pupil response                                   Severely diminished brain function, extreme blood loss, organ failure, brain damage
 
-Coma
+ Obtundation 
 
-   A person in a coma does not respond to any stimuli. Their pupils may
-   not react to light, and they may not have a gag reflex.
+Obtundation is reduced alertness with:
 
-   Comas are caused by severely diminished brain function. This is usually
-   due to:
-     * Stroke
-     * Alcohol poisoning
-     * Extreme hyperglycemia or hypoglycemia
-     * Extreme blood loss
-     * Organ failure
-     * Brain damage or infection
+-   Slow responses to stimuli
+-   Need of repeated stimulation to maintain attention
+-   Prolonged periods of sleep
+-   Drowsiness between these periods
 
-   What Is Myxedema Coma?
+Causes can include:
 
-   The causes of altered LOC may overlap. For example, the early stages of
-   brain edema or organ failure can cause confusion but then advance
-   rapidly through lethargy, obtundation, stupor, and coma.
+-   Poisoning
+-   Stroke
+-   Brain edema (swelling)
+-   Sepsis (a blood infection)
+-   Advanced organ failure
 
-Levels of Consciousness Assessment Scale
+ Stupor 
 
-   Levels of consciousness can be subdivided into levels that further
-   clarify your degree of unresponsiveness. That helps improve
-   communication among healthcare providers as well as aiding in research.
+Someone in a stupor responds minimally to vigorous stimulation, such as
+a pinched toe or light in the eyes.
 
-   Several systems have been developed to standardize these
-   classifications. The most common classification systems are:
-     * Grady Coma Scale: Grades a coma from I to V. Grady is based on the
-       state of awareness and response to stimuli (e.g., name being
-       called, light pain, deep pain). Grade I indicates confusion, while
-       V indicates coma (no response to stimuli).
-     * Glasgow Coma Scale: Scores the level of consciousness from 1 to 15,
-       with 15 being normal LOC. This scale takes into account verbal,
-       motor, and eye responses to stimuli.
+Causes can include:
+
+-   Stroke
+-   Drug overdose
+-   Lack of oxygen
+-   Brain edema
+-   Myocardial infarction (heart attack)
+
+ Coma 
+
+A person in a coma does not respond to any stimuli. Their pupils may not
+react to light, and they may not have a gag reflex.
+
+Comas are caused by severely diminished brain function. This is usually
+due to:
+
+-   Stroke
+-   Alcohol poisoning
+-   Extreme hyperglycemia or hypoglycemia
+-   Extreme blood loss
+-   Organ failure
+-   Brain damage or infection
+
+What Is Myxedema Coma?
+
+The causes of altered LOC may overlap. For example, the early stages of
+brain edema or organ failure can cause confusion but then advance
+rapidly through lethargy, obtundation, stupor, and coma.
+
+ Levels of Consciousness Assessment Scale 
+
+Levels of consciousness can be subdivided into levels that further
+clarify your degree of unresponsiveness. That helps improve
+communication among healthcare providers as well as aiding in research.
+
+Several systems have been developed to standardize these
+classifications. The most common classification systems are:
+
+-   Grady Coma Scale: Grades a coma from I to V. Grady is based on the
+    state of awareness and response to stimuli (e.g., name being called,
+    light pain, deep pain). Grade I indicates confusion, while V
+    indicates coma (no response to stimuli).
+-   Glasgow Coma Scale: Scores the level of consciousness from 1 to 15,
+    with 15 being normal LOC. This scale takes into account verbal,
+    motor, and eye responses to stimuli.
 
 Nursing Assessment of LOC
 
-   Nurses may evaluate LOC based on the following categories:
-     * Alert: Opens eyes spontaneously, looks at the speaker when spoken
-       to in a normal voice, responds appropriately to stimuli, and
-       movements are purposeful
-     * Lethargic: Appears drowsy but opens eyes to loud verbal stimuli.
-       Looks at the speaker and responds to questions before falling back
-       to sleep.
-     * Obtundation: Opens eyes with tactile stimuli and looks to the
-       source but responds slowly and may be confused
-     * Stupor: Awakens only after a painful stimulus is applied (e.g.,
-       applying pressure to the nailbed). Verbal responses are slow or
-       absent. Will fall into an unresponsive state when the stimulus
-       stops.
-     * Coma: Unarouseable and eyes remain closed. There are no purposeful
-       responses to internal or external stimuli. However, nonpurposeful
-       responses to painful stimuli and brain stem reflexes may still be
-       present.
+Nurses may evaluate LOC based on the following categories:
 
-Summary
+-   Alert: Opens eyes spontaneously, looks at the speaker when spoken to
+    in a normal voice, responds appropriately to stimuli, and movements
+    are purposeful
+-   Lethargic: Appears drowsy but opens eyes to loud verbal stimuli.
+    Looks at the speaker and responds to questions before falling back
+    to sleep.
+-   Obtundation: Opens eyes with tactile stimuli and looks to the source
+    but responds slowly and may be confused
+-   Stupor: Awakens only after a painful stimulus is applied (e.g.,
+    applying pressure to the nailbed). Verbal responses are slow or
+    absent. Will fall into an unresponsive state when the stimulus
+    stops.
+-   Coma: Unarouseable and eyes remain closed. There are no purposeful
+    responses to internal or external stimuli. However, nonpurposeful
+    responses to painful stimuli and brain stem reflexes may still be
+    present.
 
-   Levels of consciousness range from normal alertness and attention to
-   gradations of altered states, including confusion, delirium, stupor,
-   and coma.
+ Summary 
 
-   The same conditions may produce mild to severe states of altered LOC.
-   Sometimes, there may be a rapid progression from a mild to a high
-   stage.
+Levels of consciousness range from normal alertness and attention to
+gradations of altered states, including confusion, delirium, stupor, and
+coma.
 
-   Coma scales can help describe the exact level of consciousness.
-   Best Medical Alert Systems
-   14 Sources
-   Verywell Health uses only high-quality sources, including peer-reviewed
-   studies, to support the facts within our articles. Read our editorial
-   process to learn more about how we fact-check and keep our content
-   accurate, reliable, and trustworthy.
-    1. Edlow BL, Claassen J, Schiff ND, Greer DM. Recovery from disorders
-       of consciousness: mechanisms, prognosis and emerging therapies. Nat
-       Rev Neurol. 2021;17(3):135-156. doi:10.1038/s41582-020-00428-x
-    2. New York Presbyterian. Level Of Consciousness.
-    3. National Cancer Institute. Confusion.
-    4. MedlinePlus. Delirium.
-    5. Zaal IJ, van der Kooi AW, van Schelven LJ, Oey PL, Slooter AJ.
-       Heart rate variability in intensive care unit patients with
-       delirium. J Neuropsychiatry Clin Neurosci. 2015;27(2):e112-e116.
-       doi:10.1176/appi.neuropsych.13090213
-    6. Edmunds SM, Ajizian SJ, Liguori A. Acute obtundation in a
-       9-month-old patient: ethanol ingestion. Pediatr Emerg Care.
-       2014;30(10):739-741. doi:10.1097/PEC.0000000000000240
-    7. Cadena R. Cervical artery dissection: early recognition and stroke
-       prevention. Emerg Med Pract. 2016;18(7):1-24.
-    8. Tandukar S, Rondon-Berrios H. Treatment of severe symptomatic
-       hyponatremia. Physiol Rep. 2019;7(21):e14265.
-       doi:10.14814/phy2.14265
-    9. Vincent JL. Sepsis and infection: two words that should not be
-       confused. Front Med (Lausanne). 2023;10:1156732.
-       doi:10.3389/fmed.2023.1156732
-   10. Merck Manual Consumer Version. Stupor and coma.
-   11. Headway: The Brain Injury Association. Coma and reduced awareness
-       states.
-   12. Opara JA, Małecka E, Szczygiel J. Clinimetric measurement in
-       traumatic brain injuries. J Med Life. 2014;7(2):124-127.
-   13. Reith FCM, Lingsma HF, Gabbe BJ, Lecky FE, Roberts I, Maas AIR.
-       Differential effects of the Glasgow Coma Scale Score and its
-       components: An analysis of 54,069 patients with traumatic brain
-       injury. Injury. 2017;48(9):1932-1943.
-       doi:10.1016/j.injury.2017.05.038
-   14. Lippincott Nursing Center. Assessing Level of Consciousness.
+The same conditions may produce mild to severe states of altered LOC.
+Sometimes, there may be a rapid progression from a mild to a high stage.
 
-   Additional Reading
-     * Vasilevskis EE, Chandrasekhar R, Holtze CH, et al. The cost of ICU
-       delirium and coma in the intensive care unit patient. Med Care.
-       2018;56(10):890-897. doi:10.1097/MLR.0000000000000975
+Coma scales can help describe the exact level of consciousness.
 
-   Angela Morrow Angela Morrow
+Best Medical Alert Systems
 
-   By Angela Morrow, RN
-   Angela Morrow, RN, BSN, CHPN, is a certified hospice and palliative
-   care nurse.
-   See Our Editorial Process
-   Meet Our Medical Expert Board
-   (BUTTON) Share Feedback
-   Was this page helpful?
-   Thanks for your feedback!
-   What is your feedback?
-   (BUTTON) Other (BUTTON) Helpful (BUTTON) Report an Error
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Submit
+14 Sources [] []
 
-   Related Articles
-   Couple sitting on couch talking to a healthcare provider Couple sitting
-   on couch talking to a healthcare provider
-   What’s the Difference Between Palliative Care and Hospice?
-   Man sitting on a bed staring ahead Man sitting on a bed staring ahead
-   Four Stages of Grief and Tasks of Mourning
-   Holding hands Holding hands
-   End of Life Symptoms From Colon Cancer
-   Two cars involved in a car accident Two cars involved in a car accident
-   Top 10 Causes of Death for Americans Ages 20 to 24
-   Physical and Mental Changes Before Death, loved one is dying Physical
-   and Mental Changes Before Death, loved one is dying
-   Does a Person Know When They Are Dying?
-   Elderly man with his wife as his wife begins the dying process Elderly
-   man with his wife as his wife begins the dying process
-   Stages of Dying and the Loss of a Loved One
-   A fatal car accident A fatal car accident
-   Top Causes of Death for Ages 25–44
-   half winter landscape symbolizing the changes in the body after death
-   half winter landscape symbolizing the changes in the body after death
-   What Happens When You Die?
+Verywell Health uses only high-quality sources, including peer-reviewed
+studies, to support the facts within our articles. Read our editorial
+process to learn more about how we fact-check and keep our content
+accurate, reliable, and trustworthy.
 
-   person laying in hospital bed looking out window person laying in
-   hospital bed looking out window
-   Euthanasia: Understanding the Qualifying Factors and Legality
-   People at a viewing People at a viewing
-   Differences Between a Wake, Funeral, and Visitation
-   Woman in park, grieving Woman in park, grieving
-   5 Stages of Grief When Facing a Terminal Diagnosis
-   'Morgue in hospital, low angle view' 'Morgue in hospital, low angle
-   view'
-   What Is Thanatology?
-   Man smoking with a vape pen Man smoking with a vape pen
-   How Is Marijuana Used?
-   patient signing document patient signing document
-   What Is Informed Consent?
-   Mixed race woman holding medication pills Mixed race woman holding
-   medication pills
-   How Often Should Pain Medications Be Taken?
-   Primary, secondary, and tertiary care Primary, secondary, and tertiary
-   care
-   Levels of Medical Care: Primary, Secondary, Tertiary, and Quaternary
+1.  Edlow BL, Claassen J, Schiff ND, Greer DM. Recovery from disorders
+    of consciousness: mechanisms, prognosis and emerging therapies. Nat
+    Rev Neurol. 2021;17(3):135-156. doi:10.1038/s41582-020-00428-x
 
-   Daily Health Tips to Your Inbox
+2.  New York Presbyterian. Level Of Consciousness.
 
-   Email Address
-   ____________________ (BUTTON) Sign Up
-   You're in!
+3.  National Cancer Institute. Confusion.
 
-   Thank you, {{form.email}}, for signing up.
+4.  MedlinePlus. Delirium.
 
-   There was an error. Please try again.
+5.  Zaal IJ, van der Kooi AW, van Schelven LJ, Oey PL, Slooter AJ. Heart
+    rate variability in intensive care unit patients with delirium. J
+    Neuropsychiatry Clin Neurosci. 2015;27(2):e112-e116.
+    doi:10.1176/appi.neuropsych.13090213
 
-     * Health A-Z
-     * Prevention & Treatment
-     * Health Care
-     * News
+6.  Edmunds SM, Ajizian SJ, Liguori A. Acute obtundation in a
+    9-month-old patient: ethanol ingestion. Pediatr Emerg Care.
+    2014;30(10):739-741. doi:10.1097/PEC.0000000000000240
 
-     * Meet Our Medical Expert Board
-     * About Us
-     * Editorial Process
-     * Diversity Pledge
-     * Privacy Policy
-     * In the News
-     * Advertise
-     * Terms of Service
-     * Careers
-     * Contact
-     * (BUTTON) EU Privacy
+7.  Cadena R. Cervical artery dissection: early recognition and stroke
+    prevention. Emerg Med Pract. 2016;18(7):1-24.
 
-   Follow Us
-     *
-     *
-     *
-     *
+8.  Tandukar S, Rondon-Berrios H. Treatment of severe symptomatic
+    hyponatremia. Physiol Rep. 2019;7(21):e14265.
+    doi:10.14814/phy2.14265
 
-   Verywell Health's content is for informational and educational purposes
-   only. Our website is not intended to be a substitute for professional
-   medical advice, diagnosis, or treatment.
-   TRUSTe
-   Ⓒ 2025 Dotdash Media, Inc. — All rights reserved
-   Verywell Health is part of the Dotdash Meredith publishing family.
+9.  Vincent JL. Sepsis and infection: two words that should not be
+    confused. Front Med (Lausanne). 2023;10:1156732.
+    doi:10.3389/fmed.2023.1156732
+
+10. Merck Manual Consumer Version. Stupor and coma.
+
+11. Headway: The Brain Injury Association. Coma and reduced awareness
+    states.
+
+12. Opara JA, Małecka E, Szczygiel J. Clinimetric measurement in
+    traumatic brain injuries. J Med Life. 2014;7(2):124-127.
+
+13. Reith FCM, Lingsma HF, Gabbe BJ, Lecky FE, Roberts I, Maas AIR.
+    Differential effects of the Glasgow Coma Scale Score and its
+    components: An analysis of 54,069 patients with traumatic brain
+    injury. Injury. 2017;48(9):1932-1943.
+    doi:10.1016/j.injury.2017.05.038
+
+14. Lippincott Nursing Center. Assessing Level of Consciousness.
+
+Additional Reading
+
+-   Vasilevskis EE, Chandrasekhar R, Holtze CH, et al. The cost of ICU
+    delirium and coma in the intensive care unit patient. Med Care.
+    2018;56(10):890-897. doi:10.1097/MLR.0000000000000975
+
+[Angela Morrow]
+
+By Angela Morrow, RN
+Angela Morrow, RN, BSN, CHPN, is a certified hospice and palliative care
+nurse.
+
+[] See Our Editorial Process
+
+[] Meet Our Medical Expert Board
+
+[]
+
+Share Feedback
+
+Was this page helpful?
+
+Thanks for your feedback!
+
+What is your feedback?
+
+Other
+
+Helpful
+
+Report an Error
+
+[]
+
+Submit
+
+Related Articles
+
+[Couple sitting on couch talking to a healthcare provider]
+
+What’s the Difference Between Palliative Care and Hospice?
+
+[Man sitting on a bed staring ahead]
+
+Four Stages of Grief and Tasks of Mourning
+
+[Holding hands]
+
+End of Life Symptoms From Colon Cancer
+
+[Two cars involved in a car accident]
+
+Top 10 Causes of Death for Americans Ages 20 to 24
+
+[Physical and Mental Changes Before Death, loved one is dying]
+
+Does a Person Know When They Are Dying?
+
+[Elderly man with his wife as his wife begins the dying process]
+
+Stages of Dying and the Loss of a Loved One
+
+[A fatal car accident]
+
+Top Causes of Death for Ages 25–44
+
+[half winter landscape symbolizing the changes in the body after death]
+
+What Happens When You Die?
+
+[person laying in hospital bed looking out window]
+
+Euthanasia: Understanding the Qualifying Factors and Legality
+
+[People at a viewing]
+
+Differences Between a Wake, Funeral, and Visitation
+
+[Woman in park, grieving]
+
+5 Stages of Grief When Facing a Terminal Diagnosis
+
+['Morgue in hospital, low angle view']
+
+What Is Thanatology?
+
+[Man smoking with a vape pen]
+
+How Is Marijuana Used?
+
+[Mixed race woman holding medication pills]
+
+How Often Should Pain Medications Be Taken?
+
+[patient signing document]
+
+What Is Informed Consent?
+
+[Primary, secondary, and tertiary care]
+
+Levels of Medical Care: Primary, Secondary, Tertiary, and Quaternary
+
+[]
+
+Daily Health Tips to Your Inbox
+
+Email Address
+
+Sign Up
+
+You're in!
+
+Thank you, {{form.email}}, for signing up.
+
+There was an error. Please try again.
+
+-   Health A-Z
+-   Prevention & Treatment
+-   Health Care
+-   News
+
+-   Meet Our Medical Expert Board
+-   About Us
+-   Editorial Process
+-   Diversity Pledge
+-   Privacy Policy
+-   In the News
+-   Advertise
+-   Terms of Service
+-   Careers
+-   Contact
+-   EU Privacy
+
+Follow Us
+
+-   []
+-   []
+-   []
+-   []
+
+[]
+
+[]
+
+Verywell Health's content is for informational and educational purposes
+only. Our website is not intended to be a substitute for professional
+medical advice, diagnosis, or treatment.
+
+Ⓒ 2025 Dotdash Media, Inc. — All rights reserved
+
+[]
+
+Verywell Health is part of the Dotdash Meredith publishing family.
+
+[]
 
 We Care About Your Privacy
 
-   We and our 100 partners store and/or access information on a device,
-   such as unique IDs in cookies to process personal data. You may accept
-   or manage your choices by clicking below, including your right to
-   object where legitimate interest is used, or at any time in the privacy
-   policy page. These choices will be signaled to our partners and will
-   not affect browsing data.
+We and our 100 partners store and/or access information on a device,
+such as unique IDs in cookies to process personal data. You may accept
+or manage your choices by clicking below, including your right to object
+where legitimate interest is used, or at any time in the privacy policy
+page. These choices will be signaled to our partners and will not affect
+browsing data.
 
 We and our partners process data to provide:
 
-   Store and/or access information on a device. Use limited data to select
-   advertising. Create profiles for personalised advertising. Use profiles
-   to select personalised advertising. Create profiles to personalise
-   content. Use profiles to select personalised content. Measure
-   advertising performance. Measure content performance. Understand
-   audiences through statistics or combinations of data from different
-   sources. Develop and improve services. Use limited data to select
-   content. (BUTTON) List of Partners (vendors)
-   (BUTTON) Accept All (BUTTON) Reject All (BUTTON) Show Purposes
-   (BUTTON)
+Store and/or access information on a device. Use limited data to select
+advertising. Create profiles for personalised advertising. Use profiles
+to select personalised advertising. Create profiles to personalise
+content. Use profiles to select personalised content. Measure
+advertising performance. Measure content performance. Understand
+audiences through statistics or combinations of data from different
+sources. Develop and improve services. Use limited data to select
+content. List of Partners (vendors)
+
+Accept All
+
+Reject All
+
+Show Purposes

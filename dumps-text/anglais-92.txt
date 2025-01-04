@@ -1,352 +1,418 @@
-   #alternate
+[] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] []
 
-   ​
+Skip to content
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5P3SZGS
+Menu
 
-   Skip to content
+[] []
 
-   (BUTTON) Menu
-   Home
+Home []
 
-     * Science, Tech, Math
-          + Science
-          + Math
-          + Social Sciences
-          + Computer Science
-          + Animals & Nature
-     * Humanities
-          + History & Culture
-          + Visual Arts
-          + Literature
-          + English
-          + Geography
-          + Philosophy
-          + Issues
-     * Languages
-          + English as a Second Language
-          + Spanish
-          + French
-          + German
-          + Italian
-          + Japanese
-          + Mandarin
-          + Russian
-     * Resources
-          + For Students & Parents
-          + For Educators
-          + For Adult Learners
-     * About Us
+-   Science, Tech, Math
+    -   Science
+    -   Math
+    -   Social Sciences
+    -   Computer Science
+    -   Animals & Nature
+-   Humanities
+    -   History & Culture
+    -   Visual Arts
+    -   Literature
+    -   English
+    -   Geography
+    -   Philosophy
+    -   Issues
+-   Languages
+    -   English as a Second Language
+    -   Spanish
+    -   French
+    -   German
+    -   Italian
+    -   Japanese
+    -   Mandarin
+    -   Russian
+-   Resources
+    -   For Students & Parents
+    -   For Educators
+    -   For Adult Learners
+-   About Us
 
-   (BUTTON) Search
-   Close Search the site ____________________ (BUTTON) GO
+Search []
 
-     * Science, Tech, Math
-          + Science
-          + Math
-          + Social Sciences
-          + Computer Science
-          + Animals & Nature
-     * Humanities
-          + History & Culture
-          + Visual Arts
-          + Literature
-          + English
-          + Geography
-          + Philosophy
-          + Issues
-     * Languages
-          + English as a Second Language
-          + Spanish
-          + French
-          + German
-          + Italian
-          + Japanese
-          + Mandarin
-          + Russian
-     * Resources
-          + For Students & Parents
-          + For Educators
-          + For Adult Learners
-     *
-          + About Us
-          + Contact Us
-          + Editorial Guidelines
-          + Privacy Policy
+Close Search the site
 
-   IFRAME: about:blank
+GO []
 
-     * Science, Tech, Math ›
-     * Social Sciences ›
-     * Sociology ›
-     * Key Concepts ›
+-   Science, Tech, Math
+
+    []
+
+    -   Science
+    -   Math
+    -   Social Sciences
+    -   Computer Science
+    -   Animals & Nature
+
+-   Humanities
+
+    []
+
+    -   History & Culture
+    -   Visual Arts
+    -   Literature
+    -   English
+    -   Geography
+    -   Philosophy
+    -   Issues
+
+-   Languages
+
+    []
+
+    -   English as a Second Language
+    -   Spanish
+    -   French
+    -   German
+    -   Italian
+    -   Japanese
+    -   Mandarin
+    -   Russian
+
+-   Resources
+
+    []
+
+    -   For Students & Parents
+    -   For Educators
+    -   For Adult Learners
+
+-   -   About Us
+    -   Contact Us
+    -   Editorial Guidelines
+    -   Privacy Policy
+
+-   Science, Tech, Math ›
+-   Social Sciences ›
+-   Sociology ›
+-   Key Concepts ›
 
 Understanding Karl Marx's Class Consciousness and False Consciousness
 
-   Two of Marx's Key Social Precepts Defined
-     *
-     *
-     *
+Two of Marx's Key Social Precepts Defined
 
-   (BUTTON) Print
-   Demonstrators gather in front of a McDonald&#39;s restaurant to call
-   for an increase in minimum wage on April 15, 2015 in Chicago, Illinois.
-   The demonstration was one of many held nationwide to draw attention to
-   the cause. Demonstrators gather in front of a McDonald&#39;s restaurant
-   to call for an increase in minimum wage on April 15, 2015 in Chicago,
-   Illinois. The demonstration was one of many held nationwide to draw
-   attention to the cause.
-   Scott Olson/Getty Images
-   Social Sciences
-   Social Sciences
-     * Sociology
-          + Key Concepts
-          + Major Sociologists
-          + News & Issues
-          + Research, Samples, and Statistics
-          + Recommended Reading
-     * Psychology
-     * Archaeology
-     * Economics
-     * Ergonomics
+-    []
+-    []
+-    []
 
-   By Ashley Crossman
-   Updated on July 25, 2019
+Print []
 
-   Class consciousness and false consciousness are concepts introduced by
-   Karl Marx that were later expanded by social theorists who came after
-   him. Marx wrote about the theory in his book "Capital, Volume 1," and
-   again with his frequent collaborator, Friedrich Engels, in the
-   impassioned treatise, "Manifesto of the Communist Party." Class
-   consciousness refers to the awareness by a social or economic class of
-   their position and interests within the structure of the economic order
-   and social system in which they live. In contrast, false consciousness
-   is a perception of one's relationships to social and economic systems
-   of an individual nature, and a failure to see oneself as a part of a
-   class with particular class interests relative to the economic order
-   and social system.
+[Demonstrators gather in front of a McDonald&#39;s restaurant to call
+for an increase in minimum wage on April 15, 2015 in Chicago, Illinois.
+The demonstration was one of many held nationwide to draw attention to
+the cause.]
 
-Marx's Theory of Class Consciousness
+[Demonstrators gather in front of a McDonald&#39;s restaurant to call
+for an increase in minimum wage on April 15, 2015 in Chicago, Illinois.
+The demonstration was one of many held nationwide to draw attention to
+the cause.]
 
-   According to Marxist theory, class consciousness is an awareness of
-   one's social and/or economic class relative to others, as well as an
-   understanding of the economic rank of the class to which you belong in
-   the context of the larger society. In addition, class consciousness
-   involves an understanding of the defining social and economic
-   characteristics and collective interests of your own class within the
-   constructs of the given socio-economic and political order.
+Scott Olson/Getty Images
 
-   Class consciousness is a core facet of Marx's theory of class conflict,
-   which focuses on the social, economic, and political relationships
-   between workers and owners within a capitalist economy. The precept was
-   developed in conjunction with his theory on how workers might overthrow
-   the system of capitalism and then go on to create a new economic,
-   social, and political system based on equality rather than inequality
-   and exploitation.
+[Social Sciences]
 
-The Proletariat vs. the Bourgeoisie
+Social Sciences
 
-   Marx believed that the capitalist system was rooted in class
-   conflict—specifically, the economic exploitation of the proletariat
-   (workers) by the bourgeoisie (those who owned and controlled
-   production). He reasoned that the system only functioned as long as the
-   workers did not recognize their unity as a class of laborers, their
-   shared economic and political interests, and the power inherent in
-   their numbers. Marx argued that when workers came to understand the
-   totality of these factors, they would achieve class consciousness, and
-   this, in turn, would lead to a workers' revolution that would overthrow
-   the exploitative system of capitalism.
+-   Sociology []
+    -   [] Key Concepts []
+    -   Major Sociologists []
+    -   News & Issues []
+    -   Research, Samples, and Statistics []
+    -   Recommended Reading []
+-   Psychology []
+-   Archaeology []
+-   Economics []
+-   Ergonomics []
 
-   Hungarian social theorist Georg Lukács, who followed in the tradition
-   of Marxist theory, expanded the concept by saying that class
-   consciousness is an achievement that opposes individual consciousness
-   and results from the group struggle to see the "totality" of social and
-   economic systems.
+By Ashley Crossman
 
-The Problem of False Consciousness
+Updated on July 25, 2019
 
-   According to Marx, before workers developed a class consciousness they
-   were actually living with a false consciousness. (Though Marx never
-   used the actual term, he did develop the ideas that it encompasses.) In
-   essence, false consciousness is the opposite of class consciousness.
-   Individualistic rather than collective in nature, it produces a view of
-   oneself as a single entity engaged in competition with others of one's
-   social and economic standing, rather than as part of a group with
-   unified experiences, struggles, and interests. According to Marx and
-   other social theorists who followed, false consciousness was dangerous
-   because it encouraged people to think and act in ways that were
-   counterintuitive to their economic, social, and political
-   self-interests.
+Class consciousness and false consciousness are concepts introduced by
+Karl Marx that were later expanded by social theorists who came after
+him. Marx wrote about the theory in his book "Capital, Volume 1," and
+again with his frequent collaborator, Friedrich Engels, in the
+impassioned treatise, "Manifesto of the Communist Party." Class
+consciousness refers to the awareness by a social or economic class of
+their position and interests within the structure of the economic order
+and social system in which they live. In contrast, false consciousness
+is a perception of one's relationships to social and economic systems of
+an individual nature, and a failure to see oneself as a part of a class
+with particular class interests relative to the economic order and
+social system.
 
-   Marx saw false consciousness as a product of an unequal social system
-   controlled by a powerful minority of elites. The false consciousness
-   among workers, which prevented them from seeing their collective
-   interests and power, was created by the material relations and
-   conditions of the capitalist system, by the ideology (the dominant
-   worldview and values) of those who control the system, and by social
-   institutions and how they function in society.
+ Marx's Theory of Class Consciousness 
 
-   Marx cited the phenomenon of commodity fetishism—the way capitalist
-   production frames relationships between people (workers and owners) as
-   relationships between things (money and products)—with playing a key
-   role in producing false consciousness among workers. He believed that
-   commodity fetishism served to obscure the fact that relations with
-   regard to production within a capitalist system are actually
-   relationships between people, and that as such, they are changeable.
+According to Marxist theory, class consciousness is an awareness of
+one's social and/or economic class relative to others, as well as an
+understanding of the economic rank of the class to which you belong in
+the context of the larger society. In addition, class consciousness
+involves an understanding of the defining social and economic
+characteristics and collective interests of your own class within the
+constructs of the given socio-economic and political order.
 
-   Building on Marx's theory, Italian scholar, writer, and activist
-   Antonio Gramsci expanded the ideological component of false
-   consciousness by arguing that a process of cultural hegemony guided by
-   those holding economic, social, and cultural power in society produced
-   a "common sense" way of thinking that embued the status quo with
-   legitimacy. Gramsci noted that by believing in the common sense of
-   one's age, a person actually consents to the conditions of exploitation
-   and domination that one experiences. This "common sense"—the ideology
-   that produces false consciousness—is actually a misrepresentation and
-   misunderstanding of the social relationships that define the economic,
-   social, and political systems.
+Class consciousness is a core facet of Marx's theory of class conflict,
+which focuses on the social, economic, and political relationships
+between workers and owners within a capitalist economy. The precept was
+developed in conjunction with his theory on how workers might overthrow
+the system of capitalism and then go on to create a new economic,
+social, and political system based on equality rather than inequality
+and exploitation.
 
-False Consciousness in a Stratified Society
+ The Proletariat vs. the Bourgeoisie 
 
-   An example of how cultural hegemony works to produce false
-   consciousness—that is true both historically and today—is the belief
-   that upward mobility is possible for all people, regardless of the
-   circumstances of their birth, as long as they choose to dedicate
-   themselves to education, training, and hard work. In the U.S. this
-   belief is encapsulated in the ideal of "the American Dream." Viewing
-   society and one's place within it based on the set of assumptions
-   derived from "common sense" thinking results in a perception of being
-   an individual rather than part of a collective. Economic success and
-   failure rest squarely on the shoulders of the individual and do not
-   take into account the totality of the social, economic, and political
-   systems that shape our lives.
+Marx believed that the capitalist system was rooted in class
+conflict—specifically, the economic exploitation of the proletariat
+(workers) by the bourgeoisie (those who owned and controlled
+production). He reasoned that the system only functioned as long as the
+workers did not recognize their unity as a class of laborers, their
+shared economic and political interests, and the power inherent in their
+numbers. Marx argued that when workers came to understand the totality
+of these factors, they would achieve class consciousness, and this, in
+turn, would lead to a workers' revolution that would overthrow the
+exploitative system of capitalism.
 
-   At the time Marx was writing about class consciousness, he perceived
-   class as the relationship of people to the means of production—the
-   owners versus the workers. While the model is still useful, we can also
-   think about the economic stratification of our society into different
-   classes based on income, occupation, and social status. Decades' worth
-   of demographic data reveals that the American Dream and its promise of
-   upward mobility is largely a myth. In truth, the economic class a
-   person is born into is the primary determinant of how he or she will
-   fair economically as an adult. However, as long as a person believes
-   the myth, he or she will continue to live and operate with a false
-   consciousness. Without a class consciousness, they will fail to
-   recognize that the stratified economic system in which they're
-   operating was designed to afford only the bare minimum of money to
-   workers while funneling huge profits to the owners, executives, and
-   financiers at the top.
-   (BUTTON) Cite this Article
-   Format
-   mla apa chicago
-   Your Citation
-   Crossman, Ashley. "Understanding Karl Marx's Class Consciousness and
-   False Consciousness." ThoughtCo, Jun. 25, 2024,
-   thoughtco.com/class-consciousness-3026135. Crossman, Ashley. (2024,
-   June 25). Understanding Karl Marx's Class Consciousness and False
-   Consciousness. Retrieved from
-   https://www.thoughtco.com/class-consciousness-3026135 Crossman, Ashley.
-   "Understanding Karl Marx's Class Consciousness and False
-   Consciousness." ThoughtCo.
-   https://www.thoughtco.com/class-consciousness-3026135 (accessed January
-   3, 2025).
-   (BUTTON)
-   copy citation
+Hungarian social theorist Georg Lukács, who followed in the tradition of
+Marxist theory, expanded the concept by saying that class consciousness
+is an achievement that opposes individual consciousness and results from
+the group struggle to see the "totality" of social and economic systems.
 
-     * homeless man in street homeless man in street
-       Understanding Alienation and Social Alienation
-     * French workers strike for better wages in 1990 French workers
-       strike for better wages in 1990
-       All About Marxist Sociology
-     * Karl Marx Statues Karl Marx Statues
-       What is the Dominant Ideology Thesis?
-     * The View Through a Smartphone Camera Symbolize's the Definition of
-       Ideology The View Through a Smartphone Camera Symbolize's the
-       Definition of Ideology
-       Theories of Ideology
-     * An illustration of conflict theory An illustration of conflict
-       theory
-       Understanding Conflict Theory
-     * Crowd reaching for globe Crowd reaching for globe
-       The Concept of Collective Consciousness
-     * Statue of Karl Marx and Friedrich Engels, Berlin, Germany Statue of
-       Karl Marx and Friedrich Engels, Berlin, Germany
-       Mode of Production in Marxism
-     * Overlapping silhouettes of Hands in a watercolor texture
-       Overlapping silhouettes of Hands in a watercolor texture
-       What Is Social Class, and Why Does it Matter?
+ The Problem of False Consciousness 
 
-     * Large hand holding rope tied round group of small people Large hand
-       holding rope tied round group of small people
-       Power Definitions and Examples in Sociology
-     * Blue silhouette stands apart from a crowd Blue silhouette stands
-       apart from a crowd
-       What Is a Microaggression? Everyday Insults With Harmful Effects
-     * Base and superstructure Base and superstructure
-       Definition of Base and Superstructure
-     * Illuminated modern, luxury home showcase exterior patio with lap
-       pool and ocean view at twilight Illuminated modern, luxury home
-       showcase exterior patio with lap pool and ocean view at twilight
-       What Is Cultural Hegemony?
-     * A sign advertising a new Wal-Mart hangs on a chain-link fence near
-       the construction project A sign advertising a new Wal-Mart hangs on
-       a chain-link fence near the construction project
-       Proletarianization Defined: Shrinking of the Middle Class
-     * People of different races work together to assemble a puzzle,
-       symbolizing the concept of social order. People of different races
-       work together to assemble a puzzle, symbolizing the concept of
-       social order.
-       What Is Social Order in Sociology?
-     * A hand giving a paycheck symbolizes Marx's concept of the "cash
-       nexus." A hand giving a paycheck symbolizes Marx's concept of the
-       "cash nexus."
-       Cash Nexus
-     * A Chinese Man Works on a Car Production Line. A Chinese Man Works
-       on a Car Production Line.
-       What Is an Industrial Society?
+According to Marx, before workers developed a class consciousness they
+were actually living with a false consciousness. (Though Marx never used
+the actual term, he did develop the ideas that it encompasses.) In
+essence, false consciousness is the opposite of class consciousness.
+Individualistic rather than collective in nature, it produces a view of
+oneself as a single entity engaged in competition with others of one's
+social and economic standing, rather than as part of a group with
+unified experiences, struggles, and interests. According to Marx and
+other social theorists who followed, false consciousness was dangerous
+because it encouraged people to think and act in ways that were
+counterintuitive to their economic, social, and political
+self-interests.
 
-   ThoughtCo
+Marx saw false consciousness as a product of an unequal social system
+controlled by a powerful minority of elites. The false consciousness
+among workers, which prevented them from seeing their collective
+interests and power, was created by the material relations and
+conditions of the capitalist system, by the ideology (the dominant
+worldview and values) of those who control the system, and by social
+institutions and how they function in society.
+
+Marx cited the phenomenon of commodity fetishism—the way capitalist
+production frames relationships between people (workers and owners) as
+relationships between things (money and products)—with playing a key
+role in producing false consciousness among workers. He believed that
+commodity fetishism served to obscure the fact that relations with
+regard to production within a capitalist system are actually
+relationships between people, and that as such, they are changeable.
+
+Building on Marx's theory, Italian scholar, writer, and activist Antonio
+Gramsci expanded the ideological component of false consciousness by
+arguing that a process of cultural hegemony guided by those holding
+economic, social, and cultural power in society produced a "common
+sense" way of thinking that embued the status quo with legitimacy.
+Gramsci noted that by believing in the common sense of one's age, a
+person actually consents to the conditions of exploitation and
+domination that one experiences. This "common sense"—the ideology that
+produces false consciousness—is actually a misrepresentation and
+misunderstanding of the social relationships that define the economic,
+social, and political systems.
+
+ False Consciousness in a Stratified Society 
+
+An example of how cultural hegemony works to produce false
+consciousness—that is true both historically and today—is the belief
+that upward mobility is possible for all people, regardless of the
+circumstances of their birth, as long as they choose to dedicate
+themselves to education, training, and hard work. In the U.S. this
+belief is encapsulated in the ideal of "the American Dream." Viewing
+society and one's place within it based on the set of assumptions
+derived from "common sense" thinking results in a perception of being an
+individual rather than part of a collective. Economic success and
+failure rest squarely on the shoulders of the individual and do not take
+into account the totality of the social, economic, and political systems
+that shape our lives.
+
+At the time Marx was writing about class consciousness, he perceived
+class as the relationship of people to the means of production—the
+owners versus the workers. While the model is still useful, we can also
+think about the economic stratification of our society into different
+classes based on income, occupation, and social status. Decades' worth
+of demographic data reveals that the American Dream and its promise of
+upward mobility is largely a myth. In truth, the economic class a person
+is born into is the primary determinant of how he or she will fair
+economically as an adult. However, as long as a person believes the
+myth, he or she will continue to live and operate with a false
+consciousness. Without a class consciousness, they will fail to
+recognize that the stratified economic system in which they're operating
+was designed to afford only the bare minimum of money to workers while
+funneling huge profits to the owners, executives, and financiers at the
+top.
+
+Cite this Article []
+
+[]
+
+Format
+
+mla apa chicago
+
+Your Citation
+
+Crossman, Ashley. "Understanding Karl Marx's Class Consciousness and
+False Consciousness." ThoughtCo, Jun. 25, 2024,
+thoughtco.com/class-consciousness-3026135. Crossman, Ashley. (2024, June
+25). Understanding Karl Marx's Class Consciousness and False
+Consciousness. Retrieved from
+https://www.thoughtco.com/class-consciousness-3026135 Crossman, Ashley.
+"Understanding Karl Marx's Class Consciousness and False Consciousness."
+ThoughtCo. https://www.thoughtco.com/class-consciousness-3026135
+(accessed January 4, 2025).
+
+[] copy citation
+
+-   
+    [homeless man in street]
+
+    Understanding Alienation and Social Alienation
+-   
+    [French workers strike for better wages in 1990]
+
+    All About Marxist Sociology
+-   
+    [Karl Marx Statues]
+
+    What is the Dominant Ideology Thesis?
+-   
+    [The View Through a Smartphone Camera Symbolize's the Definition of
+    Ideology]
+
+    Theories of Ideology
+-   
+    [An illustration of conflict theory]
+
+    Understanding Conflict Theory
+-   
+    [Crowd reaching for globe]
+
+    The Concept of Collective Consciousness
+-   
+    [Statue of Karl Marx and Friedrich Engels, Berlin, Germany]
+
+    Mode of Production in Marxism
+-   
+    [Overlapping silhouettes of Hands in a watercolor texture]
+
+    What Is Social Class, and Why Does it Matter?
+
+-   
+    [Large hand holding rope tied round group of small people]
+
+    Power Definitions and Examples in Sociology
+-   
+    [Blue silhouette stands apart from a crowd]
+
+    What Is a Microaggression? Everyday Insults With Harmful Effects
+-   
+    [Base and superstructure]
+
+    Definition of Base and Superstructure
+-   
+    [Illuminated modern, luxury home showcase exterior patio with lap
+    pool and ocean view at twilight]
+
+    What Is Cultural Hegemony?
+-   
+    [A sign advertising a new Wal-Mart hangs on a chain-link fence near
+    the construction project]
+
+    Proletarianization Defined: Shrinking of the Middle Class
+-   
+    [People of different races work together to assemble a puzzle,
+    symbolizing the concept of social order.]
+
+    What Is Social Order in Sociology?
+-   
+    [A hand giving a paycheck symbolizes Marx's concept of the "cash
+    nexus."]
+
+    Cash Nexus
+-   
+    [A Chinese Man Works on a Car Production Line.]
+
+    What Is an Industrial Society?
+
+ThoughtCo
+
+[]
 
 Follow Us
 
-     *
-     *
+-   []
+-   []
 
-     * Science, Tech, Math
-     * Humanities
-     * Languages
-     * Resources
+-   Science, Tech, Math
+-   Humanities
+-   Languages
+-   Resources
 
-     * About Us
-     * Advertise
-     * Careers
-     * Privacy Policy
-     * Editorial Guidelines
-     * Contact
-     * Terms of Service
-     * (BUTTON) EU Privacy
-     * Access TRUSTe's Enterprise Privacy Certification program
+-   About Us
 
-   ThoughtCo is part of the Dotdash Meredith publishing family.
+-   Advertise
+
+-   Careers
+
+-   Privacy Policy
+
+-   Editorial Guidelines
+
+-   Contact
+
+-   Terms of Service
+
+-   EU Privacy
+
+-   
+
+[]
+
+ThoughtCo is part of the Dotdash Meredith publishing family.
+
+[]
 
 We Care About Your Privacy
 
-   We and our 100 partners store and/or access information on a device,
-   such as unique IDs in cookies to process personal data. You may accept
-   or manage your choices by clicking below, including your right to
-   object where legitimate interest is used, or at any time in the privacy
-   policy page. These choices will be signaled to our partners and will
-   not affect browsing data.
+We and our 100 partners store and/or access information on a device,
+such as unique IDs in cookies to process personal data. You may accept
+or manage your choices by clicking below, including your right to object
+where legitimate interest is used, or at any time in the privacy policy
+page. These choices will be signaled to our partners and will not affect
+browsing data.
 
 We and our partners process data to provide:
 
-   Store and/or access information on a device. Use limited data to select
-   advertising. Create profiles for personalised advertising. Use profiles
-   to select personalised advertising. Create profiles to personalise
-   content. Use profiles to select personalised content. Measure
-   advertising performance. Measure content performance. Understand
-   audiences through statistics or combinations of data from different
-   sources. Develop and improve services. Use limited data to select
-   content. (BUTTON) List of Partners (vendors)
-   (BUTTON) Accept All (BUTTON) Reject All (BUTTON) Show Purposes
-   (BUTTON)
+Store and/or access information on a device. Use limited data to select
+advertising. Create profiles for personalised advertising. Use profiles
+to select personalised advertising. Create profiles to personalise
+content. Use profiles to select personalised content. Measure
+advertising performance. Measure content performance. Understand
+audiences through statistics or combinations of data from different
+sources. Develop and improve services. Use limited data to select
+content. List of Partners (vendors)
+
+Accept All
+
+Reject All
+
+Show Purposes
