@@ -1,0 +1,1145 @@
+     * Back to Top
+
+Self-Consciousness
+
+   First published Thu Jul 13, 2017; substantive revision Fri Jun 14, 2024
+--
+   of themselves: their activities, their bodies, and their mental lives.
+   They are, that is, self-conscious (or, equivalently, self-aware).
+   Self-consciousness can be understood as an awareness of oneself. But a
+   self-conscious subject is not just aware of something that merely
+   happens to be themselves, as one is if one sees an old photograph
+   without realising that it is of oneself. Rather a self-conscious
+   subject is aware of themselves as themselves; it is manifest to them
+   that they themselves are the object of awareness. Self-consciousness is
+   a form of consciousness that is paradigmatically expressed in English
+   by the words “I”, “me”, and “my”, terms that each of us uses to refer
+   to ourselves as such.
+--
+   A central topic throughout the history of philosophy—and increasingly
+   so since the seventeenth century—the phenomena surrounding
+   self-consciousness prompt a variety of fundamental philosophical and
+   scientific questions, including its relation to consciousness; its
+   semantic and epistemic features; its realisation in both conceptual and
+   non-conceptual representation; and its connection to our conception of
+   an objective world populated with others like ourselves.
+     * 1. Self-Consciousness in the History of Philosophy
+          + 1.1 Ancient and Medieval Discussions of Self-Consciousness
+          + 1.2 Early Modern Discussions of Self-Consciousness
+          + 1.3 Kantian and Post-Kantian Discussions of Self-Consciousness
+          + 1.4 Early Twentieth Century Discussions of Self-Consciousness
+     * 2. Self-Consciousness in Thought
+          + 2.1 The Essential Indexical
+               o Supplement: Scepticism About Essential Indexicality and
+--
+               o Supplement: The Scope of Immunity to Error Through
+                 Misidentification
+     * 3. Self-Consciousness in Experience
+          + 3.1 Consciousness of the Self
+          + 3.2 Pre-Reflective Self-Consciousness
+          + 3.3 The Sense of Ownership
+     * 4. The Conditions of Self-Consciousness
+          + 4.1 Self-Consciousness and Personhood
+          + 4.2 Self-Consciousness and Rationality
+          + 4.3 Self-Consciousness and Consciousness
+          + 4.4 Self-Consciousness and Intersubjectivity
+     * 5. Self-Consciousness in Infants and Non-Human Animals
+          + 5.1 Mirror Recognition
+          + 5.2 Episodic Memory
+--
+     __________________________________________________________________
+
+1. Self-Consciousness in the History of Philosophy
+
+   A familiar feature of ancient Greek philosophy and culture is the
+--
+   kill Laius, to thinking that he himself was so prophesied. It is only
+   this latter knowledge that we would call an expression of
+   self-consciousness and that, we may presume, is the object of the
+   Delphic maxim. During the course of the drama Oedipus comes to know
+   himself, with tragic consequences. But just what this
+   self-consciousness amounts to, and how it might be connected to other
+   aspects of the mind, most notably consciousness itself, is less clear.
+   It has, perhaps unsurprisingly, been the topic of considerable
+   discussion since the Greeks. During the early modern period
+   self-consciousness became central to a number of philosophical issues
+   and, with Kant and the post-Kantians, came to be seen as one of the
+   most important topics in epistemology and the philosophy of mind.
+
+1.1 Ancient and Medieval Discussions of Self-Consciousness
+
+   Although it is occasionally suggested that a concern with
+   self-consciousness is a peculiarly modern phenomenon, originating with
+   Descartes (Brinkmann 2005), it is in fact the topic of lively ancient
+   and medieval debates, many of which prefigure early modern and
+--
+   that a person must, while perceiving any thing, also perceive their own
+   existence (De Sensu 7.448a), a claim suggestive of the view that
+   consciousness entails self-consciousness. Furthermore, according to
+   Aristotle, since the intellect takes on the form of that which is
+   thought (Kahn 1992), it “is thinkable just as the thought-objects are”
+--
+   argue that there is no self-awareness without embodiment (Ram-Prasad
+   2013). There were, therefore, wide-ranging debates in the ancient and
+   medieval period not only about the nature of self-consciousness, but
+   also about its relation to other aspects of the mind, most notably
+   sensory perception and awareness of the body.
+
+1.2 Early Modern Discussions of Self-Consciousness
+
+   Central to the early modern discussion of self-consciousness are
+   Descartes’ assertions, in the second of his Meditations, that “I am, I
+   exist, is necessarily true whenever it is put forward by me or
+--
+   (Descartes 1637: 36, and Descartes 1644: 162; see the discussion of
+   Reflection in the entry on seventeenth century theories of
+   consciousness). The cogito, which was anticipated by Augustine (On the
+   Trinity 10.10; Pasnau 2002: ch. 11), embodies two elements of
+   self-awareness—awareness that one is thinking and awareness that one
+--
+
+   A similar claim can be found in Berkeley’s Three Dialogues (1713:
+   231–234; Stoneham 2002: §6.4). Further, Locke makes self-consciousness
+   partly definitive of the very concept of a person, a person being “a
+   thinking intelligent Being, that has reason and reflection, and can
+   consider it self as it self, the same thinking thing in different times
+   and places” (1700: II. xxvii.9; Ayers 1991: vol.II, ch.23; Thiel 2011:
+   ch. 4), and self-consciousness also plays an important role in his
+   theory of personal identity (see §4.1).
+
+--
+   accordance with his empiricist account of concept acquisition, lack an
+   idea of such. It is clear, then, that in the early modern period issues
+   of self-consciousness play an important role in a variety of
+   philosophical questions regarding persons and their minds.
+
+1.3 Kantian and Post-Kantian Discussions of Self-Consciousness
+
+   Hume’s denial that there is an inner perception of the self as the
+--
+   there is no intuition of the self “through which it is given as object”
+   (Kant 1781/1787: B408; Brook 1994; Ameriks 1982 [2000]). Kant’s account
+   of self-consciousness and its significance is complex, a central
+   element of the Transcendental Deduction being the claim that a form of
+   self-awareness—transcendental apperception—is required to account for
+--
+   think’ must be able to accompany all my representations” (Kant
+   1781/1787: B132; Keller 1998; Kitcher 2011; see the entry on Kant’s
+   view of the mind and consciousness of self). Thus, while Kant denies
+   that there is an inner awareness of the self as an object that owns its
+   experiences, we must nevertheless be aware of those experiences as
+--
+   Further, a philosophical tradition stemming from Kant’s work has tried
+   to identify the necessary conditions of the possibility of
+   self-consciousness, with P.F. Strawson (1959, 1966), Evans (1980,
+   1982), and Cassam (1997), for example, exploring the relation between
+   the capacity for self-conscious thought and the possession of a
+--
+   world (see §4.3). Another, related tradition has argued that an
+   awareness of subjects other than oneself is a necessary condition of
+   self-consciousness (see §4.4). Historical variations on such a view can
+   be found in Fichte (1794–1795; Wood 2006), Hegel (1807; Pippin 2010),
+   and, from a somewhat different perspective, Mead (1934; Aboulafia
+   1986).
+
+   Fichte offers the most influential account of self-consciousness in the
+   post-Kantian tradition. On the reading of the “Heidelberg School”,
+   Fichte claims that previous accounts of self-consciousness given by
+   Descartes, Locke, and even Kant are “reflective”, regarding the self as
+   taking itself not as subject but as object (Henrich 1967; Tugendhat
+--
+   posits its own existence by virtue of merely existing” (Fichte
+   1794–1795: 97). Once more, this debate echoes ancient discussions
+   concerning the nature and role of self-consciousness.
+
+1.4 Early Twentieth Century Discussions of Self-Consciousness
+
+   In the early twentieth century, Frege suggests a form of
+--
+   Sartre (1937; Priest 2000) takes Husserl’s later view to task, arguing
+   against the view that we are continually aware of a transcendental ego,
+   yet in favour of the picture of consciousness as involving a
+   “pre-reflective” awareness of itself reminiscent of the Heidelberg
+   School view (Wider 1997: ch. 3; Miguens, Preyer, & Morando 2016).
+   Questions about the nature of self-consciousness and, in particular,
+   over whether there is an immediate, or intuitive, consciousness of the
+   self, were as lively as ever well into the twentieth century.
+
+2. Self-Consciousness in Thought
+
+   One natural way to think of self-consciousness is in terms of a
+   subject’s capacity to entertain conscious thought about herself.
+   Self-conscious thoughts are thoughts about oneself. But it is commonly
+   pointed out that thinking about what merely happens to be oneself is
+   insufficient for self-consciousness, rather one must think of oneself
+   as oneself. If one is capable of self-conscious thought, that is, one
+   must be able to think in such a way that it is manifest to one that it
+--
+
+   It is widely recognised that the paradigmatic linguistic expression of
+   self-consciousness in English is the first-person pronoun “I”; a term
+   with which one might be said to refer to oneself as oneself (Sainsbury
+   2011). Plausibly, every utterance of a sentence containing “I” is
+   expressive of a self-conscious “I-thought”, that is a thought
+   containing the first-person concept. Thus, discussions of
+   self-consciousness are often closely associated with accounts of the
+   semantics of the indexical term “I” and the nature of its counterpart
+   first-person concept (e.g., Anscombe 1975; Perry 1979; Nozick 1981: ch.
+--
+   Jane realises that it is herself that she believes to be F. That is,
+   there is a reading of “Jane believes that she is F” that does not imply
+   self-consciousness on Jane’s part. But, in some cases, we do intend to
+   attribute self-consciousness with that same form of words. To resolve
+   this ambiguity, Castañeda introduces “she*” for self-conscious
+   attributions. I will use the more natural indirect reflexive “she
+--
+   self-locating or, in his terminology, de se. On this account, every
+   belief involves the self-ascription of a property and so, arguably, is
+   an instance of self-consciousness (for discussion, Gennaro 1996: ch. 8;
+   Stalnaker 2008: ch. 3; Feit 2008; Cappelen & Dever 2013: ch. 5; Magidor
+   2015; Jackson & Stoljar 2020).
+--
+   their critique is the claim that cases, such as Perry’s shopper, that
+   are often thought to show the special connection between
+   self-consciousness (I-thoughts) and the capacity for action really only
+   show that action explanation contexts do not allow for substitution
+   salva veritate, but rather are opaque (Cappelen & Dever 2013: ch. 3).
+--
+   shopper with the torn sack I will only stop when I believe that I am
+   that shopper. On their view, despite the popularity of the view to the
+   contrary, the capacity for self-consciousness does not possess any
+   philosophically deep relation to the capacity for action. See the
+   supplement: Scepticism About Essential Indexicality and Agency.
+--
+   that there is no chance of its failing to pick out some entity. This
+   account of “I”, then, treats it as not only expressive of
+   self-consciousness, but also guaranteed to refer to the utterer.
+
+   SRR is Kaplan’s specification of the character of “I”, which is fixed
+--
+   actions (Anscombe 1975: 49). Anscombe argues that such a situation is
+   compatible with the possibility that the people in question lack
+   self-consciousness. Whilst B uses “A” to refer to B, C uses “A” to
+   refer to C, and so on, there is no guarantee that they are thinking of
+   themselves as themselves, for they may be reporting what are in fact
+--
+
+   Can the Self-Reference Rule be reformulated in such a way as to entail
+   self-consciousness on the part of those who use terms that comply with
+   it? According to Anscombe it can, but any such reformulation will
+   presuppose a prior grasp of self-conscious reference to oneself. For
+--
+   the first-person formulation of such a rule: “I” is a term that I use
+   to refer to myself. For here the “myself” must itself be understood as
+   an expression of self-consciousness, i.e., we should really say that
+   “I” is a term that I use to refer to myself as myself.
+
+   In response to Anscombe’s argument, it has been argued that SRR is not
+   intended to explain the connection between self-consciousness and the
+   first-person (O’Brien 1994, 1995a; Garrett 1998: ch. 7; cf. Campbell
+   1994: §4.2; Peacocke 2008: §3.1). On this view, all that the example of
+   “A” users shows is that self-consciousness has not been fully accounted
+   for by SRR, not that SRR fails as an account of the character of “I”.
+   Kaplan himself, however, does appear to be more ambitious than this,
+--
+   role (for an alternative broadly functional account, see Mellor 1989;
+   for an argument that, far from being amenable to a functional analysis,
+   self-consciousness poses a threat to the coherence of functionalism,
+   see Bealer 1997). Once we see how both “I”-Ideas and “here”-Ideas stand
+   at the centre of distinctive networks of inputs (ways of gaining
+--
+   aware of a pain, then that pain must be one’s own. Immunity to errors
+   of this sort has been taken, by a number of philosophers, to be
+   importantly connected to self-consciousness.
+
+   Under the influence of Shoemaker (1968) this phenomenon has become
+--
+   have first-personal content. And that, according to some philosophers,
+   is to determine which forms of experience are themselves forms of
+   self-consciousness (see, for example, Bermúdez 1998: 144). This issue
+   is further discussed in §3.
+
+--
+   “I”.
+
+3. Self-Consciousness in Experience
+
+   Some philosophers maintain that, in addition to its manifestation in
+   first-personal thinking, self-consciousness is also present in various
+   forms of sensory and non-sensory experience (Bermúdez 1998; Hurley
+   1998: ch. 4; Zahavi 2005; Peacocke 2014; Musholt 2015). After all,
+   self-consciousness is presumably a form of consciousness (see entry on
+   consciousness). On the view that experience, like thought, has
+   representational content, this can be understood as the view that
+   experiences, like thoughts, can have content that is first-personal. On
+--
+   Bermúdez 2003).
+
+   The claim that there is a form of self-consciousness in experience, one
+   which arguably grounds the capacity to entertain first-personal
+   thought, can be understood in a number of ways. According to one view
+   there is a perceptual, or quasi-perceptual, consciousness of the self
+   as an object of experience. On another, there is a “pre-reflective”
+   form of self-consciousness that does not involve the awareness of the
+   self as an object. A third claims that various forms of experience
+   involve a distinctive “sense of ownership” in which each of us is aware
+--
+   misidentification.
+
+3.1 Consciousness of the Self
+
+   It is natural to suppose that self-consciousness is, fundamentally, a
+   conscious awareness of the self. On such a view, one is self-conscious
+   if, when one introspects, one is aware of a thing that is, in some
+--
+   As with first-person thought, the issue is not whether one is, or can
+   be, conscious of what is in fact oneself. If that were sufficient for
+   self-consciousness then, on the supposition that one is identical to
+   one’s body, seeing oneself in a mirror would be a case of
+   self-consciousness, even if one were unaware that it was oneself that
+   one saw. Rather, the issue is whether one is, or can be, conscious of
+   oneself as oneself, a form of awareness in which it is manifest to one
+--
+   ground certain cases of self-knowledge, first-person reference, and the
+   immunity to error of certain first-person thoughts (Shoemaker 1986; see
+   the entry on self-knowledge). The inner consciousness of the self as F,
+   for example, would account for one’s capacity to refer to oneself as
+   oneself, one’s knowledge that one is F, and the fact that such a
+--
+   different, imagination-based, argument against bodily awareness as a
+   form of self-awareness, see Smith 2006b; see Bermúdez 2011 for a
+   response; for discussions of the relation between self-consciousness
+   and imagination see B. Williams 1973; Reynolds 1989; Velleman 1996).
+
+--
+   Mitchell 2021; Skrzypulec 2023).
+
+3.2 Pre-Reflective Self-Consciousness
+
+   If first-person thought is not grounded in an awareness of the self as
+--
+   the capacity to entertain self-conscious thought (O’Brien 1995a). One
+   suggestion is that subjects possess a form of “pre-reflective
+   self-awareness” as a necessary condition of consciousness (Sartre 1937,
+   1943: Introduction; Zahavi 2005, 2007; Legrand 2006; cf. Kriegel 2009;
+   Borner, Frank & Williford 2019; Howell 2023, Ch.5. For criticism, see
+   Schear 2009; also see the entry on phenomenological approaches to
+   self-consciousness). On this view, all conscious experience involves an
+   implicit awareness of oneself as its subject without explicitly
+   representing the self as an object of awareness (cf. Musholt’s
+   distinction between “self-representationalist” and
+   “non-self-representationalist” accounts of non-conceptual
+   self-consciousness (2015: chs. 3–4)). Indeed, it might be argued that
+   the necessity of an active agent’s possessing some form of
+   self-awareness follows from the connection between action and
+   self-consciousness that many suppose to have been established by
+   considerations of the essential indexical discussed in §2.1 (cf.
+   Bermúdez 1998).
+
+   These views are closely associated with theories that explain
+   consciousness in terms of self-consciousness (§4.3). Pre-reflective
+   self-awareness is “pre-reflective”, according to its proponents, in the
+   sense that it does not require one to explicitly reflect on one’s own
+--
+   situations in which one’s attention is directed outwards toward worldly
+   objects and events. Pre-reflective self-awareness, then, is implicit in
+   all consciousness, providing one with a continuous awareness of oneself
+   as the subject of one’s stream of experience.
+
+   One way in which such views can be understood is as maintaining that
+   experience involves self-consciousness in the mode, rather than the
+   content, of conscious experience (Recanati 2007: part 5; 2012; O’Brien
+   2007: ch. 6). This can be fleshed out by analogy with the case of
+--
+   that it is she herself who is undergoing that experience.
+
+   Accounts of self-consciousness as involving unarticulated constituents,
+   or as implicit in the mode of consciousness, will need to explain how
+   the transition is made from such implicit self-awareness to the
+   explicit representation of the self in first-person thought. One option
+--
+
+   Pre-reflective, or implicit, accounts of the place of
+   self-consciousness in experience are often associated with the
+   so-called “sense of ownership”, or “sense of mineness” (Flanagan 1992;
+   Martin 1995; Dokic 2003; Marcel 2003; Zahavi 2005: ch. 5; de Vignemont
+--
+   “no-ownership” view).
+
+   Even within the context of an implicit account of self-consciousness in
+   experience, we can further distinguish between reductive and
+   non-reductive construals of the sense of ownership (Bermúdez 2011;
+--
+
+   It is sometimes claimed that the variety of ways in which
+   self-consciousness can break down poses a challenge to the claim that
+   the sense of ownership is a universal characteristic of experience
+   (e.g., Metzinger 2003: §7.2.2). Thought insertion, anarchic hand, alien
+--
+   see the supplement: The Scope of Immunity to Error Through
+   Misidentification). It has also been claimed that the sense of
+   ownership, along with other aspects of self-consciousness, is degraded
+   in both certain meditative practices (Letheby & Gerrans 2017; Millière
+   2017; Millière et. al. 2018) and psychedelic experience (Millière et.
+--
+   they are aware of the thoughts of other people or objects entering
+   their own minds (see, for example, Saks 2007: ch. 2; for general
+   discussion of schizophrenia and self-consciousness see Parnas & Sass
+   2011). On the assumption that such subjects are actually aware of what
+   are, in fact, their own thoughts, this might seem to be a case of a
+--
+   & Martin 2013; Fernández 2013: ch. 5; Billon 2013).
+
+4. The Conditions of Self-Consciousness
+
+   Much of the philosophical work on self-consciousness concerns its
+   relation to a variety of other phenomena. These include the nature of
+   personhood, rationality, consciousness, and the awareness of other
+   minds. In each case we can ask whether self-consciousness is a
+   necessary and/or sufficient condition for the phenomenon in question.
+
+4.1 Self-Consciousness and Personhood
+
+   As was mentioned in §1.2, Locke characterises a person as “a thinking
+   intelligent Being, that has reason and reflection, and can consider it
+   self as it self, the same thinking thing in different times and places”
+   (1700: II.xxvii.9). On such a view, self-consciousness is essential to
+   personhood. In particular, on Locke’s view it is the capacity to
+   reidentify oneself at different times that is important, a claim which
+--
+   personal identity). As such, Locke considers the capacity for
+   self-conscious thinking to be a necessary condition of personhood. What
+   is less clear is whether, on this view, self-consciousness is
+   sufficient for personhood. One reason for doubt on this score is that
+   since it is concerned with self-conscious thought the account provides
+   no reason to suppose that creatures that enjoy non-conceptual
+   self-consciousness are persons. A second is that the requirement of
+   being able to reidentify oneself over time is not one that we need
+   consider met by all self-conscious creatures for, we can suppose, it is
+--
+
+   An alternative conception of personhood that also gives a central role
+   to self-consciousness can be found in Frankfurt’s claim that it is
+   essential to persons to have a capacity for reflective self-evaluation
+   manifested in the possession of what he calls “second-order volitions”
+--
+
+   An account of persons that would appear to distance that notion from
+   self-consciousness is that offered by P.F. Strawson in chapter 3 of
+   Individuals,
+
+     the concept of a person is the concept of a type of entity such that
+     both predicates ascribing states of consciousness and predicates
+     ascribing corporeal characteristics, a physical situation &c. are
+     equally applicable to a single individual of that type. (1959:
+--
+   with Cartesian dualism and, on the other, with what he calls the
+   “no-ownership view”: a view according to which we don’t really
+   self-ascribe states of consciousness at all, at least not with the use
+   of “I” as subject (cf. Wittgenstein 1953: §244; 1958: 76; Anscombe
+   1975; it is controversial whether Wittgenstein ever really held this
+--
+   subjects and bodies. Strawson argues that the primitiveness of the
+   concept of a person is a necessary condition of the possibility of
+   self-consciousness (P.F. Strawson 1959: 98–103). His argument is that
+   one can only self-ascribe states of consciousness if one is able to
+   ascribe them to others (for more on this theme see §4.4). This rules
+   out Cartesian dualism, since ascribing states of consciousness to
+   others requires that one be able to identify others, and one cannot
+   identify pure subjects of experience or Cartesian egos. The condition
+   that one must be able to ascribe states of consciousness to others also
+   rules out the “no-ownership view” because such a view is inconsistent
+   with the fact that psychological predicates have the very same sense in
+--
+   related to that of Partfit). As is the case with the “no-ownership
+   view” it has sometimes been argued that reductionism is incompatible
+   with self-consciousness so, since we are indisputably self-conscious,
+   reductionism must be false. Against the claim that the (continued)
+   existence of a person consists merely in the (continued) existence of
+   brain, body, and interrelated physical and mental events that do not
+   presuppose anything about persons as such, McDowell (1997) for example,
+   argues from a broadly Evansian position on self-consciousness (see the
+   supplement: Evans on First Person Thought) that there simply are no
+   such “identity-free relations” (1997: 378) to which a person’s identity
+--
+   McDowell puts it,
+
+     [i]n continuity of “consciousness”, there is what appears to be
+     knowledge of an identity, the persistence of the same subject
+     through time. (1997: 361)
+--
+   Memory, at least, cannot be employed in a reductive account of persons
+   (for discussion of McDowell’s argument see Buford 2009; Fernández 2014;
+   for related arguments from self-consciousness to the falsity of
+   reductionism, see Cassam 1997: ch. 5).
+
+4.2 Self-Consciousness and Rationality
+
+   Is self-consciousness a necessary condition of rationality? A number of
+   philosophers have argued that rationality requires self-knowledge which
+   itself implies self-consciousness (see Shoemaker 1988, 1994; Burge
+   1996; Moran 2001; Bilgrami 2006; Boyle 2009, 2011; for a general
+   discussion of this approach to self-knowledge, see Gertler 2011: ch.
+--
+
+   The connection between rationality and self-knowledge (and so
+   self-consciousness), Shoemaker argues, is even more pronounced in the
+   case of our awareness of our own beliefs. Rational subjects should
+   abide by certain strictures on the contents of their beliefs, updating
+--
+   to do and how to feel (Moran 2001: ch. 2). Here the focus is not so
+   much on critical reasoning but rather practical deliberation as that
+   which requires self-consciousness. This is an idea that is also central
+   to much of Korsgaard’s work (see, in particular, Korsgaard 1996, 2009).
+   A central concern of hers is to distinguish between the sort of action
+--
+     which desire to act upon. (Korsgaard 1996: 100)
+
+   Self-consciousness, on this view,
+
+     is the source of reason. When we become conscious of the workings of
+--
+     or a necessity but as a proposal, something we need to make a
+     decision about. (Korsgaard 2009: 119; for discussion of Korsgaard’s
+     account of the relation between self-consciousness and the
+     perspective of practical reason, see, for example, Nagel 1996;
+     Fitzpatrick 2005; Soteriou 2013: ch. 12).
+--
+   deliberation). Burge also makes it clear that he regards the capacity
+   for critical reasoning to be a necessary condition of (conceptual)
+   self-consciousness, since to master and self-ascribe psychological
+   concepts such as belief, one must be able to recognise their role in
+   reasoning, and so employ them (Burge 1996: 97, n.3). As he puts it,
+--
+
+   The claim that there is a constitutive connection between
+   self-consciousness and rationality has been met with scepticism by
+   Kornblith (2011, 2012: ch. 2; for a related line of thought, see Doris
+   2015: ch. 2). Regarding the sort of responsiveness to reason involved
+--
+   exercises in rational investigation. On this view, whilst
+   non-reflective creatures may have some degree of rationality, their
+   lack of self-consciousness means that they are not, as we are, capable
+   of fully rational deliberation (for discussion of Kornblith’s
+   scepticism concerning the role of self-consciousness in rationality,
+   see Pust 2014; M. Williams 2015; Smithies 2016).
+
+4.3 Self-Consciousness and Consciousness
+
+   Central to the history of the self-consciousness sketched in §1 is a
+   concern with the relation between self-consciousness and consciousness.
+   Since self-consciousness is itself a form of consciousness,
+   consciousness is, of course, a necessary condition of it. But is
+   self-consciousness necessary for consciousness? Positive answers to
+   this question come in both reductive and non-reductive varieties.
+
+   One way in which consciousness might entail self-consciousness is if
+   the former is reducible to the latter. One such family of views are
+   higher order theories of consciousness which maintain that a
+   psychological state is conscious if and only if it is represented, in
+   the right way, by a higher order state (Gennaro 2004; for a very
+   different account that nevertheless posits a tight connection between
+   consciousness and self-consciousness, see O’Shaughnessy 2002: ch. 3). A
+   natural assumption is that this higher order state is distinct from
+   that which it represents. Higher Order theories that accept this
+--
+   oneself as being in the state in question. Since this seems to involve
+   a form of self-awareness, the HOT and HOP theories can be understood as
+   holding that consciousness entails self-consciousness (Gennaro 1996).
+   Given this, it is natural to think of the distinction between HOT and
+   HOP theories of consciousness as closely related to that between
+   conceptual and non-conceptual self-consciousness.
+
+   An alternative to HOT and HOP theories that still maintains the
+   ambition to reduce consciousness to self-consciousness is the
+   self-representational view (Kriegel & Williford 2006; Kriegel 2009;
+   Caston 2002), according to which a psychological state is conscious if
+--
+   that deny that the first and second-order states are distinct. As with
+   both HOT and HOP, self-representationalism can be thought of as
+   supporting the view that a form of self-consciousness is a necessary
+   condition of consciousness. Kriegel (2003) dubs this “intransitive
+   self-consciousness”, the phenomenon purportedly picked out by phrases
+   of the form “I am self-consciously thinking that P”, and distinguishes
+   it from the “transitive self-consciousness” purportedly picked out by
+   phrases of the form “I am self-conscious of my thought that P”. This is
+   a version of the distinction between reflective and pre-reflective
+   self-consciousness discussed in §3.2 (and the views of Fichte and
+   Sartre mentioned in §1; cf. Kapitan 1999). If conscious states are
+   those that represent themselves then, it might be argued, consciousness
+   entails intransitive self-consciousness, since one’s conscious states
+   do not only represent themselves but also (in some way implicitly)
+   represent oneself as having them (Kriegel 2003: 104).
+--
+   “cluttered picture of the mind” (Chalmers 1996: 231), and the
+   fundamental worry that no form of higher-order view has the resources
+   to explain consciousness at all (Levine 2006; cf. Kriegel 2012). As
+   such, higher-order and self-representational theories of consciousness,
+   that posit a necessary connection between consciousness and
+   self-consciousness, are far from being established.
+
+   If consciousness cannot be reduced to self-consciousness, perhaps the
+   latter is nevertheless a necessary condition of the former. Some
+   non-reductive views, already mentioned, see pre-reflective
+   consciousness (see §3.2), or the sense of ownership (see §3.3) as
+   necessary conditions of consciousness (see Zahavi 2005). A different
+   non-reductive, and broadly Kantian, argument for the claim that
+   self-consciousness is a necessary condition of consciousness first of
+   all claims that conscious experience is necessarily unified and,
+   second, that this unity of consciousness in turn depends on
+   self-awareness. Of primary interest here is the second step which is
+   articulated by Strawson in his discussion of Kant’s transcendental
+   deduction as the claim that,
+
+     if different experiences are to belong to a single consciousness,
+     there must be the possibility of self-consciousness on the part of
+     the subject of those experiences. (P.F. Strawson 1966: 93; for
+     discussion of Kant’s views of the matter, see Henrich 1989; Powell
+     1990; Brook 1994; Keller 1998; Kitcher 2011; Allison 2015; for
+     detailed discussion of whether consciousness is necessarily unified,
+     see Bayne 2010; see also entry on unity of consciousness).
+
+   One reason for supposing that there is a connection between
+   self-consciousness and the unity of consciousness is given by Kant, who
+   writes,
+
+     only because I can comprehend their manifold in a consciousness do I
+     call them altogether my representations; for otherwise I would have
+     as multi-coloured diverse a self as I have representations of which
+--
+   That is, a single self must be able to “comprehend” its own experiences
+   together, otherwise they would not really be its own. Such
+   “comprehension” would seem to involve self-consciousness. As Kant
+   famously puts it,
+
+--
+   On this view, it is the unity of the self that guarantees that
+   co-conscious experiences are jointly self-ascribable; that unity
+   requires self-consciousness (there is a question as to whether
+   self-consciousness is here supposed to explain the unity of
+   consciousness; cf. Dainton’s strong and weak “I-thesis” (2000: §2.3)).
+   This Kantian picture is associated with the claim that unified
+   self-consciousness requires a conception of the world as objective; as
+   transcending the perspective that one has on it. The idea here is that
+   to self-ascribe an experience one must have some grasp of the
+--
+   also see Burge 2010: ch. 6; Gomes 2016 and 2024).
+
+   The claim that the unity of consciousness requires self-consciousness
+   can be criticised in a number of different ways. How one evaluates the
+   claim will depend on whether one has conceptual or non-conceptual
+   self-consciousness in mind. As Bayne (2004) points out, the claim that
+   the unity of consciousness requires that one possess the concept of
+   oneself seems, implausibly, to imply that conceptually unsophisticated
+   infants and non-human animals could not possess a unified stream of
+   consciousness (of course, this worry applies quite generally to views
+   that connect consciousness with self-consciousness). The view that
+   non-conceptual self-consciousness is a necessary condition of the unity
+   of consciousness would appear to be vulnerable to the objection that it
+   implausibly rules out the possibility of cases such as Anscombe’s
+   (1975) subject in a sensory deprivation tank, a case in which the forms
+   of experience typically classed as forms of non-conceptual
+   self-consciousness are lacking (for related cases see Bayne 2004; also
+   see G. Strawson 1999). A different worry about the connection between
+   self-consciousness and the unity of consciousness is the “just more
+   content” objection (B. Williams 1978: ch. 3; Hurley 1994; and 1998 Part
+   I). The concern is addressed to the view that self-consciousness is not
+   merely a necessary condition of the unity of consciousness but is that
+   in virtue of which it is unified. For if the self-ascription of
+   experiences is taken to be that which is responsible for the unity of
+   consciousness, how can we account for the fact that the self-conscious
+   thoughts are themselves unified with the first-order experiences that
+   they supposedly unify? As Hurley puts it,
+
+     self-conscious or first-person contents […] are just more contents,
+     to which the problem of co-consciousness [i.e., the unity of
+     consciousness] also applies (1998: 61)
+
+   To appeal to the third-order self-ascription of the self-conscious
+   thought would appear to invite a regress.
+
+4.4 Self-Consciousness and Intersubjectivity
+
+   What is the connection between self-consciousness and the awareness of
+   others? On some views self-consciousness requires awareness of others,
+   on another view the awareness of others requires self-consciousness. In
+   each case we can distinguish between those accounts according to which
+   such awareness is merely an empirical condition from those according to
+--
+   Nichols & Stich 2003). While such views accord no priority to the
+   first-person case, they may see a tight connection between
+   self-consciousness and our capacity to think about others: these are
+   simply two aspects of the more general capacity to think about the
+   mind. A distinct, though related, family of views see both
+   self-consciousness and awareness of others as emerging from a primitive
+   “adualist” state in which self and other are not distinguished (Piaget
+   1937; Merleau-Ponty 1960; Barresi & Moore 1996; Hurley 2005; Gallese
+--
+   Legerstee 2005; Reddy 2008). One empirical proposal is that it is from
+   this early form of social interaction and capacity to understand others
+   that self-consciousness emerges as a self-directed form of mindreading
+   (Carruthers 2011; Carruthers, Fletcher, & Ritchie 2012; for an early
+   such account, see Mead 1934). On such a view the first-person case is
+--
+
+   A more ambitious version of this approach to the relationship between
+   self-consciousness and awareness of others, prioritizing the awareness
+   of others, is to argue that knowledge of other minds is a necessary
+   condition of the possibility of self-consciousness. Well known examples
+   of such arguments can be found in the work of P.F. Strawson (1959: ch.
+   3) and Davidson (1991; for the related Hegelian view that various forms
+   of self-consciousness depend on intersubjective recognition, see
+   Honneth 1995; also Sartre’s 1943, Part 3, Ch.1, view that awareness of
+   oneself as an object is mediated by the ‘look’ of the other). Since
+   knowledge of other minds is typically considered to be open to
+   sceptical doubt, and self-consciousness is not, such lines of reasoning
+   can be thought of as transcendental arguments and so potentially open
+   to general criticisms of that form of argument (Stroud 1968; R. Stern
+--
+
+   Davidson’s transcendental argument—the triangulation argument—connects
+   self-consciousness, knowledge of other minds, and knowledge of the
+   external world. At its heart is the claim that for my thoughts to have
+   determinate content there must exist another subject who is able to
+--
+   Verheggen 2016).
+
+5. Self-Consciousness in Infants and Non-Human Animals
+
+   At what age can human infants be credited with self-consciousness? Is
+   self-consciousness present beyond homo sapiens? Some theorists, for
+   example Bermúdez (1998), claim that various forms of perceptual
+   experience constitute a non-conceptual form of self-consciousness (see
+   §3). Others, for example Rosenthal (2005), claim that phenomenal
+   consciousness entails self-consciousness. If either view is correct
+   then self-consciousness, of some kind, can plausibly be attributed to
+   creatures other than adult humans. But when it comes to more
+   sophisticated forms of self-awareness, matters are less clear. What is
+--
+   unable to provide evidence via their use of the first-person pronoun.
+   Such evidence, if available, may reasonably be thought to shed light on
+   both the phylogenetic and ontogenetic development of self-consciousness
+   (Ferrari & Sternberg 1998; Terrace & Metcalfe 2005; see the entries on
+   animal consciousness and animal cognition).
+
+5.1 Mirror Recognition
+--
+   It has sometimes been claimed, most forcefully by Gallup and
+   colleagues, that the capacity to recognise oneself in the mirror is a
+   marker of self-consciousness (Gallup 1970; Gallup, Anderson, & Platek
+   2011; Gallup, Platek, & Spaulding 2014; Gallup & Anderson 2020). It is
+   easy to see why this might seem to be so since, if first-person thought
+--
+
+   It is not universally accepted, however, that success in the mirror
+   test is an indication of self-consciousness. For example, Heyes (1994)
+   presents an influential critique of the claim that it is a marker of
+   self-awareness, arguing that all that is required for success is that
+--
+   of incoming sensory data, on the other. Such a view, however, needs to
+   explain why it is that passing the mirror test seems to be connected
+   with the phenomena arguably associated with self-consciousness, such as
+   experiencing shame and embarrassment (M. Lewis 2011). There remains,
+   then, significant controversy concerning what success in the mirror
+--
+5.2 Episodic Memory
+
+   Another potential marker of self-consciousness is episodic memory, the
+   capacity that we have to recollect particular episodes from our own
+   past experience (see Tulving 1983; Michaelian 2016; entry on memory).
+--
+   (which also has a future oriented dimension in expectation, planning,
+   and so on; see Michaelian, Klein, & Szpunar 2016). The connection
+   between memory and self-consciousness is one that is often made (see
+   §2.3, §3, and §4.1). If it is correct that episodic memory essentially
+   involves a form of self-consciousness, and we are able to test for the
+   presence of episodic memory in non-linguistic infants and animals, then
+   we have a way of detecting the presence of self-conscious abilities.
+   Since, however, episodic memory is not the only form of
+   self-consciousness, the lack of it does not indicate that a creature is
+   not self-aware. Indeed, the much discussed case of K.C. seems to be one
+   in which, due to an accident, someone has lost episodic memory but
+--
+   animals possess non-episodic forms of memory such as semantic memory
+   (remembering that such and such is the case), they lack the
+   “autonoetic” consciousness of themselves projected either back or
+   forwards in time. For example whilst most 3 year old infants can
+   remember presented information, most are unreliable when it comes to
+--
+   inadequate, since non-episodic, semantic memory often involves the
+   retention of “what, where, when” information. Due to the difficulties
+   in finding a behavioural test for “autonoetic” consciousness, it is
+   often, though not universally, claimed that there is no compelling
+   evidence for episodic memory, and thus this particular form of
+   self-consciousness, in non-human animals (Tulving 2005; Suddendorf &
+   Corballis 2007; Michaelian 2016: ch. 2; for discussion relating to
+   apes, see Menzel 2005; Schwartz 2005; for an alternative perspective
+--
+
+   Another body of research pertaining to the question of
+   self-consciousness in infants and non-human animals is the work on
+   metacognition (and metamemory). The term “metacognition” typically
+   refers to the capacity to monitor and control one’s own cognitive
+--
+
+   The view that success on metacognitive opt-out tests is indicative of
+   self-consciousness is not uncontroversial, however. For example, it has
+   been suggested that the uncertainty response is indicative not of
+   metacognitive uncertainty monitoring but rather of first-order,
+--
+   Carruthers 2008; Kornell 2014; Musholt 2015: ch. 7). On such an
+   interpretation, the research on metacognition does not provide
+   compelling evidence regarding self-consciousness in infants and
+   non-human animals (but for critical discussion see J.D. Smith 2005;
+   J.D. Smith, Couchman, & Beran 2014; also relevant is the distinction
+   between “evaluativist” and “attributivist” accounts of metacognition
+   outlined by Proust (2013)). The question of the significance of opt-out
+   tests for attributions of self-consciousness remains controversial.
+
+Bibliography
+--
+       Review of Philosophy and Psychology, 6(4): 881–896.
+     * Alter, Torin, 2010, “A Defense of the Necessary Unity of Phenomenal
+       Consciousness”, Pacific Philosophical Quarterly, 91(1): 19–37.
+     * Ameriks, Karl, 1982 [2000], Kant’s Theory of Mind: An Analysis of
+       the Paralogisms of Pure Reason, Oxford: Clarendon Press; second
+--
+       Social Understanding”, Behavioral and Brain Sciences, 19(1):
+       107–122.
+     * Bayne, Tim, 2004, “Self-Consciousness and the Unity of
+       Consciousness”, The Monist, 87(2): 219–236.
+     * –––, 2008, “The Phenomenology of Agency”, Philosophy Compass, 3(1):
+       182–202.
+     * –––, 2010, The Unity of Consciousness, Oxford: Oxford University
+       Press.
+     * Bealer, George, 1997, “Self-Consciousness”, Philosophical Review,
+       106(1): 69–117.
+     * Bennett, Jonathan, 1966, Kant’s Analytic, Cambridge: Cambridge
+--
+     * Berkeley, George, 1713, Three Dialogues Between Hylas and Philonus,
+       edited by Jonathan Dancy, Oxford: Oxford University Press, 1998.
+     * Bermúdez, José Luis, 1998, The Paradox of Self-Consciousness,
+       Cambridge, MA: MIT Press.
+     * –––, 2002, “The Sources of Self-Consciousness”, Proceedings of the
+       Aristotelian Society, 102: 87–107.
+     * –––, 2003, Thinking Without Words, New York: Oxford University
+       Press.
+     * –––, 2011, “Bodily Awareness and Self-Consciousness”, in Gallagher
+       2011: 157–179.
+     * –––, 2012, “Memory Judgments and Immunity to Error Through
+--
+     * Bilgrami, Akeel, 2006, Self-Knowledge and Resentment, Cambridge,
+       MA: Harvard University Press.
+     * Billon, Alexandre, 2013, “Does Consciousness Entail Subjectivity?
+       The Puzzle of Thought Insertion”, Philosophical Psychology, 26(2):
+       291–314.
+--
+     * Blackburn, Simon, 1997, “Has Kant Refuted Parfit?” in Dancy 1997:
+       180–201.
+     * Block, Ned, 2011, “The Higher Order Approach to Consciousness Is
+       Defunct”, Analysis, 71(3): 419–431.
+     * Borner, Marc, Manfred Frank, and Kenneth Williford (eds.), Senses
+--
+     * Brewer, Bill, 1995, “Bodily Awareness and the Self”, in Bermúdez,
+       Marcel, & Eilan 1995: 291–309.
+     * Brinkmann, Klaus, 2005, “Consciousness, Self-Consciousness, and the
+       Modern Self”, History of the Modern Sciences, 18(4): 27–48.
+     * Brook, Andrew, 1994, Kant and the Mind, Cambridge: Cambridge
+--
+       Macdonald 1998: 243–270.
+     * –––, 2010, Origins of Objectivity, Oxford: Clarendon Press.
+     * Byrne, Alex, 1997, “Some Like it HOT: Consciousness and Higher
+       Order Thoughts”, Philosophical Studies, 86(2): 103–129.
+     * Campbell, John, 1994, Past, Space, and Self, Cambridge, MA: MIT
+--
+     * –––, 1999b, “Schizophrenia, the Space of Reasons, and Thinking as a
+       Motor Process”, The Monist, 82(4): 609–625.
+     * –––, 2002, Reference and Consciousness, Oxford: Clarendon Press.
+     * Cappelen, Herman and Ernie Lepore, 2007, “The Myth of Unarticulated
+       Constituents”, in O’Rourke & Washington 2007: 199–214.
+--
+     * Carruthers, Peter, 1996, “Simulation and Self-Knowledge: A Defence
+       of Theory Theory”, in Carruthers & Smith 1996: 22–38.
+     * –––, 2000, Phenomenal Consciousness: A Naturalistic Theory,
+       Cambridge: Cambridge University Press.
+     * –––, 2005, Consciousness: Essays from a Higher-Order Perspective,
+       Oxford: Oxford University Press.
+     * –––, 2008, “Metacognition in Animals: A Skeptical Look”, Mind &
+--
+     * –––, 1997, Self and World, Oxford: Oxford University Press.
+     * Castañeda, Hector Neri, 1966, “’He’: A Study in the Logic of
+       Self-Consciousness”, Ratio, 8: 130–157; reprinted in Castañeda
+       1999: 35–60.
+     * –––, 1967, “Indicators and Quasi-Indicators”, American
+--
+       61–88.
+     * –––, 1999, The Phenomeno-Logic of the I: Essays on
+       Self-Consciousness, edited by James G. Hart and Tomis Kapitan,
+       Bloomington: Indiana University Press.
+     * Caston, Victor, 2002, “Aristotle on Consciousness”, Mind, 111(444):
+       751–815.
+     * Chadha, Monima, 2017, “No-Self and the Phenomenology of Agency”,
+--
+     * Cory, Therese Scarpelli, 2014, Aquinas on Human Self-Knowledge,
+       Cambridge: Cambridge University Press.
+     * Dainton, Barry, 2000, Stream of Consciousness: Unity and Continuity
+       in Conscious Experience, London: Routledge.
+     * –––, 2008, The Phenomenal Self, Oxford: Oxford University Press.
+--
+       Oxford: Oxford University Press.
+     * de Vignemont, Frédérique and Adria J. T. Alsmith (eds.), 2017, The
+       Subject’s Matter: Self-Consciousness and the Body, Cambridge, MA:
+       MIT Press.
+     * Dennett, Daniel, 1976, “Conditions of Personhood”, in Amélie Rorty
+--
+       Theory: Korsgaard’s Constructivism, Realism, and the Nature of
+       Normativity”, Ethics, 115(4): 651–691.
+     * Flanagan, Owen, 1992, Consciousness Reconsidered, Cambridge, MA:
+       MIT Press.
+     * Fleming, Stephen M. and Christopher D. Frith (eds.), 2014, The
+--
+     * Frank, Manfred, 1995, “Is Subjectivity a Non-Thing, an Absurdity
+       [Unding]? On Some Difficulties in Naturalistic Reductions of
+       Self-Consciousness”, in Karl Ameriks and Dieter Sturma (eds.), The
+       Modern Subject: Conceptions of the Self in Classical German
+       Philosophy, Albany: SUNY Press, pp. 177–197.
+     * –––, 2004, “Fragments of a History of the Theory of
+       Self-Consciousness from Descartes to Kierkegaard”, Critical
+       Horizons, 5(1): 53–136.
+     * Frankfurt, Harry, 1971, “Freedom of the Will and the Concept of a
+--
+     * Gallup, Gordon G. and James R. Anderson, 2020, “Self-Recognition in
+       Animals: Where do we Stand 50 Years Later? Lessons from Cleaner
+       Wrasse and Other Species”, Psychology of Consciousness: Theory,
+       Research and Practice, 7(1): 46–58.
+     * Ganeri, Jonardon, 2012a, The Self: Consciousness, Naturalism, and
+       the First-Person Stance, Oxford: Oxford University Press.
+     * –––, 2012b, The Concealed Art of the Soul: Theories of Self and
+--
+     * Garrett, Brian, 1991, “Personal Identity and Reductionism”,
+       Philosophy and Phenomenological Research, 51(2): 361–373.
+     * –––, 1998, Personal Identity and Self-Consciousness, London:
+       Routledge.
+     * Gennaro, Rocco, 1996, Consciousness and Self-Consciousness: A
+       Defense of the Higher-Order Thought Theory of Consciousness,
+       Amsterdam: John Benjamins.
+     * ––– (ed.), 2004, Higher-Order Theories of Consciousness, Amsterdam:
+       John Benjamins.
+     * Gertler, Brie, 2011, Self-Knowledge, London: Routledge.
+--
+     * Haddock, Adrian, 2019, “‘I am NN’: A Reconstruction of Anscombe’s
+       ‘The First Person’”, European Journal of Philosophy, 27: 959–970.
+     * –––, 2022, “Anscombe and Self-Consciousness”, in Teichmann 2022,
+       pp. 383–396.
+     * Hamilton, Andy, 1991, “Anscombian and Cartesian Scepticism”, The
+--
+     * –––, 1995, “A New Look at Personal Identity”, The Philosophical
+       Quarterly, 45(180): 332–349. doi:10.2307/2219654
+     * –––, 2009, “Memory and Self-Consciousness: Immunity to Error
+       Through Misidentification”, Synthese, 171(3): 409–417.
+     * –––, 2013, The Self in Question, Basingstoke: Palgrave Macmillan.
+--
+       Miller, Oxford: Oxford University Press, 1977.
+     * Heinämaa, Sara, Vili Lähteenmäki, and Pauliina Remes (eds.), 2007,
+       Consciousness: From Perception to Reflection in the History of
+       Philosophy, Dordrecht: Springer.
+     * Henrich, Dieter, 1967, “Fichte’s Original Insight”, translated by
+--
+     * Hurley, Susan, 1994, “Unity and Objectivity”, in Christopher
+       Peacocke (ed.), Objectivity, Simulation and the Unity of
+       Consciousness: Current Issues in the Philosophy of Mind, Oxford:
+       Oxford University Press, 49–77.
+     * –––, 1998, Consciousness in Action, Cambridge, MA: Harvard
+       University Press.
+     * –––, 2005, “The Shared Circuits Hypothesis: A Unified Functional
+--
+       Self-Awareness: Before and After Avicenna”, in Heinämaa,
+       Lähteenmäki, & Remes 2007: 95–119.
+     * Keller, Pierre, 1998, Kant and the Demands of Self-Consciousness,
+       Cambridge: Cambridge University Press.
+     * Kenny, Anthony, 1979, “The First Person”, in Diamond & Teichman
+--
+     * –––, 2009, Self-Constitution: Agency, Identity, and Integrity,
+       Oxford: Oxford University Press.
+     * Kriegel, Uriah, 2003, “Consciousness as Intransitive
+       Self-Consciousness: Two Views and an Argument”, Canadian Journal of
+       Philosophy, 33(1): 103–132.
+     * –––, 2009, Subjective Consciousness: A Self-Representational
+       Theory, Oxford: Oxford University Press.
+     * –––, 2012, “Self-Representationalism and the Explanatory Gap”, in
+       Lui & Perry 2012: 51–75.
+     * Kriegel, Uriah and Kenneth Williford (eds.), 2006,
+       Self-Representational Approaches to Consciousness, Cambridge, MA:
+       MIT Press.
+     * Kripke, Saul A., 1982, Wittgenstein on Rules and Private Language,
+       Oxford: Blackwell.
+     * Lane, Timothy and Caleb Liang, 2011, “Self-Consciousness and
+       Immunity”, Journal of Philosophy, 108(2): 78–99.
+     * Langland-Hassan, Peter, 2015, “Introspective Misidentification”,
+--
+       Theory of Mind, Cambridge: Cambridge University Press.
+     * Legrand, Dorothée, 2006, “The Bodily Self: The Sensori-Motor Roots
+       of Pre-Reflective Self-Consciousness”, Phenomenology and the
+       Cognitive Sciences, 5(1): 89–118.
+     * Letheby, Chris, and Philip Gerrans, 2017, “Self Unbound: Ego
+       Dissolution in Psychedelic Experience”, Neuroscience of
+       Consciousness, 2017(1): 1–11.
+     * Levine, Joseph, 2006, “Conscious Awareness and
+       (Self-)Representation”, in Uriah Kriegel and Kenneth Williford
+       (eds.), Self-Representational Approaches to Consciousness,
+       Cambridge, MA: MIT Press, pp. 173–197.
+     * Lewis, David, 1979, “Attitudes De Dicto and De Se”, The
+--
+       University Press, pp. 133–159.
+     * Lewis, Michael, 2011, “The Origins and Uses of Self-Awareness or
+       the Mental Representation of Me”, Consciousness and Cognition,
+       20(1): 120–129.
+     * Lewis, Michael and Jeanne Brooks-Gunn, 1979, Social Cognition and
+--
+       Epistemological Point of View, Heusenstamm: Ontos Verlag, pp.
+       69–95.
+     * Lui, JeeLoo and John Perry (eds.), 2012, Consciousness and the
+       Self: New Essays, Cambridge: Cambridge University Press.
+     * Lycan, William, 1996, Consciousness and Experience, Cambridge, MA:
+       MIT Press.
+     * –––, 2004, “The Superiority of HOP to HOT”, in Gennaro 2004:
+--
+       Studies, 167(3): 519–540.
+     * Miguens, Sofia, Gerhard Preyer, and Clara Bravo Morando (eds.),
+       2016, Pre-Reflective Consciousness: Sartre and Contemporary
+       Philosophy of Mind, Abingdon: Routledge.
+     * Millikan, Ruth Garrett, 1990, “The Myth of the Essential
+--
+     * Millière, Raphaël, Robin L. Carhart-Harris, Leor Roseman,
+       Fynn-Mathis Trautwein, Aviva Berkovich-Ohana, 2018, “Psychedelics,
+       Meditation, and Self-Consciousness”, Frontiers in Psychology, 9:
+       1475.
+     * Mitchell, Jonathan, 2021, “Self-Locating Content in Visual
+--
+       Heimir Geirsson (eds.), The Routledge Handbook of Linguistic
+       Reference, New York: Routledge, pp. 482–498.
+     * Noë, Alva, 2002, “Is Perspectival Self-Consciousness
+       Non-Conceptual?”, The Philosophical Quarterly, 52(207): 185–194.
+     * Noonan, Harold, 2022, “The First Person and ‘The First Person’”, in
+--
+       Semantics: Essays on the Philosophy of John Perry, Cambridge, MA:
+       MIT Press.
+     * O’Shaughnessy, Brian, 2002, Consciousness and the World, Oxford:
+       Clarendon Press.
+     * Owens, Joseph, 1988, “The Self in Aristotle”, The Review of
+--
+     * Pacherie, Elisabeth and Jean-Remy Martin, 2013, “Out of Nowhere:
+       Thought Insertion, Ownership and Context-Integration”,
+       Consciousness and Cognition, 22(1): 111–122.
+     * Parfit, Derek, 1984, Reasons and Persons, Oxford: Clarendon Press.
+     * Parnas, Josef and Louis A. Sass, 2011, “The Structure of
+       Self-Consciousness in Schizophrenia”, in Gallagher 2011: 521–546.
+     * Pasnau, Robert, 2002, Thomas Aquinas on Human Nature: A
+       Philosophical Study of Summa Theologaie 1a 75–89, Cambridge:
+--
+       Roessler & Eilan 2003: 94–110.
+     * –––, 2008, Truly Understood, Oxford: Oxford University Press.
+     * –––, 2014, The Mirror of the World: Subjects, Consciousness, &
+       Self-Consciousness, Oxford: Oxford University Press.
+     * Penelhum, Terence, 2000, Themes in Hume. Oxford: Clarendon Press.
+     * Perry, John, 1977, “Frege on Demonstratives”, The Philosophical
+--
+     * Piaget, Jean, 1937, The Construction of Reality in the Child,
+       translated by Margaret Cook, New York: Basic Books, 1954.
+     * Pippin, Robert, B., 2010, Hegel on Self-Consciousness: Desire and
+       Death in the Phenomenology of Spirit, Princeton, NJ: Princeton
+       University Press.
+--
+       Proceedings of the National Academy of Sciences of the United
+       States of America, 103(12): 17053–17057.
+     * Powell, C. Thomas, 1990, Kant’s Theory of Self-Consciousness,
+       Oxford: Oxford University Press.
+     * Predelli, Stefano, 1998a, “‘I Am Not Here Now’”, Analysis, 58(2):
+--
+       23(5): 615–633.
+     * Rochat, Philippe and Dan Zahavi, 2011, “The Uncanny Mirror: A
+       Re-Framing of Mirror Self-Experience”, Consciousness and Cognition,
+       20(2): 204–213.
+     * Rödl, Sebastian, 2007, Self-Consciousness, Cambridge, MA: Harvard
+       University Press.
+     * Roessler, Johannes, and Naomi Eilan (eds.), 2003, Agency and
+--
+       Memory-Impaired Person to Memory Theory”, Neuropsychologia, 43(7):
+       989–1021.
+     * Rosenthal, David, 1986, “Two Concepts of Consciousness”,
+       Philosophical Studies, 49(3): 329–359.
+     * –––, 2005, Consciousness and Mind, Oxford: Oxford University Press.
+     * –––, 2012, “Awareness and Identification of Self”, in Lui & Perry
+       2012: 22–50.
+--
+     * –––, 1943, Being and Nothingness: An Essay on Phenomenological
+       Ontology, translated by Hazel E. Barnes, London: Routledge, 1998.
+     * Schear, Joseph K., 2009, “Experience and Self-Consciousness”,
+       Philosophical Studies, 144(1): 95–105.
+     * Schwartz, Bennett L., 2005, “Do Nonhuman Primates have Episodic
+--
+     * –––, 1996, The First-Person Perspective and Other Essays,
+       Cambridge: Cambridge University Press.
+     * –––, 2012, “Personhood and Consciousness”, in Lui & Perry 2012:
+       198–213.
+     * Sidelle, Alan, 1991, “The Answering Machine Paradox”, Canadian
+--
+     * Stalnaker, Robert C., 2008, Our Knowledge of the Internal World,
+       New York: Oxford University Press.
+     * Stephens, G. Lynn and George Graham, 2000, When Self-Consciousness
+       Breaks: Alien Voices and Inserted Thoughts, Cambridge, MA: MIT
+       Press.
+--
+     * Stone, Jim, 1988, “Parfit and the Buddha: Why There Are No People”,
+       Philosophy and Phenomenological Research, 48(3): 519–532.
+     * Stone, Odyssius, 2024, “Varieties of Self-Consciousness in
+       Mindfulness Meditation”, in Susi Ferrarello and Christos
+       Hadjioannou (eds.), The Routledge Handbook of Phenomenology of
+--
+     * –––, 2011a, The Evident Connexion: Hume on Personal Identity,
+       Oxford: Oxford University Press.
+     * –––, 2011b, Locke on Personal Identity: Consciousness and
+       Concernment, Princeton, NJ: Princeton University Press.
+     * Strawson, P.F., 1959, Individuals, London: Methuen.
+--
+       Anscombe, Oxford: Oxford University Press.
+     * Terrace, Herbert S. and Janet Metcalfe (eds.), 2005, The Missing
+       Link in Cognition: Origins of Self-Reflective Consciousness, New
+       York: Oxford University Press.
+     * Thiel, Udo, 2011, The Early Modern Subject: Self-Consciousness and
+       Personal Identity from Descartes to Hume, Oxford: Oxford University
+       Press.
+--
+     * Tsakiris, Manos, 2011, “The Sense of Body Ownership”, in Gallagher
+       2011: 180–203.
+     * Tugendhat, Ernst, 1979, Self-Consciousness and Self-Determination,
+       translated by Paul Stern, Cambridge, MA: MIT Press, 1986.
+     * Tulving, Endel, 1972, “Episodic and Semantic Memory”, in Endel
+--
+     * –––, 2005, “Episodic Memory and Autonoesis: Uniquely Human?” in
+       Terrace & Metcalfe 2005: 3–56.
+     * Tye, Michael, 1995, Ten Problems of Consciousness, Cambridge, MA:
+       MIT Press.
+     * Valente, Matheus, 2018, “What Is Special about Indexical
+--
+     * White, Michael J., 1979, “The First Person Pronoun: A Reply to
+       Anscombe and Clarke”, Analysis, 39(3): 120–123.
+     * Wider, Kathleen, 1997, The Bodily Nature of Consciousness: Sartre
+       and Contemporary Philosophy of Mind, Ithaca: Cornell University
+       Press.
+--
+Other Internet Resources
+
+     * Self-Consciousness, bibliography at PhilPapers.org.
+     * Self-Consciousness, entry at Internet Encyclopedia of Philosophy.
+
+Related Entries
+
+   animal: cognition | animal: consciousness | bodily awareness |
+   consciousness | consciousness: higher-order theories | consciousness:
+   seventeenth-century theories of | consciousness: unity of | indexicals
+   | introspection | Kant, Immanuel: view of mind and consciousness of
+   self | memory | mental content: nonconceptual | personal identity |
+   self-consciousness: phenomenological approaches to | self-knowledge
+   self-locating beliefs | transcendental arguments
+
