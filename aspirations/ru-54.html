@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html lang="ru-RU" prefix="og: https://ogp.me/ns#" class="">
+<head>
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google" content="notranslate">
+	<!-- Favicons -->
+	<link rel="icon" type="image/svg+xml" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.svg?ver=2.2">
+	<link rel="icon" type="image/ico" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon.ico?ver=2.2">
+	<link rel="apple-touch-icon" sizes="57x57" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-57x57.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-60x60.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-72x72.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-76x76.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-114x114.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-120x120.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-144x144.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-152x152.png?ver=2.2">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/apple-icon-180x180.png?ver=2.2">
+	<link rel="icon" type="image/png" sizes="192x192"  href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/android-icon-192x192.png?ver=2.2">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-32x32.png?ver=2.2">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-96x96.png?ver=2.2">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/favicon-16x16.png?ver=2.2">
+	<link rel="manifest" href="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/manifest.json?ver=2.2">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="https://azbyka.ru/wp-content/themes/azbyka-av/assets/images/favicons/ms-icon-144x144.png?ver=2.2">
+	<meta name="theme-color" content="#f1e9d6">
+	
+	<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» RSS Feed" href="https://azbyka.ru/feed/rss">
+	<link rel="alternate" type="application/atom+xml" title="Православный портал «Азбука веры» Atom Feed" href="https://azbyka.ru/feed/atom">
+	
+		<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+		<script id="az_settings_js">
+		var AZ = window.AZ || {};
+		
+		AZ.project = 'https://azbyka.ru';
+		AZ.settingVars = { "theme" : 0, "body-bg": 0, "side-bg" : 0, "widget-bg" : 0, "text-color" : 0, "link-color" : 0, "accent-color" : 0, "font-base-size" : 0, "text-font" : 0, "title-font" : 0, "text-align" : 0, "pagination-autoload" : 0 }; //0 - cross-site; 1 - local
+		AZ.settings = {};
+		
+		AZ.nameSetting = name => 'az_' + (AZ.settingVars[name] ? AZ.project + '_' : '' ) + name;
+		AZ.getSetting = name => localStorage.getItem(AZ.nameSetting(name));
+		AZ.setSetting = (name, val) => {localStorage.setItem(AZ.nameSetting(name), val); AZ.applySettings();};
+		
+		AZ.applySettings = ()=>{
+			let docStyle = '', docClasses = document.documentElement.classList;
+
+			if(!AZ.settings.length){
+				docClasses.remove('sidebar-show');
+				docClasses.remove('sidebar-hide');
+			}
+
+			let gf_loaded = false;
+
+			for(let name in AZ.settingVars){
+				let val = AZ.getSetting(name);
+				if(val && val !== 'undefined'){
+					//google fonts
+					if (name.includes('-font') && !val.includes(',')) {
+						let head = document.getElementsByTagName('head')[0];
+						if (!gf_loaded) {
+							let pre_lnk = document.createElement('link');
+							pre_lnk.rel = 'preconnect';
+							pre_lnk.href = 'https://fonts.gstatic.com';
+							head.appendChild(pre_lnk);
+							gf_loaded = true;
+							console.log(pre_lnk);
+						}
+						let link = document.createElement('link');
+						link.href = 'https://fonts.googleapis.com/css2?family=' + val.replace(' ', '+') + ':wght@400;700&display=swap';
+						link.rel = 'stylesheet';
+						link.type = 'text/css';
+						head.appendChild(link);
+						console.log(link);
+					}
+
+					AZ.settings[name] = val;
+					docStyle+='--'+name+':'+ val+';';
+				}
+			}
+
+			document.documentElement.style.cssText = docStyle;
+		};
+
+		AZ.applySettings();
+	</script>
+	
+<!-- Поисковая оптимизация от Rank Math Pro - https://rankmath.com/ -->
+<style type='text/css'></style><link data-minify="1" rel='stylesheet' id='bg_bpub_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/css/style.css?ver=1735653130'  media='all' /><link data-minify="1" rel='stylesheet' id='bg_forreaders_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-forreaders/css/style.css?ver=1735653130'  media='all' /><link data-minify="1" rel='stylesheet' id='azbyka-style'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/style.css?ver=1735653130'  media='all' /><title>Совесть - православная энциклопедия «Азбука веры»</title><link rel="preload" data-rocket-preload as="image" href="https://azbyka.ru/wp-content/themes/azbyka/assets/images/decor.svg" fetchpriority="high">
+<meta name="description" content="Совесть – способность человеческого духа к различению добра и зла, сознание добра и зла (св. Игнатий Брянчанинов)."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://azbyka.ru/sovest" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Совесть - православная энциклопедия «Азбука веры»" />
+<meta property="og:description" content="Совесть – способность человеческого духа к различению добра и зла, сознание добра и зла (св. Игнатий Брянчанинов)." />
+<meta property="og:url" content="https://azbyka.ru/sovest" />
+<meta property="og:site_name" content="Православный портал «Азбука веры»" />
+<meta property="article:tag" content="С" />
+<meta property="og:updated_time" content="2024-05-02T09:39:25+03:00" />
+<meta property="og:image" content="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png" />
+<meta property="og:image:secure_url" content="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="500" />
+<meta property="og:image:alt" content="Совесть" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Совесть - православная энциклопедия «Азбука веры»" />
+<meta name="twitter:description" content="Совесть – способность человеческого духа к различению добра и зла, сознание добра и зла (св. Игнатий Брянчанинов)." />
+<meta name="twitter:image" content="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png" />
+<meta name="twitter:label1" content="Автор" />
+<meta name="twitter:data1" content="Ludmila" />
+<meta name="twitter:label2" content="Время чтения" />
+<meta name="twitter:data2" content="8 минут" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Library","Organization"],"@id":"https://azbyka.ru/#organization","name":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b","url":"https://azbyka.ru","logo":{"@type":"ImageObject","@id":"https://azbyka.ru/#logo","url":"https://azbyka.ru/wp-content/uploads/2021/05/og-image.png","contentUrl":"https://azbyka.ru/wp-content/uploads/2021/05/og-image.png","caption":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b","inLanguage":"ru-RU"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://azbyka.ru/#logo"}},{"@type":"WebSite","@id":"https://azbyka.ru/#website","url":"https://azbyka.ru","name":"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b","publisher":{"@id":"https://azbyka.ru/#organization"},"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png","url":"https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png","width":"200","height":"200","inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://azbyka.ru/sovest#webpage","url":"https://azbyka.ru/sovest","name":"\u0421\u043e\u0432\u0435\u0441\u0442\u044c - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","datePublished":"2015-09-02T12:38:56+03:00","dateModified":"2024-05-02T09:39:25+03:00","isPartOf":{"@id":"https://azbyka.ru/#website"},"primaryImageOfPage":{"@id":"https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png"},"inLanguage":"ru-RU"},{"@type":"Person","@id":"https://azbyka.ru/sovest#author","name":"Ludmila","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/ddf28e8e0b17736afc674dd733842fb3?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/ddf28e8e0b17736afc674dd733842fb3?s=96&amp;d=mm&amp;r=g","caption":"Ludmila","inLanguage":"ru-RU"},"worksFor":{"@id":"https://azbyka.ru/#organization"}},{"@type":"Article","headline":"\u0421\u043e\u0432\u0435\u0441\u0442\u044c - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","keywords":"\u0421\u043e\u0432\u0435\u0441\u0442\u044c","datePublished":"2015-09-02T12:38:56+03:00","dateModified":"2024-05-02T09:39:25+03:00","articleSection":"\u042d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f","author":{"@id":"https://azbyka.ru/sovest#author","name":"Ludmila"},"publisher":{"@id":"https://azbyka.ru/#organization"},"description":"\u0421\u043e\u0432\u0435\u0441\u0442\u044c \u2013 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0434\u0443\u0445\u0430 \u043a \u0440\u0430\u0437\u043b\u0438\u0447\u0435\u043d\u0438\u044e \u0434\u043e\u0431\u0440\u0430 \u0438 \u0437\u043b\u0430, \u0441\u043e\u0437\u043d\u0430\u043d\u0438\u0435 \u0434\u043e\u0431\u0440\u0430 \u0438 \u0437\u043b\u0430 (\u0441\u0432. \u0418\u0433\u043d\u0430\u0442\u0438\u0439 \u0411\u0440\u044f\u043d\u0447\u0430\u043d\u0438\u043d\u043e\u0432).","name":"\u0421\u043e\u0432\u0435\u0441\u0442\u044c - \u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb","@id":"https://azbyka.ru/sovest#richSnippet","isPartOf":{"@id":"https://azbyka.ru/sovest#webpage"},"image":{"@id":"https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png"},"inLanguage":"ru-RU","mainEntityOfPage":{"@id":"https://azbyka.ru/sovest#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO плагин -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента" href="https://azbyka.ru/feed" />
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента комментариев" href="https://azbyka.ru/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Православный портал «Азбука веры» &raquo; Лента комментариев к &laquo;Совесть&raquo;" href="https://azbyka.ru/sovest/feed" />
+<style id='wppb-content-restriction-start-style-inline-css' type='text/css'>
+
+
+</style>
+<style id='wppb-content-restriction-end-style-inline-css' type='text/css'>
+
+
+</style>
+<style id='rank-math-toc-block-style-inline-css' type='text/css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id='rank-math-rich-snippet-style-inline-css' type='text/css'>
+/*!
+* Plugin:  Rank Math
+* URL: https://rankmath.com/wordpress/plugin/seo-suite/
+* Name:  rank-math-review-snippet.css
+*/@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(-360deg)}}@keyframes spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(-360deg)}}@keyframes bounce{from{-webkit-transform:translateY(0px);transform:translateY(0px)}to{-webkit-transform:translateY(-5px);transform:translateY(-5px)}}@-webkit-keyframes bounce{from{-webkit-transform:translateY(0px);transform:translateY(0px)}to{-webkit-transform:translateY(-5px);transform:translateY(-5px)}}@-webkit-keyframes loading{0%{background-size:20% 50% ,20% 50% ,20% 50%}20%{background-size:20% 20% ,20% 50% ,20% 50%}40%{background-size:20% 100%,20% 20% ,20% 50%}60%{background-size:20% 50% ,20% 100%,20% 20%}80%{background-size:20% 50% ,20% 50% ,20% 100%}100%{background-size:20% 50% ,20% 50% ,20% 50%}}@keyframes loading{0%{background-size:20% 50% ,20% 50% ,20% 50%}20%{background-size:20% 20% ,20% 50% ,20% 50%}40%{background-size:20% 100%,20% 20% ,20% 50%}60%{background-size:20% 50% ,20% 100%,20% 20%}80%{background-size:20% 50% ,20% 50% ,20% 100%}100%{background-size:20% 50% ,20% 50% ,20% 50%}}:root{--rankmath-wp-adminbar-height: 0}#rank-math-rich-snippet-wrapper{overflow:hidden}#rank-math-rich-snippet-wrapper h5.rank-math-title{display:block;font-size:18px;line-height:1.4}#rank-math-rich-snippet-wrapper .rank-math-review-image{float:right;max-width:40%;margin-left:15px}#rank-math-rich-snippet-wrapper .rank-math-review-data{margin-bottom:15px}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper{width:100%;padding:0 0 20px 0;float:left;clear:both;position:relative;-webkit-box-sizing:border-box;box-sizing:border-box}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-total{border:0;display:block;margin:0;width:auto;float:left;text-align:left;padding:0;font-size:24px;line-height:1;font-weight:700;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star{float:left;margin-left:15px;margin-top:5px;position:relative;z-index:99;line-height:1}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper{display:inline-block;white-space:nowrap;position:relative;color:#e7e7e7}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper .rank-math-review-result{position:absolute;top:0;left:0;overflow:hidden;white-space:nowrap;color:#ffbe01}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper i{font-size:18px;-webkit-text-stroke-width:1px;font-style:normal;padding:0 2px;line-height:inherit}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper i:before{content:"\2605"}body.rtl #rank-math-rich-snippet-wrapper .rank-math-review-image{float:left;margin-left:0;margin-right:15px}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-total{float:right}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star{float:right;margin-left:0;margin-right:15px}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result{left:auto;right:0}@media screen and (max-width: 480px){#rank-math-rich-snippet-wrapper .rank-math-review-image{display:block;max-width:100%;width:100%;text-align:center;margin-right:0}#rank-math-rich-snippet-wrapper .rank-math-review-data{clear:both}}.clear{clear:both}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Personal/css/myBooks.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='myBooks'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Personal/css/myBooks.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/css/styles.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='bg_bibrefs_styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/css/styles.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/css/style.css?ver=1735653130'  media='all' />
+			
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-forreaders/css/style.css?ver=1735653130'  media='all' />
+			
+			<style id='bg_forreaders_styles-inline-css' type='text/css'>
+
+div.bg_forreaders {height: 52.8px;
+	font-size: 0em;
+}
+.bg_forreaders div a {
+	padding: 0px 41.4px 52.8px 0px;
+	margin: 0px 6px 0px 0px;
+}
+.bg_forreaders .pdf {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-pdf.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+.bg_forreaders .epub {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-epub.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+
+.bg_forreaders .mobi{
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-mobi.svg) no-repeat 50% 50%;
+	background-size: contain;
+}
+.bg_forreaders .fb2 {
+	background: url(https://azbyka.ru/wp-content/uploads/bg_forreaders/document-fb2.svg) no-repeat 50% 50%;
+	background-size: contain;
+}				  
+	
+</style>
+
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='inline-audio'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/styles.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='azbyka-styles'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/styles.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/style.css?ver=1735653130'  media='all' />
+			
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/singular.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='az-singular'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/singular.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/top-menu.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='top-menu'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/top-menu.css?ver=1735653130'  media='all' />
+			
+			<link data-minify="1" rel='preload' as='style' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/link-pics.css?ver=1735653130'  media='all' />
+			<link data-minify="1" rel='stylesheet' id='az-link-pics'  href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/css/link-pics.css?ver=1735653130'  media='all' />
+			<style id='wbcr-wll-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;background:#000;margin:5px}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://azbyka.ru/wp-content/plugins/clearfy_package/plugins/lazy-load/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script data-minify="1"  src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/vendor/azjeycuery.js?ver=1735653130" id="jquery-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/inc/youtube-optimizer/youtube.optimizer.js?ver=1735653130" id="youtube-optimizer-js"></script>
+<link rel="https://api.w.org/" href="https://azbyka.ru/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://azbyka.ru/wp-json/wp/v2/posts/7453" />	<style>
+		.promo-banner-wrap{
+			display:none; position:fixed;
+			left:0;bottom:100px;
+			z-index:15; max-width: 250px;
+			transform:translateX(-101%);
+			transition: transform .5s ease;
+		}
+		.promo-banner-wrap.active{
+			transform:translateX(0);
+		}
+		
+		.promo-banner{
+			background:#FFF;
+			padding:.5em 2em .5em 1.5em;
+			border-radius: 0 .5em .5em 0;
+			box-shadow: 4px 4px 10px -4px #3a3a3a3a;
+			text-align:center;
+			position:relative;
+		}
+		
+		.promo-banner .btn-close{
+			cursor:pointer; margin-left:1em;
+			position: absolute;
+			top:5px;
+			right:5px;
+		}
+		@media(min-width: 921px){
+			.promo-banner-wrap{
+				top:100px;
+				bottom:unset;
+			}
+		}
+	</style>
+	<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>			<style>
+				.clickable{
+					cursor:pointer;
+				}
+				.bz-lightbox{
+					position:fixed;
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 100%;
+					z-index:10;
+					margin:0;
+					background-color:#0007;
+					display:flex;
+					align-items:center;
+					justify-content:center;
+					cursor:pointer;
+					z-index: 10000;
+				}
+				.bz-lightbox img{
+					max-height:90vh;
+					cursor: zoom-in;
+				}
+				.bz-lightbox.fullscreen{
+					overflow-y: auto;
+					display: block;
+				}
+				.bz-lightbox.fullscreen img{
+					object-fit: cover;
+					max-height: unset;
+					width: 100%;
+					cursor: zoom-out;
+				}
+				.panzoom{
+					object-fit: none!important;
+				}
+				html.locked{
+					overflow: hidden;
+				}
+			</style>
+			<script>
+			jQuery(document).ready($=>{
+				let hasMouse = window.matchMedia('(hover:hover)').matches && window.innerWidth > 520;
+				
+				if(!hasMouse) return; //Откл. на мобилах.
+				
+				let full_img_href = {};
+				let doc = $('html');
+				let containerWidth = $('.main-area-content').width() || window.innerWidth;
+				let currentImg;
+				$('.main-page-content img:not(.size-full, .avatar)').not('.video-preview img').each((i,el)=>{
+					//if(el.getAttribute('width')<=containerWidth) return;
+					console.log('not full img', el);
+					
+					let src = el.dataset['lazySrc'] || el.dataset['src'] || el.src;
+					let p = $(el).parent();
+					if(p.is('a')){
+						full_img_href[src] = p.attr('href');
+						p.click(e=>e.preventDefault());
+					}else{
+						full_img_href[src] = src.replace(/\-\d{3,4}\-\d{3,4}\./, '.');
+					}
+					//console.log(el, 'img parent is', p);
+					el.classList.add('clickable');
+					el.addEventListener('click', function (e){
+						//console.log('click on img wrap', this.src, full_img_href[this.src]);
+						currentImg = this;
+						e.preventDefault();
+						doc.addClass('locked');
+						
+						let box = $('<figure class="bz-lightbox"><img src = "'+full_img_href[this.src]+'"/></figure>');
+						box.hide();
+						$('body').append(box);
+						box.fadeIn(400);
+						
+												
+						box.click(e=>{
+							let $img = $(e.target).closest('img');
+							if(hasMouse && $img.length && $img.width() != $(currentImg).attr('width')){
+								box.toggleClass('fullscreen');
+							}else{
+								doc.removeClass('locked');
+								box.fadeOut(300, ()=>{
+									box.remove()
+								});
+							}
+						});
+					});
+				});
+				//console.log('full_img_href:',full_img_href);
+			})
+			</script>
+					<style>
+		.collapse-list{
+			max-height:240px;	/*Примерно высота 5 элементов списка*/
+			overflow:hidden;
+			transition: max-height .5s ease;
+			position:relative;
+			padding-bottom: 2rem;
+			margin-bottom: 1rem;
+		}
+		@media(min-width:921px){
+			.collapse-list{
+				max-height: 280px; /*~10-11 элементов*/
+			}
+		}
+		
+		.collapse-list:after{
+			content:'***';
+			text-align:center;
+			letter-spacing:2px;
+			position: absolute;
+			bottom:-1rem;
+			left:0;
+			right:0;
+		}
+		
+		.no-collapse{
+			max-height:unset!important;
+		}
+		
+		.read-more  {
+			font-size:1em;
+			pointer-events:none;
+			text-align:center;
+			position:absolute;
+			display:inline-block;
+			left:0;
+			bottom:0;
+			right:0;
+			padding-top:1.5em;
+			background: linear-gradient(to bottom, transparent 0%, #fff 50%, #fff 100%);
+			background: linear-gradient(to bottom, transparent 0%, var(--body-bg, #fff) 50%, var(--body-bg, #fff) 100%);
+		}
+		.read-more:before{
+			content:'';
+			border-top: 1px solid #AB343A;
+			position: absolute;
+			bottom:.7em;
+			left:1.5rem;
+			right:1.5rem;
+			z-index:0;
+		}
+		
+		.read-more a{
+			position: relative;
+			bottom:1px;
+			z-index:1;
+			color:#AB343A;
+			background-color:#fff;
+			border: 1px solid #AB343A;
+			border-radius:2em;
+			padding: 0 2em 2px;
+			pointer-events:all;
+			transition: opacity .3s ease;
+		}
+		.read-more a .fa{
+			font-weight:bold;
+			color:#AB343A;
+		}
+		
+		.read-more.active{
+			background: linear-gradient(to bottom, #fff0 0%, #fff0 50%, #fff 50%, #fff 100%);
+			background: linear-gradient(to bottom, transparent 0%, var(--body-bg, #fff) 50%, var(--body-bg, #fff) 100%);
+		}
+		.read-more.active a{
+			opacity:0;
+			pointer-events:none;
+		}
+		/*
+		.read-more:before,.read-more:after{
+			content:'';
+			display:inline-block;
+			width:1em;
+			height:1em;
+			background:#DDC07A;
+			transform: scale(.75) rotate(157.5deg) skewX(45deg) scaleY(0.70711);
+			box-shadow: 1.5px -1.5px 0 #bca267;
+			margin:0 1em!important;
+			vertical-align:text-bottom;
+		}*/
+		</style>
+		<script>
+			jQuery(document).ready($=>{
+				let referrer = sessionStorage.getItem('follow-link');
+				let forceExpand = (referrer != 'undefined') && $(".collapse-list a[href='"+referrer+"']").length;
+				
+			  $(".collapse-list").each(function () {
+				if($(this).hasClass('no-collapse')) return;
+				//console.log('validate expander for :',this, this.scrollHeight);
+				if (!forceExpand && this.scrollHeight > ((window.innerWidth <= 920) ? 240 : 280 )) {	/* Примерно 10 пунктов списка */
+					let rm = $('<div class="read-more" style="display:none"><a href="#"><i class="fa fa-angle-down"></i></a></div>');
+					$(this).append(rm);
+					rm.slideDown();
+				}else{
+					$(this).css('max-height', '100%');	/* Список короткий - без разворота */
+				}
+			  });
+			  $(document).on('click', '.read-more', function (e) {
+				e.preventDefault();
+				let prev = $(this).parent();
+				setTimeout(()=>{
+					$(this).slideUp();
+					//$(this).addClass('active');
+				}, 600);
+				prev.css('max-height', prev[0].scrollHeight);
+			  });
+			  
+			  //follow-link
+			  $(".collapse-list a").click(function(e){
+					sessionStorage.setItem('follow-link', $(this).attr('href'));
+					
+					return true;
+				});
+			});
+		</script>
+	<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+	<script type="text/javascript">
+	    var templateURI = 'https://azbyka.ru/wp-content/themes/azbyka';
+	</script>
+<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.17.3.1" data-wpr-features="wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_automatic_lazy_rendering wpr_oci wpr_minify_css wpr_mobile" /></head>
+
+<body class="post-template-default single single-post postid-7453 single-format-standard" id="main-body">
+	
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMXMJHJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+	<!-- Mobile Top menu -->
+<div  class="main-nav-list">
+	<ul>
+		<li><a id="main-nav-1" href="https://azbyka.ru"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+		<li><span id="main-nav-0"><i class="fa fa-sitemap" aria-hidden="true"></i></span></li>
+		<li><span id="main-nav-3"><i class="fa fa-info-circle" aria-hidden="true"></i></span></li>
+		<li><span id="main-nav-2"><i class="fa fa-search" aria-hidden="true"></i></span></li>
+		<li><span id="main-nav-6"><i class="fa fa-cog" aria-hidden="true"></i></span></li>
+	</ul>
+</div>
+<!-- End of Mobile Top menu -->	
+	<nav id="nav-box" class="top-panel">
+		<div class="pre-header-nav m-show">Разделы портала «Азбука веры»</div>
+		<ul id="main-nav" class="nav">
+		<li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Гид</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/gid'><i class="fa fa-question-circle-o" aria-hidden="true"></i> Гид по порталу</a></li><li class="menu-item"><a  href='https://azbyka.ru/'><i class="fa fa-home" aria-hidden="true"></i> Главная</a></li><li class="menu-item"><a  href='https://azbyka.ru/drevo-sajta'><i class="fa fa-sitemap" aria-hidden="true"></i> Древо портала</a></li><li class="menu-item"><a  href='https://azbyka.ru/s-chego-nachat'><i class="fa fa-user-plus" aria-hidden="true"></i> С чего начать</a></li><li class="menu-item"><a  href='https://t.me/AzbykaruBot'><i class="fa fa-search" aria-hidden="true"></i> TG бот</a></li><li class="menu-item"><a  href='https://chats.viber.com/azbykarubot'><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Viber бот</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Библиотеки</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/pjat-stupenej-very'><i class="fa fa-level-up" aria-hidden="true"></i> 5 ступеней веры</a></li><li class="menu-item"><a  href='https://azbyka.ru/biblia/'><i class="fa fa-book" aria-hidden="true"></i> Библия</a></li><li class="menu-item"><a  href='https://azbyka.ru/otechnik/'><i class="fa fa-files-o" aria-hidden="true"></i> «Отечник»</a></li><li class="menu-item"><a  href='https://azbyka.ru/fiction/'><i class="fa fa-copyright" aria-hidden="true"></i> Художественная литература</a></li><li class="menu-item"><a  href='https://azbyka.ru/pravo/'><i class="fa fa-balance-scale" aria-hidden="true"></i> Церковное право</a></li><li class="menu-item"><a  href='https://azbyka.ru/dictionary'><i class="fa fa-graduation-cap" aria-hidden="true"></i> Энциклопедия</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Календарь</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/days/'><i class="fa fa-calendar" aria-hidden="true"></i> Календарь</a></li><li class="menu-item m-hide"><a  href='https://azbyka.ru/extension'><i class="fa fa-chrome" aria-hidden="true"></i> Расширение Chrome</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Молитва</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/palomnik/'><i class="fa fa-globe" aria-hidden="true"></i> Азбука паломника</a></li><li class="menu-item"><a  href='https://azbyka.ru/kliros/'><i class="fa fa-music" aria-hidden="true"></i> Азбука певческая</a></li><li class="menu-item"><a  href='https://azbyka.ru/worships/'><i class="fa fa-file-text" aria-hidden="true"></i> Богослужение сегодня</a></li><li class="menu-item"><a  href='https://azbyka.ru/chaso-slov/'><i class="fa fa-clock-o" aria-hidden="true"></i> Молимся по часам</a></li><li class="menu-item"><a  href='https://azbyka.ru/molitvoslov/'><i class="fa fa-fire" aria-hidden="true"></i> Молитвослов</a></li><li class="menu-item"><a  href='https://azbyka.ru/bogosluzhenie/'><i class="fa fa-bell" aria-hidden="true"></i> Переводы Богослужений</a></li><li class="menu-item"><a  href='https://azbyka.ru/psalms/'><i class="fa fa-group" aria-hidden="true"></i> Читаем Псалтирь</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Медиа</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/news'><i class="fa fa-newspaper-o" aria-hidden="true"></i> Азбука новостей</a></li><li class="menu-item"><a  href='https://azbyka.ru/foto/'><i class="fa fa-camera-retro" aria-hidden="true"></i> Азбука фото</a></li><li class="menu-item"><a  href='https://azbyka.ru/audio/'><i class="fa fa-volume-up" aria-hidden="true"></i> Аудио</a></li><li class="menu-item"><a  href='https://azbyka.ru/video/'><i class="fa fa-video-camera" aria-hidden="true"></i> Видео</a></li><li class="menu-item"><a  href='https://azbyka.ru/bozhestvennaja-liturgija'><i class="fa fa-bell" aria-hidden="true"></i> Литургия</a></li><li class="menu-item"><a  href='https://azbyka.ru/audio/radio.html'><i class="fa fa-volume-up" aria-hidden="true"></i> Радио</a></li><li class="menu-item"><a  href='https://azbyka.ru/bogosluzhenie-online'><i class="fa fa-video-camera" aria-hidden="true"></i> Трансляция из храма</a></li><li class="menu-item"><a  href='https://azbyka.ru/parkhomenko/foto/'><i class="fa fa-camera" aria-hidden="true"></i> Фоторассказы</a></li><li class="menu-item"><a  href='https://azbyka.ru/life/'><i class="fa fa-road" aria-hidden="true"></i> Христианская жизнь</a></li><li class="menu-item"><a  href='https://azbyka.ru/telegram-kanaly'><i class="fa fa-telegram" aria-hidden="true"></i> TG-каналы</a></li><li class="menu-item"><a  href='https://azbyka.ru/viber-kanaly'><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Viber-каналы</a></li><li class="menu-item"><a  href='https://azbyka.ru/whatsapp-kanaly'><i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Проверь себя</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/quiz/'><i class="fa fa-code-fork" aria-hidden="true"></i> Квизы</a></li><li class="menu-item"><a  href='https://azbyka.ru/crosswords/'><i class="fa fa-pencil" aria-hidden="true"></i> Кроссворды</a></li><li class="menu-item"><a  href='https://azbyka.ru/test/'><i class="fa fa-check-square-o" aria-hidden="true"></i> Тесты</a></li><li class="menu-item"><a  href='https://azbyka.ru/viktorina/'><i class="fa fa-image" aria-hidden="true"></i> Фотовикторины</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Тематическое</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/death/'><i class="fa fa-cloud-upload" aria-hidden="true"></i> Азбука бессмертия</a></li><li class="menu-item"><a  href='https://azbyka.ru/art/'><i class="fa fa-paint-brush" aria-hidden="true"></i> Азбука искусства</a></li><li class="menu-item"><a  href='https://azbyka.ru/apokalipsis/'><i class="fa fa-font" aria-hidden="true"></i> Апокалипсис</a></li><li class="menu-item"><a  href='https://azbyka.ru/vopros/'><i class="fa fa-question-circle" aria-hidden="true"></i> Вопросы и ответы</a></li><li class="menu-item"><a  href='https://azbyka.ru/katehizacija/'><i class="fa fa-bullhorn" aria-hidden="true"></i> Катехизация</a></li><li class="menu-item"><a  href='https://azbyka.ru/way/'><i class="fa fa-location-arrow" aria-hidden="true"></i> Мой путь к Богу</a></li><li class="menu-item"><a  href='https://azbyka.ru/opros/'><i class="fa fa-bar-chart" aria-hidden="true"></i> Опросы</a></li><li class="menu-item"><a  href='https://azbyka.ru/shemy/'><i class="fa fa-table" aria-hidden="true"></i> Пособия</a></li><li class="menu-item"><a  href='https://azbyka.ru/propovedi/'><i class="fa fa-pencil" aria-hidden="true"></i> Проповеди</a></li><li class="menu-item"><a  href='https://sueverie.net/'><i class="fa fa-street-view" aria-hidden="true"></i> Суеверие.нет</a></li><li class="menu-item"><a  href='https://azbyka.ru/forum/'><i class="fa fa-comments-o" aria-hidden="true"></i> Форум</a></li><li class="menu-item"><a  href='https://azbyka.ru/otechnik/quotes'><i class="fa fa-bookmark" aria-hidden="true"></i> Цитаты Св. отцов</a></li><li class="menu-item"><a  href='https://azbyka.ru/chinaorthodox/'><i class="fa fa-handshake-o" aria-hidden="true"></i> 东正教信仰入门</a></li></ul></li><li class="menu-item menu-item-has-children"><span  class='link'><i class="fa fa-angle-down"></i> Семья и здоровье</span><ul class="sub-menu"><li class="menu-item"><a  href='https://azbyka.ru/znakomstva/'><i class="fa fa-link" aria-hidden="true"></i> Азбука верности</a></li><li class="menu-item"><a  href='https://azbyka.ru/deti/'><i class="fa fa-child" aria-hidden="true"></i> Азбука воспитания</a></li><li class="menu-item"><a  href='https://azbyka.ru/zdorovie/'><i class="fa fa-medkit" aria-hidden="true"></i> Азбука здоровья</a></li><li class="menu-item"><a  href='https://azbyka.ru/recept/'><i class="fa fa-cutlery" aria-hidden="true"></i> Азбука рецептов</a></li><li class="menu-item"><a  href='https://azbyka.ru/garden/'><i class="fa fa-envira" aria-hidden="true"></i> Азбука садовода</a></li><li class="menu-item"><a  href='https://azbyka.ru/semya/'><i class="fa fa-home" aria-hidden="true"></i> Азбука супружества</a></li></ul></li>		</ul>
+	</nav>
+
+<!-- Header -->
+<div  class="main-box">
+	<header  class="header" id="header"> 
+		<div  class="header-top">
+			<div class="header-breadcrumbs"><ul class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href='https://azbyka.ru/' title='Азбука веры'>
+					<span itemprop='name'>Азбука веры</span>
+				</a>
+				<meta itemprop='position' content='1'>
+			</li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href="https://azbyka.ru/1/dictionary" target='_blank' title='Энциклопедия'>
+					<span itemprop='name'>Энциклопедия</span>
+				</a>
+				<meta itemprop='position' content='2' />
+			</li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'>
+				<a itemprop='item' href='https://azbyka.ru/dictionary/17' title='С'>
+					<span itemprop='name'>С</span>
+				</a>
+				<meta itemprop='position' content='2'>
+			</li></ul></div>
+			<div class="header-settings" id="header-settings"><!-- Settings -->
+<!--noindex-->
+<div class="settings" id="settings" data-nosnippet>
+	<a class="settings-button btn-settings" id="settings-button" title="Настройки экрана">
+		<i class="fa fa-gear"></i>
+	</a>
+</div>
+<!--/noindex-->
+<!-- End Settings -->
+</div>
+			<div class="header-search">
+				<div style="padding: 0;">
+		<div>
+			<form id="labnol" action="//azbyka.ru/sear/" method="get" target="_blank">
+				<input type="hidden" name="searchid" value="1639178">
+				<input type="search" name="text" id="transcript" class="search-form-field">
+				<button type="submit" class="search-form-button"><i class="fa fa-search"></i></button>
+				<div class="speech start-dictation"><i class="fa fa-microphone"></i></div>
+			</form>
+		</div>
+	  </div>
+				</div>
+		</div>
+		<div  class="header-main"> 
+			<div class="header-logo">
+				
+					<div class="logo"><div class="main-title"><a href="https://azbyka.ru/" title="Православный портал «Азбука веры»">Азбука веры</a></div><p class="header-subtitle">с 2005 года</p></div>		<!-- Вход в личный кабинет, если установлен плагин Profile Builder --> 
+						<div class="header-login">
+				<a href="https://azbyka.ru/personal" rel="nofollow" title="Войти в личный кабинет">
+				Вход <i class="fa fa-sign-in"></i></a>			</div>
+						<!-- End ¬ход в личный кабинет -->
+				<a class="help-btn header-help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a>
+							
+					<span class="header-decor"></span>
+					
+					<p class="header-epigraph"></p>
+			</div>
+
+		</div>
+
+			
+	</header>
+</div>
+<!-- End Header -->
+
+<!-- Main area -->
+<div  class="main-box">
+	<main  class="main-area" id="main-area">
+		<!-- Sidebar -->
+		<section data-wpr-lazyrender="1" class="main-area-sidebar main-area-item-mobile-last">
+			<!-- Main sidebar area-->
+<aside class="widgets-area">
+
+<!-- Специальный блок -->
+	<!-- End Специальный блок -->
+	
+<!-- Left menu -->
+	<div class="widget-navi" >
+
+	<!-- Специальное меню -->
+				<p class="btn-start-wrap"><a class="help-btn btn-start" href="/1/s-chego-nachat">С чего начать</a></p>
+		<!-- End Специальное меню -->
+	<div class="widget">
+		<div class="widget-item  menu-expand opened_child"><div class="widget-title widget-title--top"><a href="//azbyka.ru/1/5-stupenej-very">5 ступеней веры</a></div><div class="menu-levoe-menju-container"><ul id="left-navigation" class="left-nav"><li id="menu-item-60303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60303"><a href="https://azbyka.ru/1/tserkov" class="active initial-active">5 Церковь – практика веры</a>
+<ul class="sub-menu sub-menu-closed">
+	<li id="menu-item-60386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60386"><a href="https://azbyka.ru/1/o_tserkvi">Назначение Церкви</a></li>
+	<li id="menu-item-60360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60360"><a href="https://azbyka.ru/1/svyaschenniki">Для чего нужны священники?</a></li>
+	<li id="menu-item-60310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60310"><a href="https://azbyka.ru/1/svyatye">Святые и святость</a></li>
+	<li id="menu-item-60361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60361"><a href="https://azbyka.ru/1/duhovnaya_zhizn" class="initial-active active">Духовная жизнь</a>
+	<ul class="sub-menu sub-menu-closed">
+		<li id="menu-item-60366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60366"><a href="https://azbyka.ru/1/molitva">Молитва</a></li>
+		<li id="menu-item-60374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60374"><a href="https://azbyka.ru/1/sem_tserkovnyh_tainstv">7 церковных Таинств</a></li>
+		<li id="menu-item-60363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60363"><a href="https://azbyka.ru/1/duhovnoe_chtenie">Духовное чтение</a></li>
+		<li id="menu-item-60364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60364"><a href="https://azbyka.ru/1/miloserdie">Милосердие</a></li>
+	</ul>
+</li>
+	<li id="menu-item-60356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60356"><a href="https://azbyka.ru/1/bogosluzheniya">Богослужения</a></li>
+	<li id="menu-item-60388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60388"><a href="https://azbyka.ru/1/lyubov_i_semya">Семья и дети</a></li>
+</ul>
+</li>
+<li id="menu-item-60314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60314"><a href="https://azbyka.ru/1/hristianstvo" class="active initial-active">4 Христианство</a>
+<ul class="sub-menu sub-menu-closed">
+	<li id="menu-item-60315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60315"><a href="https://azbyka.ru/1/iisus_khristos">Иисус Христос</a></li>
+	<li id="menu-item-60328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60328"><a href="https://azbyka.ru/1/sut">Сущность христианства</a></li>
+	<li id="menu-item-60319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60319"><a href="https://azbyka.ru/1/dogmaty">Мешают ли догматы свободе?</a></li>
+	<li id="menu-item-60326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60326"><a href="https://azbyka.ru/1/svyaschennoe_predanie">Св. Предание – опыт Церкви</a></li>
+	<li id="menu-item-60320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60320"><a href="https://azbyka.ru/1/bibliya">Св. Писание (Библия)</a></li>
+	<li id="menu-item-60318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60318"><a href="https://azbyka.ru/1/iskazheniya_hristianstva">Искажения христианства</a></li>
+</ul>
+</li>
+<li id="menu-item-60331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60331"><a href="https://azbyka.ru/1/religii" class="active initial-active">3 Чем отличаются религии</a>
+<ul class="sub-menu sub-menu-closed">
+	<li id="menu-item-60404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60404"><a href="https://azbyka.ru/1/religioznost">Бог и религии</a></li>
+	<li id="menu-item-61175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61175"><a href="https://azbyka.ru/1/o-religiyah">О религиях</a></li>
+	<li id="menu-item-60349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60349"><a href="https://azbyka.ru/1/nauka_i_religiya">Наука и религия</a></li>
+</ul>
+</li>
+<li id="menu-item-60339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60339"><a href="https://azbyka.ru/1/nravstvennost_i_duhovnost" class="active initial-active">2 Мораль и духовность</a>
+<ul class="sub-menu sub-menu-closed">
+	<li id="menu-item-61187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61187"><a href="https://azbyka.ru/1/moral-i-religiya">Мораль и религия</a></li>
+	<li id="menu-item-60340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60340"><a href="https://azbyka.ru/1/o_grehe">Ну, и какие у меня грехи?</a></li>
+</ul>
+</li>
+<li id="menu-item-60345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children top-menu-item menu-item-60345"><a href="https://azbyka.ru/1/vera_i_neverie" class="active initial-active">1 Смысл жизни</a>
+<ul class="sub-menu sub-menu-closed">
+	<li id="menu-item-60353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60353"><a href="https://azbyka.ru/1/o_smysle_zhizni">О смысле жизни</a></li>
+	<li id="menu-item-60351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60351"><a href="https://azbyka.ru/1/o_vere">О вере и неверии</a></li>
+	<li id="menu-item-60350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60350"><a href="https://azbyka.ru/1/o_boge">О Боге</a></li>
+	<li id="menu-item-60352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60352"><a href="https://azbyka.ru/1/o_prirode_zla">О природе зла</a></li>
+	<li id="menu-item-60346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60346"><a href="https://azbyka.ru/1/zhizn_posle_smerti">Жизнь после смерти</a></li>
+</ul>
+</li>
+</ul></div></div>
+	</div>
+	<!-- Хук для дополнительных действий -->
+		<div class="widget">
+	<div class="widget-item alphabet-widget">
+		<div class="widget-title"><a href="/dictionary">Энциклопедия</a></div>
+		<div class="blockABCtags">
+			<a href="https://azbyka.ru/dictionary/01" title="А">А</a><a href="https://azbyka.ru/dictionary/02" title="Б">Б</a><a href="https://azbyka.ru/dictionary/03" title="В">В</a><a href="https://azbyka.ru/dictionary/04" title="Г">Г</a><a href="https://azbyka.ru/dictionary/05" title="Д">Д</a><a href="https://azbyka.ru/dictionary/06" title="Е">Е</a><a href="https://azbyka.ru/dictionary/07" title="Ж">Ж</a><a href="https://azbyka.ru/dictionary/08" title="З">З</a><a href="https://azbyka.ru/dictionary/09" title="И">И</a><a href="https://azbyka.ru/dictionary/10" title="К">К</a><a href="https://azbyka.ru/dictionary/11" title="Л">Л</a><a href="https://azbyka.ru/dictionary/12" title="М">М</a><a href="https://azbyka.ru/dictionary/13" title="Н">Н</a><a href="https://azbyka.ru/dictionary/14" title="О">О</a><a href="https://azbyka.ru/dictionary/15" title="П">П</a><a href="https://azbyka.ru/dictionary/16" title="Р">Р</a><a href="https://azbyka.ru/dictionary/17" title="С">С</a><a href="https://azbyka.ru/dictionary/18" title="Т">Т</a><a href="https://azbyka.ru/dictionary/19" title="У">У</a><a href="https://azbyka.ru/dictionary/20" title="Ф">Ф</a><a href="https://azbyka.ru/dictionary/21" title="Х">Х</a><a href="https://azbyka.ru/dictionary/22" title="Ц">Ц</a><a href="https://azbyka.ru/dictionary/23" title="Ч">Ч</a><a href="https://azbyka.ru/dictionary/24" title="Ш">Ш</a><a href="https://azbyka.ru/dictionary/28" title="Щ">Щ</a><a href="https://azbyka.ru/dictionary/25" title="Э">Э</a><a href="https://azbyka.ru/dictionary/26" title="Ю">Ю</a><a href="https://azbyka.ru/dictionary/27" title="Я">Я</a>		</div>
+	</div>
+</div>
+	</div>
+<!-- End Left menu -->
+
+	<div class="widgets" id="widgets">
+<!-- Dynamic menus -->
+		<div class="widgets-sidebar" id="widgets-sidebar">
+			<div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><ul class="av-footer-list">
+	<li><a href="//azbyka.ru/drevo-sajta">Древо</a></li>
+	<li><a class="help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a></li>
+<li><a href="https://azbyka.ru/about-all">О нас</a></li>
+</ul>
+<ul class="sidebar-contacts">
+<li><a title="Обратная связь" href="//azbyka.ru/obratnaja-svjaz"><i class="fa fa-envelope-o" style="font-weight:bold;" aria-hidden="true"></i></a>
+</li>
+<li><a title="Телефон" href="https://azbyka.ru/svjazat-s-administraciej"><i class="fa fa-phone-square" aria-hidden="true"></i></a></li>
+<li><a title="Вайбер-каналы" href="https://azbyka.ru/viber-kanaly"><i class="fa fa-viber" aria-hidden="true"></i></a></li>
+<li><a title="Телеграм-каналы" href="https://azbyka.ru/telegram-kanaly"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
+<li><a title="Whatsapp" href="https://azbyka.ru/whatsapp-kanaly"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+</ul>
+<ul class="footer-links">
+	<li><a href="/job">Вакансии</a></li>
+</ul></div></div>
+<div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://azbyka.ru/allprojects"><div class="bg-az-online-now"><i style='margin-left: -10px;' class='fa fa-user-o' aria-hidden='true'></i> <span class="bg-az-counter" data-project="" data-type="" data-ID=""><span class="bg-az-counter-now"></span></span></div>
+</a>
+</div></div>
+		</div>
+	<!-- Хук для дополнительных действий -->
+				<div class="widgets-sidebar" id="widgets-sidebar2">
+					</div>
+<!-- End Dynamic menus -->
+	
+<!-- Footer --> 
+<!-- End Footer -->
+	</div>
+</aside>
+		</section>
+		<!-- End Sidebar -->
+		
+		<!-- Content -->
+		<section  class="main-area-content">
+			
+				<!-- Article -->
+<article class="article article-single" id="post-7453">
+	<header class="article-single-header">
+		
+		<div class="article-single-info">
+						<h1>Совесть</h1>					<a href="#literature" class="literature-link"><i class="fa fa-file-text"></i> Литература по теме</a>
+				<div id="register_my_book">
+			<span class="bg_favorite">
+				<a href="https://azbyka.ru/personal/register" class="register-link" title="Регистрация">
+					<i class="fa fa-heart"></i> В Избранное
+				</a>
+			</span>
+			<span class="bg_response"></span>
+		</div>
+		</div>
+	</header>
+
+	<div class="article-single-content main-page-content">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div class="bg_bpub_toc" id="toc"><ul class="bg-bpub-list"><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_1">&#1050;&#1072;&#1082; &#1091;&#1089;&#1083;&#1099;&#1096;&#1072;&#1090;&#1100; &#1075;&#1086;&#1083;&#1086;&#1089; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_2">&#1058;&#1088;&#1080; &#1086;&#1089;&#1085;&#1086;&#1074;&#1085;&#1099;&#1077; &#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1080; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_3">&#1050;&#1072;&#1082; &#1086;&#1095;&#1080;&#1089;&#1090;&#1080;&#1090;&#1100; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_4">&#1045;&#1089;&#1090;&#1100; &#1083;&#1080; &#1074; &#1093;&#1088;&#1080;&#1089;&#1090;&#1080;&#1072;&#1085;&#1089;&#1090;&#1074;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077; &#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1099; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;?</a></li><li class="literal"><a class="bg_bpub_toc_h2" href="#ch_0_5">&#1062;&#1080;&#1090;&#1072;&#1090;&#1099; &#1086; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a></li></ul><div class="vignette"></div></div>
+<p><strong>&#1057;&#1086;&#769;&#1074;&#1077;&#1089;&#1090;&#1100;</strong> – &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1100; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086; <a href="https://azbyka.ru/dux">&#1076;&#1091;&#1093;&#1072;</a> &#1082; &#1088;&#1072;&#1079;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1102; <a href="https://azbyka.ru/dobro">&#1076;&#1086;&#1073;&#1088;&#1072;</a> &#1080; <a href="https://azbyka.ru/zlo">&#1079;&#1083;&#1072;</a>, &#1089;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1077; &#1076;&#1086;&#1073;&#1088;&#1072; &#1080; &#1079;&#1083;&#1072; (&#1089;&#1074;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/" target="_blank" title="&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; (&#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;), &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; &#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;)</a>, &#1077;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1079;&#1072;&#1082;&#1086;&#1085;, &#1090;&#1088;&#1077;&#1073;&#1091;&#1102;&#1097;&#1080;&#1081; &#1086;&#1090; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086; &#1091;&#1084;&#1072; &#1041;&#1086;&#1075;&#1086;&#1091;&#1075;&#1086;&#1076;&#1085;&#1086;&#1081; &#1078;&#1080;&#1079;&#1085;&#1080; (&#1087;&#1088;&#1087;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Dorofej/" target="_blank" title="&#1072;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;, &#1087;&#1088;&#1077;&#1087;&#1086;&#1076;&#1086;&#1073;&#1085;&#1099;&#1081;">&#1040;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;</a>).</p>
+<p>&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1077;&#1089;&#1090;&#1100; &#1078;&#1077;&#1083;&#1072;&#1090;&#1077;&#1083;&#1100;&#1085;&#1072;&#1103; &#1080;&#1083;&#1080; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1072;&#1103; &#1089;&#1080;&#1083;&#1072; (&#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1100;) &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086; &#1076;&#1091;&#1093;&#1072;, &#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1097;&#1072;&#1103; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1091; &#1085;&#1072; &#1076;&#1086;&#1073;&#1088;&#1086; &#1080; &#1090;&#1088;&#1077;&#1073;&#1091;&#1102;&#1097;&#1072;&#1103; &#1077;&#1075;&#1086; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1103;. &#1041;&#1091;&#1076;&#1091;&#1095;&#1080; &#1090;&#1077;&#1089;&#1085;&#1086; &#1089;&#1074;&#1103;&#1079;&#1072;&#1085;&#1072; &#1089; &#1088;&#1072;&#1079;&#1091;&#1084;&#1086;&#1084; &#1080; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1086;&#1084;, &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1086;&#1073;&#1083;&#1072;&#1076;&#1072;&#1077;&#1090; &#1087;&#1088;&#1072;&#1082;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1084; &#1093;&#1072;&#1088;&#1072;&#1082;&#1090;&#1077;&#1088;&#1086;&#1084; &#1080; &#1084;&#1086;&#1078;&#1077;&#1090; &#1073;&#1099;&#1090;&#1100; &#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1072; &#1087;&#1088;&#1072;&#1082;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1084; &#1089;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1077;&#1084; (&#1089;&#1074;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Feofan_Zatvornik/" target="_blank" title="&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;, &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;</a>). &#1045;&#1089;&#1083;&#1080; &#1088;&#1072;&#1079;&#1091;&#1084; &#1087;&#1086;&#1079;&#1085;&#1072;&#1077;&#1090;, &#1072; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1072; &#1086;&#1097;&#1091;&#1097;&#1072;&#1102;&#1090;, &#1090;&#1086; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1082;&#1072;&#1082; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1072;&#1103; &#1089;&#1080;&#1083;&#1072;, &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1103;&#1077;&#1090; &#1074;&#1080;&#1076; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080; &#1076;&#1091;&#1093;&#1072; &#1087;&#1086; &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1102; &#1082; &#1087;&#1086;&#1079;&#1085;&#1072;&#1074;&#1072;&#1077;&#1084;&#1086;&#1084;&#1091; &#1088;&#1072;&#1079;&#1091;&#1084;&#1086;&#1084; &#1080; &#1086;&#1097;&#1091;&#1097;&#1072;&#1077;&#1084;&#1086;&#1084;&#1091; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1072;&#1084;&#1080; &#1087;&#1088;&#1077;&#1076;&#1084;&#1077;&#1090;&#1091;.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-166758 size-full" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20500'%3E%3C/svg%3E" alt="azsaints 218 – &#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;" width="1000" height="500" title="&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; – &#1040;&#1079;&#1073;&#1091;&#1082;&#1072; &#1074;&#1077;&#1088;&#1099;" data-lazy-srcset="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png 1000w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-300x150.png 300w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-600x300.png 600w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-768x384.png 768w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png"><noscript><img fetchpriority="high" decoding="async" class="aligncenter wp-image-166758 size-full" src="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png" alt="azsaints 218 – &#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;" width="1000" height="500" title="&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; – &#1040;&#1079;&#1073;&#1091;&#1082;&#1072; &#1074;&#1077;&#1088;&#1099;" srcset="https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218.png 1000w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-300x150.png 300w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-600x300.png 600w, https://azbyka.ru/wp-content/uploads/2015/09/azsaints_218-768x384.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></noscript></p>
+<p>&#1042; &#1089;&#1083;&#1086;&#1074;&#1077; &laquo;&#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;&raquo; &#1082;&#1086;&#1088;&#1077;&#1085;&#1100; &laquo;&#1074;&#1077;&#1089;&#1090;&#1100;&raquo; &#1074;&#1084;&#1077;&#1089;&#1090;&#1077; &#1089; &#1095;&#1072;&#1089;&#1090;&#1080;&#1094;&#1077;&#1081; &laquo;&#1089;&#1086;&raquo; &#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1085;&#1072; &laquo;&#1089;&#1086;-&#1086;&#1073;&#1097;&#1077;&#1085;&#1080;&#1077;&raquo; &#1080; &laquo;&#1089;&#1086;-&#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077;&raquo;. &#1063;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1080;&#1079;&#1085;&#1072;&#1095;&#1072;&#1083;&#1100;&#1085;&#1086; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1083;&#1072; &#1085;&#1077; &#1086;&#1076;&#1085;&#1072;. &#1042; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1077; &#1076;&#1086; &#1075;&#1088;&#1077;&#1093;&#1086;&#1087;&#1072;&#1076;&#1077;&#1085;&#1080;&#1103; &#1086;&#1085;&#1072; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1083;&#1072; &#1089;&#1086;&#1074;&#1084;&#1077;&#1089;&#1090;&#1085;&#1086; &#1089; &#1057;&#1072;&#1084;&#1080;&#1084; <a href="https://azbyka.ru/bog">&#1041;&#1086;&#1075;&#1086;&#1084;</a>, &#1087;&#1088;&#1077;&#1073;&#1099;&#1074;&#1072;&#1102;&#1097;&#1080;&#1084; &#1074; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1076;&#1091;&#1096;&#1077; &#1057;&#1074;&#1086;&#1077;&#1081; <a href="https://azbyka.ru/blagodat">&#1073;&#1083;&#1072;&#1075;&#1086;&#1076;&#1072;&#1090;&#1100;&#1102;</a>. &#1063;&#1077;&#1088;&#1077;&#1079; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103; &#1076;&#1091;&#1096;&#1072; &#1087;&#1088;&#1080;&#1085;&#1080;&#1084;&#1072;&#1083;&#1072; &#1074;&#1077;&#1089;&#1090;&#1100; &#1086;&#1090; &#1041;&#1086;&#1075;&#1072;, &#1087;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091; <strong>&#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1080; &#1085;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1090; &#1075;&#1083;&#1072;&#1089;&#1086;&#1084; &#1041;&#1086;&#1078;&#1100;&#1080;&#1084; &#1080;&#1083;&#1080; &#1075;&#1083;&#1072;&#1089;&#1086;&#1084; &#1076;&#1091;&#1093;&#1072; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086;, &#1087;&#1088;&#1086;&#1089;&#1074;&#1077;&#1097;&#1072;&#1077;&#1084;&#1086;&#1075;&#1086; &#1057;&#1074;&#1103;&#1090;&#1099;&#1084; &#1044;&#1091;&#1093;&#1086;&#1084; &#1041;&#1086;&#1078;&#1100;&#1080;&#1084;</strong>. &#1055;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1077; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1074; &#1090;&#1077;&#1089;&#1085;&#1086;&#1084; &#1074;&#1079;&#1072;&#1080;&#1084;&#1086;&#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1080; &#1077;&#1077; &#1089; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1073;&#1083;&#1072;&#1075;&#1086;&#1076;&#1072;&#1090;&#1100;&#1102; &#1057;&#1074;&#1103;&#1090;&#1086;&#1075;&#1086; &#1044;&#1091;&#1093;&#1072;. &#1058;&#1072;&#1082;&#1086;&#1081; &#1073;&#1099;&#1083;&#1072; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1076;&#1086; &#1075;&#1088;&#1077;&#1093;&#1086;&#1087;&#1072;&#1076;&#1077;&#1085;&#1080;&#1103;. &#1054;&#1076;&#1085;&#1072;&#1082;&#1086; &#1087;&#1086;&#1089;&#1083;&#1077; &#1087;&#1072;&#1076;&#1077;&#1085;&#1080;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1087;&#1086;&#1076;&#1074;&#1077;&#1088;&#1075;&#1083;&#1072;&#1089;&#1100; &#1074;&#1083;&#1080;&#1103;&#1085;&#1080;&#1102; &#1089;&#1090;&#1088;&#1072;&#1089;&#1090;&#1077;&#1081;, &#1080; &#1077;&#1077; &#1075;&#1086;&#1083;&#1086;&#1089; &#1089;&#1090;&#1072;&#1083; &#1079;&#1072;&#1090;&#1080;&#1093;&#1072;&#1090;&#1100; &#1074; &#1089;&#1080;&#1083;&#1091; &#1091;&#1084;&#1072;&#1083;&#1077;&#1085;&#1080;&#1103; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1103; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1073;&#1083;&#1072;&#1075;&#1086;&#1076;&#1072;&#1090;&#1080;. &#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1082;&#1072;&#1082; &#1074;&#1085;&#1091;&#1090;&#1088;&#1077;&#1085;&#1085;&#1080;&#1081; &#1075;&#1083;&#1072;&#1089; &#1041;&#1086;&#1078;&#1080;&#1081; &#1087;&#1086;&#1089;&#1090;&#1077;&#1087;&#1077;&#1085;&#1085;&#1086; &#1087;&#1088;&#1077;&#1074;&#1088;&#1072;&#1097;&#1072;&#1083;&#1072;&#1089;&#1100; &#1074;&#1086; &#1074;&#1085;&#1077;&#1096;&#1085;&#1102;&#1102; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;, &#1090;&#1086; &#1077;&#1089;&#1090;&#1100; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1100; &#1082; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1102; &#1088;&#1072;&#1076;&#1080; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086;, &#1079;&#1077;&#1084;&#1085;&#1086;&#1075;&#1086;, &#1087;&#1088;&#1077;&#1093;&#1086;&#1076;&#1103;&#1097;&#1077;&#1075;&#1086; &#1080;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1072;, &#1072; &#1085;&#1077; &#1074;&#1086; &#1080;&#1084;&#1103; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1103; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1086;&#1074;&#1077;&#1076;&#1080;. &#1042;&#1085;&#1077;&#1096;&#1085;&#1103;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1087;&#1088;&#1080;&#1074;&#1077;&#1083;&#1072; &#1082; &#1083;&#1080;&#1094;&#1077;&#1084;&#1077;&#1088;&#1080;&#1102;, &#1082; &#1086;&#1087;&#1088;&#1072;&#1074;&#1076;&#1072;&#1085;&#1080;&#1102; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1075;&#1088;&#1077;&#1093;&#1086;&#1074;. &#1042;&#1086;&#1089;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1087;&#1086;&#1076; &#1074;&#1086;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086;&#1084; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1073;&#1083;&#1072;&#1075;&#1086;&#1076;&#1072;&#1090;&#1080; &#1057;&#1074;&#1103;&#1090;&#1086;&#1075;&#1086; &#1044;&#1091;&#1093;&#1072;, &#1076;&#1086;&#1089;&#1090;&#1080;&#1078;&#1080;&#1084;&#1086; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1087;&#1086;&#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074;&#1086;&#1084; &#1078;&#1080;&#1074;&#1086;&#1075;&#1086; &#1089;&#1086;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1103; &#1089; &#1041;&#1086;&#1075;&#1086;&#1084;, &#1086;&#1090;&#1082;&#1088;&#1099;&#1074;&#1072;&#1102;&#1097;&#1080;&#1084;&#1089;&#1103; &#1074;&#1077;&#1088;&#1086;&#1102; &#1074; &#1041;&#1086;&#1075;&#1086;&#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1072; &#1048;&#1080;&#1089;&#1091;&#1089;&#1072; &#1061;&#1088;&#1080;&#1089;&#1090;&#1072;.</p>
+<p>&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1093;&#1088;&#1080;&#1089;&#1090;&#1080;&#1072;&#1085;&#1080;&#1085;&#1072; &#1089;&#1074;&#1086;&#1080;&#1084; &#1080;&#1089;&#1090;&#1086;&#1095;&#1085;&#1080;&#1082;&#1086;&#1084; &#1080;&#1084;&#1077;&#1077;&#1090; &#1041;&#1086;&#1075;&#1072;. &#1040;&#1074;&#1090;&#1086;&#1085;&#1086;&#1084;&#1080;&#1079;&#1072;&#1094;&#1080;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, &#1090;&#1086; &#1077;&#1089;&#1090;&#1100; &#1087;&#1088;&#1080;&#1089;&#1074;&#1072;&#1080;&#1074;&#1072;&#1085;&#1080;&#1077; &#1089;&#1077;&#1073;&#1077; &#1072;&#1073;&#1089;&#1086;&#1083;&#1102;&#1090;&#1085;&#1086;&#1075;&#1086; &#1087;&#1088;&#1072;&#1074;&#1072; &#1089;&#1072;&#1084;&#1086;&#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; &#1074; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1089;&#1092;&#1077;&#1088;&#1077;, &#1087;&#1086; &#1089;&#1074;&#1086;&#1077;&#1081; &#1089;&#1091;&#1090;&#1080; &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103; &#1075;&#1088;&#1077;&#1093;&#1086;&#1084;.</p>
+<h2><a id="ch_0_1"></a>&#1050;&#1072;&#1082; &#1091;&#1089;&#1083;&#1099;&#1096;&#1072;&#1090;&#1100; &#1075;&#1086;&#1083;&#1086;&#1089; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;?</h2>
+<p>&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1087;&#1088;&#1086;&#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103; &#1074; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1077; &#1074; &#1092;&#1086;&#1088;&#1084;&#1077; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1072;. &#1053;&#1072;&#1084;&#1077;&#1088;&#1077;&#1074;&#1072;&#1103;&#1089;&#1100; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1080;&#1090;&#1100;, &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1072;&#1103; &#1080;/&#1080;&#1083;&#1080; &#1091;&#1078;&#1077; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1080;&#1074; &#1082;&#1072;&#1082;&#1086;&#1077;-&#1085;&#1080;&#1073;&#1091;&#1076;&#1100; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077;, &#1087;&#1088;&#1077;&#1076;&#1087;&#1086;&#1083;&#1072;&#1075;&#1072;&#1102;&#1097;&#1077;&#1077; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1077;&#1075;&#1086; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1086;&#1094;&#1077;&#1085;&#1082;&#1080;, &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;, &#1074; &#1090;&#1086;&#1081; &#1080;&#1083;&#1080; &#1080;&#1085;&#1086;&#1081; &#1084;&#1077;&#1088;&#1077;, &#1074;&#1085;&#1091;&#1090;&#1088;&#1077;&#1085;&#1085;&#1077; &#1086;&#1097;&#1091;&#1097;&#1072;&#1077;&#1090;, &#1085;&#1072;&#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1101;&#1090;&#1086; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077; &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090; <a href="https://azbyka.ru/dobro">&#1076;&#1086;&#1073;&#1088;&#1091;</a> &#1080;&#1083;&#1080; <a href="https://azbyka.ru/zlo">&#1079;&#1083;&#1091;</a>.</p>
+<p>&#1055;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1086;&#1089;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1103; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1086;&#1084; &#1089;&#1074;&#1086;&#1080;&#1093; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1093; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1081; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1090; &#1086;&#1090; &#1088;&#1103;&#1076;&#1072; &#1092;&#1072;&#1082;&#1090;&#1086;&#1088;&#1086;&#1074;, &#1074; &#1090;&#1086;&#1084; &#1095;&#1080;&#1089;&#1083;&#1077;: &#1086;&#1090; &#1092;&#1072;&#1082;&#1090;&#1086;&#1088;&#1072; &#1074;&#1083;&#1080;&#1103;&#1085;&#1080;&#1103; &#1089;&#1088;&#1077;&#1076;&#1099;, &#1074;&#1085;&#1091;&#1090;&#1088;&#1080; &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1081; &#1086;&#1085; &#1078;&#1080;&#1074;&#1077;&#1090; (&#1086;&#1073;&#1091;&#1089;&#1083;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1086;&#1081; &#1082;&#1091;&#1083;&#1100;&#1090;&#1091;&#1088;&#1085;&#1099;&#1084;&#1080;, &#1088;&#1077;&#1083;&#1080;&#1075;&#1080;&#1086;&#1079;&#1085;&#1099;&#1084;&#1080; &#1090;&#1088;&#1072;&#1076;&#1080;&#1094;&#1080;&#1103;&#1084;&#1080;, &#1084;&#1077;&#1089;&#1090;&#1085;&#1099;&#1084;&#1080; &#1079;&#1072;&#1082;&#1086;&#1085;&#1072;&#1084;&#1080; &#1080; &#1090;. &#1087;.), &#1086;&#1090; &#1092;&#1072;&#1082;&#1090;&#1086;&#1088;&#1072; &#1074;&#1086;&#1089;&#1087;&#1080;&#1090;&#1072;&#1085;&#1080;&#1103;, &#1089;&#1072;&#1084;&#1086;&#1074;&#1086;&#1089;&#1087;&#1080;&#1090;&#1072;&#1085;&#1080;&#1103;, &#1086;&#1090; &#1080;&#1085;&#1076;&#1080;&#1074;&#1080;&#1076;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1103;.</p>
+<p>&#1055;&#1086;&#1076; &#1074;&#1086;&#1079;&#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077;&#1084; &#1101;&#1090;&#1080;&#1093; &#1080; &#1085;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093; &#1092;&#1072;&#1082;&#1090;&#1086;&#1088;&#1086;&#1074; &#1075;&#1086;&#1083;&#1086;&#1089; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, &#1082;&#1072;&#1082; &#1074;&#1099;&#1088;&#1072;&#1079;&#1080;&#1090;&#1077;&#1083;&#1100; &#1077;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1079;&#1072;&#1082;&#1086;&#1085;&#1072;, &#1084;&#1086;&#1078;&#1077;&#1090; &#1087;&#1086;&#1076;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100;&#1089;&#1103;, &#1087;&#1088;&#1080;&#1075;&#1083;&#1091;&#1096;&#1072;&#1090;&#1100;&#1089;&#1103;, &#1080;&#1089;&#1082;&#1072;&#1078;&#1072;&#1090;&#1100;&#1089;&#1103;. &#1042; &#1101;&#1090;&#1086;&#1081; &#1089;&#1074;&#1103;&#1079;&#1080; &#1090;&#1086;, &#1095;&#1090;&#1086; &#1084;&#1086;&#1078;&#1077;&#1090; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100;&#1089;&#1103; &#1076;&#1086;&#1073;&#1088;&#1086;&#1084; &#1076;&#1083;&#1103; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1077;&#1081; &#1086;&#1076;&#1085;&#1080;&#1093; &#1088;&#1077;&#1083;&#1080;&#1075;&#1080;&#1086;&#1079;&#1085;&#1099;&#1093;, &#1089;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1080;&#1083;&#1080; &#1101;&#1090;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1075;&#1088;&#1091;&#1087;&#1087;, &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1103;&#1084;&#1080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093; &#1084;&#1086;&#1078;&#1077;&#1090; &#1086;&#1094;&#1077;&#1085;&#1080;&#1074;&#1072;&#1090;&#1100;&#1089;&#1103; &#1082;&#1072;&#1082; &#1079;&#1083;&#1086; (&#1085;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088;, &#1082;&#1088;&#1086;&#1074;&#1085;&#1072;&#1103; &#1084;&#1077;&#1089;&#1090;&#1100;, &#1087;&#1086;&#1083;&#1086;&#1074;&#1072;&#1103; &#1088;&#1072;&#1089;&#1087;&#1091;&#1097;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1100;, &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1077; &#1082; &#1072;&#1073;&#1086;&#1088;&#1090;&#1072;&#1084; &#1080; &#1087;&#1088;.).</p>
+<p>&#1042; &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1080; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103; &#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1081; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074; <a href="https://azbyka.ru/nravstvennoe-bogoslovie">&#1053;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1084; &#1073;&#1086;&#1075;&#1086;&#1089;&#1083;&#1086;&#1074;&#1080;&#1080;</a> &#1091;&#1087;&#1086;&#1090;&#1088;&#1077;&#1073;&#1083;&#1103;&#1102;&#1090;&#1089;&#1103; &#1090;&#1072;&#1082;&#1080;&#1077; &#1087;&#1088;&#1080;&#1083;&#1072;&#1075;&#1072;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1077;, &#1082;&#1072;&#1082; &laquo;&#1076;&#1086;&#1073;&#1088;&#1072;&#1103;&raquo; (<span class="bg_data_title bg_bibrefs" data-title="?title=Act&amp;chapter=23:1&amp;type=t_verses&amp;lang=ru" title="&#1044;&#1077;&#1103;&#1085;&#1080;&#1103; &#1089;&#1074;&#1103;&#1090;&#1099;&#1093; &#1040;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1086;&#1074; &#1075;&#1083;. 23:1"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?Act.23:1" target="_self">&#1044;&#1077;&#1103;&#1085;.23:1</a></span>), &laquo;&#1095;&#1080;&#1089;&#1090;&#1072;&#1103;&raquo; (<span class="bg_data_title bg_bibrefs" data-title="?title=2Tim&amp;chapter=1:3&amp;type=t_verses&amp;lang=ru" title="&#1042;&#1090;&#1086;&#1088;&#1086;&#1077; &#1087;&#1086;&#1089;&#1083;&#1072;&#1085;&#1080;&#1077; &#1072;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1072; &#1055;&#1072;&#1074;&#1083;&#1072; &#1082; &#1058;&#1080;&#1084;&#1086;&#1092;&#1077;&#1102; &#1075;&#1083;. 1:3"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?2Tim.1:3" target="_self">2&#1058;&#1080;&#1084;.1:3</a></span>), &laquo;&#1089;&#1086;&#1078;&#1078;&#1077;&#1085;&#1085;&#1072;&#1103;&raquo; (<span class="bg_data_title bg_bibrefs" data-title="?title=1Tim&amp;chapter=4:2&amp;type=t_verses&amp;lang=ru" title="&#1055;&#1077;&#1088;&#1074;&#1086;&#1077; &#1087;&#1086;&#1089;&#1083;&#1072;&#1085;&#1080;&#1077; &#1072;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1072; &#1055;&#1072;&#1074;&#1083;&#1072; &#1082; &#1058;&#1080;&#1084;&#1086;&#1092;&#1077;&#1102; &#1075;&#1083;. 4:2"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?1Tim.4:2" target="_self">1&#1058;&#1080;&#1084;.4:2</a></span>), &laquo;&#1087;&#1086;&#1088;&#1086;&#1095;&#1085;&#1072;&#1103;&raquo; (<span class="bg_data_title bg_bibrefs" data-title="?title=Hebr&amp;chapter=10:22&amp;type=t_verses&amp;lang=ru" title="&#1055;&#1086;&#1089;&#1083;&#1072;&#1085;&#1080;&#1077; &#1072;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1072; &#1055;&#1072;&#1074;&#1083;&#1072; &#1082; &#1045;&#1074;&#1088;&#1077;&#1103;&#1084; &#1075;&#1083;. 10:22"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?Hebr.10:22" target="_self">&#1045;&#1074;&#1088;.10:22</a></span>), &laquo;&#1086;&#1089;&#1082;&#1074;&#1077;&#1088;&#1085;&#1077;&#1085;&#1085;&#1072;&#1103;&raquo; (<span class="bg_data_title bg_bibrefs" data-title="?title=Tit&amp;chapter=1:15&amp;type=t_verses&amp;lang=ru" title="&#1055;&#1086;&#1089;&#1083;&#1072;&#1085;&#1080;&#1077; &#1072;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1072; &#1055;&#1072;&#1074;&#1083;&#1072; &#1082; &#1058;&#1080;&#1090;&#1091; &#1075;&#1083;. 1:15"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?Tit.1:15" target="_self">&#1058;&#1080;&#1090;.1:15</a></span>) &#1080; &#1076;&#1088;.</p>
+<h2><a id="ch_0_2"></a>&#1058;&#1088;&#1080; &#1086;&#1089;&#1085;&#1086;&#1074;&#1085;&#1099;&#1077; &#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1080; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</h2>
+<p>&#1057;&#1088;&#1077;&#1076;&#1080; &#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1081; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074;&#1099;&#1076;&#1077;&#1083;&#1103;&#1102;&#1090; &#1090;&#1088;&#1080; &#1086;&#1089;&#1085;&#1086;&#1074;&#1085;&#1099;&#1093;. &#1050;&#1072;&#1082; <em>&#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1100;</em> &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1091; &#1085;&#1072; &#1090;&#1086;, &#1082;&#1072;&#1082; &#1086;&#1085; &#1076;&#1086;&#1083;&#1078;&#1077;&#1085; &#1087;&#1086;&#1089;&#1090;&#1091;&#1087;&#1080;&#1090;&#1100; &#1074; &#1090;&#1086;&#1084; &#1080;&#1083;&#1080; &#1080;&#1085;&#1086;&#1084; &#1089;&#1083;&#1091;&#1095;&#1072;&#1077;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1101;&#1090;&#1086;&#1090; &#1087;&#1086;&#1089;&#1090;&#1091;&#1087;&#1086;&#1082; (&#1079;&#1072;&#1084;&#1099;&#1089;&#1077;&#1083;, &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077; &#1080; &#1087;&#1088;.) &#1089;&#1086;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1083; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1085;&#1086;&#1084;&#1091; &#1041;&#1086;&#1075;&#1086;&#1084; <a href="https://azbyka.ru/nravstvennyj-zakon">&#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1084;&#1091; &#1079;&#1072;&#1082;&#1086;&#1085;&#1091;</a>. &#1050;&#1072;&#1082; <em>&#1089;&#1074;&#1080;&#1076;&#1077;&#1090;&#1077;&#1083;&#1100;</em> &#1080;&#1083;&#1080; <em>&#1089;&#1091;&#1076;&#1100;&#1103;</em> &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1103;&#1077;&#1090;, &#1087;&#1088;&#1077;&#1089;&#1090;&#1091;&#1087;&#1080;&#1083; &#1083;&#1080; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; &#1101;&#1090;&#1086; &#1079;&#1072;&#1082;&#1086;&#1085; &#1080;&#1083;&#1080; &#1085;&#1077;&#1090;, &#1087;&#1088;&#1072;&#1074; &#1086;&#1085; &#1080;&#1083;&#1080; &#1085;&#1077; &#1087;&#1088;&#1072;&#1074;. &#1053;&#1072;&#1082;&#1086;&#1085;&#1077;&#1094;, &#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1103; <em>&#1084;&#1079;&#1076;&#1086;&#1074;&#1086;&#1079;&#1076;&#1072;&#1103;&#1090;&#1077;&#1083;&#1103;</em> &#1074;&#1099;&#1088;&#1072;&#1078;&#1072;&#1077;&#1090;&#1089;&#1103; &#1074; &#1090;&#1086;&#1084;, &#1095;&#1090;&#1086; &#1074; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1086;&#1090; &#1090;&#1086;&#1075;&#1086;, &#1085;&#1072;&#1088;&#1091;&#1096;&#1080;&#1083; &#1083;&#1080; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; &#1090;&#1088;&#1077;&#1073;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1079;&#1072;&#1082;&#1086;&#1085;&#1072; &#1080;&#1083;&#1080; &#1085;&#1077; &#1085;&#1072;&#1088;&#1091;&#1096;&#1080;&#1083;, &#1086;&#1085; &#1080;&#1089;&#1087;&#1099;&#1090;&#1099;&#1074;&#1072;&#1077;&#1090; &#1083;&#1080;&#1073;&#1086; &#1091;&#1075;&#1088;&#1099;&#1079;&#1077;&#1085;&#1080;&#1103; &#1080; <a href="https://azbyka.ru/skorbi">&#1089;&#1082;&#1086;&#1088;&#1073;&#1100;</a>, &#1083;&#1080;&#1073;&#1086; <a href="https://azbyka.ru/radost">&#1088;&#1072;&#1076;&#1086;&#1089;&#1090;&#1100;</a> &#1080; &#1091;&#1076;&#1086;&#1074;&#1083;&#1077;&#1090;&#1074;&#1086;&#1088;&#1077;&#1085;&#1080;&#1077; &#1086;&#1090; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1103;.</p>
+<h2><a id="ch_0_3"></a>&#1050;&#1072;&#1082; &#1086;&#1095;&#1080;&#1089;&#1090;&#1080;&#1090;&#1100; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;?</h2>
+<p>&#1054;&#1089;&#1085;&#1086;&#1074;&#1085;&#1086;&#1081; &#1078;&#1077; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073; &#1086;&#1095;&#1080;&#1097;&#1077;&#1085;&#1080;&#1103; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1077;&#1089;&#1090;&#1100; &#1087;&#1086;&#1082;&#1072;&#1103;&#1085;&#1080;&#1077;, &#1076;&#1083;&#1103; &#1095;&#1077;&#1075;&#1086; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1086; &#1094;&#1077;&#1088;&#1082;&#1086;&#1074;&#1085;&#1086;&#1077; <a href="https://azbyka.ru/1/pokayanie">&#1058;&#1072;&#1080;&#1085;&#1089;&#1090;&#1074;&#1086; &#1087;&#1086;&#1082;&#1072;&#1103;&#1085;&#1080;&#1103;</a>.</p>
+<p>&laquo;<a href="https://azbyka.ru/trezvenie">&#1058;&#1088;&#1077;&#1079;&#1074;&#1077;&#1085;&#1080;&#1077;</a> &#1076;&#1086; &#1073;&#1083;&#1080;&#1089;&#1090;&#1072;&#1085;&#1080;&#1103; &#1086;&#1095;&#1080;&#1097;&#1072;&#1077;&#1090; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;. &#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1078;&#1077;, &#1073;&#1091;&#1076;&#1091;&#1095;&#1080; &#1090;&#1072;&#1082; &#1086;&#1095;&#1080;&#1097;&#1077;&#1085;&#1072;, &#1080;&#1079;&#1075;&#1086;&#1085;&#1103;&#1077;&#1090; &#1080;&#1079; &#1074;&#1085;&#1091;&#1090;&#1088;&#1100; &#1074;&#1089;&#1103;&#1082;&#1091;&#1102; &#1090;&#1100;&#1084;&#1091;, &#1087;&#1086;&#1076;&#1086;&#1073;&#1085;&#1086; &#1089;&#1074;&#1077;&#1090;&#1091; &#1074;&#1076;&#1088;&#1091;&#1075; &#1074;&#1086;&#1089;&#1089;&#1080;&#1103;&#1074;&#1072;&#1102;&#1097;&#1077;&#1084;&#1091; &#1087;&#1086; &#1089;&#1085;&#1103;&#1090;&#1080;&#1080; &#1083;&#1077;&#1078;&#1072;&#1097;&#1077;&#1075;&#1086; &#1085;&#1072; &#1085;&#1077;&#1084; &#1087;&#1086;&#1082;&#1088;&#1086;&#1074;&#1072;. &#1040; &#1087;&#1086; &#1080;&#1079;&#1075;&#1085;&#1072;&#1085;&#1080;&#1080; &#1090;&#1100;&#1084;&#1099;, &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;, &#1087;&#1088;&#1080; &#1085;&#1077;&#1087;&#1088;&#1077;&#1088;&#1099;&#1074;&#1085;&#1086; &#1087;&#1088;&#1086;&#1076;&#1086;&#1083;&#1078;&#1072;&#1102;&#1097;&#1077;&#1084;&#1089;&#1103; &#1080;&#1089;&#1090;&#1080;&#1085;&#1085;&#1086;&#1084; &#1090;&#1088;&#1077;&#1079;&#1074;&#1077;&#1085;&#1080;&#1080;, &#1089;&#1085;&#1086;&#1074;&#1072; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1090;&#1086;, &#1095;&#1090;&#1086; &#1073;&#1099;&#1083;&#1086; &#1079;&#1072;&#1073;&#1099;&#1090;&#1086; &#1080;&#1083;&#1080; &#1095;&#1090;&#1086; &#1089;&#1082;&#1088;&#1099;&#1074;&#1072;&#1083;&#1086;&#1089;&#1100;, &#1085;&#1077; &#1073;&#1091;&#1076;&#1091;&#1095;&#1080; &#1089;&#1086;&#1079;&#1085;&#1072;&#1074;&#1072;&#1077;&#1084;&#1086;&raquo;. (<a data-external href="https://azbyka.ru/otechnik/Filofej_Kokkin/"><em>&#1087;&#1088;&#1087;. &#1060;&#1080;&#1083;&#1086;&#1092;&#1077;&#1081; &#1057;&#1080;&#1085;&#1072;&#1081;&#1089;&#1082;&#1080;&#1081;</em></a>)</p>
+<h2><a id="ch_0_4"></a>&#1045;&#1089;&#1090;&#1100; &#1083;&#1080; &#1074; &#1093;&#1088;&#1080;&#1089;&#1090;&#1080;&#1072;&#1085;&#1089;&#1090;&#1074;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077; &#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1099; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;?</h2>
+<p><em>&#1055;&#1088;&#1086;&#1090;&#1086;&#1080;&#1077;&#1088;&#1077;&#1081; &#1040;&#1085;&#1076;&#1088;&#1077;&#1081; &#1061;&#1074;&#1099;&#1083;&#1103;-&#1054;&#1083;&#1080;&#1085;&#1090;&#1077;&#1088;</em>: &laquo;&#1042; &#1087;&#1088;&#1072;&#1074;&#1086;&#1089;&#1083;&#1072;&#1074;&#1085;&#1086;&#1084; &#1073;&#1086;&#1075;&#1086;&#1089;&#1083;&#1086;&#1074;&#1080;&#1080; &#1085;&#1077;&#1090; &#1090;&#1072;&#1082;&#1086;&#1075;&#1086; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1103;, &#1082;&#1072;&#1082; &laquo;&#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;&raquo;: &#1083;&#1080;&#1073;&#1086; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1083;&#1080;&#1074;&#1099;&#1081;, &#1083;&#1080;&#1073;&#1086; &#1073;&#1077;&#1089;&#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1085;&#1099;&#1081;, &#1079;&#1072;&#1090;&#1086; &#1077;&#1089;&#1090;&#1100; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077;, &#1082;&#1072;&#1082; &laquo;&#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1074;&#1086;&#1083;&#1080;&raquo;. &#1057; &#1090;&#1086;&#1095;&#1082;&#1080; &#1079;&#1088;&#1077;&#1085;&#1080;&#1103; &#1055;&#1088;&#1072;&#1074;&#1086;&#1089;&#1083;&#1072;&#1074;&#1080;&#1103; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077; &laquo;&#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;&raquo; &#8210; &#1101;&#1090;&#1086; &#1085;&#1086;&#1085;&#1089;&#1077;&#1085;&#1089;. &#1042;&#1086;&#1079;&#1100;&#1084;&#1080;&#1090;&#1077; &#1101;&#1090;&#1080;&#1084;&#1086;&#1083;&#1086;&#1075;&#1080;&#1102; &#1089;&#1083;&#1086;&#1074;&#1072; &laquo;&#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;&raquo;. &#1055;&#1088;&#1080;&#1089;&#1090;&#1072;&#1074;&#1082;&#1072; &#1089;&#1086;&#8210; &#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1085;&#1072; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1086;: &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1082;, &#1089;&#1086;&#1088;&#1072;&#1090;&#1085;&#1080;&#1082;, &#1089;&#1086;&#1074;&#1077;&#1090;&#1085;&#1080;&#1082;, &#1089;&#1086;&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;. &#1050;&#1086;&#1088;&#1077;&#1085;&#1100; -&#1074;&#1077;&#1089;&#1090;&#1100; &#8210; &#1101;&#1090;&#1086; &#1074;&#1077;&#1089;&#1090;&#1100; &#1086;&#1090; &#1041;&#1086;&#1075;&#1072;, &#1079;&#1085;&#1072;&#1095;&#1080;&#1090;, &#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1084;&#1086;&#1078;&#1077;&#1090; &#1073;&#1099;&#1090;&#1100; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1074; &#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1080; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, &#1072; &#1087;&#1086;&#1090;&#1086;&#1084;&#1091; &#1074;&#1099;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#1077; &laquo;&#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;&raquo; &#8210; &#1101;&#1090;&#1086; &#1090;&#1072;&#1074;&#1090;&#1086;&#1083;&#1086;&#1075;&#1080;&#1103;. &#1042;&#1077;&#1076;&#1100; &#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#8210; &#1101;&#1090;&#1086; &#1087;&#1088;&#1077;&#1078;&#1076;&#1077; &#1074;&#1089;&#1077;&#1075;&#1086; &#1085;&#1077;&#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086;&#1089;&#1090;&#1100; &#1086;&#1090; &#1075;&#1088;&#1077;&#1093;&#1072;. &#1050;&#1072;&#1082; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1084;&#1099; &#1085;&#1072;&#1095;&#1080;&#1085;&#1072;&#1077;&#1084; &#1079;&#1072;&#1074;&#1080;&#1089;&#1077;&#1090;&#1100; &#1086;&#1090; &#1075;&#1088;&#1077;&#1093;&#1072;, &#1074;&#1089;&#1103; &#1085;&#1072;&#1096;&#1072; &#1089;&#1074;&#1086;&#1073;&#1086;&#1076;&#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1087;&#1088;&#1086;&#1087;&#1072;&#1076;&#1072;&#1077;&#1090;&raquo;.</p>
+<h2><a id="ch_0_5"></a>&#1062;&#1080;&#1090;&#1072;&#1090;&#1099; &#1086; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</h2>
+<p>&laquo;&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1088;&#1091;&#1082;&#1086;&#1074;&#1086;&#1076;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1083;&#1072; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1072; &#1076;&#1086; &#1047;&#1072;&#1082;&#1086;&#1085;&#1072; &#1087;&#1080;&#1089;&#1100;&#1084;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086;. &#1055;&#1072;&#1076;&#1096;&#1077;&#1077; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1090;&#1074;&#1086; &#1087;&#1086;&#1089;&#1090;&#1077;&#1087;&#1077;&#1085;&#1085;&#1086; &#1091;&#1089;&#1074;&#1072;&#1080;&#1074;&#1072;&#1083;&#1086; &#1089;&#1077;&#1073;&#1077; &#1085;&#1077;&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1099;&#1081; &#1086;&#1073;&#1088;&#1072;&#1079; &#1084;&#1099;&#1089;&#1083;&#1077;&#1081; &#1086; &#1041;&#1086;&#1075;&#1077;, &#1086; &#1076;&#1086;&#1073;&#1088;&#1077; &#1080; &#1079;&#1083;&#1077;: &#1083;&#1078;&#1077;&#1080;&#1084;&#1077;&#1085;&#1085;&#1099;&#1081; &#1088;&#1072;&#1079;&#1091;&#1084; &#1089;&#1086;&#1086;&#1073;&#1097;&#1080;&#1083; &#1089;&#1074;&#1086;&#1102; &#1085;&#1077;&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;. &#1055;&#1080;&#1089;&#1100;&#1084;&#1077;&#1085;&#1085;&#1099;&#1081; &#1047;&#1072;&#1082;&#1086;&#1085; &#1089;&#1086;&#1076;&#1077;&#1083;&#1072;&#1083;&#1089;&#1103; &#1085;&#1077;&#1086;&#1073;&#1093;&#1086;&#1076;&#1080;&#1084;&#1086;&#1089;&#1090;&#1100;&#1102; &#1076;&#1083;&#1103; &#1088;&#1091;&#1082;&#1086;&#1074;&#1086;&#1076;&#1089;&#1090;&#1074;&#1072; &#1082; &#1080;&#1089;&#1090;&#1080;&#1085;&#1085;&#1086;&#1084;&#1091; &#1041;&#1086;&#1075;&#1086;&#1087;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1102; &#1080; &#1082; &#1041;&#1086;&#1075;&#1086;&#1091;&#1075;&#1086;&#1076;&#1085;&#1086;&#1081; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080;. &#1059;&#1095;&#1077;&#1085;&#1080;&#1077; &#1061;&#1088;&#1080;&#1089;&#1090;&#1086;&#1074;&#1086;, &#1079;&#1072;&#1087;&#1077;&#1095;&#1072;&#1090;&#1083;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1074;&#1103;&#1090;&#1099;&#1084; &#1082;&#1088;&#1077;&#1097;&#1077;&#1085;&#1080;&#1077;&#1084;, &#1080;&#1089;&#1094;&#1077;&#1083;&#1103;&#1077;&#1090; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1086;&#1090; &#1083;&#1091;&#1082;&#1072;&#1074;&#1089;&#1090;&#1074;&#1072;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1084; &#1079;&#1072;&#1088;&#1072;&#1079;&#1080;&#1083; &#1077;&#1077; &#1075;&#1088;&#1077;&#1093;. &#1042;&#1086;&#1079;&#1074;&#1088;&#1072;&#1097;&#1077;&#1085;&#1085;&#1086;&#1077; &#1085;&#1072;&#1084;, &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1077; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1080;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103;, &#1074;&#1086;&#1079;&#1074;&#1099;&#1096;&#1072;&#1077;&#1090;&#1089;&#1103; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077;&#1084; &#1091;&#1095;&#1077;&#1085;&#1080;&#1102; &#1061;&#1088;&#1080;&#1089;&#1090;&#1086;&#1074;&#1091;&raquo;.<br>
+<em class="book-link">&#1089;&#1074;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/" target="_blank" title="&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; (&#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;), &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; &#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;</a></em></p>
+<p>&laquo;&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;. &#1057;&#1086;&#1079;&#1085;&#1072;&#1074;&#1072;&#1103; &#1089;&#1077;&#1073;&#1103; &#1086;&#1073;&#1103;&#1079;&#1072;&#1085;&#1085;&#1099;&#1084; &#1091;&#1075;&#1086;&#1078;&#1076;&#1072;&#1090;&#1100; &#1041;&#1086;&#1075;&#1091;, &#1076;&#1091;&#1093; &#1085;&#1077; &#1079;&#1085;&#1072;&#1083; &#1073;&#1099;, &#1082;&#1072;&#1082; &#1091;&#1076;&#1086;&#1074;&#1083;&#1077;&#1090;&#1074;&#1086;&#1088;&#1080;&#1090;&#1100; &#1089;&#1077;&#1081; &#1086;&#1073;&#1103;&#1079;&#1072;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080;, &#1077;&#1089;&#1083;&#1080; &#1073;&#1099; &#1085;&#1077; &#1088;&#1091;&#1082;&#1086;&#1074;&#1086;&#1076;&#1080;&#1083;&#1072; &#1077;&#1075;&#1086; &#1074; &#1089;&#1077;&#1084; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;. &#1057;&#1086;&#1086;&#1073;&#1097;&#1080;&#1074; &#1076;&#1091;&#1093;&#1091; &#1095;&#1072;&#1089;&#1090;&#1080;&#1095;&#1082;&#1091; &#1089;&#1074;&#1086;&#1077;&#1075;&#1086; &#1074;&#1089;&#1077;&#1074;&#1077;&#1076;&#1077;&#1085;&#1080;&#1103; &#1074; &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1085;&#1086;&#1084; &#1077;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1084; <a class="bg_hlnames" href="https://azbyka.ru/simvol_very" target="_blank" title="&#1057;&#1080;&#1084;&#1074;&#1086;&#1083; &#1074;&#1077;&#1088;&#1099;">&#1089;&#1080;&#1084;&#1074;&#1086;&#1083;&#1077; &#1074;&#1077;&#1088;&#1099;</a>, &#1041;&#1086;&#1075; &#1085;&#1072;&#1095;&#1077;&#1088;&#1090;&#1072;&#1083; &#1074; &#1085;&#1077;&#1084; &#1080; &#1090;&#1088;&#1077;&#1073;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1057;&#1074;&#1086;&#1077;&#1081; &#1089;&#1074;&#1103;&#1090;&#1086;&#1089;&#1090;&#1080;, &#1087;&#1088;&#1072;&#1074;&#1076;&#1099; &#1080; &#1073;&#1083;&#1072;&#1075;&#1086;&#1089;&#1090;&#1080;, &#1087;&#1086;&#1088;&#1091;&#1095;&#1080;&#1074; &#1077;&#1084;&#1091; &#1078;&#1077; &#1089;&#1072;&#1084;&#1086;&#1084;&#1091; &#1085;&#1072;&#1073;&#1083;&#1102;&#1076;&#1072;&#1090;&#1100; &#1079;&#1072; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077;&#1084; &#1080;&#1093; &#1080; &#1089;&#1091;&#1076;&#1080;&#1090;&#1100; &#1089;&#1077;&#1073;&#1103; &#1074; &#1080;&#1089;&#1087;&#1088;&#1072;&#1074;&#1085;&#1086;&#1089;&#1090;&#1080; &#1080;&#1083;&#1080; &#1085;&#1077;&#1080;&#1089;&#1087;&#1088;&#1072;&#1074;&#1085;&#1086;&#1089;&#1090;&#1080;. &#1057;&#1080;&#1103; &#1089;&#1090;&#1086;&#1088;&#1086;&#1085;&#1072; &#1076;&#1091;&#1093;&#1072; &#1080; &#1077;&#1089;&#1090;&#1100; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1072;&#1103; &#1091;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090;, &#1095;&#1090;&#1086; &#1087;&#1088;&#1072;&#1074;&#1086; &#1080; &#1095;&#1090;&#1086; &#1085;&#1077; &#1087;&#1088;&#1072;&#1074;&#1086;, &#1095;&#1090;&#1086; &#1091;&#1075;&#1086;&#1076;&#1085;&#1086; &#1041;&#1086;&#1075;&#1091; &#1080; &#1095;&#1090;&#1086; &#1085;&#1077; &#1091;&#1075;&#1086;&#1076;&#1085;&#1086;, &#1095;&#1090;&#1086; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086; &#1080; &#1095;&#1077;&#1075;&#1086; &#1085;&#1077; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;; &#1091;&#1082;&#1072;&#1079;&#1072;&#1074;, &#1074;&#1083;&#1072;&#1089;&#1090;&#1085;&#1086; &#1087;&#1086;&#1085;&#1091;&#1078;&#1076;&#1072;&#1077;&#1090; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1100; &#1090;&#1086;, &#1072; &#1087;&#1086;&#1090;&#1086;&#1084; &#1079;&#1072; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072;&#1075;&#1088;&#1072;&#1078;&#1076;&#1072;&#1077;&#1090; &#1091;&#1090;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077;&#1084;, &#1072; &#1079;&#1072; &#1085;&#1077;&#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1091;&#1075;&#1088;&#1099;&#1079;&#1077;&#1085;&#1080;&#1077;&#1084;. &#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1077;&#1089;&#1090;&#1100; &#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1100;, &#1073;&#1083;&#1102;&#1089;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100; &#1079;&#1072;&#1082;&#1086;&#1085;&#1072;, &#1089;&#1091;&#1076;&#1080;&#1103; &#1080; &#1074;&#1086;&#1079;&#1076;&#1072;&#1103;&#1090;&#1077;&#1083;&#1100;. &#1054;&#1085;&#1072; &#1077;&#1089;&#1090;&#1100; &#1077;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1077; &#1089;&#1082;&#1088;&#1080;&#1078;&#1072;&#1083;&#1080; &#1079;&#1072;&#1074;&#1077;&#1090;&#1072; &#1041;&#1086;&#1078;&#1080;&#1103;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1080;&#1088;&#1072;&#1102;&#1097;&#1077;&#1075;&#1086;&#1089;&#1103; &#1085;&#1072; &#1074;&#1089;&#1077;&#1093; &#1083;&#1102;&#1076;&#1077;&#1081;&raquo;.<br>
+<em class="book-link">&#1089;&#1090;&#1074;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Feofan_Zatvornik/" target="_blank" title="&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;, &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;</a></em></p>
+<p>&laquo;&#1052;&#1099; &#1095;&#1072;&#1097;&#1077; &#1074;&#1089;&#1077;&#1075;&#1086; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1084; &#1057;&#1091;&#1076; &#1041;&#1086;&#1078;&#1080;&#1081; &#1090;&#1072;&#1082;&#1080;&#1084;, &#1082;&#1072;&#1082;&#1080;&#1084; &#1073;&#1099;&#1074;&#1072;&#1077;&#1090; &#1089;&#1091;&#1076; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1081;. &#1053;&#1086; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1089;&#1091;&#1076; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090; &#1091;&#1078;&#1077; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089;, &#1080;&#1073;&#1086; &#1043;&#1086;&#1089;&#1087;&#1086;&#1076;&#1091; &#1073;&#1099;&#1083;&#1086; &#1091;&#1075;&#1086;&#1076;&#1085;&#1086; &#1074;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1100; &#1089;&#1091;&#1076; &#1074; &#1089;&#1072;&#1084;&#1091; &#1087;&#1088;&#1080;&#1088;&#1086;&#1076;&#1091; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1072;. &#1063;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1077;&#1085; &#1089;&#1091;&#1076;&#1080;&#1090;&#1100; &#1089;&#1077;&#1073;&#1103; &#1089;&#1072;&#1084;. &#1055;&#1086; &#1082;&#1072;&#1082;&#1086;&#1084;&#1091; &#1079;&#1072;&#1082;&#1086;&#1085;&#1091;? &#1043;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1084;&#1091;? &#1053;&#1077;&#1090;, &#1087;&#1086; &#1079;&#1072;&#1082;&#1086;&#1085;&#1091; &#1089;&#1074;&#1086;&#1077;&#1081; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;. &#1048; &#1084;&#1099; &#1079;&#1085;&#1072;&#1077;&#1084;, &#1095;&#1090;&#1086; &#1086;&#1095;&#1077;&#1085;&#1100; &#1095;&#1072;&#1089;&#1090;&#1086; &#1089;&#1091;&#1076; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103; &#1076;&#1083;&#1103; &#1085;&#1072;&#1089; &#1089;&#1072;&#1084;&#1099;&#1084; &#1075;&#1088;&#1086;&#1079;&#1085;&#1099;&#1084;. &#1052;&#1085;&#1077; &#1087;&#1088;&#1080;&#1093;&#1086;&#1076;&#1080;&#1083;&#1086;&#1089;&#1100; &#1074;&#1089;&#1090;&#1088;&#1077;&#1095;&#1072;&#1090;&#1100;&#1089;&#1103; &#1089; &#1087;&#1088;&#1077;&#1089;&#1090;&#1091;&#1087;&#1085;&#1080;&#1082;&#1072;&#1084;&#1080;, &#1087;&#1088;&#1080;&#1075;&#1086;&#1074;&#1086;&#1088;&#1077;&#1085;&#1085;&#1099;&#1084;&#1080; &#1082; &#1076;&#1083;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084; &#1089;&#1088;&#1086;&#1082;&#1072;&#1084; &#1079;&#1072;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1103;. &#1048; &#1082;&#1086;&#1075;&#1076;&#1072; &#1074; &#1076;&#1086;&#1074;&#1077;&#1088;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1084; &#1088;&#1072;&#1079;&#1075;&#1086;&#1074;&#1086;&#1088;&#1077; &#1103; &#1089;&#1087;&#1088;&#1072;&#1096;&#1080;&#1074;&#1072;&#1083;, &#1095;&#1090;&#1086; &#1076;&#1083;&#1103; &#1085;&#1080;&#1093; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1089;&#1072;&#1084;&#1086;&#1077; &#1090;&#1103;&#1078;&#1077;&#1083;&#1086;&#1077;, &#1086;&#1095;&#1077;&#1085;&#1100; &#1095;&#1072;&#1089;&#1090;&#1086; &#1084;&#1085;&#1077; &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1083;&#1080;: &laquo;&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;. &#1053;&#1077; &#1084;&#1086;&#1075;&#1091; &#1091;&#1089;&#1087;&#1086;&#1082;&#1086;&#1080;&#1090;&#1100;&#1089;&#1103;. &#1059;&#1078;&#1077; &#1080; &#1085;&#1072;&#1082;&#1072;&#1079;&#1072;&#1085;&#1080;&#1077; &#1087;&#1086;&#1079;&#1072;&#1076;&#1080;, &#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1085;&#1077; &#1086;&#1090;&#1089;&#1090;&#1091;&#1087;&#1072;&#1077;&#1090;&raquo;.<br>
+&#1057;&#1091;&#1076; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; – &#1101;&#1090;&#1086; &#1089;&#1072;&#1084;&#1099;&#1081; &#1089;&#1091;&#1088;&#1086;&#1074;&#1099;&#1081; &#1080; &#1089;&#1072;&#1084;&#1099;&#1081; &#1073;&#1077;&#1089;&#1087;&#1088;&#1080;&#1089;&#1090;&#1088;&#1072;&#1089;&#1090;&#1085;&#1099;&#1081; &#1089;&#1091;&#1076;, &#1101;&#1090;&#1086; &#1080; &#1077;&#1089;&#1090;&#1100; &#1089;&#1091;&#1076; &#1041;&#1086;&#1078;&#1080;&#1081;, &#1087;&#1086;&#1090;&#1086;&#1084;&#1091; &#1095;&#1090;&#1086; &#1043;&#1086;&#1089;&#1087;&#1086;&#1076;&#1100; &#1074;&#1083;&#1086;&#1078;&#1080;&#1083; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1077; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1086; &#1074; &#1085;&#1072;&#1096;&#1091; &#1087;&#1088;&#1080;&#1088;&#1086;&#1076;&#1091;. &#1063;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; – &#1101;&#1090;&#1086; &#1077;&#1076;&#1080;&#1085;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1077; &#1078;&#1080;&#1074;&#1086;&#1077; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1086;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086; &#1089;&#1072;&#1084;&#1086; &#1089;&#1077;&#1073;&#1103; &#1089;&#1091;&#1076;&#1080;&#1090;&#1100;. &#1048;, &#1085;&#1072;&#1074;&#1077;&#1088;&#1085;&#1086;&#1077;, &#1057;&#1090;&#1088;&#1072;&#1096;&#1085;&#1099;&#1081; &#1057;&#1091;&#1076; &#1073;&#1091;&#1076;&#1077;&#1090; &#1087;&#1088;&#1086;&#1076;&#1086;&#1083;&#1078;&#1077;&#1085;&#1080;&#1077;&#1084; &#1101;&#1090;&#1086;&#1075;&#1086; &#1089;&#1091;&#1076;&#1072;. &#1055;&#1086; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1086;&#1075;&#1088;&#1072;&#1085;&#1080;&#1095;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1099; &#1084;&#1085;&#1086;&#1075;&#1086;&#1077; &#1079;&#1072;&#1073;&#1099;&#1074;&#1072;&#1077;&#1084;, &#1080;&#1079; &#1087;&#1072;&#1084;&#1103;&#1090;&#1080; &#1091;&#1093;&#1086;&#1076;&#1103;&#1090; &#1075;&#1088;&#1077;&#1093;&#1080; &#1080; &#1082;&#1086;&#1085;&#1092;&#1083;&#1080;&#1082;&#1090;&#1099;, &#1080; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1091;&#1089;&#1087;&#1086;&#1082;&#1072;&#1080;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103;. &#1040; &#1080;&#1085;&#1086;&#1075;&#1076;&#1072; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1088;&#1072;&#1079;&#1088;&#1091;&#1096;&#1072;&#1077;&#1090;&#1089;&#1103; &#1087;&#1086;&#1088;&#1086;&#1082;&#1072;&#1084;&#1080;, &#1087;&#1100;&#1103;&#1085;&#1089;&#1090;&#1074;&#1086;&#1084; &#1080;&#1083;&#1080; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086; &#1087;&#1088;&#1080;&#1074;&#1099;&#1095;&#1082;&#1086;&#1081; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1072;&#1090;&#1100; &#1073;&#1077;&#1079;&#1079;&#1072;&#1082;&#1086;&#1085;&#1080;&#1077;. &#1053;&#1086; &#1057;&#1090;&#1088;&#1072;&#1096;&#1085;&#1099;&#1081; &#1041;&#1086;&#1078;&#1080;&#1081; &#1057;&#1091;&#1076; &#1074;&#1086;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090; &#1074;&#1089;&#1077; &#1085;&#1077;&#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1077;&#1085;&#1089;&#1090;&#1074;&#1086; &#1085;&#1072;&#1096;&#1077;&#1075;&#1086; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1086;&#1075;&#1086; &#1089;&#1091;&#1076;&#1072;: &#1087;&#1083;&#1086;&#1093;&#1091;&#1102; &#1087;&#1072;&#1084;&#1103;&#1090;&#1100;, &#1094;&#1080;&#1085;&#1080;&#1079;&#1084;, &#1085;&#1077;&#1073;&#1088;&#1077;&#1078;&#1077;&#1085;&#1080;&#1077;, &#1086;&#1090;&#1089;&#1090;&#1091;&#1087;&#1083;&#1077;&#1085;&#1080;&#1077; &#1086;&#1090; &#1041;&#1086;&#1078;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1093; &#1079;&#1072;&#1087;&#1086;&#1074;&#1077;&#1076;&#1077;&#1081; – &#1074;&#1089;&#1077; &#1090;&#1086;, &#1095;&#1090;&#1086; &#1085;&#1077; &#1076;&#1072;&#1074;&#1072;&#1083;&#1086; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1085;&#1072;&#1084; &#1089;&#1072;&#1084;&#1080;&#1084; &#1089;&#1087;&#1088;&#1072;&#1074;&#1077;&#1076;&#1083;&#1080;&#1074;&#1086; &#1086;&#1089;&#1091;&#1076;&#1080;&#1090;&#1100; &#1089;&#1077;&#1073;&#1103; &#1087;&#1088;&#1080; &#1078;&#1080;&#1079;&#1085;&#1080;&raquo;.<br>
+<em class="book-link">&#1087;&#1072;&#1090;&#1088;&#1080;&#1072;&#1088;&#1093; &#1050;&#1080;&#1088;&#1080;&#1083;&#1083;. &#1048;&#1079; &#1089;&#1083;&#1086;&#1074;&#1072; &#1074; &#1053;&#1077;&#1076;&#1077;&#1083;&#1102; &#1084;&#1103;&#1089;&#1086;&#1087;&#1091;&#1089;&#1090;&#1085;&#1091;&#1102; &#1087;&#1086;&#1089;&#1083;&#1077; &#1051;&#1080;&#1090;&#1091;&#1088;&#1075;&#1080;&#1080; &#1074; &#1061;&#1088;&#1072;&#1084;&#1077; &#1061;&#1088;&#1080;&#1089;&#1090;&#1072; &#1057;&#1087;&#1072;&#1089;&#1080;&#1090;&#1077;&#1083;&#1103; &#1075;. &#1052;&#1086;&#1089;&#1082;&#1074;&#1099;, 19 &#1092;&#1077;&#1074;&#1088;&#1072;&#1083;&#1103; 2017 &#1075;&#1086;&#1076;&#1072;</em></p>
+<p>&laquo;&#1041;&#1086;&#1075; &#1085;&#1077; &#1089;&#1076;&#1077;&#1083;&#1072;&#1083; &#1086;&#1073;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1085;&#1080; &#1085;&#1077;&#1087;&#1088;&#1077;&#1088;&#1099;&#1074;&#1085;&#1099;&#1084; (&#1080;&#1073;&#1086; &#1084;&#1099;, &#1085;&#1077;&#1087;&#1088;&#1077;&#1089;&#1090;&#1072;&#1085;&#1085;&#1086; &#1073;&#1099;&#1074; &#1086;&#1073;&#1083;&#1080;&#1095;&#1072;&#1077;&#1084;&#1099;, &#1085;&#1077; &#1089;&#1085;&#1077;&#1089;&#1083;&#1080; &#1073;&#1099; &#1101;&#1090;&#1086;&#1081; &#1090;&#1103;&#1078;&#1077;&#1089;&#1090;&#1080;), &#1085;&#1080; &#1089;&#1090;&#1086;&#1083;&#1100; &#1089;&#1083;&#1072;&#1073;&#1099;&#1084;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1086;&#1085;&#1072;, &#1087;&#1086;&#1089;&#1083;&#1077; &#1087;&#1077;&#1088;&#1074;&#1086;&#1075;&#1086; &#1080;&#1083;&#1080; &#1074;&#1090;&#1086;&#1088;&#1086;&#1075;&#1086; &#1091;&#1074;&#1077;&#1097;&#1072;&#1085;&#1080;&#1103;, &#1087;&#1088;&#1077;&#1082;&#1088;&#1072;&#1090;&#1080;&#1083;&#1072; &#1077;&#1075;&#1086;. &#1045;&#1089;&#1083;&#1080; &#1073;&#1099; &#1086;&#1085;&#1072; &#1089;&#1090;&#1072;&#1083;&#1072; &#1091;&#1075;&#1088;&#1099;&#1079;&#1072;&#1090;&#1100; &#1085;&#1072;&#1089; &#1082;&#1072;&#1078;&#1076;&#1099;&#1081; &#1076;&#1077;&#1085;&#1100; &#1080; &#1095;&#1072;&#1089;, &#1084;&#1099; &#1073;&#1099;&#1083;&#1080; &#1073;&#1099; &#1087;&#1086;&#1076;&#1072;&#1074;&#1083;&#1077;&#1085;&#1099; &#1091;&#1085;&#1099;&#1085;&#1080;&#1077;&#1084;; &#1072; &#1077;&#1089;&#1083;&#1080; &#1073;&#1099;, &#1085;&#1072;&#1087;&#1086;&#1084;&#1085;&#1080;&#1074; &#1086;&#1076;&#1085;&#1072;&#1078;&#1076;&#1099; &#1080;&#1083;&#1080; &#1076;&#1074;&#1072;&#1078;&#1076;&#1099;, &#1087;&#1077;&#1088;&#1077;&#1089;&#1090;&#1072;&#1083;&#1072; &#1086;&#1073;&#1083;&#1080;&#1095;&#1072;&#1090;&#1100;, &#1084;&#1099; &#1085;&#1077; &#1084;&#1085;&#1086;&#1075;&#1086; &#1087;&#1086;&#1083;&#1091;&#1095;&#1080;&#1083;&#1080; &#1073;&#1099; &#1087;&#1086;&#1083;&#1100;&#1079;&#1099;. &#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091; &#1054;&#1085; &#1089;&#1076;&#1077;&#1083;&#1072;&#1083; &#1101;&#1090;&#1086; &#1086;&#1073;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1077;, &#1093;&#1086;&#1090;&#1103; &#1080; &#1074;&#1089;&#1077;&#1075;&#1076;&#1072;&#1096;&#1085;&#1080;&#1084;, &#1085;&#1086; &#1085;&#1077; &#1085;&#1077;&#1087;&#1088;&#1077;&#1088;&#1099;&#1074;&#1085;&#1099;&#1084;: – &#1074;&#1089;&#1077;&#1075;&#1076;&#1072;&#1096;&#1085;&#1080;&#1084;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1084;&#1099; &#1085;&#1077; &#1074;&#1087;&#1072;&#1083;&#1080; &#1074; &#1073;&#1077;&#1089;&#1087;&#1077;&#1095;&#1085;&#1086;&#1089;&#1090;&#1100;, &#1085;&#1086;, &#1089;&#1083;&#1099;&#1096;&#1072; &#1074;&#1089;&#1077;&#1075;&#1076;&#1072; &#1077;&#1105; &#1085;&#1072;&#1087;&#1086;&#1084;&#1080;&#1085;&#1072;&#1085;&#1080;&#1103;, &#1087;&#1088;&#1077;&#1073;&#1099;&#1083;&#1080; &#1076;&#1086; &#1089;&#1072;&#1084;&#1086;&#1081; &#1082;&#1086;&#1085;&#1095;&#1080;&#1085;&#1099; &#1073;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084;&#1080;; – &#1085;&#1077; &#1085;&#1077;&#1087;&#1088;&#1077;&#1088;&#1099;&#1074;&#1085;&#1099;&#1084; &#1080; &#1085;&#1077; &#1085;&#1077;&#1087;&#1088;&#1077;&#1089;&#1090;&#1072;&#1085;&#1085;&#1099;&#1084;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1084;&#1099; &#1085;&#1077; &#1087;&#1072;&#1076;&#1072;&#1083;&#1080; &#1076;&#1091;&#1093;&#1086;&#1084;, &#1085;&#1086; &#1086;&#1073;&#1086;&#1076;&#1088;&#1103;&#1083;&#1080;&#1089;&#1100;, &#1087;&#1086;&#1083;&#1091;&#1095;&#1072;&#1103; &#1085;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1086;&#1073;&#1083;&#1077;&#1075;&#1095;&#1077;&#1085;&#1080;&#1077; &#1080; &#1086;&#1090;&#1088;&#1072;&#1076;&#1091;. &#1050;&#1072;&#1082; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1077;&#1085;&#1085;&#1086;&#1077; &#1088;&#1072;&#1074;&#1085;&#1086;&#1076;&#1091;&#1096;&#1080;&#1077; &#1082;&#1086; &#1075;&#1088;&#1077;&#1093;&#1072;&#1084; &#1087;&#1072;&#1075;&#1091;&#1073;&#1085;&#1086; &#1080; &#1087;&#1086;&#1088;&#1086;&#1078;&#1076;&#1072;&#1077;&#1090; &#1074; &#1085;&#1072;&#1089; &#1082;&#1088;&#1072;&#1081;&#1085;&#1102;&#1102; &#1073;&#1077;&#1089;&#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1100;, &#1090;&#1072;&#1082; &#1085;&#1077;&#1087;&#1088;&#1077;&#1088;&#1099;&#1074;&#1085;&#1086;&#1077; &#1080; &#1095;&#1088;&#1077;&#1079;&#1084;&#1077;&#1088;&#1085;&#1086;&#1077; &#1089;&#1086;&#1082;&#1088;&#1091;&#1096;&#1077;&#1085;&#1080;&#1077; &#1086; &#1085;&#1080;&#1093; &#1074;&#1088;&#1077;&#1076;&#1085;&#1086;. &#1063;&#1088;&#1077;&#1079;&#1084;&#1077;&#1088;&#1085;&#1086;&#1077; &#1091;&#1085;&#1099;&#1085;&#1080;&#1077;, &#1085;&#1077;&#1088;&#1077;&#1076;&#1082;&#1086; &#1086;&#1090;&#1085;&#1080;&#1084;&#1072;&#1103; &#1077;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1091;&#1102; &#1088;&#1072;&#1089;&#1089;&#1091;&#1076;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;, &#1084;&#1086;&#1078;&#1077;&#1090; &#1087;&#1086;&#1076;&#1072;&#1074;&#1080;&#1090;&#1100; &#1076;&#1091;&#1096;&#1091; &#1080; &#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1085;&#1077;&#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086;&#1081; &#1085;&#1080; &#1082; &#1095;&#1077;&#1084;&#1091; &#1076;&#1086;&#1073;&#1088;&#1086;&#1084;&#1091;. &#1055;&#1086;&#1089;&#1077;&#1084;&#1091; &#1041;&#1086;&#1075; &#1080; &#1091;&#1089;&#1090;&#1088;&#1086;&#1080;&#1083;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1086;&#1073;&#1083;&#1080;&#1095;&#1077;&#1085;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074;&#1086;&#1089;&#1089;&#1090;&#1072;&#1074;&#1072;&#1083;&#1086; &#1085;&#1072; &#1085;&#1072;&#1089; &#1089; &#1087;&#1088;&#1086;&#1084;&#1077;&#1078;&#1091;&#1090;&#1082;&#1072;&#1084;&#1080; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;, &#1090;&#1072;&#1082; &#1082;&#1072;&#1082; &#1086;&#1085;&#1086; &#1074;&#1077;&#1089;&#1100;&#1084;&#1072; &#1078;&#1077;&#1089;&#1090;&#1086;&#1082;&#1086; &#1080; &#1086;&#1073;&#1099;&#1082;&#1085;&#1086;&#1074;&#1077;&#1085;&#1085;&#1086; &#1091;&#1103;&#1079;&#1074;&#1083;&#1103;&#1077;&#1090; &#1075;&#1088;&#1077;&#1096;&#1085;&#1080;&#1082;&#1072; &#1089;&#1080;&#1083;&#1100;&#1085;&#1077;&#1077; &#1074;&#1089;&#1103;&#1082;&#1086;&#1075;&#1086; &#1086;&#1089;&#1090;&#1088;&#1080;&#1103;&raquo;.<br>
+<em class="book-link">&#1089;&#1074;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Ioann_Zlatoust/" target="_blank" title="&#1048;&#1086;&#1072;&#1085;&#1085; &#1047;&#1083;&#1072;&#1090;&#1086;&#1091;&#1089;&#1090;, &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1048;&#1086;&#1072;&#1085;&#1085; &#1047;&#1083;&#1072;&#1090;&#1086;&#1091;&#1089;&#1090;</a></em></p>
+<p>&laquo;&#1061;&#1088;&#1072;&#1085;&#1077;&#1085;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1074; &#1086;&#1090;&#1085;&#1086;&#1096;&#1077;&#1085;&#1080;&#1080; &#1082; &#1074;&#1077;&#1097;&#1072;&#1084; &#1089;&#1086;&#1089;&#1090;&#1086;&#1080;&#1090; &#1074; &#1090;&#1086;&#1084;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1085;&#1077; &#1086;&#1073;&#1088;&#1072;&#1097;&#1072;&#1090;&#1100;&#1089;&#1103; &#1085;&#1077;&#1073;&#1088;&#1077;&#1078;&#1085;&#1086; &#1089; &#1082;&#1072;&#1082;&#1086;&#1102;-&#1083;&#1080;&#1073;&#1086; &#1074;&#1077;&#1097;&#1080;&#1102;, &#1085;&#1077; &#1076;&#1086;&#1087;&#1091;&#1089;&#1082;&#1072;&#1090;&#1100; &#1077;&#1081; &#1087;&#1086;&#1088;&#1090;&#1080;&#1090;&#1100;&#1089;&#1103; &#1080; &#1085;&#1077; &#1073;&#1088;&#1086;&#1089;&#1072;&#1090;&#1100; &#1077;&#1105; &#1082;&#1072;&#1082;-&#1085;&#1080;&#1073;&#1091;&#1076;&#1100;, &#1072; &#1077;&#1089;&#1083;&#1080; &#1091;&#1074;&#1080;&#1076;&#1080;&#1084; &#1095;&#1090;&#1086;-&#1083;&#1080;&#1073;&#1086; &#1073;&#1088;&#1086;&#1096;&#1077;&#1085;&#1085;&#1086;&#1077;, &#1090;&#1086; &#1085;&#1077; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086; &#1087;&#1088;&#1077;&#1085;&#1077;&#1073;&#1088;&#1077;&#1075;&#1072;&#1090;&#1100; &#1089;&#1080;&#1084;, &#1093;&#1086;&#1090;&#1103; &#1073;&#1099; &#1086;&#1085;&#1086; &#1073;&#1099;&#1083;&#1086; &#1080; &#1085;&#1080;&#1095;&#1090;&#1086;&#1078;&#1085;&#1086;, &#1085;&#1086; &#1087;&#1086;&#1076;&#1085;&#1103;&#1090;&#1100; &#1080; &#1087;&#1086;&#1083;&#1086;&#1078;&#1080;&#1090;&#1100; &#1085;&#1072; &#1089;&#1074;&#1086;&#1105; &#1084;&#1077;&#1089;&#1090;&#1086;&raquo;.<br>
+<em class="book-link">&#1087;&#1088;&#1087;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Dorofej/" target="_blank" title="&#1072;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;, &#1087;&#1088;&#1077;&#1087;&#1086;&#1076;&#1086;&#1073;&#1085;&#1099;&#1081;">&#1072;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;</a></em></p>
+<p>&laquo;&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1074;&#1086;&#1074;&#1089;&#1077; &#1085;&#1077; &#1077;&#1089;&#1090;&#1100; &#1089; &#1087;&#1077;&#1088;&#1074;&#1086;&#1081; &#1084;&#1080;&#1085;&#1091;&#1090;&#1099; &#1073;&#1099;&#1090;&#1080;&#1103; &#1076;&#1091;&#1096;&#1080; &#1085;&#1072;&#1096;&#1077;&#1081; &#1082;&#1072;&#1082;&#1086;&#1081;-&#1090;&#1086; &#1075;&#1086;&#1090;&#1086;&#1074;&#1099;&#1081;, &#1087;&#1086;&#1083;&#1085;&#1099;&#1081; &#1080; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1081; &#1079;&#1072;&#1082;&#1086;&#1085;, &#1080;&#1084;&#1077;&#1102;&#1097;&#1080;&#1081; &#1091; &#1074;&#1089;&#1077;&#1093; &#1083;&#1102;&#1076;&#1077;&#1081; &#1086;&#1076;&#1080;&#1085;&#1072;&#1082;&#1086;&#1074;&#1086;&#1077; &#1080; &#1074;&#1089;&#1077;&#1075;&#1076;&#1072; &#1088;&#1072;&#1074;&#1085;&#1086;&#1077; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1085;&#1080;&#1077;. &#1053;&#1072;&#1086;&#1073;&#1086;&#1088;&#1086;&#1090;, &#1086;&#1085;&#1072; &#1085;&#1091;&#1078;&#1076;&#1072;&#1077;&#1090;&#1089;&#1103; &#1074; &#1086;&#1073;&#1088;&#1072;&#1079;&#1086;&#1074;&#1072;&#1085;&#1080;&#1080; &#1080; &#1074;&#1086;&#1089;&#1087;&#1080;&#1090;&#1072;&#1085;&#1080;&#1080;, &#1074; &#1089;&#1074;&#1086;&#1077;&#1084; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1080; &#1085;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090;&#1089;&#1103; &#1074; &#1089;&#1074;&#1103;&#1079;&#1080; &#1089; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1077;&#1084; &#1091;&#1084;&#1072; &#1080; &#1089;&#1077;&#1088;&#1076;&#1094;&#1072; &#1080; &#1087;&#1086;&#1076;&#1074;&#1077;&#1088;&#1078;&#1077;&#1085;&#1072; &#1074;&#1089;&#1077;&#1084;&#1091; &#1090;&#1086;&#1084;&#1091;, &#1095;&#1077;&#1084;&#1091; &#1087;&#1086;&#1076;&#1074;&#1077;&#1088;&#1078;&#1077;&#1085;&#1072; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1101;&#1090;&#1080;&#1093; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1093;. &#1055;&#1088;&#1080; &#1085;&#1077;&#1076;&#1086;&#1089;&#1090;&#1072;&#1090;&#1086;&#1095;&#1085;&#1086;&#1084; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1080; &#1077;&#1077; &#1089;&#1072;&#1084;&#1086;&#1081; &#1082;&#1072;&#1082; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1075;&#1086; &#1089;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1103; &#1080;&#1083;&#1080; &#1076;&#1088;&#1091;&#1075;&#1080;&#1093; &#1089;&#1086;&#1087;&#1088;&#1080;&#1082;&#1086;&#1089;&#1085;&#1086;&#1074;&#1077;&#1085;&#1085;&#1099;&#1093; &#1089; &#1085;&#1077;&#1102; &#1076;&#1091;&#1096;&#1077;&#1074;&#1085;&#1099;&#1093; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1077;&#1081; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, &#1082;&#1086;&#1085;&#1077;&#1095;&#1085;&#1086;, &#1073;&#1091;&#1076;&#1077;&#1090; &#1086;&#1073;&#1085;&#1072;&#1088;&#1091;&#1078;&#1080;&#1074;&#1072;&#1090;&#1100;&#1089;&#1103; &#1085;&#1077;&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;.<br>
+&#1053;&#1077;&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086;&#1077; &#1086;&#1073;&#1085;&#1072;&#1088;&#1091;&#1078;&#1077;&#1085;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080; &#1084;&#1086;&#1078;&#1077;&#1090;, &#1085;&#1072;&#1087;&#1088;&#1080;&#1084;&#1077;&#1088;, &#1087;&#1088;&#1086;&#1080;&#1079;&#1086;&#1081;&#1090;&#1080; &#1086;&#1090; &#1090;&#1086;&#1075;&#1086;, &#1095;&#1090;&#1086; &#1084;&#1099; &#1076;&#1086;&#1096;&#1083;&#1080; &#1076;&#1086; &#1083;&#1086;&#1078;&#1085;&#1099;&#1093; &#1087;&#1088;&#1080;&#1085;&#1094;&#1080;&#1087;&#1086;&#1074; &#1074;&#1089;&#1083;&#1077;&#1076;&#1089;&#1090;&#1074;&#1080;&#1077; &#1076;&#1091;&#1088;&#1085;&#1086;&#1075;&#1086; &#1074;&#1086;&#1089;&#1087;&#1080;&#1090;&#1072;&#1085;&#1080;&#1103; &#1080;&#1083;&#1080; &#1078;&#1077; &#1095;&#1090;&#1077;&#1085;&#1080;&#1103; &#1085;&#1077;&#1093;&#1086;&#1088;&#1086;&#1096;&#1080;&#1093; &#1082;&#1085;&#1080;&#1075;. &#1050; &#1086;&#1089;&#1086;&#1073;&#1077;&#1085;&#1085;&#1086; &#1085;&#1077;&#1073;&#1083;&#1072;&#1075;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1085;&#1099;&#1084; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1103;&#1084; &#1076;&#1083;&#1103; &#1077;&#1077; &#1076;&#1077;&#1103;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1080; &#1085;&#1072;&#1076;&#1086;&#1073;&#1085;&#1086; &#1086;&#1090;&#1085;&#1077;&#1089;&#1090;&#1080; &#1080;&#1089;&#1087;&#1086;&#1088;&#1095;&#1077;&#1085;&#1085;&#1086;&#1077; &#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1086; &#1080;&#1083;&#1080; &#1088;&#1072;&#1079;&#1074;&#1088;&#1072;&#1097;&#1077;&#1085;&#1085;&#1086;&#1077; &#1089;&#1077;&#1088;&#1076;&#1094;&#1077; &#1080; &#1091;&#1084;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1077; &#1087;&#1086;&#1084;&#1088;&#1072;&#1095;&#1077;&#1085;&#1080;&#1077; &#1080;&#1083;&#1080; &#1085;&#1077;&#1074;&#1077;&#1078;&#1077;&#1089;&#1090;&#1074;&#1086;. &#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091;-&#1090;&#1086; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1084;&#1099;&#1089;&#1083;&#1080; &#1086; &#1079;&#1072;&#1082;&#1086;&#1085;&#1077; &#1080; &#1077;&#1075;&#1086; &#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1080; &#1082; &#1086;&#1090;&#1076;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084; &#1089;&#1083;&#1091;&#1095;&#1072;&#1103;&#1084; &#1078;&#1080;&#1079;&#1085;&#1080;, &#1087;&#1086; &#1074;&#1099;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#1102; &#1072;&#1087;. &#1055;&#1072;&#1074;&#1083;&#1072;, &#1074;&#1099;&#1089;&#1090;&#1091;&#1087;&#1072;&#1102;&#1090; &#1087;&#1077;&#1088;&#1077;&#1076; &#1089;&#1091;&#1076;&#1086;&#1084; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;, <em>&#1090;&#1086; &#1086;&#1073;&#1074;&#1080;&#1085;&#1103;&#1103;, &#1090;&#1086; &#1086;&#1087;&#1088;&#1072;&#1074;&#1076;&#1099;&#1074;&#1072;&#1103; &#1086;&#1076;&#1085;&#1072; &#1076;&#1088;&#1091;&#1075;&#1091;&#1102;</em> (<span class="bg_data_title bg_bibrefs" data-title="?title=Rom&amp;chapter=2:15&amp;type=t_verses&amp;lang=ru" title="&#1055;&#1086;&#1089;&#1083;&#1072;&#1085;&#1080;&#1077; &#1072;&#1087;&#1086;&#1089;&#1090;&#1086;&#1083;&#1072; &#1055;&#1072;&#1074;&#1083;&#1072; &#1082; &#1056;&#1080;&#1084;&#1083;&#1103;&#1085;&#1072;&#1084; &#1075;&#1083;. 2:15"><span class="bg_data_tooltip"></span><a href="http://azbyka.ru/biblia/?Rom.2:15" target="_self">&#1056;&#1080;&#1084;.2:15</a></span>). [...]<br>
+&#1042;&#1089;&#1103;&#1082;&#1080;&#1081; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082; &#1091;&#1073;&#1077;&#1078;&#1076;&#1077;&#1085;, &#1095;&#1090;&#1086; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1076;&#1086;&#1073;&#1088;&#1086;, &#1080;&#1079;&#1073;&#1077;&#1075;&#1072;&#1090;&#1100; &#1079;&#1083;&#1072; &#1080; &#1090;.&#1076;. &#1053;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;&#1072;&#1085;&#1080;&#1080; &#1101;&#1090;&#1080;&#1093; &#1074;&#1089;&#1077;&#1086;&#1073;&#1097;&#1080;&#1093; &#1087;&#1088;&#1080;&#1085;&#1094;&#1080;&#1087;&#1086;&#1074; &#1086;&#1085; &#1087;&#1091;&#1090;&#1077;&#1084; &#1091;&#1084;&#1086;&#1079;&#1072;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1103; &#1076;&#1086;&#1093;&#1086;&#1076;&#1080;&#1090; &#1076;&#1086; &#1087;&#1086;&#1079;&#1085;&#1072;&#1085;&#1080;&#1103; &#1086;&#1090;&#1076;&#1077;&#1083;&#1100;&#1085;&#1099;&#1093; &#1079;&#1072;&#1087;&#1086;&#1074;&#1077;&#1076;&#1077;&#1081; &#1080; &#1079;&#1072;&#1087;&#1088;&#1077;&#1097;&#1077;&#1085;&#1080;&#1081;. &#1053;&#1086; &#1095;&#1077;&#1084; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077; &#1086;&#1085; &#1074;&#1093;&#1086;&#1076;&#1080;&#1090; &#1074; &#1087;&#1086;&#1076;&#1088;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1080;, &#1090;&#1077;&#1084; &#1084;&#1077;&#1085;&#1077;&#1077; &#1103;&#1089;&#1085;&#1099;&#1084;&#1080; &#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1103;&#1090;&#1089;&#1103; &#1085;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1077; &#1090;&#1088;&#1077;&#1073;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1080; &#1090;&#1077;&#1084; &#1083;&#1077;&#1075;&#1095;&#1077; &#1084;&#1086;&#1078;&#1077;&#1090; &#1074;&#1082;&#1088;&#1072;&#1089;&#1090;&#1100;&#1089;&#1103; &#1079;&#1072;&#1073;&#1083;&#1091;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077; &#1074;&#1089;&#1083;&#1077;&#1076;&#1089;&#1090;&#1074;&#1080;&#1077; &#1087;&#1088;&#1077;&#1074;&#1088;&#1072;&#1090;&#1085;&#1086;&#1075;&#1086; &#1074;&#1086;&#1089;&#1087;&#1080;&#1090;&#1072;&#1085;&#1080;&#1103; &#1080;&#1083;&#1080; &#1076;&#1091;&#1088;&#1085;&#1099;&#1093; &#1085;&#1072;&#1082;&#1083;&#1086;&#1085;&#1085;&#1086;&#1089;&#1090;&#1077;&#1081;. &#1047;&#1083;&#1072;&#1103;, &#1089;&#1090;&#1088;&#1072;&#1089;&#1090;&#1085;&#1072;&#1103; &#1074;&#1086;&#1083;&#1103; &#1087;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1080;&#1090; &#1084;&#1086;&#1075;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1077; &#1074;&#1083;&#1080;&#1103;&#1085;&#1080;&#1077; &#1085;&#1072; &#1088;&#1072;&#1079;&#1091;&#1084; (&#1080; &#1085;&#1072; &#1089;&#1077;&#1088;&#1076;&#1094;&#1077;) &#1080; &#1084;&#1091;&#1090;&#1080;&#1090; &#1086;&#1095;&#1077;&#1085;&#1100; &#1095;&#1072;&#1089;&#1090;&#1086; &#1077;&#1075;&#1086; &#1089;&#1091;&#1078;&#1076;&#1077;&#1085;&#1080;&#1103;&raquo;.<br>
+<em class="book-link">&#1087;&#1088;&#1086;&#1090;&#1086;&#1080;&#1077;&#1088;&#1077;&#1081; &#1053;&#1080;&#1082;&#1086;&#1083;&#1072;&#1081; &#1057;&#1090;&#1077;&#1083;&#1083;&#1077;&#1094;&#1082;&#1080;&#1081;</em></p>
+<h2 id="literature" class="related-posts-title"><a id="ch_0_6"></a>&#1051;&#1080;&#1090;&#1077;&#1088;&#1072;&#1090;&#1091;&#1088;&#1072; &#1087;&#1086; &#1090;&#1077;&#1084;&#1077;</h2>
+<ul class="literature-list">
+<li><a data-external href="https://azbyka.ru/otechnik/prochee/sokrovishnitsa-duhovnoj-mudrosti/310">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1057;&#1086;&#1082;&#1088;&#1086;&#1074;&#1080;&#1097;&#1085;&#1080;&#1094;&#1072; &#1076;&#1091;&#1093;&#1086;&#1074;&#1085;&#1086;&#1081; &#1084;&#1091;&#1076;&#1088;&#1086;&#1089;&#1090;&#1080;</em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Spravochniki/biblejskij-slovar-gese/570">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1041;&#1080;&#1073;&#1083;&#1077;&#1081;&#1089;&#1082;&#1080;&#1081; &#1089;&#1083;&#1086;&#1074;&#1072;&#1088;&#1100;</em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Petr_Leporskij/uchenie-sv-ioanna-zlatousta-o-sovesti/">&#1059;&#1095;&#1077;&#1085;&#1080;&#1077; &#1089;&#1074;. &#1048;&#1086;&#1072;&#1085;&#1085;&#1072; &#1047;&#1083;&#1072;&#1090;&#1086;&#1091;&#1089;&#1090;&#1072; &#1086; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a> <em class="stairsQwerty1">&#1087;&#1088;&#1086;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Petr_Leporskij/" target="_blank" title="&#1055;&#1105;&#1090;&#1088; &#1051;&#1077;&#1087;&#1086;&#1088;&#1089;&#1082;&#1080;&#1080;&#774;, &#1087;&#1088;&#1086;&#1090;&#1086;&#1080;&#1077;&#1088;&#1077;&#1081;">&#1055;&#1105;&#1090;&#1088; &#1051;&#1077;&#1087;&#1086;&#1088;&#1089;&#1082;&#1080;&#1080;</a>&#774;</em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Sergij_Mechev/o-sovesti">&#1054; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a><em class="stairsQwerty1"> &#1089;&#1074;&#1084;&#1095;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Sergij_Mechev/" target="_blank" title="&#1057;&#1077;&#1088;&#1075;&#1080;&#1081; &#1052;&#1077;&#1095;&#1077;&#1074;, &#1089;&#1074;&#1103;&#1097;&#1077;&#1085;&#1085;&#1086;&#1084;&#1091;&#1095;&#1077;&#1085;&#1080;&#1082;">&#1057;&#1077;&#1088;&#1075;&#1080;&#1081; &#1052;&#1077;&#1095;&#1105;&#1074;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Markellin_Olesnickij/nravstvennoe-bogoslovie/1_2_2">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1"><a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Markellin_Olesnickij/" target="_blank" title="&#1052;&#1072;&#1088;&#1082;&#1077;&#1083;&#1083;&#1080;&#1085; &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1074;&#1080;&#1095; &#1054;&#1083;&#1077;&#1089;&#1085;&#1080;&#1094;&#1082;&#1080;&#1081;, &#1087;&#1088;&#1086;&#1092;&#1077;&#1089;&#1089;&#1086;&#1088;">&#1052;. &#1054;&#1083;&#1077;&#1089;&#1085;&#1080;&#1094;&#1082;&#1080;&#1081;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Germogen_Shimanskij/konspekt-po-nravstvennomu-bogosloviyu/3_5">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1"><a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Germogen_Shimanskij/" target="_blank" title="&#1043;&#1077;&#1088;&#1084;&#1086;&#1075;&#1077;&#1085; &#1064;&#1080;&#1084;&#1072;&#1085;&#1089;&#1082;&#1080;&#1081;">&#1043;.&#1048;. &#1064;&#1080;&#1084;&#1072;&#1085;&#1089;&#1082;&#1080;&#1081;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/tom1_asketicheskie_opyty/40">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1089;&#1074;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/" target="_blank" title="&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; (&#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;), &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; (&#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;)</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Dorofej/dushepoleznye-pouchenija-i-poslanija/1_6">&#1054; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a> <em class="stairsQwerty1">&#1087;&#1088;&#1077;&#1087;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Dorofej/" target="_blank" title="&#1072;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;, &#1087;&#1088;&#1077;&#1087;&#1086;&#1076;&#1086;&#1073;&#1085;&#1099;&#1081;">&#1072;&#1074;&#1074;&#1072; &#1044;&#1086;&#1088;&#1086;&#1092;&#1077;&#1081;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Feofan_Zatvornik/nachertanie-hristianskogo-nravouchenija/3#h418">&#1057;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1077; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a> <em class="stairsQwerty1">&#1089;&#1074;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Feofan_Zatvornik/" target="_blank" title="&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;, &#1089;&#1074;&#1103;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;">&#1060;&#1077;&#1086;&#1092;&#1072;&#1085; &#1047;&#1072;&#1090;&#1074;&#1086;&#1088;&#1085;&#1080;&#1082;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Aleksandr_Mileant/sovest-golos-bozhij-v-cheloveke/">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; – &#1075;&#1086;&#1083;&#1086;&#1089; &#1041;&#1086;&#1078;&#1080;&#1081; &#1074; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1077;</a> <em class="stairsQwerty1">&#1077;&#1087;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Aleksandr_Mileant/" target="_blank" title="&#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088; (&#1052;&#1080;&#1083;&#1077;&#1072;&#1085;&#1090;), &#1077;&#1087;&#1080;&#1089;&#1082;&#1086;&#1087;">&#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088; (&#1052;&#1080;&#1083;&#1077;&#1072;&#1085;&#1090;)</a></em></li>
+<li><a href="https://azbyka.ru/sovest-goryachev">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1087;&#1088;&#1086;&#1090;. &#1045;&#1074;&#1075;&#1077;&#1085;&#1080;&#1081; &#1043;&#1086;&#1088;&#1103;&#1095;&#1077;&#1074;</em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ignatij_Brjanchaninov/simfonija-po-tvorenijam-svjatitelja-ignatija-brjanchaninova-tereshenko/273">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1089;&#1074;&#1090;. &#1048;&#1075;&#1085;&#1072;&#1090;&#1080;&#1081; (&#1041;&#1088;&#1103;&#1085;&#1095;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;)</em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Ioann_Maslov/simfonija-po-tvorenijam-svjatitelja-tihona-zadonskogo-sokolova/313">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1089;&#1093;&#1080;&#1072;&#1088;&#1093;&#1080;&#1084;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Ioann_Maslov/" target="_blank" title="&#1048;&#1086;&#1072;&#1085;&#1085; (&#1052;&#1072;&#1089;&#1083;&#1086;&#1074;), &#1089;&#1093;&#1080;&#1072;&#1088;&#1093;&#1080;&#1084;&#1072;&#1085;&#1076;&#1088;&#1080;&#1090;">&#1048;&#1086;&#1072;&#1085;&#1085; (&#1052;&#1072;&#1089;&#1083;&#1086;&#1074;)</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Mark_Lozinskij/otechnik-propovednika/485">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1080;&#1075;&#1091;&#1084;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Mark_Lozinskij/" target="_blank" title="&#1052;&#1072;&#1088;&#1082; (&#1051;&#1086;&#1079;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081;), &#1080;&#1075;&#1091;&#1084;&#1077;&#1085;">&#1052;&#1072;&#1088;&#1082; (&#1051;&#1086;&#1079;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081;)</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Grigorij_Djachenko/uroki-i-primery-hristianskoj-lyubvi-chast-2/2_2_1">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <em class="stairsQwerty1">&#1087;&#1088;&#1086;&#1090;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Grigorij_Djachenko/" target="_blank" title="&#1043;&#1088;&#1080;&#1075;&#1086;&#1088;&#1080;&#1081; &#1044;&#1100;&#1103;&#1095;&#1077;&#1085;&#1082;&#1086;, &#1087;&#1088;&#1086;&#1090;&#1086;&#1080;&#1077;&#1088;&#1077;&#1081;">&#1043;&#1088;&#1080;&#1075;&#1086;&#1088;&#1080;&#1081; &#1044;&#1100;&#1103;&#1095;&#1077;&#1085;&#1082;&#1086;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Platon-Igumnov/pravoslavnoe-nravstvennoe-bogoslovie-igumnov/5_8">&#1058;&#1077;&#1086;&#1088;&#1080;&#1080; &#1089;&#1086;&#1074;&#1077;&#1089;&#1090;&#1080;</a> <em class="stairsQwerty1">&#1072;&#1088;&#1093;&#1080;&#1084;. <a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Platon-Igumnov/" target="_blank" title="&#1055;&#1083;&#1072;&#1090;&#1086;&#1085; (&#1048;&#1075;&#1091;&#1084;&#1085;&#1086;&#1074;), &#1072;&#1088;&#1093;&#1080;&#1084;&#1072;&#1085;&#1076;&#1088;&#1080;&#1090;">&#1055;&#1083;&#1072;&#1090;&#1086;&#1085; (&#1048;&#1075;&#1091;&#1084;&#1085;&#1086;&#1074;)</a></em></li>
+<li><a href="https://azbyka.ru/sovest-v-vethom-zavete">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100; &#1074; &#1042;&#1077;&#1090;&#1093;&#1086;&#1084; &#1047;&#1072;&#1074;&#1077;&#1090;&#1077;</a> <em class="stairsQwerty1"><a class="bg_hlnames" data-external href="https://azbyka.ru/otechnik/Aleksej_Leonov/" target="_blank" title="&#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1081; &#1052;&#1080;&#1093;&#1072;&#1081;&#1083;&#1086;&#1074;&#1080;&#1095; &#1051;&#1077;&#1086;&#1085;&#1086;&#1074;">&#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1081; &#1051;&#1077;&#1086;&#1085;&#1086;&#1074;</a></em></li>
+<li><a data-external href="https://azbyka.ru/otechnik/Nikolaj_Stelleckij/opyt-nravstvennogo-pravoslavnogo-bogoslovija-v-apologeticheskom-osveshenii/1_3">&#1057;&#1086;&#1074;&#1077;&#1089;&#1090;&#1100;</a> <span class="stairsQwerty1">&#1087;&#1088;&#1086;&#1090;. &#1053;&#1080;&#1082;&#1086;&#1083;&#1072;&#1081; &#1057;&#1090;&#1077;&#1083;&#1083;&#1077;&#1094;&#1082;&#1080;&#1081;</span></li>
+</ul>
+</body></html>
+	</div>
+
+			<section class="related-posts by-custom-field">
+			<h2 class="related-posts-title">Близкие понятия</h2>
+
+			<div class="related-posts-list">
+				<ul class="related-posts-item">
+											<li><a href="https://azbyka.ru/duxovnaya-zhizn" title="Духовная жизнь">Духовная жизнь</a> </li>
+											<li><a href="https://azbyka.ru/duhovnoe-zrenie" title="Духовное зрение">Духовное зрение</a> </li>
+											<li><a href="https://azbyka.ru/nravstvennost" title="Нравственность">Нравственность</a> </li>
+											<li><a href="https://azbyka.ru/samoosuzhdenie" title="Самоосуждение">Самоосуждение</a> </li>
+									</ul>
+			</div>
+		</section>
+				<footer class="article-footer">
+					<ul class="article-bar">
+					<li class="help-btn-wrap"><a class="help-btn" href="//azbyka.ru/kak-pomoch">Пожертвовать</a></li>
+					
+							<li class="article-footer__count"><span class="bg-az-counter" data-type="post" data-ID="7453"><i title="Всего просмотров" class="fa fa-eye"></i> <span class="bg-az-counter-views">11<span class=bg-counter-multiplier>K</span></span> <i title="Сейчас читают" class="fa fa-user-o" style="display:none"></i> <span class="bg-az-counter-now"></span></span></li>
+						
+						
+							<li class="article-bar-has-menu article-footer__tags">
+					<i class="fa fa-tags" title="Метки"></i>
+							<ul class="article-bar-submenu">
+																	<li><a href="https://azbyka.ru/dictionary/17" title="Перейти на: С">С</a></li>
+									</ul>
+						</li>
+					</ul>
+				</footer>
+				<div class="article-post-footer">
+					<div class="social-links">
+			<a rel="nofollow" href="https://azbyka.ru/telegram-kanaly" class="social-links__tg"><i class="fa fa-telegram" aria-hidden="true"></i> TG-каналы</a> 
+							<a rel="nofollow" href="https://azbyka.ru/viber-kanaly" class="social-links__vb"><i class="fa fa-viber" aria-hidden="true"></i> VB-каналы</a>
+						</div>
+				<a href="?print=1" target="_blank" class="article-single-print"><i class="fa fa-print"></i></a>
+		
+			<div class="social-share__wrap">
+				<i class="fa fa-share-alt"></i>
+				<a href="https://vk.com/share.php?url=https%3A%2F%2Fazbyka.ru%2Fsovest" title="Поделиться в ВК"><i class="fa fa-vk"></i></a>
+				<a class="m-hide" href="https://connect.ok.ru/offer?url=https%3A%2F%2Fazbyka.ru%2Fsovest" title="Поделиться в ОК"><i class="fa fa-odnoklassniki"></i></a>
+				<a href="https://t.me/share/url?text=%D0%A1%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C&url=https%3A%2F%2Fazbyka.ru%2Fsovest" title="Поделиться в Telegram"><i class="fa fa-paper-plane"></i></a>
+				<a class="m-show" href="whatsapp://send?text=https%3A%2F%2Fazbyka.ru%2Fsovest" title="Поделиться в Whatsapp"><i class="fa fa-whatsapp"></i></a>
+				<a class="m-show" href="viber://forward?text=https%3A%2F%2Fazbyka.ru%2Fsovest" title="Поделиться в Viber"><i class="fa fa-viber"></i></a>
+			</div>		</div>
+			
+</article>
+<!-- End Article -->
+
+
+
+<!-- Comment form -->
+	<section class="comments-area">
+
+	  	<h2 class="comments-send">
+				<span class="comments-send-text">Комментировать</span>
+	  	</h2>
+
+	    
+	    	
+		   	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/sovest#respond" style="display:none;">Отменить ответ</a></small></h3><form action="https://azbyka.ru/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+	    	<p class="comment-input-item comment-form-author"><input id="author" name="author" class="comment-field" type="text" placeholder="Имя*" value="" size="30">
+				</p>
+
+				<p class="comment-input-item comment-form-email">
+					<input id="email" name="email" class="comment-field" type="text" placeholder="Email адрес*" value="" size="30">
+				</p>
+
+				<p class="comment-form-comment">
+					<span class="comment-main-box"><textarea id="comment" name="comment" placeholder="Комментарий" cols="45" rows="2" aria-required="true"></textarea></span>
+				</p><p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" checked="checked"><label for="wp-comment-cookies-consent"> Запомнить</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Отправить" /> <input type='hidden' name='comment_post_ID' value='7453' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+	    
+	</section>
+
+<!-- End Comment form -->
+
+
+	<!-- Comments -->
+	<section class="comments" id="comments">
+			</section>
+	<!-- End Comments -->
+
+
+						
+							
+					
+		</section>
+		<!-- End Content -->
+	</main> 
+</div>
+<!-- End Main area -->
+
+
+		<!-- Freesoul Deactivate Plugins has disabled 5 plugins on this page. -->
+		<style type="text/css"> 
+         /* Hide reCAPTCHA V3 badge */
+        .grecaptcha-badge {
+        
+            visibility: hidden !important;
+        
+        }
+    </style>	<div  class="promo-banner-wrap">
+		<div  class="promo-banner">Каналы АВ<br>
+			TG: <a href="https://t.me/azbyka">t.me/azbyka</a><br>
+			Viber: <a href="https://vb.me/azbyka">vb.me/azbyka</a>
+			<i class="btn-close fa fa-times"></i>
+		</div>
+	</div>
+	<script>
+		const PROMO_ID = 'av-promo-tgvb-1'; //изменить при смене баннера
+		
+		jQuery($=>{
+			let ctime = new Date().getTime();
+			let pid = localStorage.getItem(PROMO_ID);
+			console.log(PROMO_ID, pid);
+			if(pid=='hide'){
+				localStorage.setItem(PROMO_ID, ctime);
+				pid=false;
+			}
+			if(!pid){ // || ctime > (pid + 14*86400000) //не показывать 14 дней
+				//let removeEvents = 'mousewheel touchstart';
+				let pbw = $('.promo-banner-wrap').show();
+				setTimeout(()=>{
+					pbw.addClass('active');
+				}, 100);
+				let removeBanner = ()=>{
+					pbw.removeClass('active');
+					localStorage.setItem(PROMO_ID,ctime);
+					//$(document).off(removeEvents, removeBanner);
+				}
+				$('.promo-banner .btn-close').click(removeBanner);
+				//$('.promo-banner a').click(removeBanner);
+				//$(document).on(removeEvents, removeBanner);
+				setTimeout(()=>pbw.removeClass('active'), 10000);
+			}
+		});
+	</script>
+		<div data-wpr-lazyrender="1" id="notification_container"></div>
+	<aside id="az_toolbox">
+				<i class="scroll-top fa fa-arrow-up" id="scroll-top" title="Вверх"></i>
+		</aside>
+	<div  class="az-sso-messages" style="position:fixed;bottom:0;left:0;z-index:200;display:none"><p class="az-content-echo">Входим...</p><p class="az-content-echo">Куки не обнаружены, не ЛК</p></div>	<div  class="settings-wrap" id="settings_wrap" style="display: none;">
+	<div  class="settings-box" id="settings-box">
+		<div  class="settings-item" data-setting="font-base-size">
+			<span class="settings-caption">Размер шрифта: </span>
+			<span class="settings-field letter-button" id="decrease_letter" title="Уменьшить шрифт">A-</span>
+			<span class="settings-field letter-size" id="size_letter" title="Размер шрифта основного текста">15</span>
+			<span class="settings-field letter-button" id="increase_letter" title="Увеличить шрифт">A+</span>
+		</div>
+
+		<div  class="settings-item theme-settings-item" data-setting="theme">
+			<span class="settings-caption">Тёмная тема:</span>
+			<span data-id="1" data-value="light" class="settings-field selectedBox" title="Светлая"><i class="fa fa-lightbulb-o"></i></span>
+			<span data-id="2" data-value="dark" class="settings-field" title="Тёмная"><i class="fa fa-moon-o"></i></span>
+			</div>
+
+		<details class="settings-colors-wrap">
+			<summary>Цвета</summary>
+
+			<div class="settings-item" data-setting="body-bg">
+				<span class="settings-caption">Цвет фона: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="text-color">
+				<span class="settings-caption">Цвет текста: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="link-color">
+				<span class="settings-caption">Цвет ссылок: </span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="accent-color">
+				<span class="settings-caption">Цвет акцентов <i class="fa fa-question-circle btn-details" title="Особо выделяемые цветом элементы"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+
+			<div class="settings-item m-hide" data-setting="side-bg">
+				<span class="settings-caption">Цвет полей <i class="fa fa-question-circle btn-details" title="Боковые области экрана"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+			
+			<div class="settings-item" data-setting="widget-bg">
+				<span class="settings-caption">Фон подложек <i class="fa fa-question-circle btn-details" title="Цвет фона окон и панелей"></i></span>
+				<span data-id="1" class="settings-field settings-color-box"></span>
+				<span data-id="3" class="settings-field settings-color-box"></span>
+				<span data-id="4" class="settings-field settings-color-box selectedBox"></span>
+				<input type="color" data-id="0" value="#999999" class="settings-field settings-color-box">
+			</div>
+
+		</details>
+
+		<div  class="settings-item font-settings-item" data-setting="title-font">
+			<span class="settings-caption">Заголовки:</span>
+			<select class="settings-field settings-field-select" data-id="0">
+				<option value="'Lucida Sans Unicode', 'Lucida Grande', sans-serif">Прямой (Lucida)</option>
+				<option value="'Times New Roman', sans">С засечками (Times)</option>
+				<option value="Georgia-my, sans">Georgia</option>
+				<option value="Courier, mono">Моноширинный</option>
+				<option value="Roboto Condensed">Сжатый</option>
+				<option value="Caveat">Рукописный</option>
+				<option value="IBM Plex Serif">IBM Plex Serif</option>
+				<option value="Vollkorn">Vollkorn</option>
+				<option value="Oranienbaum">Oranienbaum</option>
+			</select>
+		</div>
+
+		<div  class="settings-item font-settings-item" data-setting="text-font">
+			<span class="settings-caption">Текст:</span>
+			<select class="settings-field settings-field-select" data-id="0">
+				<option value="Arial, sans-serif">Прямой (Arial)</option>
+				<option value="'Times New Roman', sans">С засечками (Times)</option>
+				<option value="Georgia-my, sans">Georgia</option>
+				<option value="Courier, mono">Моноширинный</option>
+				<option value="Roboto Condensed">Сжатый</option>
+				<option value="Caveat">Рукописный</option>
+				<option value="IBM Plex Serif">IBM Plex Serif</option>
+				<option value="Vollkorn">Vollkorn</option>
+				<option value="Oranienbaum">Oranienbaum</option>
+			</select>
+		</div>
+
+		<div  class="settings-item" data-setting="text-align">
+			<span class="settings-caption">Выравнивание:</span>
+			<span data-id="1" data-value="left" class="settings-field selectedBox" title="по левому краю"><i class="fa fa-align-left"></i></span>
+			<span data-id="2" data-value="justify" class="settings-field" title="по ширине"><i class="fa fa-align-justify"></i></span>
+		</div>
+		
+		<div  class="settings-item" data-setting="pagination-autoload">
+			<span class="settings-caption">Загрузка статей:</span>
+			<span data-id="1" data-value="false" class="settings-field selectedBox" title="вручную"><i class="fa fa-hand-o-down"></i></span>
+			<span data-id="2" data-value="true" class="settings-field" title="автоматически"><i class="fa fa-refresh"></i></span>
+		</div>
+
+		<span class="settings-reset" id="settings-reset"><i class="fa fa-undo"></i> Сбросить настройки</span>
+		<span class="settings-close" id="settings-close"></span>
+	</div>
+	</div>
+	<script  defer="defer" src="https://azbyka.ru/wp-content/plugins/Bg-Az-Counter-GitHub/js/reconnecting-websocket.min.js" id="bg_counter_websocket-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/js/comment-likes.js?ver=1735653130" id="bg_counter_comment_likes-js"></script>
+<script type="text/javascript" id="bg_counter_proc-js-extra">
+/* <![CDATA[ */
+var bg_counter = {"counterurl":"https:\/\/stat.azbyka.ru\/counters","rateurl":"https:\/\/stat.azbyka.ru\/rate","scoreurl":"https:\/\/stat.azbyka.ru\/item-score","batch":"https:\/\/stat.azbyka.ru\/batch-query","batch_rating":"https:\/\/stat.azbyka.ru\/batch-rating","websocket":"wss:\/\/stat.azbyka.ru\/realtime-view","updatesocket":"wss:\/\/stat.azbyka.ru\/updates","updatetime":"3000","maxreconnect":"5","project":"\/project\/main","type":"post","ID":"7453","countviews":"on","votes5":"\u0433\u043e\u043b\u043e\u0441\u043e\u0432","votes2":"\u0433\u043e\u043b\u043ec\u0430","vote1":"\u0433\u043e\u043b\u043e\u0441","voted":"\u0423\u0436\u0435 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043b\u0438","price":["\u0445\u0443\u0434\u043e","\u0441\u043b\u0430\u0431\u043e","\u0441\u043d\u043e\u0441\u043d\u043e","\u0434\u043e\u0441\u0442\u043e\u0439\u043d\u043e","\u0447\u0443\u0434\u0435\u0441\u043d\u043e"],"debug":""};
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/js/counter.js?ver=1735653130" id="bg_counter_proc-js"></script>
+<script type="text/javascript" id="myBooks-js-extra">
+/* <![CDATA[ */
+var myBooks = {"ajaxurl":"https:\/\/azbyka.ru\/wp-admin\/admin-ajax.php","nonce":"b9229dbf81","siteurl":"https:\/\/azbyka.ru","pageurl":"\/sovest","template":"https:\/\/azbyka.ru\/wp-content\/plugins\/Bg-Personal\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="retypos_proc-js-extra">
+/* <![CDATA[ */
+var retypos = {"contextmenu":"1","container":"article.article","correctTypo":"https:\/\/azbyka.ru\/wp-content\/plugins\/Bg-ReTypos\/correctTypo.php"};
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-ReTypos/js/retypos.js?ver=1735653130" id="retypos_proc-js"></script>
+<script type="text/javascript" id="bg_bibrefs_proc-js-extra">
+/* <![CDATA[ */
+var bg_bibrefs = {"ajaxurl":"https:\/\/azbyka.ru\/wp-admin\/admin-ajax.php","content":"#content","preq":"0"};
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-biblie-references/js/bg_bibrefs.js?ver=1735653130" id="bg_bibrefs_proc-js"></script>
+<script  id="bg_bpub_js-js-before">
+/* <![CDATA[ */
+const bg_bpub = {"url":"https:\/\/azbyka.ru\/sovest"}
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-book-publisher/js/bg_bpub.js?ver=1735653130" id="bg_bpub_js-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bz_inline_audio/inline-audio.js?ver=1735653130" id="inline-audio-js"></script>
+<script type="text/javascript" id="az-settings-js-extra">
+/* <![CDATA[ */
+var azbyka = {"root_url":"https:\/\/azbyka.ru","project":null,"darktheme":"https:\/\/azbyka.ru\/wp-content\/themes\/azbyka\/settings\/js\/darktheme.css?ver=1.53.2.2","yellowtheme":"https:\/\/azbyka.ru\/wp-content\/themes\/azbyka\/settings\/js\/yellowtheme.css?ver=1.53.2.2","is_home":""};
+/* ]]> */
+</script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/settings/js/az-settings.js?ver=1735653130" id="az-settings-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka-av/assets/js/core.js?ver=1735653130" id="azbyka-dl-core-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/speech.js?ver=1735653130" id="speech-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/social.js?ver=1735653130" id="azbyka-social-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/main.js?ver=1735653130" id="azbyka-main-js"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/tooltip.js?ver=1735653130" id="az-tooltip-js"></script>
+<script  defer="defer" src="https://azbyka.ru/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script data-minify="1"  defer="defer" src="https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/js/ajax-comments.js?ver=1735653130" id="ajax-comments-js"></script>
+<script  defer="defer" src="https://azbyka.ru/wp-content/plugins/wp-rocket/assets/js/heartbeat.js" id="heartbeat-js"></script>
+<noscript id="bz_custom_code" data-load="scroll" data-delay="6000">if(!window.bz_custom_code_loaded){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WMXMJHJ');}
+			window.bz_custom_code_loaded = true;</noscript><noscript data-load="defer"><link data-minify="1" rel='stylesheet' id='bg_counter_styles-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-Az-Counter-GitHub/css/styles.css?ver=1735653130' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='retypos_styles-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/Bg-ReTypos/css/styles.css?ver=1735653130' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='bg_ortev_css-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/plugins/bg-orthodox-events/css/styles.css?ver=1735653130' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/assets/font-awesome/css/font-awesome.min.css?ver=1735653130' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='youtube-optimizer-css' href='https://azbyka.ru/wp-content/cache/min/1/wp-content/themes/azbyka/inc/youtube-optimizer/youtube.optimizer.css?ver=1735653130' type='text/css' media='all' />
+</noscript><script>window.bz_opt_deferred_scripts = {"myBooks":"https://azbyka.ru/wp-content/plugins/Bg-Personal//js/myBooks.js","top-menu":"https://azbyka.ru/wp-content/themes/azbyka/assets/js/top-menu.js",};</script>		
+		<script>
+		let doc = document;
+		let addScript = (src, attrs, append = true)=>{
+			console.log('addScript -> ', src, attrs);
+			el = doc.createElement("script");
+			el.src = src;
+			for(at in attrs)
+				el.setAttribute(at, attrs[at]);
+			
+			if(append)
+				doc.body.append(el);
+			
+			return el;
+		};
+		let addScriptNode = (n)=>{
+			console.log('addScriptNode -> ', n);
+			let src = n.getAttribute('data-src');
+			let el = doc.createElement("script");
+			if(src)
+				el.src = src;
+			else{
+				let s = doc.createTextNode(n.textContent);
+				el.appendChild(s);
+			}
+			
+			if(n && n.parentNode)
+				n.parentNode.insertBefore(el,n);
+			else
+				doc.body.append(el);
+			
+			if(!src && n){
+				n.remove();
+			}
+		}
+		let addStyleNode = (el, par)=>{
+			let val = el.textContent;
+			console.log('deferred -> ', val);
+			//if(el.parentNode)
+				//el.parentNode.removeChild(el);
+			par.innerHTML += val;
+		}
+		
+		let nNode = doc.createElement('div');
+			nNode.classList.add('bz-defer-loaded');
+		
+		let deferredLoaded = false;
+		let loadDeferredStyles = function() {
+			if(deferredLoaded)
+				return;
+			
+			deferredLoaded = true;
+			
+			let nds = doc.querySelectorAll("noscript[data-load='defer']");
+			nds.forEach(
+			(el)=>{
+				let func = (el.getAttribute('data-type') === 'script') ? addScriptNode : addStyleNode;
+				let timer = el.getAttribute('data-delay');
+				if(timer)
+					setTimeout(func, timer, el, nNode)
+				else
+					func(el, nNode);
+			});
+			doc.body.append(nNode);
+			
+			//deferred scripts SRC
+			if(window.bz_opt_deferred_scripts){
+				console.log('deferred scripts: ', window.bz_opt_deferred_scripts);
+				for(id in bz_opt_deferred_scripts){
+					addScript(bz_opt_deferred_scripts[id], {id, 'defer':'defer'});
+				}
+			}
+			
+			//custom code
+			ccode = doc.getElementById('bz_custom_code');
+			if(ccode){
+				let timer = ccode.getAttribute('data-delay') || 0;
+				setTimeout(addScriptNode, timer, ccode);
+			}
+		};
+		
+		let goNext = (f)=>{
+			if(typeof window.requestAnimationFrame !== undefined)
+				requestAnimationFrame(f);
+			else
+				setTimeout(f, 10); 
+		}
+		
+		window.addEventListener('load', function() {
+			goNext(loadDeferredStyles);
+		});
+		
+		//on scroll/click/touch
+		let addScrollNodes = () => {
+			console.log('on scroll load -> ');
+			let sn = doc.querySelectorAll("noscript[data-load='scroll']");
+			sn.forEach((el)=>{
+				console.log(el.id);
+				addScriptNode(el);
+			});
+		}
+		
+		let bz_first_scroll = true;
+		let on_fst_scroll = (e) => {
+			if (bz_first_scroll) {
+				if(e && e.screenX === 0 && e.screenY === 0) return;
+				console.log('first interaction ',e);
+				bz_first_scroll = false;
+				goNext(addScrollNodes);
+				//window.removeEventListener('scroll', on_fst_scroll);
+				doc.removeEventListener('mousemove', on_fst_scroll);
+				doc.removeEventListener('touchstart', on_fst_scroll);
+				doc.dispatchEvent(new Event('firstInteraction'));
+			}
+		};
+		//window.addEventListener('scroll', on_fst_scroll);
+		doc.addEventListener('mousemove', on_fst_scroll);
+		doc.addEventListener('touchstart', on_fst_scroll);
+		
+		window.BZOPT = {addScript};
+		</script>
+	    <script type="text/javascript">
+        jQuery( function( $ ) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="CIYzNE" value="8dfh]l3IAPw" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="-lXOTU" value="RHybGmNgILntc_" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="CIYzNE" value="8dfh]l3IAPw" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="-lXOTU" value="RHybGmNgILntc_" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("CIYzNE", "8dfh]l3IAPw");
+data.data.append("-lXOTU", "RHybGmNgILntc_");
+                    }
+                    else {
+                        data.data = data.data + '&CIYzNE=8dfh]l3IAPw&-lXOTU=RHybGmNgILntc_';
+                    }
+                }
+            });
+
+        });
+    </script>
+	<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://azbyka.ru/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

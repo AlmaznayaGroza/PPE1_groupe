@@ -1,11 +1,76 @@
+# TODO
+## lien 8 sov (aspiré)
+## codes d'erreurs
+## dumps avec 0 occurrence du mot
+
 #!/bin/bash
 
 FICHIER=$1
 OUTPUT=$2
 LANGUE=$3
+FICHIER1=$4
+FICHIER2=$5
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
-VARIANTES_FILE="$SCRIPT_DIR/variantes.txt"
 
+# Traitement de des arguments 4 et 5 (mot de recherche ou fichier de variantes)
+# Validation des deux arguments pour les fichiers ou les mots
+if [[ -f "$FICHIER1" && -f "$FICHIER2" ]]; then
+    VARIANTES_FILE1="$FICHIER1"
+    VARIANTES_FILE2="$FICHIER2"
+    MOT1=""
+    MOT2=""
+    echo "Fichiers détectés : $FICHIER1 et $FICHIER2"
+elif [[ -z "$FICHIER1" || -z "$FICHIER2" ]]; then
+    echo "Veuillez entrer le premier mot pour la recherche :"
+    read MOT1
+    echo "Premier mot : $MOT1"
+    MOT1=$(echo "$MOT1" | tr '[:upper:]' '[:lower:]')
+    echo "Premier mot après conversion : $MOT1"
+    echo "Veuillez entrer le deuxième mot pour la recherche :"
+    read MOT2
+    echo "Deuxième mot : $MOT2"
+    MOT2=$(echo "$MOT2" | tr '[:upper:]' '[:lower:]')
+    echo "Deuxième mot après conversion : $MOT2"
+    VARIANTES_FILE1=""
+    VARIANTES_FILE2=""
+else
+    echo "Erreur : Veuillez fournir deux fichiers ou deux mots valides." >&2
+    exit 1
+fi
+
+# Confirmation des valeurs des arguments
+echo "MOT1 : $MOT1"
+echo "MOT2 : $MOT2"
+echo "VARIANTES_FILE1 : $VARIANTES_FILE1"
+echo "VARIANTES_FILE2 : $VARIANTES_FILE2"
+
+# Demander à l'utilisateur d'entrer les intitulés des colonnes
+echo "Veuillez entrer l'intitulé de la colonne pour mot1/fichier1 :"
+read HEADER1
+echo "Veuillez entrer l'intitulé de la colonne pour mot2/fichier2 :"
+read HEADER2
+
+# Si aucun intitulé n'est fourni, utiliser des valeurs par défaut
+HEADER1=${HEADER1:-"Mot 1"}
+HEADER2=${HEADER2:-"Mot 2"}
+
+# Supprimer tous les fichiers dans le dossier ./aspirations/
+if [[ -d "./aspirations" ]]; then
+    rm -rf ./aspirations/*
+    echo "Tous les fichiers dans ./aspirations/ ont été supprimés."
+fi
+
+# Supprimer tous les fichiers dans le dossier ./dumps-text/
+if [[ -d "./dumps-text" ]]; then
+    rm -rf ./dumps-text/*
+    echo "Tous les fichiers dans ./dumps-text/ ont été supprimés."
+fi
+
+# Supprimer tous les fichiers dans le dossier ./tableaux/
+if [[ -d "./tableaux" ]]; then
+    rm -rf ./tableaux/*
+    echo "Tous les fichiers dans ./tableaux/ ont été supprimés."
+fi
 
 # Vérification des arguments
 if [[ ! -f "$FICHIER" ]]; then
@@ -13,8 +78,8 @@ if [[ ! -f "$FICHIER" ]]; then
     exit 1
 fi
 
-if [[ ! -f "$VARIANTES_FILE" ]]; then
-    echo "Erreur : le fichier 'variantes.txt' est introuvable dans $SCRIPT_DIR." >&2
+if [[ -n "$VARIANTES_FILE" && ! -f "$VARIANTES_FILE" ]]; then
+    echo "Erreur : le fichier de variantes spécifié '$VARIANTES_FILE' est introuvable." >&2
     exit 1
 fi
 
@@ -53,7 +118,8 @@ echo "<!DOCTYPE html>
                             <th>Nombre de mots</th>
                             <th>Aspiration</th>
                             <th>Dump</th>
-                            <th>Compte</th>
+                            <th>${HEADER1}</th>
+                            <th>${HEADER2}</th>
                         </tr>
                     </thead>
                     <tbody>"
@@ -116,13 +182,43 @@ while read -r URL; do
                 # Sauvegarder le dump text avec pandoc
                 pandoc -f html -t plain ./aspirations/$LANGUE-$lineno.html -o ./dumps-text/$LANGUE-$lineno.txt >/dev/null 2>&1
                 # Compter les occurrences du mot étudié dans le fichier dump
-                compte=$(grep -o -i -f "$VARIANTES_FILE" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                # if [[ -n "$VARIANTES_FILE1" ]]; then
+                #     compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                # else
+                #     compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                # fi
+
+                # if [[ -n "$VARIANTES_FILE2" ]]; then
+                #     compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                # else
+                #     compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                # fi
+                if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
+                    if [[ -n "$VARIANTES_FILE1" ]]; then
+                        compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    else
+                        compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    fi
+
+                    if [[ -n "$VARIANTES_FILE2" ]]; then
+                        compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    else
+                        compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    fi
+                else
+                    compte1="/"
+                    compte2="/"
+                    echo "Le fichier dump pour $URL est vide. Aucun comptage effectué."
+                fi
+
             else
                 # Si l'encodage n'est pas UTF-8, remplacer les valeurs dans le tableau et supprimer les fichiers
                 nb_mots=""
                 compte=""
                 aspiration=""
                 dumplink=""
+                compte1=""
+                compte2=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             fi
             # Si le nombre de mots dans le fichier dump est inférieur à 10, supprimer les fichiers et réinitialiser les valeurs à vide
@@ -132,7 +228,8 @@ while read -r URL; do
                 encodage=""
                 aspiration=""
                 dumplink=""
-                compte=""
+                compte1=""
+                compte2=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             # Sinon, afficher les liens vers le fichier aspiré et le dump text
             else
@@ -150,7 +247,8 @@ while read -r URL; do
             nb_mots=""
             aspiration=""
             dumplink=""
-            compte=""
+            compte1=""
+            compte2=""
         fi
     # Sinon, si le code HTTP est différent de 200, afficher un message d'erreur et initialiser les valeurs à vide
     else
@@ -159,15 +257,17 @@ while read -r URL; do
         encodage=""
         aspiration=""
         dumplink=""
-        compte=""
+        compte1=""
+        compte2=""
     fi
 
     # Préparer les valeurs d'affichage
     encodage_display="${encodage:-/}"
     nb_mots_display="${nb_mots:-/}"
-    compte_display="${compte:-/}"
     aspiration_display="${aspiration:-/}"
     dumplink_display="${dumplink:-/}"
+    header1_display="${compte1:-/}"
+    header2_display="${compte2:-/}"
 
     echo "<tr>
         <td>$lineno</td>
@@ -177,7 +277,8 @@ while read -r URL; do
         <td>$nb_mots_display</td>
         <td>$aspiration_display</td>
         <td>$dumplink_display</td>
-        <td>$compte_display</td>
+        <td>$header1_display</td>
+        <td>$header2_display</td>
     </tr>"
 
     ((lineno++))
@@ -191,3 +292,5 @@ echo "				</tbody>
 </body>
 </html>"
 } > "$OUTPUT"
+
+echo "Toutes les URLs ont été analysées avec succès. Le tableau HTML a été généré dans le fichier '$OUTPUT'."
