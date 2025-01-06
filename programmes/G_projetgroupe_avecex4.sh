@@ -256,8 +256,8 @@ while read -r URL; do
             else
                 aspiration="<a href='../aspirations/$LANGUE-$lineno.html'>aspiration</a>"
                 dumplink="<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>"
-                contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt>contexte</a>"
-                contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt>contexte</a>"
+                contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contexte</a>"
+                contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contexte</a>"
             fi
             # Si le fichier a été converti, ajouter "(UTF-8)" dans la colonne dump
             if [[ -n "$converted_flag" && -f "./dumps-text/$LANGUE-$lineno.txt" ]]; then
@@ -272,6 +272,8 @@ while read -r URL; do
             dumplink=""
             compte1=""
             compte2=""
+            contexte1_link=""
+            contexte2_link=""
         fi
     # Sinon, si le code HTTP est différent de 200, afficher un message d'erreur et initialiser les valeurs à vide
     else
@@ -282,6 +284,11 @@ while read -r URL; do
         dumplink=""
         compte1=""
         compte2=""
+        contexte1=""
+        contexte2=""
+        contexte1_link=""
+        contexte2_link=""
+
     fi
 
     # Préparer les valeurs d'affichage
