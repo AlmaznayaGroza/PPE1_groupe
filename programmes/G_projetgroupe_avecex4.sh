@@ -49,10 +49,16 @@ echo "Veuillez entrer l'intitulé de la colonne pour mot1/fichier1 :"
 read HEADER1
 echo "Veuillez entrer l'intitulé de la colonne pour mot2/fichier2 :"
 read HEADER2
+echo "Veuillez entrer l'intitulé de la colonne pour mot1/fichier1 :"
+read HEADER3
+echo "Veuillez entrer l'intitulé de la colonne pour mot2/fichier2 :"
+read HEADER4
 
 # Si aucun intitulé n'est fourni, utiliser des valeurs par défaut
-HEADER1=${HEADER1:-"Mot 1"}
-HEADER2=${HEADER2:-"Mot 2"}
+HEADER1=${HEADER1:-"Occurences du mot 1"}
+HEADER2=${HEADER2:-"Occurences du mot 2"}
+HEADER3=${HEADER3:-"Contextes du mot 1"}
+HEADER4=${HEADER4:-"Contextes du mot 2"}
 
 # Supprimer tous les fichiers dans le dossier ./aspirations/
 if [[ -d "./aspirations" ]]; then
@@ -120,6 +126,8 @@ echo "<!DOCTYPE html>
                             <th>Dump</th>
                             <th>${HEADER1}</th>
                             <th>${HEADER2}</th>
+                            <th>${HEADER3}</th>
+                            <th>${HEADER4}</th>
                         </tr>
                     </thead>
                     <tbody>"
@@ -196,18 +204,27 @@ while read -r URL; do
                 if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
                     if [[ -n "$VARIANTES_FILE1" ]]; then
                         compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        contexte1=$(grep -i -A 2 -B 2 "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot1-$lineno.txt)
+
                     else
                         compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        contexte1=$(grep -i -A 2 -B 2 "$MOT1" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot1-$lineno.txt)
+
                     fi
 
                     if [[ -n "$VARIANTES_FILE2" ]]; then
                         compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        contexte2=$(grep -i -A 2 -B 2 "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot2-$lineno.txt)
+
                     else
                         compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        contexte2=$(grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot2-$lineno.txt)
                     fi
                 else
                     compte1="/"
                     compte2="/"
+                    contexte1_link="/"
+                    contexte2_link="/"
                     echo "Le fichier dump pour $URL est vide. Aucun comptage effectué."
                 fi
 
@@ -219,6 +236,8 @@ while read -r URL; do
                 dumplink=""
                 compte1=""
                 compte2=""
+                contexte1_link=""
+                contexte2_link=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             fi
             # Si le nombre de mots dans le fichier dump est inférieur à 10, supprimer les fichiers et réinitialiser les valeurs à vide
@@ -230,11 +249,15 @@ while read -r URL; do
                 dumplink=""
                 compte1=""
                 compte2=""
+                contexte1_link=""
+                contexte2_link=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             # Sinon, afficher les liens vers le fichier aspiré et le dump text
             else
                 aspiration="<a href='../aspirations/$LANGUE-$lineno.html'>aspiration</a>"
                 dumplink="<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>"
+                contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt>contexte</a>"
+                contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt>contexte</a>"
             fi
             # Si le fichier a été converti, ajouter "(UTF-8)" dans la colonne dump
             if [[ -n "$converted_flag" && -f "./dumps-text/$LANGUE-$lineno.txt" ]]; then
@@ -268,6 +291,9 @@ while read -r URL; do
     dumplink_display="${dumplink:-/}"
     header1_display="${compte1:-/}"
     header2_display="${compte2:-/}"
+    header3_display="${contexte1_link:-/}"
+    header4_display="${contexte2_link:-/}"
+
 
     echo "<tr>
         <td>$lineno</td>
@@ -279,6 +305,8 @@ while read -r URL; do
         <td>$dumplink_display</td>
         <td>$header1_display</td>
         <td>$header2_display</td>
+        <td>$header3_display</td>
+        <td>$header4_display</td>
     </tr>"
 
     ((lineno++))
