@@ -28,6 +28,9 @@ Problèmes avec:
 
 J'ai ajouté un script à part pour récupérer les contextes pour chaque occurence (2 lignes avant et après) et cela pour les 2 acceptions de mon mot. J'ai modifié le script principal pour qu'il appelle ce script et ainsi pouvoir récupérer les contextes pour chaque fichier et en ajouter le lien vers le fichier txt correspondant dans le tableau. J'ai donc ajouté aussi le dossier contextes.
 
+## (Maïwenn) 05/01 - Travail sur le script pour PALS
+
+J'ai commencé à rédiger le script make_pals_corpus pour modifier les fichiers dump-text afin de les rendre lisible par le script PALS.
 
 ## (Géraldine) 06/01 - Modification de script
 
@@ -36,6 +39,9 @@ J'ai ajouté un script à part pour récupérer les contextes pour chaque occure
 3.⁠ ⁠Comme je travaille sur le russe, qui est une langue à déclinaisons, j'ai choisi, pour l'ex. 4 sur les occurrences, de lire les occurrences des mots à partir du fichier variantes.txt, afin que toutes les déclinaisons soient prises en compte. Finalement, après discussion avec mes camarades, nous avons opté pour une méthode hybride: l'utilisateur peut soit rentrer un mot à chercher puis l'autre, soit passer en argument 2 fichiers textes variantes (1 pour chaque mot, avec toutes les déclinaisons du mot dans mon cas). Le script ajoute au tableau une colonne pour chaque mot, avec le nombre de ses occurrences, variantes incluses.
 4.⁠ ⁠J'ai aussi ajouté, au début du script, le nettoyage de certains répertoires automatiquement, pour ne plus avoir à le faire à la main avant chaque test du code.
 
+## (Maïwenn) 06/01 - Fusion du script contextes avec le script principal
+
+J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les contextes au script principal afin de tout centraliser dans un seul script. J'ai commencé à réfléchir pour le concordancier, mais j'ai du mal à voir comment récupérer le contexte gauche et droit pour les mettre dans un tableau avec sed.
 
 ## (Géraldine) 07/01 - Amélioration script
 
