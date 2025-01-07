@@ -12,30 +12,37 @@ FICHIER1=$4
 FICHIER2=$5
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 
-# Traitement de des arguments 4 et 5 (mot de recherche ou fichier de variantes)
-# Validation des deux arguments pour les fichiers ou les mots
+# Traitement des arguments 4 et 5 (fichier de variantes)
+# Si pas d'arguments 4 et 5, demander à l'utilisateur de saisir les mots
 if [[ -f "$FICHIER1" && -f "$FICHIER2" ]]; then
     VARIANTES_FILE1="$FICHIER1"
     VARIANTES_FILE2="$FICHIER2"
     MOT1=""
     MOT2=""
     echo "Fichiers détectés : $FICHIER1 et $FICHIER2"
-elif [[ -z "$FICHIER1" || -z "$FICHIER2" ]]; then
-    echo "Veuillez entrer le premier mot pour la recherche :"
-    read MOT1
-    echo "Premier mot : $MOT1"
-    MOT1=$(echo "$MOT1" | tr '[:upper:]' '[:lower:]')
+else
+    while [[ -z "$MOT1" ]]; do
+        echo "Veuillez entrer le premier mot pour la recherche :"
+        read MOT1
+        MOT1=$(echo "$MOT1" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
+        if [[ -z "$MOT1" ]]; then
+            echo "Erreur : veuillez entrer un mot 1."
+        fi
+    done
     echo "Premier mot après conversion : $MOT1"
-    echo "Veuillez entrer le deuxième mot pour la recherche :"
-    read MOT2
-    echo "Deuxième mot : $MOT2"
-    MOT2=$(echo "$MOT2" | tr '[:upper:]' '[:lower:]')
+
+    while [[ -z "$MOT2" ]]; do
+        echo "Veuillez entrer le deuxième mot pour la recherche :"
+        read MOT2
+        MOT2=$(echo "$MOT2" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
+        if [[ -z "$MOT2" ]]; then
+            echo "Erreur : le mot ne peut pas être vide. Veuillez réessayer."
+        fi
+    done
     echo "Deuxième mot après conversion : $MOT2"
+
     VARIANTES_FILE1=""
     VARIANTES_FILE2=""
-else
-    echo "Erreur : Veuillez fournir deux fichiers ou deux mots valides." >&2
-    exit 1
 fi
 
 # Confirmation des valeurs des arguments
@@ -45,20 +52,21 @@ echo "VARIANTES_FILE1 : $VARIANTES_FILE1"
 echo "VARIANTES_FILE2 : $VARIANTES_FILE2"
 
 # Demander à l'utilisateur d'entrer les intitulés des colonnes
-echo "Veuillez entrer l'intitulé de la colonne pour mot1/fichier1 :"
-read HEADER1
-echo "Veuillez entrer l'intitulé de la colonne pour mot2/fichier2 :"
-read HEADER2
-echo "Veuillez entrer l'intitulé de la colonne pour mot1/fichier1 :"
-read HEADER3
-echo "Veuillez entrer l'intitulé de la colonne pour mot2/fichier2 :"
-read HEADER4
+while [[ -z "$HEADER1" ]]; do
+    echo "Veuillez entrer l'intitulé des colonnes pour mot1/fichier1 :"
+    read HEADER1
+    if [[ -z "$HEADER1" ]]; then
+        echo "Erreur : l'intitulé ne peut pas être vide. Veuillez réessayer."
+    fi
+done
 
-# Si aucun intitulé n'est fourni, utiliser des valeurs par défaut
-HEADER1=${HEADER1:-"Occurences du mot 1"}
-HEADER2=${HEADER2:-"Occurences du mot 2"}
-HEADER3=${HEADER3:-"Contextes du mot 1"}
-HEADER4=${HEADER4:-"Contextes du mot 2"}
+while [[ -z "$HEADER2" ]]; do
+    echo "Veuillez entrer l'intitulé des colonnes pour mot2/fichier2 :"
+    read HEADER2
+    if [[ -z "$HEADER2" ]]; then
+        echo "Erreur : l'intitulé ne peut pas être vide. Veuillez réessayer."
+    fi
+done
 
 # Supprimer tous les fichiers dans le dossier ./aspirations/
 if [[ -d "./aspirations" ]]; then
@@ -78,14 +86,25 @@ if [[ -d "./tableaux" ]]; then
     echo "Tous les fichiers dans ./tableaux/ ont été supprimés."
 fi
 
+# Supprimer tous les fichiers dans le dossier ./contextes/
+if [[ -d "./contextes" ]]; then
+    rm -rf ./contextes/*
+    echo "Tous les fichiers dans ./contextes/ ont été supprimés."
+fi
+
 # Vérification des arguments
 if [[ ! -f "$FICHIER" ]]; then
     echo "Erreur: fichier d'entrée '$FICHIER' introuvable."
     exit 1
 fi
 
-if [[ -n "$VARIANTES_FILE" && ! -f "$VARIANTES_FILE" ]]; then
-    echo "Erreur : le fichier de variantes spécifié '$VARIANTES_FILE' est introuvable." >&2
+if [[ -n "$VARIANTES_FILE1" && ! -f "$VARIANTES_FILE1" ]]; then
+    echo "Erreur : le fichier de variantes spécifié '$VARIANTES_FILE1' est introuvable." >&2
+    exit 1
+fi
+
+if [[ -n "$VARIANTES_FILE2" && ! -f "$VARIANTES_FILE2" ]]; then
+    echo "Erreur : le fichier de variantes spécifié '$VARIANTES_FILE2' est introuvable." >&2
     exit 1
 fi
 
@@ -124,10 +143,10 @@ echo "<!DOCTYPE html>
                             <th>Nombre de mots</th>
                             <th>Aspiration</th>
                             <th>Dump</th>
-                            <th>${HEADER1}</th>
-                            <th>${HEADER2}</th>
-                            <th>${HEADER3}</th>
-                            <th>${HEADER4}</th>
+                            <th>Occurrences du mot ${HEADER1}</th>
+                            <th>Occurrences du mot ${HEADER2}</th>
+                            <th>Contextes du mot ${HEADER1}</th>
+                            <th>Contextes du mot ${HEADER2}</th>
                         </tr>
                     </thead>
                     <tbody>"
@@ -139,7 +158,7 @@ lineno=1
 while read -r URL; do
     # Nettoyage de l'URL : supprimer les caractères de retour chariot et les espaces inutiles de l'URL (si présents)
     URL=$(echo "$URL" | tr -d '\r' | xargs)
-    echo "Analyse de l'URL $URL" >&2
+    echo "Analyse de l'URL n°$lineno : $URL" >&2
 
     # Récupérer le code HTTP et le type de contenu sans aspirer directement
     reponse=$(curl --connect-timeout 5 -s -L -w "%{content_type}\t%{http_code}" -o /dev/null "$URL")
@@ -189,45 +208,47 @@ while read -r URL; do
                 nb_mots=$(pandoc -f html -t plain ./aspirations/$LANGUE-$lineno.html 2>/dev/null | wc -w)
                 # Sauvegarder le dump text avec pandoc
                 pandoc -f html -t plain ./aspirations/$LANGUE-$lineno.html -o ./dumps-text/$LANGUE-$lineno.txt >/dev/null 2>&1
-                # Compter les occurrences du mot étudié dans le fichier dump
-                # if [[ -n "$VARIANTES_FILE1" ]]; then
-                #     compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                # else
-                #     compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                # fi
-
-                # if [[ -n "$VARIANTES_FILE2" ]]; then
-                #     compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                # else
-                #     compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                # fi
+                # Compter les occurrences et récupère le contexte du mot étudié dans le fichier dump
                 if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
-                    if [[ -n "$VARIANTES_FILE1" ]]; then
-                        compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        contexte1=$(grep -i -A 2 -B 2 "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot1-$lineno.txt)
+                    if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
+                        # Comptage des occurrences
+                        if [[ -n "$VARIANTES_FILE1" ]]; then
+                            compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        else
+                            compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        fi
+
+                        if [[ -n "$VARIANTES_FILE2" ]]; then
+                            compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        else
+                            compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                        fi
+
+                        # Extraction des contextes
+                        if [[ -n "$VARIANTES_FILE1" ]]; then
+                            grep -i -A 2 -B 2 -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
+                        else
+                            grep -i -A 2 -B 2 "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
+                        fi
+
+                        if [[ -n "$VARIANTES_FILE2" ]]; then
+                            grep -i -A 2 -B 2 -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
+                        else
+                            grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
+                        fi
+
+                        # Liens vers les fichiers de contexte
+                        contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
+                        contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
 
                     else
-                        compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        contexte1=$(grep -i -A 2 -B 2 "$MOT1" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot1-$lineno.txt)
-
+                        compte1=""
+                        compte2=""
+                        contexte1_link=""
+                        contexte2_link=""
+                        echo "Le fichier dump pour $URL est vide. Aucun comptage ni contexte extrait."
                     fi
-
-                    if [[ -n "$VARIANTES_FILE2" ]]; then
-                        compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        contexte2=$(grep -i -A 2 -B 2 "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot2-$lineno.txt)
-
-                    else
-                        compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        contexte2=$(grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt > ./contextes/$LANGUE-mot2-$lineno.txt)
-                    fi
-                else
-                    compte1="/"
-                    compte2="/"
-                    contexte1_link="/"
-                    contexte2_link="/"
-                    echo "Le fichier dump pour $URL est vide. Aucun comptage effectué."
                 fi
-
             else
                 # Si l'encodage n'est pas UTF-8, remplacer les valeurs dans le tableau et supprimer les fichiers
                 nb_mots=""
@@ -256,8 +277,8 @@ while read -r URL; do
             else
                 aspiration="<a href='../aspirations/$LANGUE-$lineno.html'>aspiration</a>"
                 dumplink="<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>"
-                contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contexte</a>"
-                contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contexte</a>"
+                contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
+                contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
             fi
             # Si le fichier a été converti, ajouter "(UTF-8)" dans la colonne dump
             if [[ -n "$converted_flag" && -f "./dumps-text/$LANGUE-$lineno.txt" ]]; then
@@ -284,11 +305,8 @@ while read -r URL; do
         dumplink=""
         compte1=""
         compte2=""
-        contexte1=""
-        contexte2=""
         contexte1_link=""
         contexte2_link=""
-
     fi
 
     # Préparer les valeurs d'affichage
@@ -300,7 +318,6 @@ while read -r URL; do
     header2_display="${compte2:-/}"
     header3_display="${contexte1_link:-/}"
     header4_display="${contexte2_link:-/}"
-
 
     echo "<tr>
         <td>$lineno</td>

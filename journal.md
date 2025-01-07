@@ -35,3 +35,12 @@ J'ai ajouté un script à part pour récupérer les contextes pour chaque occure
 2. J'ai dû recourir à Pandoc, car Lynx posait des problèmes avec l'alphabet cyrillique: il retranscrivait automatiquement le cyrillique en translittération latine, peut-être à cause d'une mauvaise détection de l'encodage des fichiers de sa part? J'ai essayé de forcer Lynx à interpréter le fichier aspiré comme de l'UTF-8 et à générer la sortie du dump en UTF-8, mais en vain.
 3.⁠ ⁠Comme je travaille sur le russe, qui est une langue à déclinaisons, j'ai choisi, pour l'ex. 4 sur les occurrences, de lire les occurrences des mots à partir du fichier variantes.txt, afin que toutes les déclinaisons soient prises en compte. Finalement, après discussion avec mes camarades, nous avons opté pour une méthode hybride: l'utilisateur peut soit rentrer un mot à chercher puis l'autre, soit passer en argument 2 fichiers textes variantes (1 pour chaque mot, avec toutes les déclinaisons du mot dans mon cas). Le script ajoute au tableau une colonne pour chaque mot, avec le nombre de ses occurrences, variantes incluses.
 4.⁠ ⁠J'ai aussi ajouté, au début du script, le nettoyage de certains répertoires automatiquement, pour ne plus avoir à le faire à la main avant chaque test du code.
+
+
+## (Géraldine) 07/01 - Amélioration script
+
+- si, en l'absence de fichiers en arguments, l'utilisateur ne rentre pas de mots, ou s'il ne rentre pas de noms pour les entêtes de colonnes -> msg d'erreur + proposition de réessayer 
+- fusion des Headers 1 & 3, et 2 & 4
+- correction pour la vérification de l'existence des fichiers variantes
+- ajout du numéro de ligne à chaque itération ("Analyse de l'URL n°$lineno :")
+- dans la boucle, séparer compte et contexte + ajout d'un sed dans contexte pour rajouter des "--------" entre chaque citation capturée
