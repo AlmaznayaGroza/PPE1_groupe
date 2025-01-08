@@ -12,7 +12,7 @@ FICHIER1=$4
 FICHIER2=$5
 SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 
-# Traitement des arguments 4 et 5 (fichier de variantes)
+# Traitement des arguments 4 et 5 (fichiers de variantes)
 # Si pas d'arguments 4 et 5, demander à l'utilisateur de saisir les mots
 if [[ -f "$FICHIER1" && -f "$FICHIER2" ]]; then
     VARIANTES_FILE1="$FICHIER1"
@@ -94,7 +94,7 @@ fi
 
 # Vérification des arguments
 if [[ ! -f "$FICHIER" ]]; then
-    echo "Erreur: fichier d'entrée '$FICHIER' introuvable."
+    echo "Erreur : fichier d'entrée '$FICHIER' introuvable."
     exit 1
 fi
 
@@ -191,7 +191,7 @@ while read -r URL; do
                     mv "./aspirations/$LANGUE-$lineno-converted.html" "./aspirations/$LANGUE-$lineno.html"
                     echo "Conversion en UTF-8 réussie pour $URL (encodage détecté : $encodage)" >&2
                     # Marquer le fichier comme converti
-                    converted_flag="UTF-8"
+                    converted_flag="➔ UTF-8"
                 # Sinon, afficher un message d'erreur et supprimer le fichier aspiré + initialiser les valeurs à vide
                 else
                     echo "Erreur : échec de la conversion en UTF-8 pour $URL (encodage détecté : $encodage)" >&2
@@ -210,45 +210,44 @@ while read -r URL; do
                 pandoc -f html -t plain ./aspirations/$LANGUE-$lineno.html -o ./dumps-text/$LANGUE-$lineno.txt >/dev/null 2>&1
                 # Compter les occurrences et récupère le contexte du mot étudié dans le fichier dump
                 if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
-                    if [[ -s "./dumps-text/$LANGUE-$lineno.txt" ]]; then
-                        # Comptage des occurrences
-                        if [[ -n "$VARIANTES_FILE1" ]]; then
-                            compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        else
-                            compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        fi
-
-                        if [[ -n "$VARIANTES_FILE2" ]]; then
-                            compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        else
-                            compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
-                        fi
-
-                        # Extraction des contextes
-                        if [[ -n "$VARIANTES_FILE1" ]]; then
-                            grep -i -A 2 -B 2 -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
-                        else
-                            grep -i -A 2 -B 2 "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
-                        fi
-
-                        if [[ -n "$VARIANTES_FILE2" ]]; then
-                            grep -i -A 2 -B 2 -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
-                        else
-                            grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
-                        fi
-
-                        # Liens vers les fichiers de contexte
-                        contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
-                        contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
-
+                    # Comptage des occurrences
+                    if [[ -n "$VARIANTES_FILE1" ]]; then
+                        compte1=$(grep -o -i -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
                     else
-                        compte1=""
-                        compte2=""
-                        contexte1_link=""
-                        contexte2_link=""
-                        echo "Le fichier dump pour $URL est vide. Aucun comptage ni contexte extrait."
+                        compte1=$(grep -o -i "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
                     fi
+
+                    if [[ -n "$VARIANTES_FILE2" ]]; then
+                        compte2=$(grep -o -i -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    else
+                        compte2=$(grep -o -i "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | wc -l)
+                    fi
+
+                    # Extraction des contextes
+                    if [[ -n "$VARIANTES_FILE1" ]]; then
+                        grep -i -A 2 -B 2 -f "$VARIANTES_FILE1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
+                    else
+                        grep -i -A 2 -B 2 "$MOT1" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot1-$lineno.txt
+                    fi
+
+                    if [[ -n "$VARIANTES_FILE2" ]]; then
+                        grep -i -A 2 -B 2 -f "$VARIANTES_FILE2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
+                    else
+                        grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
+                    fi
+
+                    # Liens vers les fichiers de contexte
+                    contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
+                    contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
+
+                else
+                    compte1=""
+                    compte2=""
+                    contexte1_link=""
+                    contexte2_link=""
+                    echo "Le fichier dump pour $URL est vide. Aucun comptage ni contexte extrait."
                 fi
+
             else
                 # Si l'encodage n'est pas UTF-8, remplacer les valeurs dans le tableau et supprimer les fichiers
                 nb_mots=""
@@ -261,6 +260,7 @@ while read -r URL; do
                 contexte2_link=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             fi
+
             # Si le nombre de mots dans le fichier dump est inférieur à 10, supprimer les fichiers et réinitialiser les valeurs à vide
             if [[ $nb_mots -lt 10 ]]; then
                 echo "Nombre de mots insuffisant pour l'URL : $URL (moins de 10 mots). Suppression des fichiers." >&2
@@ -282,7 +282,7 @@ while read -r URL; do
             fi
             # Si le fichier a été converti, ajouter "(UTF-8)" dans la colonne dump
             if [[ -n "$converted_flag" && -f "./dumps-text/$LANGUE-$lineno.txt" ]]; then
-                dumplink="$dumplink<br>$converted_flag"
+                encodage="$encodage<br>$converted_flag"
             fi
         # Sinon, si le fichier aspiré est vide ou non significatif (taille <= 100 octets) malgré un code HTTP 200
         else
