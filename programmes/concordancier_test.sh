@@ -1,31 +1,15 @@
 #!/bin/bash
 
-INPUT=$1
-OUTPUT_DIR=$2
-FICHIER1=$3
-FICHIER2=$4
+LANGUE=$1
+FICHIER1=$2
+FICHIER2=$3
 CONTEXT_WORDS=30
-
-# Vérifier si l'input est un répertoire
-if [[ ! -d "$INPUT" ]]; then
-    echo "Erreur : $INPUT n'est pas un répertoire valide."
-    exit 1
-fi
-
-# Ajouter tous les fichiers texte du répertoire à la liste d'entrée
-INPUT_FILES=("$INPUT"/*.txt)
-
-# Vérifier s'il y a des fichiers texte dans le répertoire
-if [[ ${#INPUT_FILES[@]} -eq 0 ]]; then
-    echo "Erreur : Aucun fichier texte trouvé dans le répertoire $INPUT."
-    exit 1
-fi
 
 # Charger les variantes ou demander à l'utilisateur d'entrer des mots
 if [[ -f "$FICHIER1" ]]; then
     VARIANTES1=($(cat "$FICHIER1"))
 else
-    echo "Aucun fichier pour les variantes du premier groupe trouvé. Entrez le mot 2 :"
+    echo "Aucun fichier pour les variantes du premier groupe trouvé. Entrez le mot 1 :"
     read -r USER_INPUT1
     VARIANTES1=($USER_INPUT1)
 fi
@@ -33,7 +17,7 @@ fi
 if [[ -f "$FICHIER2" ]]; then
     VARIANTES2=($(cat "$FICHIER2"))
 else
-    echo "Aucun fichier pour les variantes du deuxième groupe trouvé. Entrez le mot 1 :"
+    echo "Aucun fichier pour les variantes du deuxième groupe trouvé. Entrez le mot 2 :"
     read -r USER_INPUT2
     VARIANTES2=($USER_INPUT2)
 fi
@@ -45,7 +29,8 @@ if [[ -d "./concordances" ]]; then
 fi
 
 # Boucle sur chaque fichier d'entrée
-for FILE in "${INPUT_FILES[@]}"; do
+for FILE in ./dumps-text/$LANGUE-*.txt;
+do
     if [[ ! -f "$FILE" ]]; then
         echo "Aucun fichier texte trouvé : $FILE."
         continue
@@ -54,7 +39,7 @@ for FILE in "${INPUT_FILES[@]}"; do
     BASENAME=$(basename "$FILE" .txt)
 
     # Gérer les variantes du premier groupe (VARIANTES1)
-    OUTPUT_FILE1="$OUTPUT_DIR/${BASENAME}_group1_concordance.html"
+    OUTPUT_FILE1="./concordances/${BASENAME}_group1_concordance.html"
     echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>
@@ -116,7 +101,7 @@ for FILE in "${INPUT_FILES[@]}"; do
     echo "Concordancier généré pour $BASENAME avec Groupe 1 dans $OUTPUT_FILE1"
 
     # Gérer les variantes du deuxième groupe (VARIANTES2)
-    OUTPUT_FILE2="$OUTPUT_DIR/${BASENAME}_group2_concordance.html"
+    OUTPUT_FILE2="./concordances/${BASENAME}_group2_concordance.html"
     echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>
@@ -175,4 +160,4 @@ for FILE in "${INPUT_FILES[@]}"; do
     echo "Concordancier généré pour $BASENAME avec Groupe 2 dans $OUTPUT_FILE2"
 done
 
-echo "Tous les concordanciers ont été générés dans le dossier $OUTPUT_DIR."
+echo "Tous les concordanciers ont été générés dans le dossier ./concordances"
