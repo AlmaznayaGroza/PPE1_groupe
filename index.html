@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Index - Projet Linguistique</title>
+    <style>
+        body { background-color: #fefbf5; font-family: 'Arial', sans-serif; }
+        .navbar, footer { background-color: #9c7bbf; color: white; }
+        header { 
+            background: linear-gradient(to bottom, #b89fd4, #f4f1e0); 
+            height: 400px; 
+            color: white; 
+            padding-top: 100px;
+            padding-bottom: 50px;
+        }
+        header h1 { 
+            font-size: 3.5rem; 
+            font-weight: bold; 
+            color: #4a148c; 
+        }
+        h2 {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #6b5393;
+        }
+        .btn-custom { 
+            background-color: #7b62a3; 
+            color: white; 
+            border-radius: 25px; 
+        }
+        .btn-custom:hover { 
+            background-color: #6b5393; 
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Accueil</a>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="pages/apropos.html">Qui sommes-nous?</a>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Tableaux
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="tableaux/tableau-anglais.html">Français</a></li>
+                            <li><a class="dropdown-item" href="tableaux/tableau-espagnol.html">Anglais</a></li>
+                            <li><a class="dropdown-item" href="tableaux/tableau-russe.html">Chinois</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/analyse.html">Analyse</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div class="text-center">
+            <h1>Conscience</h1>
+            <div class="row justify-content-center align-items-center my-4" style="color: #6b5393; font-family: 'Georgia', serif; font-size: 1.2rem; gap: 10px;">
+                <div class="col text-center" style="max-width: 300px;">
+                    <p style="margin-bottom: 5px;">consciousness | conscience</p>
+                    <img src="imgs/en.png" alt="anglais" style="height: 20px;">
+                </div>
+                <div class="col text-center" style="max-width: 300px;">
+                    <p style="margin-bottom: 5px; border-left: 1px solid #ccc; border-right: 1px solid #ccc; padding: 0 10px;">consciencia | conciencia</p>
+                    <img src="imgs/es.png" alt="espagnol" style="height: 20px;">
+                </div>
+                <div class="col text-center" style="max-width: 300px;">
+                    <p style="margin-bottom: 5px;">сознание | совесть</p>
+                    <img src="imgs/ru.png" alt="russe" style="height: 20px;">
+                </div>
+            </div>
+            <p class="lead">Exploration linguistique d'occurrences trouvées sur le Web<br>
+                d'équivalents du mot "conscience" en anglais, en espagnol et en russe</p>
+            <a href="pages/apropos.html" class="btn btn-custom px-4 py-2 mt-3">Les autrices du projet</a>
+        </div>
+    </header>
+
+    <section class="container-fluid px-5 py-5">
+        <h2 class="text-center" style="margin-bottom: 30px;">Définitions</h2>
+        <div class="row g-1">
+            <div class="col text-start">
+                <p style="color: #7b62a3"><strong>Consciousness:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">Voici une courte définition ou description pour le mot 1.</p>
+                <hr style="width: 50%; margin: 10px auto;">
+                <p style="color: #7b62a3"><strong>Conscience:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">Voici une courte définition ou description pour le mot 2.</p>
+            </div>
+            <div class="col text-start">
+                <p style="color: #7b62a3"><strong>Consciencia:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">Voici une courte définition ou description pour le mot 3.</p>
+                <hr style="width: 50%; margin: 10px auto;">
+                <p style="color: #7b62a3"><strong>Conciencia:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">Voici une courte définition ou description pour le mot 4.</p>
+            </div>
+            <div class="col text-start">
+                <p style="color: #7b62a3"><strong>Сознание:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">1. Человеческая способность воспроизведения действительности в мышлении.</p>
+                <p style="text-align: justify; margin-left: 15px;">2. Восприятие и понимание окружающей действительности, свойственное человеку; мыслительная деятельность, ум, разум.</p>
+                <p style="text-align: justify; margin-left: 15px;">3. Понимание, осознание человеком или группой людей общественной жизни; взгляды, воззрения людей как представителей общественных классов, слоёв.</p>
+                <p style="text-align: justify; margin-left: 15px;">4. Ясное понимание, осознание чего-л., мысль, чувство, ощущение чего-л.</p>
+                <hr style="width: 50%; margin: 10px auto;">
+                <p style="color: #7b62a3"><strong>Совесть:</strong></p>
+                <p style="text-align: justify; margin-left: 15px;">Чувство моральной ответственности за своё поведение; нравственная самооценка своего поведения.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="text-center py-3 mt-5">
+        <p>Programmation et Projet encadré 1 | 2024</p>
+    </footer>
+</body>
+</html>
