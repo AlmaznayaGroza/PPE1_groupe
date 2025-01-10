@@ -1,0 +1,6918 @@
+sep home page
+
+stanford encyclopedia of philosophy
+
+menu
+
+ browse
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+ about
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ contact
+ support sep
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+entry navigation
+
+ entry contents
+ bibliography
+ academic tools
+ friends pdf preview
+ author and citation info
+ back to top
+
+consciousness
+
+first published fri jun 18 2004 substantive revision tue jan 14 2014
+
+perhaps no aspect of mind is more familiar or more puzzling than
+consciousness and our conscious experience of self and world
+
+ the
+problem of consciousness is arguably the central issue in current
+theorizing about the mind
+
+ despite the lack of any agreed upon theory of
+consciousness there is a widespread if less than universal consensus
+that an adequate account of mind requires a clear understanding of it
+and its place in nature
+
+ we need to understand both what consciousness
+is and how it relates to other nonconscious aspects of reality
+
+
+
+ 1
+
+ history of the issue
+ 2
+
+ concepts of consciousness
+ 2
+
+1 creature consciousness
+ 2
+
+2 state consciousness
+ 2
+
+3 consciousness as an entity
+ 3
+
+ problems of consciousness
+ 4
+
+ the descriptive question what are the features of consciousness
+
+
+ 4
+
+1 firstperson and thirdperson data
+ 4
+
+2 qualitative character
+ 4
+
+3 phenomenal structure
+ 4
+
+4 subjectivity
+ 4
+
+5 selfperspectival organization
+ 4
+
+6 unity
+ 4
+
+7 intentionality and transparency
+ 4
+
+8 dynamic flow
+ 5
+
+ the explanatory question how can consciousness exist
+
+
+ 5
+
+1 diversity of explanatory projects
+ 5
+
+2 the explanatory gap
+ 5
+
+3 reductive and nonreductive explanation
+ 5
+
+4 prospects of explanatory success
+ 6
+
+ the functional question why does consciousness exist
+
+
+ 6
+
+1 causal status of consciousness
+ 6
+
+2 flexible control
+ 6
+
+3 social coordination
+ 6
+
+4 integrated representation
+ 6
+
+5 informational access
+ 6
+
+6 freedom of will
+ 6
+
+7 intrinsic motivation
+ 6
+
+8 constitutive and contingent roles
+ 7
+
+ theories of consciousness
+ 8
+
+ metaphysical theories of consciousness
+ 8
+
+1 dualist theories
+ 8
+
+2 physicalist theories
+ 9
+
+ specific theories of consciousness
+ 9
+
+1 higherorder theories
+ 9
+
+2 reflexive theories
+ 9
+
+3 representationalist theories
+ 9
+
+4 narrative interpretative theories
+ 9
+
+5 cognitive theories
+ 9
+
+6 information integration theory
+ 9
+
+7 neural theories
+ 9
+
+8 quantum theories
+ 9
+
+9 nonphysical theories
+ 10
+
+ conclusion
+ bibliography
+ academic tools
+ other internet resources
+ related entries
+
+
+
+1
+
+ history of the issue
+
+questions about the nature of conscious awareness have likely been asked
+for as long as there have been humans
+
+ neolithic burial practices appear
+to express spiritual beliefs and provide early evidence for at least
+minimally reflective thought about the nature of human consciousness
+pearson 1999 clark and rielsalvatore 2001
+
+ preliterate cultures have
+similarly been found invariably to embrace some form of spiritual or at
+least animist view that indicates a degree of reflection about the
+nature of conscious awareness
+
+
+
+nonetheless some have argued that consciousness as we know it today is
+a relatively recent historical development that arose sometime after the
+homeric era jaynes 1974
+
+ according to this view earlier humans
+including those who fought the trojan war did not experience themselves
+as unified internal subjects of their thoughts and actions at least not
+in the ways we do today
+
+ others have claimed that even during the
+classical period there was no word of ancient greek that corresponds to
+“consciousness” wilkes 1984 1988 1995
+
+ though the ancients had much
+to say about mental matters it is less clear whether they had any
+specific concepts or concerns for what we now think of as consciousness
+
+
+
+although the words “conscious” and “conscience” are used quite
+differently today it is likely that the reformation emphasis on the
+latter as an inner source of truth played some role in the inward turn
+so characteristic of the modern reflective view of self
+
+ the hamlet who
+walked the stage in 1600 already saw his world and self with profoundly
+modern eyes
+
+
+
+by the beginning of the early modern era in the seventeenth century
+consciousness had come full center in thinking about the mind
+
+ indeed
+from the mid17th through the late 19th century consciousness was
+widely regarded as essential or definitive of the mental
+
+ rené descartes
+defined the very notion of thought pensée in terms of reflexive
+consciousness or selfawareness
+
+ in the principles of philosophy 1640
+he wrote
+
+ by the word thought pensée i understand all that of which we are
+ conscious as operating in us
+
+
+
+later toward the end of the 17th century john locke offered a similar
+if slightly more qualified claim in an essay on human understanding
+1688
+
+ i do not say there is no soul in man because he is not sensible of it
+ in his sleep
+
+ but i do say he can not think at any time waking or
+ sleeping without being sensible of it
+
+ our being sensible of it is
+ not necessary to anything but our thoughts and to them it is and to
+ them it always will be necessary
+
+
+
+locke explicitly forswore making any hypothesis about the substantial
+basis of consciousness and its relation to matter but he clearly
+regarded it as essential to thought as well as to personal identity
+
+
+
+locke s contemporary g
+
+w
+
+ leibniz drawing possible inspiration from his
+mathematical work on differentiation and integration offered a theory
+of mind in the discourse on metaphysics 1686 that allowed for
+infinitely many degrees of consciousness and perhaps even for some
+thoughts that were unconscious the so called “petites perceptions”
+
+
+leibniz was the first to distinguish explicitly between perception and
+apperception i
+
+e
+
+ roughly between awareness and selfawareness
+
+ in the
+monadology 1720 he also offered his famous analogy of the mill to
+express his belief that consciousness could not arise from mere matter
+
+
+he asked his reader to imagine someone walking through an expanded brain
+as one would walk through a mill and observing all its mechanical
+operations which for leibniz exhausted its physical nature
+
+ nowhere he
+asserts would such an observer see any conscious thoughts
+
+
+
+despite leibniz s recognition of the possibility of unconscious thought
+for most of the next two centuries the domains of thought and
+consciousness were regarded as more or less the same
+
+ associationist
+psychology whether pursued by locke or later in the eighteenth century
+by david hume 1739 or in the nineteenth by james mill 1829 aimed to
+discover the principles by which conscious thoughts or ideas interacted
+or affected each other
+
+ james mill s son john stuart mill continued his
+father s work on associationist psychology but he allowed that
+combinations of ideas might produce resultants that went beyond their
+constituent mental parts thus providing an early model of mental
+emergence 1865
+
+
+
+the purely associationist approach was critiqued in the late eighteenth
+century by immanuel kant 1787 who argued that an adequate account of
+experience and phenomenal consciousness required a far richer structure
+of mental and intentional organization
+
+ phenomenal consciousness
+according to kant could not be a mere succession of associated ideas
+but at a minimum had to be the experience of a conscious self situated
+in an objective world structured with respect to space time and
+causality
+
+
+
+within the angloamerican world associationist approaches continued to
+be influential in both philosophy and psychology well into the twentieth
+century while in the german and european sphere there was a greater
+interest in the larger structure of experience that led in part to the
+study of phenomenology through the work of edmund husserl 1913 1929
+martin heidegger 1927 maurice merleauponty 1945 and others who
+expanded the study of consciousness into the realm of the social the
+bodily and the interpersonal
+
+
+
+at the outset of modern scientific psychology in the midnineteenth
+century the mind was still largely equated with consciousness and
+introspective methods dominated the field as in the work of wilhelm
+wundt 1897 hermann von helmholtz 1897 william james 1890 and
+alfred titchener 1901
+
+ however the relation of consciousness to brain
+remained very much a mystery as expressed in t
+
+ h
+
+ huxley s famous
+remark
+
+ how it is that anything so remarkable as a state of consciousness
+ comes about as a result of irritating nervous tissue is just as
+ unaccountable as the appearance of the djin when aladdin rubbed his
+ lamp 1866
+
+
+
+the early twentieth century saw the eclipse of consciousness from
+scientific psychology especially in the united states with the rise of
+behaviorism watson 1924 skinner 1953 though movements such as gestalt
+psychology kept it a matter of ongoing scientific concern in europe
+köhler 1929 köffka 1935
+
+ in the 1960s the grip of behaviorism
+weakened with the rise of cognitive psychology and its emphasis on
+information processing and the modeling of internal mental processes
+neisser 1965 gardiner 1985
+
+ however despite the renewed emphasis on
+explaining cognitive capacities such as memory perception and language
+comprehension consciousness remained a largely neglected topic for
+several further decades
+
+
+
+in the 1980s and 90s there was a major resurgence of scientific and
+philosophical research into the nature and basis of consciousness baars
+1988 dennett 1991 penrose 1989 1994 crick 1994 lycan 1987 1996
+chalmers 1996
+
+ once consciousness was back under discussion there was
+a rapid proliferation of research with a flood of books and articles as
+well as the introduction of specialty journals the journal of
+consciousness studies consciousness and cognition psyche
+professional societies association for the scientific study of
+consciousness—assc and annual conferences devoted exclusively to its
+investigation “the science of consciousness”
+
+
+
+2
+
+ concepts of consciousness
+
+the words “conscious” and “consciousness” are umbrella terms that cover
+a wide variety of mental phenomena
+
+ both are used with a diversity of
+meanings and the adjective “conscious” is heterogeneous in its range
+being applied both to whole organisms—creature consciousness—and to
+particular mental states and processes—state consciousness rosenthal
+1986 gennaro 1995 carruthers 2000
+
+
+
+2
+
+1 creature consciousness
+
+an animal person or other cognitive system may be regarded as conscious
+in a number of different senses
+
+
+
+sentience
+
+ it may be conscious in the generic sense of simply being a
+sentient creature one capable of sensing and responding to its world
+armstrong 1981
+
+ being conscious in this sense may admit of degrees
+and just what sort of sensory capacities are sufficient may not be
+sharply defined
+
+ are fish conscious in the relevant respect
+
+ and what of
+shrimp or bees
+
+
+
+wakefulness
+
+ one might further require that the organism actually be
+exercising such a capacity rather than merely having the ability or
+disposition to do so
+
+ thus one might count it as conscious only if it
+were awake and normally alert
+
+ in that sense organisms would not count
+as conscious when asleep or in any of the deeper levels of coma
+
+ again
+boundaries may be blurry and intermediate cases may be involved
+
+ for
+example is one conscious in the relevant sense when dreaming
+hypnotized or in a fugue state
+
+
+
+selfconsciousness
+
+ a third and yet more demanding sense might define
+conscious creatures as those that are not only aware but also aware that
+they are aware thus treating creature consciousness as a form of
+selfconsciousness carruthers 2000
+
+ the selfawareness requirement
+might get interpreted in a variety of ways and which creatures would
+qualify as conscious in the relevant sense will vary accordingly
+
+ if it
+is taken to involve explicit conceptual selfawareness many nonhuman
+animals and even young children might fail to qualify but if only more
+rudimentary implicit forms of selfawareness are required then a wide
+range of nonlinguistic creatures might count as selfconscious
+
+
+
+what it is like
+
+ thomas nagel s 1974 famous“what it is like” criterion
+aims to capture another and perhaps more subjective notion of being a
+conscious organism
+
+ according to nagel a being is conscious just if
+there is “something that it is like” to be that creature i
+
+e
+
+ some
+subjective way the world seems or appears from the creature s mental or
+experiential point of view
+
+ in nagel s example bats are conscious
+because there is something that it is like for a bat to experience its
+world through its echolocatory senses even though we humans from our
+human point of view can not emphatically understand what such a mode of
+consciousness is like from the bat s own point of view
+
+
+
+subject of conscious states
+
+ a fifth alternative would be to define the
+notion of a conscious organism in terms of conscious states
+
+ that is
+one might first define what makes a mental state a conscious mental
+state and then define being a conscious creature in terms of having
+such states
+
+ one s concept of a conscious organism would then depend
+upon the particular account one gives of conscious states section 2
+
+2
+
+
+
+transitive consciousness
+
+ in addition to describing creatures as
+conscious in these various senses there are also related senses in
+which creatures are described as being conscious of various things
+
+ the
+distinction is sometimes marked as that between transitive and
+intransitive notions of consciousness with the former involving some
+object at which consciousness is directed rosenthal 1986
+
+
+
+2
+
+2 state consciousness
+
+the notion of a conscious mental state also has a variety of distinct
+though perhaps interrelated meanings
+
+ there are at least six major
+options
+
+
+
+states one is aware of
+
+ on one common reading a conscious mental state
+is simply a mental state one is aware of being in rosenthal 1986
+1996
+
+ conscious states in this sense involve a form of metamentality
+or metaintentionality in so far as they require mental states that are
+themselves about mental states
+
+ to have a conscious desire for a cup of
+coffee is to have such a desire and also to be simultaneously and
+directly aware that one has such a desire
+
+ unconscious thoughts and
+desires in this sense are simply those we have without being aware of
+having them whether our lack of selfknowledge results from simple
+inattention or more deeply psychoanalytic causes
+
+
+
+qualitative states
+
+ states might also be regarded as conscious in a
+seemingly quite different and more qualitative sense
+
+ that is one might
+count a state as conscious just if it has or involves qualitative or
+experiential properties of the sort often referred to as “qualia” or
+“raw sensory feels”
+
+ see the entry on qualia
+
+ one s perception of the
+merlot one is drinking or of the fabric one is examining counts as a
+conscious mental state in this sense because it involves various sensory
+qualia e
+
+g
+
+ taste qualia in the wine case and color qualia in one s
+visual experience of the cloth
+
+ there is considerable disagreement about
+the nature of such qualia churchland 1985 shoemaker 1990 clark 1993
+chalmers 1996 and even about their existence
+
+ traditionally qualia have
+been regarded as intrinsic private ineffable monadic features of
+experience but current theories of qualia often reject at least some of
+those commitments dennett 1990
+
+
+
+phenomenal states
+
+ such qualia are sometimes referred to as phenomenal
+properties and the associated sort of consciousness as phenomenal
+consciousness but the latter term is perhaps more properly applied to
+the overall structure of experience and involves far more than sensory
+qualia
+
+ the phenomenal structure of consciousness also encompasses much
+of the spatial temporal and conceptual organization of our experience
+of the world and of ourselves as agents in it see section 4
+
+3
+
+ it is
+therefore probably best at least initially to distinguish the concept
+of phenomenal consciousness from that of qualitative consciousness
+though they no doubt overlap
+
+
+
+whatitislike states
+
+ consciousness in both those senses links up as
+well with thomas nagel s 1974 notion of a conscious creature insofar
+as one might count a mental state as conscious in the “what it is like”
+sense just if there is something that it is like to be in that state
+
+
+nagel s criterion might be understood as aiming to provide a
+firstperson or internal conception of what makes a state a phenomenal
+or qualitative state
+
+
+
+access consciousness
+
+ states might be conscious in a seemingly quite
+different access sense which has more to do with intramental
+relations
+
+ in this respect a state s being conscious is a matter of its
+availability to interact with other states and of the access that one
+has to its content
+
+ in this more functional sense which corresponds to
+what ned block 1995 calls access consciousness a visual state s being
+conscious is not so much a matter of whether or not it has a qualitative
+“what it s likeness” but of whether or not it and the visual
+information that it carries is generally available for use and guidance
+by the organism
+
+ in so far as the information in that state is richly
+and flexibly available to its containing organism then it counts as a
+conscious state in the relevant respect whether or not it has any
+qualitative or phenomenal feel in the nagel sense
+
+
+
+narrative consciousness
+
+ states might also be regarded as conscious in a
+narrative sense that appeals to the notion of the “stream of
+consciousness” regarded as an ongoing more or less serial narrative of
+episodes from the perspective of an actual or merely virtual self
+
+ the
+idea would be to equate the person s conscious mental states with those
+that appear in the stream dennett 1991 1992
+
+
+
+although these six notions of what makes a state conscious can be
+independently specified they are obviously not without potential links
+nor do they exhaust the realm of possible options
+
+ drawing connections
+one might argue that states appear in the stream of consciousness only
+in so far as we are aware of them and thus forge a bond between the
+first metamental notion of a conscious state and the stream or
+narrative concept
+
+ or one might connect the access with the qualitative
+or phenomenal notions of a conscious state by trying to show that states
+that represent in those ways make their contents widely available in the
+respect required by the access notion
+
+
+
+aiming to go beyond the six options one might distinguish conscious
+from nonconscious states by appeal to aspects of their intramental
+dynamics and interactions other than mere access relations e
+
+g
+
+
+conscious states might manifest a richer stock of contentsensitive
+interactions or a greater degree of flexible purposive guidance of the
+sort associated with the selfconscious control of thought
+
+
+alternatively one might try to define conscious states in terms of
+conscious creatures
+
+ that is one might give some account of what it is
+to be a conscious creature or perhaps even a conscious self and then
+define one s notion of a conscious state in terms of being a state of
+such a creature or system which would be the converse of the last
+option considered above for defining conscious creatures in terms of
+conscious mental states
+
+
+
+2
+
+3 consciousness as an entity
+
+the noun “consciousness” has an equally diverse range of meanings that
+largely parallel those of the adjective “conscious”
+
+ distinctions can be
+drawn between creature and state consciousness as well as among the
+varieties of each
+
+ one can refer specifically to phenomenal
+consciousness access consciousness reflexive or metamental
+consciousness and narrative consciousness among other varieties
+
+
+
+here consciousness itself is not typically treated as a substantive
+entity but merely the abstract reification of whatever property or
+aspect is attributed by the relevant use of the adjective “conscious”
+
+
+access consciousness is just the property of having the required sort of
+internal access relations and qualitative consciousness is simply the
+property that is attributed when “conscious” is applied in the
+qualitative sense to mental states
+
+ how much this commits one to the
+ontological status of consciousness per se will depend on how much of a
+platonist one is about universals in general
+
+ see the entry on the
+medieval problem of universals
+
+ it need not commit one to consciousness
+as a distinct entity any more than one s use of “square” “red” or
+“gentle” commits one to the existence of squareness redness or
+gentleness as distinct entities
+
+
+
+though it is not the norm one could nonetheless take a more robustly
+realist view of consciousness as a component of reality
+
+ that is one
+could think of consciousness as more on a par with electromagnetic
+fields than with life
+
+
+
+since the demise of vitalism we do not think of life per se as
+something distinct from living things
+
+ there are living things including
+organisms states properties and parts of organisms communities and
+evolutionary lineages of organisms but life is not itself a further
+thing an additional component of reality some vital force that gets
+added into living things
+
+ we apply the adjectives “living” and “alive”
+correctly to many things and in doing so we might be said to be
+attributing life to them but with no meaning or reality other than that
+involved in their being living things
+
+
+
+electromagnetic fields by contrast are regarded as real and independent
+parts of our physical world
+
+ even though one may sometimes be able to
+specify the values of such a field by appeal to the behavior of
+particles in it the fields themselves are regarded as concrete
+constituents of reality and not merely as abstractions or sets of
+relations among particles
+
+
+
+similarly one could regard “consciousness” as referring to a component
+or aspect of reality that manifests itself in conscious states and
+creatures but is more than merely the abstract nominalization of the
+adjective “conscious” we apply to them
+
+ though such strongly realist
+views are not very common at present they should be included within the
+logical space of options
+
+
+
+there are thus many concepts of consciousness and both “conscious” and
+“consciousness” are used in a wide range of ways with no privileged or
+canonical meaning
+
+ however this may be less of an embarrassment than an
+embarrassment of riches
+
+ consciousness is a complex feature of the
+world and understanding it will require a diversity of conceptual tools
+for dealing with its many differing aspects
+
+ conceptual plurality is
+thus just what one would hope for
+
+ as long as one avoids confusion by
+being clear about one s meanings there is great value in having a
+variety of concepts by which we can access and grasp consciousness in
+all its rich complexity
+
+ however one should not assume that conceptual
+plurality implies referential divergence
+
+ our multiple concepts of
+consciousness may in fact pick out varying aspects of a single unified
+underlying mental phenomenon
+
+ whether and to what extent they do so
+remains an open question
+
+
+
+3
+
+ problems of consciousness
+
+the task of understanding consciousness is an equally diverse project
+
+
+not only do many different aspects of mind count as conscious in some
+sense each is also open to various respects in which it might be
+explained or modeled
+
+ understanding consciousness involves a
+multiplicity not only of explananda but also of questions that they pose
+and the sorts of answers they require
+
+ at the risk of oversimplifying
+the relevant questions can be gathered under three crude rubrics as the
+what how and why questions
+
+ the descriptive question what is consciousness
+
+ what are its
+ principal features
+
+ and by what means can they be best discovered
+ described and modeled
+
+
+ the explanatory question how does consciousness of the relevant
+ sort come to exist
+
+ is it a primitive aspect of reality and if not
+ how does or could consciousness in the relevant respect arise from
+ or be caused by nonconscious entities or processes
+
+
+ the functional question why does consciousness of the relevant sort
+ exist
+
+ does it have a function and if so what is it
+
+ does it act
+ causally and if so with what sorts of effects
+
+ does it make a
+ difference to the operation of systems in which it is present and
+ if so why and how
+
+
+
+the three questions focus respectively on describing the features of
+consciousness explaining its underlying basis or cause and explicating
+its role or value
+
+ the divisions among the three are of course somewhat
+artificial and in practice the answers one gives to each will depend in
+part on what one says about the others
+
+ one can not for example
+adequately answer the what question and describe the main features of
+consciousness without addressing the why issue of its functional role
+within systems whose operations it affects
+
+ nor could one explain how
+the relevant sort of consciousness might arise from nonconscious
+processes unless one had a clear account of just what features had to be
+caused or realized to count as producing it
+
+ those caveats
+notwithstanding the threeway division of questions provides a useful
+structure for articulating the overall explanatory project and for
+assessing the adequacy of particular theories or models of
+consciousness
+
+
+
+4
+
+ the descriptive question what are the features of consciousness
+
+
+
+the what question asks us to describe and model the principal features
+of consciousness but just which features are relevant will vary with
+the sort of consciousness we aim to capture
+
+ the main properties of
+access consciousness may be quite unlike those of qualitative or
+phenomenal consciousness and those of reflexive consciousness or
+narrative consciousness may differ from both
+
+ however by building up
+detailed theories of each type we may hope to find important links
+between them and perhaps even to discover that they coincide in at least
+some key respects
+
+
+
+4
+
+1 firstperson and thirdperson data
+
+the general descriptive project will require a variety of
+investigational methods flanagan 1992
+
+ though one might naively regard
+the facts of consciousness as too selfevident to require any systematic
+methods of gathering data the epistemic task is in reality far from
+trivial husserl 1913
+
+
+
+firstperson introspective access provides a rich and essential source
+of insight into our conscious mental life but it is neither sufficient
+in itself nor even especially helpful unless used in a trained and
+disciplined way
+
+ gathering the needed evidence about the structure of
+experience requires us both to become phenomenologically sophisticated
+selfobservers and to complement our introspective results with many
+types of thirdperson data available to external observers searle 1992
+varela 1995 siewert 1998
+
+as phenomenologists have known for more than a century discovering the
+structure of conscious experience demands a rigorous innerdirected
+stance that is quite unlike our everyday form of selfawareness husserl
+1929 merleauponty 1945
+
+ skilled observation of the needed sort
+requires training effort and the ability to adopt alternative
+perspectives on one s experience
+
+
+
+the need for thirdperson empirical data gathered by external observers
+is perhaps most obvious with regard to the more clearly functional types
+of consciousness such as access consciousness but it is required even
+with regard to phenomenal and qualitative consciousness
+
+ for example
+deficit studies that correlate various neural and functional sites of
+damage with abnormalities of conscious experience can make us aware of
+aspects of phenomenal structure that escape our normal introspective
+awareness
+
+ as such case studies show things can come apart in
+experience that seem inseparably unified or singular from our normal
+firstperson point of view sacks 1985 shallice 1988 farah 1995
+
+
+
+or to pick another example thirdperson data can make us aware of how
+our experiences of acting and our experiences of eventtiming affect
+each other in ways that we could never discern through mere
+introspection libet 1985 wegner 2002
+
+ nor are the facts gathered by
+these third person methods merely about the causes or bases of
+consciousness they often concern the very structure of phenomenal
+consciousness itself
+
+ firstperson thirdperson and perhaps even
+secondperson varela 1995 interactive methods will all be needed to
+collect the requisite evidence
+
+
+
+using all these sources of data we will hopefully be able to construct
+detailed descriptive models of the various sorts of consciousness
+
+
+though the specific features of most importance may vary among the
+different types our overall descriptive project will need to address at
+least the following seven general aspects of consciousness sections
+4
+
+2–4
+
+7
+
+
+
+4
+
+2 qualitative character
+
+qualitative character is often equated with so called “raw feels” and
+illustrated by the redness one experiences when one looks at ripe
+tomatoes or the specific sweet savor one encounters when one tastes an
+equally ripe pineapple locke 1688
+
+ the relevant sort of qualitative
+character is not restricted to sensory states but is typically taken to
+be present as an aspect of experiential states in general such as
+experienced thoughts or desires siewert 1998
+
+
+
+the existence of such feels may seem to some to mark the threshold for
+states or creatures that are really conscious
+
+ if an organism senses and
+responds in apt ways to its world but lacks such qualia then it might
+count as conscious at best in a loose and less than literal sense
+
+ or so
+at least it would seem to those who take qualitative consciousness in
+the “what it is like” sense to be philosophically and scientifically
+central nagel 1974 chalmers 1996
+
+
+
+qualia problems in many forms—can there be inverted qualia
+
+ block 1980a
+1980b shoemaker 1981 1982 are qualia epiphenomenal
+
+ jackson 1982
+chalmers 1996 how could neural states give rise to qualia
+
+ levine
+1983 mcginn 1991—have loomed large in the recent past
+
+ but the what
+question raises a more basic problem of qualia namely that of giving a
+clear and articulated description of our qualia space and the status of
+specific qualia within it
+
+
+
+absent such a model factual or descriptive errors are all too likely
+
+
+for example claims about the unintelligibility of the link between
+experienced red and any possible neural substrate of such an experience
+sometimes treat the relevant color quale as a simple and sui generis
+property levine 1983 but phenomenal redness in fact exists within a
+complex color space with multiple systematic dimensions and similarity
+relations hardin 1992
+
+ understanding the specific color quale relative
+to that larger relational structure not only gives us a better
+descriptive grasp of its qualitative nature it may also provide some
+“hooks” to which one might attach intelligible psychophysical links
+
+
+
+color may be the exception in terms of our having a specific and well
+developed formal understanding of the relevant qualitative space but it
+is not likely an exception with regard to the importance of such spaces
+to our understanding of qualitative properties in general clark 1993
+p
+
+m
+
+ churchland 1995
+
+ see the entry on qualia
+
+
+
+4
+
+3 phenomenal structure
+
+phenomenal structure should not be conflated with qualitative structure
+despite the sometimes interchangeable use of “qualia” and “phenomenal
+properties” in the literature
+
+ “phenomenal organization” covers all the
+various kinds of order and structure found within the domain of
+experience i
+
+e
+
+ within the domain of the world as it appears to us
+
+
+there are obviously important links between the phenomenal and the
+qualitative
+
+ indeed qualia might be best understood as properties of
+phenomenal or experienced objects but there is in fact far more to the
+phenomenal than raw feels
+
+ as kant 1787 husserl 1913 and
+generations of phenomenologists have shown the phenomenal structure of
+experience is richly intentional and involves not only sensory ideas and
+qualities but complex representations of time space cause body self
+world and the organized structure of lived reality in all its conceptual
+and nonconceptual forms
+
+
+
+since many nonconscious states also have intentional and
+representational aspects it may be best to consider phenomenal
+structure as involving a special kind of intentional and
+representational organization and content the kind distinctively
+associated with consciousness siewert 1998
+
+ see the entry on
+representational theories of consciousness
+
+
+
+answering the what question requires a careful account of the coherent
+and densely organized representational framework within which particular
+experiences are embedded
+
+ since most of that structure is only implicit
+in the organization of experience it can not just be read off by
+introspection
+
+ articulating the structure of the phenomenal domain in a
+clear and intelligible way is a long and difficult process of inference
+and model building husserl 1929
+
+ introspection can aid it but a lot
+of theory construction and ingenuity are also needed
+
+
+
+there has been recent philosophical debate about the range of properties
+that are phenomenally present or manifest in conscious experience in
+particular with respect to cognitive states such as believing or
+thinking
+
+ some have argued for a so called “thin” view according to
+which phenomenal properties are limited to qualia representing basic
+sensory properties such as colors shapes tones and feels
+
+ according
+to such theorists there is no distinctive “whatitislikeness”
+involved in believing that paris is the capital of france or that 17 is
+a prime number tye prinz 2012
+
+ some imagery e
+
+g
+
+ of the eiffel
+tower may accompany our having such a thought but that is incidental
+to it and the cognitive state itself has no phenomenal feel
+
+ on the thin
+view the phenomenal aspect of perceptual states as well is limited to
+basic sensory features when one sees an image of winston churchill
+one s perceptual phenomenology is limited only to the spatial aspects of
+his face
+
+
+
+others holds a “thick” view according to which the phenomenology of
+perception includes a much wider range of features and cognitive states
+have a distinctive phenomenology as well strawson 2003 pitt 2004
+seigel 2010
+
+ on the thick view the whatitislikeness of perceiving
+an image of marilyn monroe includes one s recognition of her history as
+part of the felt aspect of the experience and beliefs and thoughts as
+well can and typically do have a distinctive nonsensory phenomenology
+
+
+both sides of the debate are well represented in the volume cognitive
+phenomenology bayne and montague 2010
+
+
+
+4
+
+4 subjectivity
+
+subjectivity is another notion sometimes equated with the qualitative or
+the phenomenal aspects of consciousness in the literature but again
+there are good reason to recognize it at least in some of its forms as
+a distinct feature of consciousness—related to the qualitative and the
+phenomenal but different from each
+
+ in particular the epistemic form of
+subjectivity concerns apparent limits on the knowability or even the
+understandability of various facts about conscious experience nagel
+1974 van gulick 1985 lycan 1996
+
+
+
+on thomas nagel s 1974 account facts about what it is like to be a
+bat are subjective in the relevant sense because they can be fully
+understood only from the battype point of view
+
+ only creatures capable
+of having or undergoing similar such experiences can understand their
+whatit slikeness in the requisite empathetic sense
+
+ facts about
+conscious experience can be at best incompletely understood from an
+outside third person point of view such as those associated with
+objective physical science
+
+ a similar view about the limits of
+thirdperson theory seems to lie behind claims regarding what frank
+jackson s 1982 hypothetical mary the super color scientist could not
+understand about experiencing red because of her own impoverished
+history of achromatic visual experience
+
+
+
+whether facts about experience are indeed epistemically limited in this
+way is open to debate lycan 1996 but the claim that understanding
+consciousness requires special forms of knowing and access from the
+inside point of view is intuitively plausible and has a long history
+locke 1688
+
+ thus any adequate answer to the what question must address
+the epistemic status of consciousness both our abilities to understand
+it and their limits papineau 2002 chalmers 2003
+
+ see the entry on
+selfknowledge
+
+
+
+4
+
+5 selfperspectival organization
+
+the perspectival structure of consciousness is one aspect of its overall
+phenomenal organization but it is important enough to merit discussion
+in its own right
+
+ insofar as the key perspective is that of the
+conscious self the specific feature might be called
+selfperspectuality
+
+ conscious experiences do not exist as isolated
+mental atoms but as modes or states of a conscious self or subject
+descartes 1644 searle 1992 though pace hume 1739
+
+ a visual
+experience of a blue sphere is always a matter of there being some self
+or subject who is appeared to in that way
+
+ a sharp and stabbing pain is
+always a pain felt or experienced by some conscious subject
+
+ the self
+need not appear as an explicit element in our experiences but as kant
+1787 noted the “i think” must at least potentially accompany each of
+them
+
+
+
+the self might be taken as the perspectival point from which the world
+of objects is present to experience wittgenstein 1921
+
+ it provides not
+only a spatial and temporal perspective for our experience of the world
+but one of meaning and intelligibility as well
+
+ the intentional
+coherence of the experiential domain relies upon the dual
+interdependence between self and world the self as perspective from
+which objects are known and the world as the integrated structure of
+objects and events whose possibilities of being experienced implicitly
+define the nature and location of the self kant 1787 husserl 1929
+
+
+
+conscious organisms obviously differ in the extent to which they
+constitute a unified and coherent self and they likely differ
+accordingly in the sort or degree of perspectival focus they embody in
+their respective forms of experience lorenz 1977
+
+ consciousness may
+not require a distinct or substantial self of the traditional cartesian
+sort but at least some degree of perspectivally selflike organization
+seems essential for the existence of anything that might count as
+conscious experience
+
+ experiences seem no more able to exist without a
+self or subject to undergo them than could ocean waves exist without the
+sea through which they move
+
+ the descriptive question thus requires some
+account of the selfperspectival aspect of experience and the selflike
+organization of conscious minds on which it depends even if the
+relevant account treats the self in a relatively deflationary and
+virtual way dennett 1991 1992
+
+
+
+4
+
+6 unity
+
+unity is closely linked with the selfperspective but it merits
+specific mention on its own as a key aspect of the organization of
+consciousness
+
+ conscious systems and conscious mental states both
+involve many diverse forms of unity
+
+ some are causal unities associated
+with the integration of action and control into a unified focus of
+agency
+
+ others are more representational and intentional forms of unity
+involving the integration of diverse items of content at many scales and
+levels of binding cleeremans 2003
+
+
+
+some such integrations are relatively local as when diverse features
+detected within a single sense modality are combined into a
+representation of external objects bearing those features e
+
+g
+
+ when one
+has a conscious visual experience of a moving red soup can passing above
+a green striped napkin triesman and gelade 1980
+
+
+
+other forms of intentional unity encompass a far wider range of
+contents
+
+ the content of one s present experience of the room in which
+one sits depends in part upon its location within a far larger structure
+associated with one s awareness of one s existence as an ongoing
+temporally extended observer within a world of spatially connected
+independently existing objects kant 1787 husserl 1913
+
+ the individual
+experience can have the content that it does only because it resides
+within that larger unified structure of representation
+
+ see the entry
+on unity of consciousness
+
+
+
+particular attention has been paid recently to the notion of phenomenal
+unity bayne 2010 and its relation to other forms of conscious unity
+such as those involving representational functional or neural
+integration
+
+ some have argued that phenomenal unity can be reduced to
+representational unity tye 2005 while others have denied the
+possibility of any such reduction bayne 2010
+
+
+
+4
+
+7 intentionality and transparency
+
+conscious mental states are typically regarded as having a
+representational or intentional aspect in so far as they are about
+things refer to things or have satisfaction conditions
+
+ one s conscious
+visual experience correctly represents the world if there are lilacs in
+a white vase on the table pace travis 2004 one s conscious memory is
+of the attack on the world trade center and one s conscious desire is
+for a glass of cold water
+
+ however nonconscious states can also exhibit
+intentionality in such ways and it is important to understand the ways
+in which the representational aspects of conscious states resemble and
+differ from those of nonconscious states carruthers 2000
+
+ searle
+1990 offers a contrary view according to which only conscious states
+and dispositions to have conscious states can be genuinely intentional
+but most theorists regard intentionality as extending widely into the
+unconscious domain
+
+ see the entry on consciousness and intentionality
+
+
+
+one potentially important dimension of difference concerns so called
+transparency which is an important feature of consciousness in two
+interrelated metaphoric senses each of which has an intentional an
+experiential and a functional aspect
+
+
+
+conscious perceptual experience is often said to be transparent or in
+g
+
+e
+
+ moore s 1922 phrase “diaphanous”
+
+ we transparently “look through”
+our sensory experience in so far as we seem directly aware of external
+objects and events present to us rather than being aware of any
+properties of experience by which it presents or represents such objects
+to us
+
+ when i look out at the windblown meadow it is the undulating
+green grass of which i am aware not of any green property of my visual
+experience
+
+ see the entry on representational theories of
+consciousness
+
+ moore himself believed we could become aware of those
+latter qualities with effort and redirection of attention though some
+contemporary transparency advocates deny it harman 1990 tye 1995 kind
+2003
+
+
+
+conscious thoughts and experiences are also transparent in a semantic
+sense in that their meanings seem immediately known to us in the very
+act of thinking them van gulick 1992
+
+ in that sense we might be said
+to think right through them to what they mean or represent
+
+
+transparency in this semantic sense may correspond at least partly with
+what john searle calls the “intrinsic intentionality” of consciousness
+searle 1992
+
+
+
+our conscious mental states seem to have their meanings intrinsically or
+from the inside just by being what they are in themselves by contrast
+with many externalist theories of mental content that ground meaning in
+causal counterfactual or informational relations between bearers of
+intentionality and their semantic or referential objects
+
+
+
+the view of conscious content as intrinsically determined and internally
+selfevident is sometimes supported by appeals to brain in the vat
+intuitions which make it seem that the envatted brain s conscious
+mental states would keep all their normal intentional contents despite
+the loss of all their normal causal and informational links to the world
+horgan and tienson 2002
+
+ there is continued controversy about such
+cases and about competing internalist searle 1992 and externalist
+views dretske 1995 of conscious intentionality
+
+
+
+though semantic transparency and intrinsic intentionality have some
+affinities they should not be simply equated since it may be possible
+to accommodate the former notion within a more externalist account of
+content and meaning
+
+ both semantic and sensory transparency obviously
+concern the representational or intentional aspects of consciousness
+but they are also experiential aspects of our conscious life
+
+ they are
+part of what it s like or how it feels phenomenally to be conscious
+
+
+they also both have functional aspects in so far as conscious
+experiences interact with each other in richly contentappropriate ways
+that manifest our transparent understanding of their contents
+
+
+
+4
+
+8 dynamic flow
+
+the dynamics of consciousness are evident in the coherent order of its
+ever changing process of flow and selftransformation what william
+james 1890 called the “stream of consciousness
+
+” some temporal
+sequences of experience are generated by purely internal factors as when
+one thinks through a puzzle and others depend in part upon external
+causes as when one chases a fly ball but even the latter sequences are
+shaped in large part by how consciousness transforms itself
+
+
+
+whether partly in response to outer influences or entirely from within
+each moment to moment sequence of experience grows coherently out of
+those that preceded it constrained and enabled by the global structure
+of links and limits embodied in its underlying prior organization
+husserl 1913
+
+ in that respect consciousness is an autopoietic system
+i
+
+e
+
+ a selfcreating and selforganizing system varela and maturana
+1980
+
+
+
+as a conscious mental agent i can do many things such as scan my room
+scan a mental image of it review in memory the courses of a recent
+restaurant meal along with many of its tastes and scents reason my way
+through a complex problem or plan a grocery shopping trip and execute
+that plan when i arrive at the market
+
+ these are all routine and common
+activities but each involves the directed generation of experiences in
+ways that manifest an implicit practical understanding of their
+intentional properties and interconnected contents van gulick 2000
+
+
+
+consciousness is a dynamic process and thus an adequate descriptive
+answer to the what question must deal with more than just its static or
+momentary properties
+
+ in particular it must give some account of the
+temporal dynamics of consciousness and the ways in which its
+selftransforming flow reflects both its intentional coherence and the
+semantic selfunderstanding embodied in the organized controls through
+which conscious minds continually remake themselves as autopoietic
+systems engaged with their worlds
+
+
+
+a comprehensive descriptive account of consciousness would need to deal
+with more than just these seven features but having a clear account of
+each of them would take us a long way toward answering the “what is
+consciousness
+
+” question
+
+
+
+5
+
+ the explanatory question how can consciousness exist
+
+
+
+the how question focuses on explanation rather than description
+
+ it asks
+us to explain the basic status of consciousness and its place in nature
+
+
+is it a fundamental feature of reality in its own right or does its
+existence depend upon other nonconscious items be they physical
+biological neural or computational
+
+ and if the latter can we explain
+or understand how the relevant nonconscious items could cause or realize
+consciousness
+
+ put simply can we explain how to make something
+conscious out of things that are not conscious
+
+
+
+5
+
+1 diversity of explanatory projects
+
+the how question is not a single question but rather a general family
+of more specific questions van gulick 1995
+
+ they all concern the
+possibility of explaining some sort or aspect of consciousness but they
+vary in their particular explananda the restrictions on their
+explanans and their criteria for successful explanation
+
+ for example
+one might ask whether we can explain access consciousness
+computationally by mimicking the requisite access relations in a
+computational model
+
+ or one might be concerned instead with whether the
+phenomenal and qualitative properties of a conscious creature s mind can
+be a priori deduced from a description of the neural properties of its
+brain processes
+
+ both are versions of the how question but they ask
+about the prospects of very different explanatory projects and thus may
+differ in their answers lycan 1996
+
+ it would be impractical if not
+impossible to catalog all the possible versions of the how question
+but some of the main options can be listed
+
+
+
+explananda
+
+ possible explananda would include the various sorts of state
+and creature consciousness distinguished above as well as the seven
+features of consciousness listed in response to the what question
+
+ those
+two types of explananda overlap and intersect
+
+ we might for example aim
+to explain the dynamic aspect either of phenomenal or of access
+consciousness
+
+ or we could try to explain the subjectivity of either
+qualitative or metamental consciousness
+
+ not every feature applies to
+every sort of consciousness but all apply to several
+
+ how one explains
+a given feature in relation to one sort of consciousness may not
+correspond with what is needed to explain it relative to another
+
+
+
+explanans
+
+ the range of possible explanans is also diverse
+
+ in perhaps
+its broadest form the how question asks how consciousness of the
+relevant sort could be caused or realized by nonconscious items but we
+can generate a wealth of more specific questions by further restricting
+the range of the relevant explanans
+
+ one might seek to explain how a
+given feature of consciousness is caused or realized by underlying
+neural processes biological structures physical mechanisms functional
+or teleofunctional relations computational organization or even by
+nonconscious mental states
+
+ the prospects for explanatory success will
+vary accordingly
+
+ in general the more limited and elementary the range
+of the explanans the more difficult the problem of explaining how could
+it suffice to produce consciousness van gulick 1995
+
+
+
+criteria of explanation
+
+ the third key parameter is how one defines the
+criterion for a successful explanation
+
+ one might require that the
+explanandum be a priori deducible from the explanans although it is
+controversial whether this is either a necessary or a sufficient
+criterion for explaining consciousness jackson 1993
+
+ its sufficiency
+will depend in part on the nature of the premises from which the
+deduction proceeds
+
+ as a matter of logic one will need some bridge
+principles to connect propositions or sentences about consciousness with
+those that do not mention it
+
+ if one s premises concern physical or
+neural facts then one will need some bridge principles or links that
+connect such facts with facts about consciousness kim 1998
+
+ brute
+links whether nomic or merely well confirmed correlations could
+provide a logically sufficient bridge to infer conclusions about
+consciousness
+
+ but they would probably not allow us to see how or why
+those connections hold and thus they would fall short of fully
+explaining how consciousness exists levine 1983 1993 mcginn 1991
+
+
+
+one could legitimately ask for more in particular for some account that
+made intelligible why those links hold and perhaps why they could not
+fail to do so
+
+ a familiar twostage model for explaining
+macroproperties in terms of microsubstrates is often invoked
+
+ in the
+first step one analyzes the macroproperty in terms of functional
+conditions and then in the second stage one shows that the
+microstructures obeying the laws of their own level nomically suffice
+to guarantee the satisfaction of the relevant functional conditions
+armstrong 1968 lewis 1972
+
+
+
+the microproperties of collections of h2o molecules at 20°c suffice to
+satisfy the conditions for the liquidity of the water they compose
+
+
+moreover the model makes intelligible how the liquidity is produced by
+the microproperties
+
+ a satisfactory explanation of how consciousness is
+produced might seem to require a similar two stage story
+
+ without it
+even a priori deducibility might seem explanatorily less than
+sufficient though the need for such a story remains a matter of
+controversy block and stalnaker 1999 chalmers and jackson 2001
+
+
+
+5
+
+2 the explanatory gap
+
+our current inability to supply a suitably intelligible link is
+sometimes described following joseph levine 1983 as the existence of
+an explanatory gap and as indicating our incomplete understanding of
+how consciousness might depend upon a nonconscious substrate especially
+a physical substrate
+
+ the basic gap claim admits of many variations in
+generality and thus in strength
+
+
+
+in perhaps its weakest form it asserts a practical limit on our present
+explanatory abilities given our current theories and models we can not
+now articulate an intelligible link
+
+ a stronger version makes an in
+principle claim about our human capacities and thus asserts that given
+our human cognitive limits we will never be able to bridge the gap
+
+ to
+us or creatures cognitively like us it must remain a residual mystery
+mcginn 1991
+
+ colin mcginn 1995 has argued that given the inherently
+spatial nature of both our human perceptual concepts and the scientific
+concepts we derive from them we humans are not conceptually suited for
+understanding the nature of the psychophysical link
+
+ facts about that
+link are as cognitively closed to us as are facts about multiplication
+or square roots to armadillos
+
+ they do not fall within our conceptual
+and cognitive repertoire
+
+ an even stronger version of the gap claim
+removes the restriction to our cognitive nature and denies in principle
+that the gap can be closed by any cognitive agents
+
+
+
+those who assert gap claims disagree among themselves about what
+metaphysical conclusions if any follow from our supposed epistemic
+limits
+
+ levine himself has been reluctant to draw any antiphysicalist
+ontological conclusions levine 1993 2001
+
+ on the other hand some
+neodualists have tried to use the existence of the gap to refute
+physicalism foster 1996 chalmers 1996
+
+ the stronger one s
+epistemological premise the better the hope of deriving a metaphysical
+conclusion
+
+ thus unsurprisingly dualist conclusions are often supported
+by appeals to the supposed impossibility in principle of closing the
+gap
+
+
+
+if one could see on a priori grounds that there is no way in which
+consciousness could be intelligibly explained as arising from the
+physical it would not be a big step to concluding that it in fact does
+not do so chalmers 1996
+
+ however the very strength of such an
+epistemological claim makes it difficult to assume with begging the
+metaphysical result in question
+
+ thus those who wish to use a strong in
+principle gap claim to refute physicalism must find independent grounds
+to support it
+
+ some have appealed to conceivability arguments for
+support such as the alleged conceivability of zombies molecularly
+identical with conscious humans but devoid of all phenomenal
+consciousness campbell 1970 kirk 1974 chalmers 1996
+
+ other
+supporting arguments invoke the supposed nonfunctional nature of
+consciousness and thus its alleged resistance to the standard scientific
+method of explaining complex properties e
+
+g
+
+ genetic dominance in
+terms of physically realized functional conditions block 1980a
+chalmers 1996
+
+ such arguments avoid begging the antiphysicalist
+question but they themselves rely upon claims and intuitions that are
+controversial and not completely independent of one s basic view about
+physicalism
+
+ discussion on the topic remains active and ongoing
+
+
+
+our present inability to see any way of closing the gap may exert some
+pull on our intuitions but it may simply reflect the limits of our
+current theorizing rather than an unbridgeable in principle barrier
+dennett 1991
+
+ moreover some physicalists have argued that explanatory
+gaps are to be expected and are even entailed by plausible versions of
+ontological physicalism ones that treat human agents as physically
+realized cognitive systems with inherent limits that derive from their
+evolutionary origin and situated contextual mode of understanding van
+gulick 1985 2003 mcginn 1991 papineau 1995 2002
+
+ on this view
+rather than refuting physicalism the existence of explanatory gaps may
+confirm it
+
+ discussion and disagreement on these topics remains active
+and ongoing
+
+
+
+5
+
+3 reductive and nonreductive explanation
+
+as the need for intelligible linkage has shown a priori deducibility is
+not in itself obviously sufficient for successful explanation kim
+1980 nor is it clearly necessary
+
+ some weaker logical link might
+suffice in many explanatory contexts
+
+ we can sometimes tell enough of a
+story about how facts of one sort depend upon those of another to
+satisfy ourselves that the latter do in fact cause or realize the former
+even if we can not strictly deduce all the former facts from the latter
+
+
+
+strict intertheoretical deduction was taken as the reductive norm by the
+logical empiricist account of the unity of science putnam and oppenheim
+1958 but in more recent decades a looser nonreductive picture of
+relations among the various sciences has gained favor
+
+ in particular
+nonreductive materialists have argued for the so called “autonomy of the
+special sciences” fodor 1974 and for the view that understanding the
+natural world requires us to use a diversity of conceptual and
+representational systems that may not be strictly intertranslatable or
+capable of being put into the tight correspondence required by the older
+deductive paradigm of interlevel relations putnam 1975
+
+
+
+economics is often cited as an example fodor 1974 searle 1992
+
+
+economic facts may be realized by underlying physical processes but no
+one seriously demands that we be able to deduce the relevant economic
+facts from detailed descriptions of their underlying physical bases or
+that we be able to put the concepts and vocabulary of economics in tight
+correspondence with those of the physical sciences
+
+
+
+nonetheless our deductive inability is not seen as cause for ontological
+misgivings there is no “moneymatter” problem
+
+ all that we require is
+some general and less than deductive understanding of how economic
+properties and relations might be underlain by physical ones
+
+ thus one
+might opt for a similar criterion for interpreting the how question and
+for what counts as explaining how consciousness might be caused or
+realized by nonconscious items
+
+ however some critics such as kim
+1987 have challenged the coherence of any view that aims to be both
+nonreductive and physicalist though supporters of such views have
+replied in turn van gulick 1993
+
+
+
+others have argued that consciousness is especially resistant to
+explanation in physical terms because of the inherent differences
+between our subjective and objective modes of understanding
+
+ thomas
+nagel famously argued 1974 that there are unavoidable limits placed on
+our ability to understand the phenomenology of bat experience by our
+inability to empathetically take on an experiential perspective like
+that which characterizes the bat s echolocatory auditory experience of
+its world
+
+ given our inability to undergo similar experience we can
+have at best partial understanding of the nature of such experience
+
+ no
+amount of knowledge gleaned from the external objective thirdperson
+perspective of the natural sciences will supposedly suffice to allow us
+to understand what the bat can understand of its own experience from its
+internal firstperson subjective point of view
+
+
+
+5
+
+4 prospects of explanatory success
+
+the how question thus subdivides into a diverse family of more specific
+questions depending upon the specific sort or feature of consciousness
+one aims to explain the specific restrictions one places on the range
+of the explanans and the criterion one uses to define explanatory
+success
+
+ some of the resulting variants seem easier to answer than
+others
+
+ progress may seem likely on some of the so called “easy
+problems” of consciousness such as explaining the dynamics of access
+consciousness in terms of the functional or computational organization
+of the brain baars 1988
+
+ others may seem less tractable especially
+the socalled “hard problem” chalmers 1995 which is more or less that
+of giving an intelligible account that lets us see in an intuitively
+satisfying way how phenomenal or “what it s like” consciousness might
+arise from physical or neural processes in the brain
+
+
+
+positive answers to some versions of the how questions seem near at
+hand but others appear to remain deeply baffling
+
+ nor should we assume
+that every version has a positive answer
+
+ if dualism is true then
+consciousness in at least some of its types may be basic and
+fundamental
+
+ if sowe will not be able to explain how it arises from
+nonconscious items since it simply does not do so
+
+
+
+one s view of the prospects for explaining consciousness will typically
+depend upon one s perspective
+
+ optimistic physicalists will likely see
+current explanatory lapses as merely the reflection of the early stage
+of inquiry and sure to be remedied in the not too distant future
+dennett 1991 searle 1992 p
+
+ m
+
+churchland 1995
+
+ to dualists those
+same impasses will signify the bankruptcy of the physicalist program and
+the need to recognize consciousness as a fundamental constituent of
+reality in its own right robinson 1982 foster 1989 1996 chalmers
+1996
+
+ what one sees depends in part on where one stands and the
+ongoing project of explaining consciousness will be accompanied by
+continuing debate about its status and prospects for success
+
+
+
+6
+
+ the functional question why does consciousness exist
+
+
+
+the functional or why question asks about the value or role or
+consciousness and thus indirectly about its origin
+
+ does it have a
+function and if so what is it
+
+ does it make a difference to the
+operation of systems in which it is present and if so why and how
+
+ if
+consciousness exists as a complex feature of biological systems then
+its adaptive value is likely relevant to explaining its evolutionary
+origin though of course its present function if it has one need not
+be the same as that it may have had when it first arose
+
+ adaptive
+functions often change over biological time
+
+ questions about the value
+of consciousness also have a moral dimension in at least two ways
+
+ we
+are inclined to regard an organism s moral status as at least partly
+determined by the nature and extent to which it is conscious and
+conscious states especially conscious affective states such as
+pleasures and pains play a major role in many of the accounts of value
+that underlie moral theory singer 1975
+
+
+
+as with the what and how questions the why question poses a general
+problem that subdivides into a diversity of more specific inquiries
+
+ in
+so far as the various sorts of consciousness e
+
+g
+
+ access phenomenal
+metamental are distinct and separable—which remains an open
+question—they likely also differ in their specific roles and values
+
+
+thus the why question may well not have a single or uniform answer
+
+
+
+6
+
+1 causal status of consciousness
+
+perhaps the most basic issue posed by any version of the why question is
+whether or not consciousness of the relevant sort has any causal impact
+at all
+
+ if it has no effects and makes no causal difference whatsoever
+then it would seem unable to play any significant role in the systems or
+organisms in which it is present thus undercutting at the outset most
+inquiries about its possible value
+
+ nor can the threat of epiphenomenal
+irrelevance be simply dismissed as an obvious nonoption since at least
+some forms of consciousness have been seriously alleged in the recent
+literature to lack causal status
+
+ see the entry on epiphenomenalism
+
+
+such worries have been raised especially with regard to qualia and
+qualitative consciousness huxley 1874 jackson 1982 chalmers 1996
+but challenges have also been leveled against the causal status of other
+sorts including metamental consciousness velmans 1991
+
+
+
+both metaphysical and empirical arguments have been given in support of
+such claims
+
+ among the former are those that appeal to intuitions about
+the conceivability and logical possibility of zombies i
+
+e
+
+ of beings
+whose behavior functional organization and physical structure down to
+the molecular level are identical to those of normal human agents but
+who lack any qualia or qualitative consciousness
+
+ some kirk 1970
+chalmers 1996 assert such beings are possible in worlds that share all
+our physical laws but others deny it dennett 1991 levine 2001
+
+ if
+they are possible in such worlds then it would seem to follow that even
+in our world qualia do not affect the course of physical events
+including those that constitute our human behaviors
+
+ if those events
+unfold in the same way whether or not qualia are present then qualia
+appear to be inert or epiphenomenal at least with respect to events in
+the physical world
+
+ however such arguments and the zombie intuitions on
+which they rely are controversial and their soundness remains in dispute
+searle 1992 yablo 1998 balog 1999
+
+
+
+arguments of a far more empirical sort have challenged the causal status
+of metamental consciousness at least in so far as its presence can be
+measured by the ability to report on one s mental state
+
+ scientific
+evidence is claimed to show that consciousness of that sort is neither
+necessary for any type of mental ability nor does it occur early enough
+to act as a cause of the acts or processes typically thought to be its
+effects velmans 1991
+
+ according to those who make such arguments the
+sorts of mental abilities that are typically thought to require
+consciousness can all be realized unconsciously in the absence of the
+supposedly required selfawareness
+
+
+
+moreover even when conscious selfawareness is present it allegedly
+occurs too late to be the cause of the relevant actions rather than
+their result or at best a joint effect of some shared prior cause libet
+1985
+
+ selfawareness or metamental consciousness according to these
+arguments turns out to be a psychological aftereffect rather than an
+initiating cause more like a post facto printout or the result
+displayed on one s computer screen than like the actual processor
+operations that produce both the computer s response and its display
+
+
+
+once again the arguments are controversial and both the supposed data
+and their interpretation are subjects of lively disagreement see
+flanagan 1992 and commentaries accompanying velmans 1991
+
+ though the
+empirical arguments like the zombie claims require one to consider
+seriously whether some forms of consciousness may be less causally
+potent than is typically assumed many theorists regard the empirical
+data as no real threat to the causal status of consciousness
+
+
+
+if the epiphenomenalists are wrong and consciousness in its various
+forms is indeed causal what sorts of effects does it have and what
+differences does it make
+
+ how do mental processes that involve the
+relevant sort of consciousness differ form those that lack it
+
+ what
+functions might consciousness play
+
+ the following six sections
+6
+
+2–6
+
+7 discuss some of the more commonly given answers
+
+ though the
+various functions overlap to some degree each is distinct and they
+differ as well in the sorts of consciousness with which each is most
+aptly linked
+
+
+
+6
+
+2 flexible control
+
+increased flexibility and sophistication of control
+
+ conscious mental
+processes appear to provide highly flexible and adaptive forms of
+control
+
+ though unconscious automatic processes can be extremely
+efficient and rapid they typically operate in ways that are more fixed
+and predetermined than those which involve conscious selfawareness
+anderson 1983
+
+ conscious awareness is thus of most importance when one
+is dealing with novel situations and previously unencountered problems
+or demands penfield 1975 armstrong 1981
+
+
+
+standard accounts of skill acquisition stress the importance of
+conscious awareness during the initial learning phase which gradually
+gives way to more automatic processes of the sort that require little
+attention or conscious oversight schneider and shiffrin 1977
+
+
+conscious processing allows for the construction or compilation of
+specifically tailored routines out of elementary units as well as for
+the deliberate control of their execution
+
+
+
+there is a familiar tradeoff between flexibility and speed controlled
+conscious processes purchase their customized versatility at the price
+of being slow and effortful in contrast to the fluid rapidity of
+automatic unconscious mental operations anderson 1983
+
+ the relevant
+increases in flexibility would seem most closely connected with the
+metamental or higherorder form of consciousness in so far as the
+enhanced ability to control processes depends upon greater
+selfawareness
+
+ however flexibility and sophisticated modes of control
+may be associated as well with the phenomenal and access forms of
+consciousness
+
+
+
+6
+
+3 social coordination
+
+enhanced capacity for social coordination
+
+ consciousness of the
+metamental sort may well involve not only an increase in selfawareness
+but also an enhanced understanding of the mental states of other minded
+creatures especially those of other members of one s social group
+humphreys 1982
+
+ creatures that are conscious in the relevant
+metamental sense not only have beliefs motives perceptions and
+intentions but understand what it is to have such states and are aware
+of both themselves and others as having them
+
+
+
+this increase in mutually shared knowledge of each other s minds
+enables the relevant organisms to interact cooperate and communicate in
+more advanced and adaptive ways
+
+ although metamental consciousness is
+the sort most obviously linked to such a socially coordinative role
+narrative consciousness of the kind associated with the stream of
+consciousness is also clearly relevant in so far as it involves the
+application to one s own case of the interpretative abilities that
+derive in part from their social application ryle 1949 dennett 1978
+1992
+
+
+
+6
+
+4 integrated representation
+
+more unified and densely integrated representation of reality
+
+ conscious
+experience presents us with a world of objects independently existing in
+space and time
+
+ those objects are typically present to us in a
+multimodal fashion that involves the integration of information from
+various sensory channels as well as from background knowledge and
+memory
+
+ conscious experience presents us not with isolated properties or
+features but with objects and events situated in an ongoing independent
+world and it does so by embodying in its experiential organization and
+dynamics the dense network of relations and interconnections that
+collectively constitute the meaningful structure of a world of objects
+kant 1787 husserl 1913 campbell 1997
+
+
+
+of course not all sensory information need be experienced to have an
+adaptive effect on behavior
+
+ adaptive nonexperiential sensorymotor
+links can be found both in simple organisms as well as in some of the
+more direct and reflexive processes of higher organisms
+
+ but when
+experience is present it provides a more unified and integrated
+representation of reality one that typically allows for more openended
+avenues of response lorenz 1977
+
+ consider for example the
+representation of space in an organism whose sensory input channels are
+simply linked to movement or to the orientation of a few fixed
+mechanisms such as those for feeding or grabbing prey and compare it
+with that in an organism capable of using its spatial information for
+flexible navigation of its environment and for whatever other spatially
+relevant aims or goals it may have as when a person visually scans her
+office or her kitchen gallistel 1990
+
+
+
+it is representation of this latter sort that is typically made
+available by the integrated mode of presentation associated with
+conscious experience
+
+ the unity of experienced space is just one example
+of the sort of integration associated with our conscious awareness of an
+objective world
+
+ see the entry on unity of consciousness
+
+
+
+this integrative role or value is most directly associated with access
+consciousness but also clearly with the larger phenomenal and
+intentional structure of experience
+
+ it is relevant even to the
+qualitative aspect of consciousness in so far as qualia play an
+important role in our experience of unified objects in a unified space
+or scene
+
+ it is intimately tied as well to the transparency of
+experience described in response to the what question especially to
+semantic transparency van gulick 1993
+
+ integration of information
+plays a major role in several current neurocognitive theories of
+consciousness especially global workspace theories see section 9
+
+5 and
+giulio tononi s integrated information theory section 9
+
+6 below
+
+
+
+6
+
+5 informational access
+
+more global informational access
+
+ the information carried in conscious
+mental states is typically available for use by a diversity of mental
+subsystems and for application to a wide range of potential situations
+and actions baars 1988
+
+ nonconscious information is more likely to be
+encapsulated within particular mental modules and available for use only
+with respect to the applications directly connected to that subsystem s
+operation fodor 1983
+
+ making information conscious typically widens
+the sphere of its influence and the range of ways it which it can be
+used to adaptively guide or shape both inner and outer behavior
+
+ a
+state s being conscious may be in part a matter of what dennett calls
+“cerebral celebrity” i
+
+e
+
+ of its ability to have a contentappropriate
+impact on other mental states
+
+
+
+this particular role is most directly and definitionally tied to the
+notion of access consciousness block 1995 but metamental
+consciousness as well as the phenomenal and qualitative forms all seem
+plausibly linked to such increases in the availability of information
+armstrong 1981 tye 1985
+
+ diverse cognitive and neurocognitive
+theories incorporate access as a central feature of consciousness and
+conscious processing
+
+ global workspace theories prinz s attendend
+intermediate representation air prinz 2012 and tononi s integrated
+information theory iit all distinguish conscious states and processes
+at least partly in terms of enhanced wide spread access to the state s
+content see section 9
+
+6
+
+
+
+6
+
+6 freedom of will
+
+increased freedom of choice or free will
+
+ the issue of free will remains
+a perennial philosophical problem not only with regard to whether or
+not it exists but even as to what it might or should consist in dennett
+1984 van inwagen 1983 hasker 1999 wegner 2002
+
+ see the entry on
+free will
+
+ the notion of free will may itself remain too murky and
+contentious to shed any clear light on the role of consciousness but
+there is a traditional intuition that the two are deeply linked
+
+
+
+consciousness has been thought to open a realm of possibilities a
+sphere of options within which the conscious self might choose or act
+freely
+
+ at a minimum consciousness might seem a necessary precondition
+for any such freedom or selfdetermination hasker 1999
+
+ how could one
+engage in the requisite sort of free choice while remaining solely
+within the unconscious domain
+
+ how can one determine one s own will
+without being conscious of it and of the options one has to shape it
+
+
+
+the freedom to chose one s actions and the ability to determine one s
+own nature and future development may admit of many interesting
+variations and degrees rather than being a simple all or nothing matter
+and various forms or levels of consciousness might be correlated with
+corresponding degrees or types of freedom and selfdetermination
+dennett 1984 2003
+
+ the link with freedom seems strongest for the
+metamental form of consciousness given its emphasis on selfawareness
+but potential connections also seem possible for most of the other sorts
+as well
+
+
+
+6
+
+7 intrinsic motivation
+
+intrinsically motivating states
+
+ at least some conscious states appear
+to have the motive force they do intrinsically
+
+ in particular the
+functional and motivational roles of conscious affective states such as
+pleasures and pains seem intrinsic to their experiential character and
+inseparable from their qualitative and phenomenal properties though the
+view has been challenged nelkin 1989 rosenthal 1991
+
+ the attractive
+positive motivational aspect of a pleasure seems a part of its directly
+experienced phenomenal feel as does the negative affective character of
+a pain at least in the case of normal nonpathological experience
+
+
+
+there is considerable disagreement about the extent to which the feel
+and motive force of pain can dissociate in abnormal cases and some have
+denied the existence of such intrinsically motivating aspects altogether
+dennett 1991
+
+ however at least in the normal case the negative
+motivational force of pain seems built right into the feel of the
+experience itself
+
+
+
+just how this might be so remains less than clear and perhaps the
+appearance of intrinsic and directly experienced motivational force is
+illusory
+
+ but if it is real then it may be one of the most important
+and evolutionarily oldest respects in which consciousness makes a
+difference to the mental systems and processes in which it is present
+humphreys 1992
+
+
+
+other suggestions have been made about the possible roles and value of
+consciousness and these six surely do not exhaust the options
+
+
+nonetheless they are among the most prominent recent hypotheses and
+they provide a fair survey of the sorts of answers that have been
+offered to the why question by those who believe consciousness does
+indeed make a difference
+
+
+
+6
+
+8 constitutive and contingent roles
+
+one further point requires clarification about the various respects in
+which the proposed functions might answer the why question
+
+ in
+particular one should distinguish between constitutive cases and cases
+of contingent realization
+
+ in the former fulfilling the role
+constitutes being conscious in the relevant sense while in the latter
+case consciousness of a given sort is just one way among several in
+which the requisite role might be realized van gulick 1993
+
+
+
+for example making information globally available for use by a wide
+variety of subsystems and behavioral applications may constitute its
+being conscious in the access sense
+
+ by contrast even if the
+qualitative and phenomenal forms of consciousness involve a highly
+unified and densely integrated representation of objective reality it
+may be possible to produce representations having those functional
+characteristics but which are not qualitative or phenomenal in nature
+
+
+
+the fact that in us the modes of representation with those
+characteristics also have qualitative and phenomenal properties may
+reflect contingent historical facts about the particular design solution
+that happened to arise in our evolutionary ancestry
+
+ if so there may be
+quite other means of achieving a comparable result without qualitative
+or phenomenal consciousness
+
+ whether this is the right way to think
+about phenomenal and qualitative conscious is unclear perhaps the tie
+to unified and densely integrated representation is in fact as intimate
+and constitutive as it seems to be in the case of access consciousness
+carruthers 2000
+
+ regardless of how that issue gets resolved it is
+important to not to conflate constitution accounts with contingent
+realization accounts when addressing the function of consciousness and
+answering the question of why it exists chalmers 1996
+
+
+
+7
+
+ theories of consciousness
+
+in response to the what how and why questions many theories of
+consciousness have been proposed in recent years
+
+ however not all
+theories of consciousness are theories of the same thing
+
+ they vary not
+only in the specific sorts of consciousness they take as their object
+but also in their theoretical aims
+
+
+
+perhaps the largest division is between general metaphysical theories
+that aim to locate consciousness in the overall ontological scheme of
+reality and more specific theories that offer detailed accounts of its
+nature features and role
+
+ the line between the two sorts of theories
+blurs a bit especially in so far as many specific theories carry at
+least some implicit commitments on the more general metaphysical issues
+
+
+nonetheless it is useful to keep the division in mind when surveying
+the range of current theoretical offerings
+
+
+
+8
+
+ metaphysical theories of consciousness
+
+general metaphysical theories offer answers to the conscious version of
+the mindbody problem “what is the ontological status of consciousness
+relative to the world of physical reality
+
+” the available responses
+largely parallel the standard mindbody options including the main
+versions of dualism and physicalism
+
+
+
+8
+
+1 dualist theories
+
+dualist theories regard at least some aspects of consciousness as
+falling outside the realm of the physicalbut specific forms of dualism
+differ in just which aspects those are
+
+ see the entry on dualism
+
+
+
+substance dualism such as traditional cartesian dualism descartes
+1644 asserts the existence of both physical and nonphysical
+substances
+
+ such theories entail the existence of nonphysical minds or
+selves as entities in which consciousness inheres
+
+ though substance
+dualism is at present largely out of favor it does have some
+contemporary proponents swinburne 1986 foster 1989 1996
+
+
+
+property dualism in its several versions enjoys a greater level of
+current support
+
+ all such theories assert the existence of conscious
+properties that are neither identical with nor reducible to physical
+properties but which may nonetheless be instantiated by the very same
+things that instantiate physical properties
+
+ in that respect they might
+be classified as dual aspect theories
+
+ they take some parts of
+reality—organisms brains neural states or processes—to instantiate
+properties of two distinct and disjoint sorts physical ones and
+conscious phenomenal or qualitative ones
+
+ dual aspect or property
+dualist theories can be of at least three different types
+
+
+
+fundamental property dualism regards conscious mental properties as
+basic constituents of reality on a par with fundamental physical
+properties such as electromagnetic charge
+
+ they may interact in causal
+and lawlike ways with other fundamental properties such as those of
+physics but ontologically their existence is not dependent upon nor
+derivative from any other properties chalmers 1996
+
+
+
+emergent property dualism treats conscious properties as arising from
+complex organizations of physical constituents but as doing so in a
+radical way such that the emergent result is something over and above
+its physical causes and is not a priori predictable from nor explicable
+in terms of their strictly physical natures
+
+ the coherence of such
+emergent views has been challenged kim 1998 but they have supporters
+hasker 1999
+
+
+
+neutral monist property dualism treats both conscious mental properties
+and physical properties as in some way dependent upon and derivative
+from a more basic level of reality that in itself is neither mental nor
+physical russell 1927 strawson 1994
+
+ however if one takes dualism to
+be a claim about there being two distinct realms of fundamental entities
+or properties then perhaps neutral monism should not be classified as a
+version of property dualism in so far as it does not regard either
+mental or physical properties as ultimate or fundamental
+
+
+
+panpsychism might be regarded as a fourth type of property dualism in
+that it regards all the constituents of reality as having some psychic
+or at least protopsychic properties distinct from whatever physical
+properties they may have nagel 1979
+
+ indeed neutral monism might be
+consistently combined with some version of panprotopsychism chalmers
+1996 according to which the protomental aspects of microconstituents
+can give rise under suitable conditions of combination to full blown
+consciousness
+
+ see the entry on panpsychism
+
+
+
+the nature of the relevant protopsychic aspect remains unclear and
+such theories face a dilemma if offered in hope of answering the hard
+problem
+
+ either the protopsychic properties involve the sort of
+qualitative phenomenal feel that generates the hard problem or they do
+not
+
+ if they do it is difficult to understand how they could possibly
+occur as ubiquitous properties of reality
+
+ how could an electron or a
+quark have any such experiential feel
+
+ however if the protopsychic
+properties do not involve any such feel it is not clear how they are
+any better able than physical properties to account for qualitative
+consciousness in solving the hard problem
+
+
+
+a more modest form of panpsychism has been advocated by the
+neuroscientist giulio tononi 2008 and endorsed by other
+neuroscientists including christof koch 2012
+
+ this version derives
+from tononi s integrated information theory iit of consciousness that
+identifies consciousness with integrated information which can exist in
+many degrees see section 9
+
+6 below
+
+ according to iit even a simple
+indicator device such as a single photo diode possesses some degree of
+integrated information and thus some limited degree of consciousness a
+consequence which both tononi and koch embrace as a form of panpsychism
+
+
+
+a variety of arguments have been given in favor of dualist and other
+antiphysicalist theories of consciousness
+
+ some are largelya priori in
+nature such as those that appeal to the supposed conceivability of
+zombies kirk 1970 chalmers 1996 or versions of the knowledge argument
+jackson 1982 1986 which aim to reach an antiphysicalist conclusion
+about the ontology of consciousness from the apparent limits on our
+ability to fully understand the qualitative aspects of conscious
+experience through thirdperson physical accounts of the brain
+processes
+
+ see jackson 1998 2004 for a contrary view see also entries
+on zombies and qualia the knowledge argument
+
+ other arguments for
+dualism are made on more empirical grounds such as those that appeal to
+supposed causal gaps in the chains of physical causation in the brain
+eccles and popper 1977 or those based on alleged anomalies in the
+temporal order of conscious awareness libet 1982 1985
+
+ dualist
+arguments of both sorts have been much disputed by physicalists p
+
+s
+
+
+churchland 1981 dennett and kinsbourne 1992
+
+
+
+8
+
+2 physicalist theories
+
+most other metaphysical theories of consciousness are versions of
+physicalism of one familiar sort or another
+
+
+
+eliminativist theories reductively deny the existence of consciousness
+or at least the existence of some of its commonly accepted sorts or
+features
+
+ see the entry on eliminative materialism
+
+ the radical
+eliminativists reject the very notion of consciousness as muddled or
+wrong headed and claim that the consciousnonconscious distinction fails
+to cut mental reality at its joints wilkes 1984 1988
+
+ they regard the
+idea of consciousness as sufficiently off target to merit elimination
+and replacement by other concepts and distinctions more reflective of
+the true nature of mind p
+
+ s
+
+ churchland 1983
+
+
+
+most eliminativists are more qualified in their negative assessment
+
+
+rather than rejecting the notion outright they take issue only with
+some of the prominent features that it is commonly thought to involve
+such as qualia dennett 1990 carruthers 2000 the conscious self
+dennett 1992 or the so called “cartesian theater” where the temporal
+sequence of conscious experience gets internally projected dennett and
+kinsbourne 1992
+
+ more modest eliminativists like dennett thus
+typically combine their qualified denials with a positive theory of
+those aspects of consciousness they take as real such as the multiple
+drafts model section 9
+
+3 below
+
+
+
+identity theory at least strict psychophysical typetype identity
+theory offers another strongly reductive option by identifying
+conscious mental properties states and processes with physical ones
+most typically of a neural or neurophysiological nature
+
+ if having a
+qualitative conscious experience of phenomenal red just is being in a
+brain state with the relevant neurophysiological properties then such
+experiential properties are real but their reality is a straight
+forwardly physical reality
+
+
+
+typetype identity theory is so called because it identifies mental and
+physical types or properties on a par with identifying the property of
+being water with the property of being composed of h₂o molecules
+
+ after
+a brief period of popularity in the early days of contemporary
+physicalism during the 1950s and 60s place 1956 smart 1959 it has
+been far less widely held because of problems such as the multiple
+realization objection according to which mental properties are more
+abstract and thus capable of being realized by many diverse underlying
+structural or chemical substrates fodor 1974 hellman and thompson
+1975
+
+ if one and the same conscious property can be realized by
+different neurophysiological or even nonneurophysiological properties
+in different organisms then the two properties can not be strictly
+identical
+
+
+
+nonetheless the typetype identity theory has enjoyed a recent if modest
+resurgence at least with respect to qualia or qualitative conscious
+properties
+
+ this has been in part because treating the relevant
+psychophysical link as an identity is thought by some to offer a way of
+dissolving the explanatory gap problem hill and mclaughlin 1998
+papineau 1995 2003
+
+ they argue that if the conscious qualitative
+property and the neural property are identical then there is no need to
+explain how the latter causes or gives rise to the former
+
+ it does not
+cause it it is it
+
+ and thus there is no gap to bridge and no further
+explanation is needed
+
+ identities are not the sort of thing that can be
+explained since nothing is identical with anything but itself and it
+makes no sense to ask why something is identical with itself
+
+
+
+however others contend that the appeal to typetype identity does not
+so obviously void the need for explanation levine 2001
+
+ even if two
+descriptions or concepts in fact refer to one and the same property one
+may still reasonably expect some explanation of that convergence some
+account of how they pick out one and the same thing despite not
+initially or intuitively seeming to do so
+
+ in other cases of empirically
+discovered property identities such as that of heat and kinetic energy
+there is a story to be told that explains the coreferential
+convergence and it seems fair to expect the same in the psychophysical
+case
+
+ thus appealing to typetype identities may not in itself suffice
+to dissolve the explanatory gap problem
+
+
+
+most physicalist theories of consciousness are neither eliminativist nor
+based on strict typetype identities
+
+ they acknowledge the reality of
+consciousness but aim to locate it within the physical world on the
+basis of some psychophysical relation short of strict property
+identity
+
+
+
+among the common variants are those that take conscious reality to
+supervene on the physical be composed of the physical or be realized
+by the physical
+
+
+
+functionalist theories in particular rely heavily on the notion of
+realization to explicate the relation between consciousness and the
+physical
+
+ according to functionalism a state or process counts as being
+of a given mental or conscious type in virtue of the functional role it
+plays within a suitably organized system block 1980a
+
+ a given physical
+state realizes the relevant conscious mental type by playing the
+appropriate role within the larger physical system that contains it
+
+
+see the entry on functionalism
+
+ the functionalist often appeals to
+analogies with other interlevel relations as between the biological
+and biochemical or the chemical and the atomic
+
+ in each case properties
+or facts at one level are realized by complex interactions between items
+at an underlying level
+
+
+
+critics of functionalism often deny that consciousness can be adequately
+explicated in functional terms block 1980a 1980b levine 1983
+chalmers 1996
+
+ according to such critics consciousness may have
+interesting functional characteristics but its nature is not essentially
+functional
+
+ such claims are sometimes supported by appeal to the
+supposed possibility of absent or inverted qualia i
+
+e
+
+ the possibility
+of beings who are functionally equivalent to normal humans but who have
+reversed qualia or none at all
+
+ the status of such possibilities is
+controversial shoemaker 1981 dennett 1990 carruthers 2000 but if
+accepted they would seem to pose a problem for the functionalist
+
+ see
+the entry on qualia
+
+
+
+those who ground ontological physicalism on the realization relation
+often combine it with a nonreductive view at the conceptual or
+representational level that stresses the autonomy of the special
+sciences and the distinct modes of description and cognitive access they
+provide
+
+
+
+nonreductive physicalism of this sort denies that the theoretical and
+conceptual resources appropriate and adequate for dealing with facts at
+the level of the underlying substrate or realization level must be
+adequate as well for dealing with those at the realized level putnam
+1975 boyd 1980
+
+ as noted above in response to the how question one
+can believe that all economic facts are physically realized without
+thinking that the resources of the physical sciences provide all the
+cognitive and conceptual tools we need for doing economics fodor 1974
+
+
+
+nonreductive physicalism has been challenged for its alleged failure to
+“pay its physicalist dues” in reductive coin
+
+ it is faulted for
+supposedly not giving an adequate account of how conscious properties
+are or could be realized by underlying neural physical or functional
+structures or processes kim 1987 1998
+
+ indeed it has been charged
+with incoherence because of its attempt to combine a claim of physical
+realization with the denial of the ability to spell out that relation in
+a strict and a priori intelligible way jackson 2004
+
+
+
+however as noted above in discussion of the how question nonreductive
+physicalists reply by agreeing that some account of psychophysical
+realization is indeed needed but adding that the relevant account may
+fall far short of a priori deducibility yet still suffice to satisfy
+our legitimate explanatory demands mcginn 1991 van gulick 1985
+
+ the
+issue remains under debate
+
+
+
+9
+
+ specific theories of consciousness
+
+although there are many general metaphysicalontological theories of
+consciousness the list of specific detailed theories about its nature
+is even longer and more diverse
+
+ no brief survey could be close to
+comprehensive but seven main types of theories may help to indicate the
+basic range of options higherorder theories representational
+theories interpretative narrative theories cognitive theories neural
+theories quantum theories and nonphysical theories
+
+ the categories are
+not mutually exclusive for example many cognitive theories also
+propose a neural substrate for the relevant cognitive processes
+
+
+nonetheless grouping them in the seven classes provides a basic
+overview
+
+
+
+9
+
+1 higherorder theories
+
+higherorder ho theories analyze the notion of a conscious mental
+state in terms of reflexive metamental selfawareness
+
+ the core idea is
+that what makes a mental state m a conscious mental state is the fact
+that it is accompanied by a simultaneous and noninferential
+higherorder i
+
+e
+
+ metamental state whose content is that one is now
+in m
+
+ having a conscious desire for some chocolate involves being in two
+mental states one must have both a desire for some chocolate and also a
+higherorder state whose content is that one is now having just such a
+desire
+
+ unconscious mental states are unconscious precisely in that we
+lack the relevant higherorder states about them
+
+ their being
+unconscious consists in the fact that we are not reflexively and
+directly aware of being in them
+
+ see the entry on higherorder theories
+of consciousness
+
+
+
+higherorder theories come in two main variants that differ concerning
+the psychological mode of the relevant consciousmaking metamental
+states
+
+ higherorder thought hot theories take the required
+higherorder state to be an assertoric thoughtlike metastate
+rosenthal 1986 1993
+
+ higherorder perception hop theories take them
+to be more perceptionlike and associated with a kind of inner sense and
+intramental monitoring systems of some sort armstrong 1981 lycan
+1987 1996
+
+
+
+each has its relative strengths and problems
+
+ hot theorists note that we
+have no organs of inner sense and claim that we experience no sensory
+qualities other than those presented to us by outer directed perception
+
+
+hop theorists on the other hand can argue that their view explains some
+of the additional conditions required by ho accounts as natural
+consequences of the perceptionlike nature of the relevant higherorder
+states
+
+ in particular the demands that the consciousmaking metastate
+be noninferential and simultaneous with its lower level mental object
+might be explained by the parallel conditions that typically apply to
+perception
+
+ we perceive what is happening now and we do so in a way
+that involves no inferences at least not any explicit personallevel
+inferences
+
+ those conditions are no less necessary on the hot view but
+are left unexplained by it which might seem to give some explanatory
+advantage to the hop model lycan 2004 van gulick 2000 though some
+hot theorists argue otherwise carruthers 2000
+
+
+
+whatever their respective merits both hop and hot theories face some
+common challenges including what might be called thegenerality problem
+
+
+having a thought or perception of a given item x—be it a rock a pen or
+a potato—does not in general make x a conscious x
+
+ seeing or thinking of
+the potato on the counter does not make it a conscious potato
+
+ why then
+should having a thought or perception of a given desire or a memory make
+it a conscious desire or memory dretske 1995 byrne 1997
+
+ nor will it
+suffice to note that we do not apply the term “conscious” to rocks or
+pens that we perceive or think of but only to mental states that we
+perceive or think of lycan 1997 rosenthal 1997
+
+ that may be true but
+what is needed is some account of why it is appropriate to do so
+
+
+
+the higherorder view is most obviously relevant to the metamental
+forms of consciousness but some of its supporters take it to explain
+other types of consciousness as well including the more subjective what
+it s like and qualitative types
+
+ one common strategy is to analyze
+qualia as mental features that are capable of occurring unconsciously
+for example they might be explained as properties of inner states whose
+structured similarity relations given rise to beliefs about objective
+similarities in the world shoemaker 1975 1990
+
+ though unconscious
+qualia can play that functional role there need be nothing that it is
+like to be in a state that has them nelkin 1989 rosenthal 1991 1997
+
+
+according to the ho theorist whatit slikeness enters only when we
+become aware of that firstorder state and its qualitative properties by
+having an appropriate metastate directed at it
+
+
+
+critics of the ho view have disputed that account and some have argued
+that the notion of unconscious qualia on which it relies is incoherent
+papineau 2002
+
+ whether or not such proposed ho accounts of qualia are
+successful it is important to note that most ho advocates take
+themselves to be offering a comprehensive theory of consciousness or at
+least the core of such a general theory rather than merely one limited
+to some special metamental forms of it
+
+
+
+other variants of ho theory go beyond the standard hot and hop versions
+including some that analyze consciousness in terms of dispositional
+rather than occurrent higherorder thoughts carruthers 2000
+
+ others
+appeal to implicit rather than explicit higherorder understanding and
+weaken or remove the standard assumption that the metastate must be
+distinct and separate from its lowerorder object gennaro 1995 van
+gulick 2000 2004 with such views overlapping with so called reflexive
+theories discussed in the section
+
+ other variants of ho theory continue
+to be offered and debate between supporters and critics of the basic
+approach remains active
+
+ see the recent papers in gennaro 2004
+
+
+
+9
+
+2 reflexive theories
+
+reflexive theories like higherorder theories imply a strong link
+between consciousness and selfawareness
+
+ they differ in that they
+locate the aspect of selfawareness directly within the conscious state
+itself rather than in a distinct metastate directed at it
+
+ the idea
+that conscious states involve a double intentionality goes back at least
+to brentano 1874 in the 19th century
+
+ the conscious state is
+intentionally directed at an object outside itself—such as a tree or
+chair in the case of a conscious perception—as well as intentionally
+directed at itself
+
+ one and the same state is both an outerdirected
+awareness and an awareness of itself
+
+ several recent theories have
+claimed that such reflexive awareness is a central feature of conscious
+mental states
+
+ some view themselves as variants of higherorder theory
+gennaro 2004 2012 while others reject the higherorder category and
+describe their theories as presenting a “sameorder” account of
+consciousness as selfawareness kriegel 2009
+
+ yet others challenge the
+level distinction by analyzing the metaintentional content as implicit
+in the phenomenal firstorder content of conscious states as in so
+called higherorder global state models hogs van gulick 20042006
+
+ a
+sample of papers some supporting and some attacking the reflexive view
+can be found in krigel and williford 2006
+
+
+
+9
+
+3 representationalist theories
+
+almost all theories of consciousness regard it as having
+representational features but so called representationalist theories
+are defined by the stronger view that its representational features
+exhaust its mental features harman 1990 tye 1995 2000
+
+ according to
+the representationalist conscious mental states have no mental
+properties other than their representational properties
+
+ thus two
+conscious or experiential states that share all their representational
+properties will not differ in any mental respect
+
+
+
+the exact force of the claim depends on how one interprets the idea of
+being “representationally the same” for which there are many plausible
+alternative criteria
+
+ one could define it coarsely in terms of
+satisfaction or truth conditions but understood in that way the
+representationalist thesis seems clearly false
+
+ there are too many ways
+in which states might share their satisfaction or truth conditions yet
+differ mentally including those that concern their mode of
+conceptualizing or presenting those conditions
+
+
+
+at the opposite extreme one could count two states as
+representationally distinct if they differed in any features that played
+a role in their representational function or operation
+
+ on such a
+liberal reading any differences in the bearers of content would count as
+representational differences even if they bore the same intentional or
+representational content they might differ only in their means or mode
+of representation not their content
+
+
+
+such a reading would of course increase the plausibility of the claim
+that a conscious state s representational properties exhaust its mental
+properties but at the cost of significantly weakening or even
+trivializing the thesis
+
+ thus the representationalist seems to need an
+interpretation of representational sameness that goes beyond mere
+satisfaction conditions and reflects all the intentional or contentful
+aspects of representation without being sensitive to mere differences in
+underlying noncontentful features of the processes at the realization
+level
+
+ thus most representationalists provide conditions for conscious
+experience that include both a content condition plus some further
+causal role or format requirements tye 1995 dretske 1995 carruthers
+2000
+
+ other representationalists accept the existence of qualia but
+treat them as objective properties that external objects are represented
+as having i
+
+e
+
+ they treat them as represented properties rather than
+as properties of representations or mental states dretske 1995 lycan
+1996
+
+
+
+representationalism can be understood as a qualified form of
+eliminativism insofar as it denies the existence of properties of a sort
+that conscious mental states are commonly thought to have—or at least
+seem to have—namely those that are mental but not representational
+
+
+qualia at least if understood as intrinsic monadic properties of
+conscious states accessible to introspection would seem to be the most
+obvious targets for such elimination
+
+ indeed part of the motivation for
+representationalism is to show that one can accommodate all the facts
+about consciousness perhaps within a physicalist framework without
+needing to find room for qualia or any other apparently
+nonrepresentational mental properties dennett 1990 lycan 1996
+carruthers 2000
+
+
+
+representationalism has been quite popular in recent years and had many
+defenders but it remains highly controversial and intuitions clash
+about key cases and thought experiments block 1996
+
+ in particular the
+possibility of inverted qualia provides a crucial test case
+
+ to
+antirepresentationalists the mere logical possibility of inverted
+qualia shows that conscious states can differ in a significant mental
+respect while coinciding representationally
+
+ representationalists in
+reply deny either the possibility of such inversion or its alleged
+import dretske 1995 tye 2000
+
+
+
+many other arguments have been made for and against representationalism
+such as those concerning perceptions in different sense modalities of
+one and the same state of affairs—seeing and feeling the same cube—which
+might seem to involve mental differences distinct from how the relevant
+states represent the world to be peacocke 1983 tye 2003
+
+ in each
+case both sides can muster strong intuitions and argumentative
+ingenuity
+
+ lively debate continues
+
+
+
+9
+
+4 narrative interpretative theories
+
+some theories of consciousness stress the interpretative nature of facts
+about consciousness
+
+ according to such views what is or is not
+conscious is not always a determinate fact or at least not so
+independent of a larger context of interpretative judgments
+
+ the most
+prominent philosophical example is the multiple drafts model mdm of
+consciousness advanced by daniel dennett 1991
+
+ it combines elements
+of both representationalism and higherorder theory but does so in a way
+that varies interestingly from the more standard versions of either
+providing a more interpretational and less strongly realist view of
+consciousness
+
+
+
+the mdm includes many distinct but interrelated features
+
+ its name
+reflects the fact that at any given moment content fixations of many
+sorts are occurring throughout the brain
+
+ what makes some of these
+contents conscious is not that they occur in a privileged spatial or
+functional location—the so called “cartesian theater”—nor in a special
+mode or format all of which the mdm denies
+
+ rather it a matter of what
+dennett calls “cerebral celebrity” i
+
+e
+
+ the degree to which a given
+content influences the future development of other contents throughout
+the brain especially with regard to how those effects are manifest in
+the reports and behaviors that the person makes in response to various
+probes that might indicate her conscious state
+
+ one of the mdm s key
+claims is that different probes e
+
+ g
+
+ being asked different questions
+or being in different contexts that make differing behavioral demands
+may elicit different answers about the person s conscious state
+
+
+moreover according to the mdm there may be no probeindependent fact of
+the matter about what the person s conscious state really was
+
+ hence the
+“multiple” of the multiple drafts model
+
+
+
+the mdm is representationalist in that it analyzes consciousness in
+terms of content relations
+
+ it also denies the existence of qualia and
+thus rejects any attempt to distinguish conscious states from
+nonconscious states by their presence
+
+ it rejects as well the notion of
+the self as an inner observer whether located in the cartesian theater
+or elsewhere
+
+ the mdm treats the self as an emergent or virtual aspect
+of the coherent roughly serially narrative that is constructed through
+the interactive play of contents in the system
+
+ many of those contents
+are bound together at the intentional level as perceptions or fixations
+from a relatively unified and temporally extended point of view i
+
+e
+
+
+they cohere in their contents as if they were the experiences of a
+ongoing self
+
+ but it is the order of dependence that is crucial to the
+mdm account
+
+ the relevant contents are not unified because they are all
+observed by a single self but just the converse
+
+ it is because they are
+unified and coherent at the level of content that they count as the
+experiences of a single self at least of a single virtual self
+
+
+
+it is in this respect that the mdm shares some elements with
+higherorder theories
+
+ the contents that compose the serial narrative
+are at least implicitly those of an ongoing if virtual self and it is
+they that are most likely to be expressed in the reports the person
+makes of her conscious state in response to various probes
+
+ they thus
+involve a certain degree of reflexivity or selfawareness of the sort
+that is central to higherorder theories but the higherorder aspect is
+more an implicit feature of the stream of contents rather than present
+in distinct explicit higherorder states of the sort found in standard
+ho theories
+
+
+
+dennett s mdm has been highly influential but has also drawn criticism
+especially from those who find it insufficiently realist in its view of
+consciousness and at best incomplete in achieving its stated goal to
+fully explain it block 1994 dretske 1994 levine 1994
+
+ many of its
+critics acknowledge the insight and value of the mdm but deny that
+there are no real facts of consciousness other than those captured by it
+rosenthal 1994 van gulick 1994 akins 1996
+
+
+
+from a more empirical perspective the neuroscientist michael gazzaniga
+2011 has introduced the idea of an “interpreter module” based in the
+left hemisphere that makes sense of our actions in any inferential way
+and constructs an ongoing narrative of our actions and experience
+
+
+though the theory is not intended as a complete theory of consciousness
+it accords a major role to such interpretative narrative activity
+
+
+
+9
+
+5 cognitive theories
+
+a number theories of consciousness associate it with a distinct
+cognitive architecture or with a special pattern of activity with that
+structure
+
+
+
+global workspace
+
+ a major psychological example of the cognitive
+approach is the global workspace theory
+
+ as initially developed by
+bernard baars 1988 global workspace theory describes consciousness in
+terms of a competition among processors and outputs for a limited
+capacity resource that “broadcasts” information for widespread access
+and use
+
+ being available in that way to the global workspace makes
+information conscious at least in the access sense
+
+ it is available for
+report and the flexible control of behavior
+
+ much like dennett s
+“cerebral celebrity” being broadcast in the workspace makes contents
+more accessible and influential with respect to other contents and other
+processors
+
+ at the same time the original content is strengthened by
+recurrent support back from the workspace and from other contents with
+which it coheres
+
+ the capacity limits on the workspace correspond to the
+limits typically placed on focal attention or working memory in many
+cognitive models
+
+
+
+the model has been further developed with proposed connections to
+particular neural and functional brain systems by stanislas dehaene and
+others 2000
+
+ of special importance is the claim that consciousness in
+both the access and phenomenal sense occurs when and only when the
+relevant content enters the larger global network involving both primary
+sensory areas as well as many other areas including frontal and parietal
+areas associated with attention
+
+ dehaene claims that conscious
+perception begins only with the “ignition” of that larger global
+network activity in the primary sensory areas will not suffice no
+matter how intense or recurrent though see the contrary view of victor
+lamme in section 9
+
+7
+
+
+
+attended intermediate representation
+
+ another cognitive theory is jesse
+prinz s 2012 attended intermediate level representation theory air
+
+
+the theory is a neurocognitive hybrid account of conscious
+
+ according
+to air theory a conscious perception must meet both cognitive and
+neural conditions
+
+ it must be a representation of a perceptually
+intermediate property which prinz argues are the only properties of
+which we are aware in conscious experience—we experience only basic
+features of external objects such as colors shapes tones and feels
+
+
+according to prinz our awareness of higher level properties—such as
+being a pine tree or my car keys—is wholly a matter of judging and not
+of conscious experience
+
+ hence the intermediate representational ir
+aspect of air
+
+ to be conscious such a represented content must also be
+attended the a aspect of air
+
+ prinz proposes a particular neural
+substrate for each component
+
+ he identifies the intermediate level
+representations with gamma 40–80hz vector activity in sensory cortex
+and the attentional component with synchronized oscillations that can
+incorporate that gamma vector activity
+
+
+
+9
+
+6 information integration theory
+
+the integration of information from many sources is an important feature
+of consciousness and as noted above section 6
+
+4 is often cited as
+one of its major functions
+
+ content integration plays an important role
+in various theories especially global workspace theory section 9
+
+3
+
+
+however a proposal by the neuroscientist giulio tononi 2008 goes
+further in identifying consciousness with integrated information and
+asserting that information integration of the relevant sort is both
+necessary and sufficient for consciousness regardless of the substrate
+in which it is realized which need not be neural or biological
+
+
+according to tononi s integrated information theory iit consciousness
+is a purely informationtheoretic property of systems
+
+ he proposes a
+mathematical measure φ that aims to measure not merely the information
+in the parts of a given system but also the information contained in the
+organization of the system over and above that in its parts
+
+ φ thus
+corresponds to the system s degree of informational integration
+
+ such a
+system can contain many overlapping complexes and the complex with the
+highest φ value will be conscious according to iit
+
+
+
+according to iit consciousness varies in quantity and comes in many
+degrees which correspond to φ values
+
+ thus even a simple system such a
+single photo diode will be conscious to some degree if it is not
+contained within a larger complex
+
+ in that sense iit implies a form of
+panpsychism that tononi explicitly endorses
+
+ according to iit the
+quality of the relevant consciousness is determined by the totality of
+informational relations within the relevant integrated complex
+
+ thus iit
+aims to explain both the quantity and quality of phenomenal
+consciousness
+
+ other neuroscientists notably christof koch have also
+endorsed the iit approach koch 2012
+
+
+
+9
+
+7 neural theories
+
+neural theories of consciousness come in many forms though most in some
+way concern the so called “neural correlates of consciousness” or nccs
+
+
+unless one is a dualist or other nonphysicalist more than mere
+correlation is required at least some nccs must be the essential
+substrates of consciousness
+
+ an explanatory neural theory needs to
+explain why or how the relevant correlations exist and if the theory is
+committed to physicalism that will require showing how the underlying
+neural substrates could be identical with their neural correlates or at
+least realize them by satisfying the required roles or conditions
+metzinger 2000
+
+
+
+such theories are diverse not only in the neural processes or properties
+to which they appeal but also in the aspects of consciousness they take
+as their respective explananda
+
+ some are based on highlevel systemic
+features of the brain but others focus on more specific physiological
+or structural properties with corresponding differences in their
+intended explanatory targets
+
+ most in some way aim to connect with
+theories of consciousness at other levels of description such as
+cognitive representational or higherorder theories
+
+
+
+a sampling of recent neural theories might include models that appeal to
+global integrated fields kinsbourne binding through synchronous
+oscillation singer 1999 crick and koch 1990 nmdamediated transient
+neural assemblies flohr 1995 thalamically modulated patterns of
+cortical activation llinas 2001 reentrant cortical loops edelman
+1989 comparator mechanisms that engage in continuous
+actionpredictionassessment loops between frontal and midbrain areas
+gray 1995 left hemisphere based interpretative processes gazzaniga
+1988 and emotive somatosensory hemostatic processes based in the
+frontallimbic nexus damasio 1999 or in the periaqueductal gray
+panksepp 1998
+
+
+
+in each case the aim is to explain how organization and activity at the
+relevant neural level could underlie one or another major type or
+feature of consciousness
+
+ global fields or transient synchronous
+assemblies could underlie the intentional unity of phenomenal
+consciousness
+
+ nmdabased plasticity specific thalamic projections into
+the cortex or regular oscillatory waves could all contribute to the
+formation of short term but widespread neural patterns or regularities
+needed to knit integrated conscious experience out of the local activity
+in diverse specialized brain modules
+
+ left hemisphere interpretative
+processes could provide a basis for narrative forms of conscious
+selfawareness
+
+ thus it is possible for multiple distinct neural
+theories to all be true with each contributing some partial
+understanding of the links between conscious mentality in its diverse
+forms and the active brain at its many levels of complex organization
+and structure
+
+
+
+one particular recent controversy has concerned the issue of whether
+global or merely local recurrent activity is sufficient for phenomenal
+consciousness
+
+ supporters of the global neuronal workspace model
+dehaene 2000 have argued that consciousness of any sort can occur only
+when contents are activated with a large scale pattern of recurrent
+activity involving frontal and parietal areas as well as primary sensory
+areas of cortex
+
+ others in particular the psychologist victor lamme
+2006 and the philosopher ned block 2007 have argued that local
+recurrent activity between higher and lower areas within sensory cortex
+e
+
+g
+
+ with visual cortex can suffice for phenomenal consciousness even
+in the absence of verbal reportability and other indicators of access
+consciousness
+
+
+
+9
+
+8 quantum theories
+
+other physical theories have gone beyond the neural and placed the
+natural locus of consciousness at a far more fundamental level in
+particular at the microphysical level of quantum phenomena
+
+ according
+to such theories the nature and basis of consciousness can not be
+adequately understood within the framework of classical physics but must
+be sought within the alternative picture of physical reality provided by
+quantum mechanics
+
+ the proponents of the quantum consciousness approach
+regard the radically alternative and often counterintuitive nature of
+quantum physics as just what is needed to overcome the supposed
+explanatory obstacles that confront more standard attempts to bridge the
+psychophysical gap
+
+
+
+again there are a wide range of specific theories and models that have
+been proposed appealing to a variety of quantum phenomena to explain a
+diversity of features of consciousness
+
+ it would be impossible to
+catalog them here or even explain in any substantial way the key
+features of quantum mechanics to which they appeal
+
+ however a brief
+selective survey may provide a sense however partial and obscure of
+the options that have been proposed
+
+
+
+the physicist roger penrose 1989 1994 and the anesthesiologist stuart
+hameroff 1998 have championed a model according to which consciousness
+arises through quantum effects occurring within subcellular structures
+internal to neurons known as microtubules
+
+ the model posits so called
+“objective collapses” which involve the quantum system moving from a
+superposition of multiple possible states to a single definite state
+but without the intervention of an observer or measurement as in most
+quantum mechanical models
+
+ according to the penrose and hameroff the
+environment internal to the microtubules is especially suitable for such
+objective collapses and the resulting selfcollapses produce a coherent
+flow regulating neuronal activity and making nonalgorithmic mental
+processes possible
+
+
+
+the psychiatrist ian marshall has offered a model that aims to explain
+the coherent unity of consciousness by appeal to the production within
+the brain of a physical state akin to that of a boseeinstein
+condensate
+
+ the latter is a quantum phenomenon in which a collection of
+atoms acts as a single coherent entity and the distinction between
+discrete atoms is lost
+
+ while brain states are not literally examples of
+boseeinstein condensates reasons have been offered to show why brains
+are likely to give rise to states that are capable of exhibiting a
+similar coherence marshall and zohar 1990
+
+
+
+a basis for consciousness has also been sought in the holistic nature of
+quantum mechanics and the phenomenon of entanglement according to which
+particles that have interacted continue to have their natures depend
+upon each other even after their separation
+
+ unsurprisingly these models
+have been targeted especially at explaining the coherence of
+consciousness but they have also been invoked as a more general
+challenge to the atomistic conception of traditional physics according
+to which the properties of wholes are to be explained by appeal to the
+properties of their parts plus their mode of combination a method of
+explanation that might be regarded as unsuccessful to date in explaining
+consciousness silberstein 1998 2001
+
+
+
+others have taken quantum mechanics to indicate that consciousness is an
+absolutely fundamental property of physical reality one that needs to
+be brought in at the very most basic level stapp 1993
+
+ they have
+appealed especially to the role of the observer in the collapse of the
+wave function i
+
+e
+
+ the collapse of quantum reality from a
+superposition of possible states to a single definite state when a
+measurement is made
+
+ such models may or may not embrace a form of
+quasiidealism in which the very existence of physical reality depends
+upon its being consciously observed
+
+
+
+there are many other quantum models of consciousness to be found in the
+literature—some advocating a radically revisionist metaphysics and
+others not—but these four provide a reasonable though partial sample
+of the alternatives
+
+
+
+9
+
+9 nonphysical theories
+
+most specific theories of consciousness—whether cognitive neural or
+quantum mechanical—aim to explain or model consciousness as a natural
+feature of the physical world
+
+ however those who reject a physicalist
+ontology of consciousness must find ways of modeling it as a nonphysical
+aspect of reality
+
+ thus those who adopt a dualist or antiphysicalist
+metaphysical view must in the end provide specific models of
+consciousness different from the five types above
+
+ both substance
+dualists and property dualists must develop the details of their
+theories in ways that articulate the specific natures of the relevant
+nonphysical features of reality with which they equate consciousness or
+to which they appeal in order to explain it
+
+
+
+a variety of such models have been proposed including the following
+
+
+david chalmers 1996 has offered an admittedly speculative version of
+panpsychism which appeals to the notion of information not only to
+explain psychophysical invariances between phenomenal and physically
+realized information spaces but also to possibly explain the ontology of
+the physical as itself derived from the informational a version of “it
+from bit” theory
+
+ in a somewhat similar vein gregg rosenberg has
+2004 proposed an account of consciousness that simultaneously
+addresses the ultimate categorical basis of causal relations
+
+ in both
+the causal case and the conscious case rosenberg argues the
+relationalfunctional facts must ultimately depend upon a categorical
+nonrelational base and he offers a model according to which causal
+relations and qualitative phenomenal facts both depend upon the same
+base
+
+ also as noted just above section 9
+
+8 some quantum theories
+treat consciousness as a fundamental feature of reality stapp 1993
+and insofar as they do so they might be plausibly classified as
+nonphysical theories as well
+
+
+
+10
+
+ conclusion
+
+a comprehensive understanding of consciousness will likely require
+theories of many types
+
+ one might usefully and without contradiction
+accept a diversity of models that each in their own way aim respectively
+to explain the physical neural cognitive functional representational
+and higherorder aspects of consciousness
+
+ there is unlikely to be any
+single theoretical perspective that suffices for explaining all the
+features of consciousness that we wish to understand
+
+ thus a synthetic
+and pluralistic approach may provide the best road to future progress
+
+
+
+bibliography
+
+ akins k
+
+ 1993
+
+ “a bat without qualities
+
+” in m
+
+ davies and g
+
+
+ humphreys eds
+
+ consciousness psychological and philosophical
+ essays
+
+ oxford blackwell
+
+
+ akins k
+
+ 1996
+
+ “lost the plot
+
+ reconstructing dennett s multiple
+ drafts theory of consciousness
+
+” mind and language 11 1–43
+
+
+ anderson j
+
+ 1983
+
+ the architecture of cognition
+
+ cambridge ma
+ harvard university press
+
+
+ armstrong d
+
+ 1968
+
+ a materialist theory of mind london routledge
+ and kegan paul
+
+
+ armstrong d
+
+ 1981
+
+ “what is consciousness
+
+” in the nature of mind
+
+
+ ithaca ny cornell university press
+
+
+ baars b
+
+ 1988
+
+ a cognitive theory of consciousness
+
+ cambridge
+ cambridge university press
+
+
+ balog k
+
+ 1999
+
+ “conceivability possibility and the mindbody
+ problem
+
+” philosophical review 108 497–528
+
+
+ bayne t
+
+ 2010
+
+ the unity of consciousness
+
+ oxford oxford
+ university press
+
+
+ bayne t
+
+ and montague m
+
+ eds
+
+ 2012
+
+ cognitive phenomenology
+
+
+ oxford oxford university press
+
+
+ block n
+
+ 1980a
+
+ “troubles with functionalism” in readings in the
+ philosophy of psychology volume 1 ned blocked
+
+ cambridge ma 
+ harvard university press 268–305
+
+
+ block n
+
+ 1980b
+
+ “are absent qualia impossible
+
+” philosophical
+ review 892 257–74
+
+
+ block n
+
+ 1990
+
+ “inverted earth” philosophical perspectives 4 j
+
+
+ tomberlin ed
+
+ atascadero ca ridgeview publishing company
+
+
+ block n
+
+ 1995
+
+ “on a confusion about the function of
+ consciousness
+
+” behavioral and brain sciences 18 227–47
+
+
+ block n
+
+ 1994
+
+ “what is dennett s theory a theory of
+
+”
+ philosophical topics 221–2 23–40
+
+
+ block n
+
+ 1996
+
+ “mental paint and mental latex
+
+” in e
+
+ villanueva
+ ed
+
+ perception
+
+ atascadero ca ridgeview
+
+
+ block n
+
+ and stalnaker r
+
+ 1999
+
+ “conceptual analysis dualism and
+ the explanatory gap
+
+” philosophical review 1081 1–46
+
+
+ block n
+
+ 2007
+
+ consciousness accessibility and the mesh between
+ psychology and neuroscience
+
+ behavioral and brain sciences 30
+ 481–548
+ boyd r
+
+ 1980
+
+ “materialism without reductionism what physicalism
+ does not entail
+
+” in n
+
+ block ed
+
+ readings in the philosophy of
+ psychology vol
+
+ 1
+
+ cambridge ma harvard university press
+
+
+ byrne a
+
+ 1997
+
+ “some like it hot consciousness and higherorder
+ thoughts
+
+” philosophical studies 2 103–29
+
+
+ byrne a
+
+ 2001
+
+ “intentionalism defended”
+
+ philosophical review
+ 110 199–240
+
+
+ campbell k
+
+ 1970
+
+ body and mind
+
+ new york doubleday
+
+
+ campbell j
+
+ 1994
+
+ past space and self
+
+ cambridge ma mit press
+
+
+ carruthers p
+
+ 2000
+
+ phenomenal consciousness
+
+ cambridge cambridge
+ university press
+
+
+ carruthers peter and veillet benedicte 2011
+
+ the case against
+ cognitive phenomenology
+
+ in t
+
+ bayne and m
+
+ montague eds
+
+
+ cognitive phenomenology
+
+ oxford oxford university press
+
+
+ chalmers d
+
+ 1995
+
+ “facing up to the problem of consciousness”
+
+
+ journal of consciousness studies 2 200–19
+
+
+ chalmers d
+
+ 1996
+
+ the conscious mind
+
+ oxford oxford university
+ press
+
+
+ chalmers d
+
+ 2002
+
+ “does conceivability entail possibility
+
+” in t
+
+
+ gendler and j
+
+ hawthorne eds
+
+ conceivability and possibility
+
+
+ oxford oxford university press
+
+
+ chalmers d
+
+ 2003
+
+ “the content and epistemology of phenomenal
+ belief
+
+” in a
+
+ jokic and q
+
+ smith eds
+
+ consciousness new
+ philosophical perspectives
+
+ oxford oxford university press
+
+
+ chalmers d
+
+ and jackson f
+
+ 2001
+
+ “conceptual analysis and
+ reductive explanation”
+
+ philosophical review 1103 315–60
+
+
+ churchland p
+
+ m
+
+ 1985
+
+ “reduction qualia and direct introspection
+ of brain states”
+
+ journal of philosophy 82 8–28
+
+
+ churchland p
+
+ m
+
+ 1995
+
+ the engine of reason and seat of the soul
+
+
+ cambridge ma mit press
+
+
+ churchland p
+
+ s
+
+ 1981
+
+ “on the alleged backwards referral of
+ experiences and its relevance to the mind body problem”
+
+ philosophy
+ of science 48 165–81
+
+
+ churchland p
+
+ s
+
+ 1983
+
+ “consciousness the transmutation of a
+ concept”
+
+ pacific philosophical quarterly 64 80–95
+
+
+ churchland p
+
+ s
+
+ 1996
+
+ “the hornswoggle problem”
+
+ journal of
+ consciousness studies 3 402–8
+
+
+ clark a
+
+ 1993
+
+ sensory qualities
+
+ oxford oxford university press
+
+
+ clark g
+
+ and rielsalvatore j
+
+ 2001
+
+ “grave markers middle and
+ early upper paleolithic burials”
+
+ current anthropology 424
+ 481–90
+
+
+ cleeremans a
+
+ ed
+
+ 2003
+
+ the unity of consciousness binding
+ integration and dissociation
+
+ oxford oxford university press
+
+
+ crick f
+
+ and koch c
+
+ 1990
+
+ “toward a neurobiological theory of
+ consciousness”
+
+ seminars in neuroscience 2 263–75
+
+
+ crick f
+
+ h
+
+ 1994
+
+ the astonishing hypothesis the scientific search
+ for the soul
+
+ new york scribners
+
+
+ davies m
+
+ and humphreys g
+
+ 1993
+
+ consciousness psychological and
+ philosophical essays
+
+ oxford blackwell
+
+
+ damasio a
+
+ 1999
+
+ the feeling of what happens body and emotion in
+ the making of consciousness
+
+ new york harcourt
+
+
+ dehaene s
+
+ and naccache l
+
+ 2000
+
+ towards a cognitive neuroscience
+ of consciousness basic evidence and a workspace framework
+
+
+ cognition 791–37
+
+
+ dennett d
+
+ c
+
+ 1978
+
+ brainstorms
+
+ cambridge mit press
+
+
+ dennett d
+
+ c
+
+ 1984
+
+ elbow room the varieties of free will worth
+ having
+
+ cambridge mit press
+
+
+ dennett d
+
+ c
+
+ 1990
+
+ “quining qualia”
+
+ in mind and cognition w
+
+
+ lycan ed
+
+ oxford blackwell 519–548
+
+
+ dennett d
+
+ c
+
+ 1991
+
+ consciousness explained
+
+ boston little brown
+ and company
+
+
+ dennett d
+
+ c
+
+ 1992
+
+ “the self as the center of narrative gravity”
+
+
+ in f
+
+ kessel p
+
+ cole and d
+
+ l
+
+ johnson eds
+
+ self and
+ consciousness multiple perspectives
+
+ hillsdale nj lawrence
+ erlbaum
+
+
+ dennett d
+
+ c
+
+ 2003
+
+ freedom evolves
+
+ new york viking
+
+
+ dennett d
+
+ c
+
+ and kinsbourne m
+
+ 1992
+
+ “time and the observer the
+ where and when of consciousness in the brain”
+
+ behavioral and brain
+ sciences 15 187–247
+
+
+ descartes r
+
+ 16441911
+
+ the principles of philosophy
+
+ translated
+ by e
+
+ haldane and g
+
+ ross
+
+ cambridge cambridge university press
+
+
+ dretske f
+
+ 1993
+
+ “conscious experience
+
+” mind 102 263–283
+
+
+ dretske f
+
+ 1994
+
+ “differences that make no difference”
+
+
+ philosophical topics 221–2 41–58
+
+
+ dretske f
+
+ 1995
+
+ naturalizing the mind
+
+ cambridge mass the mit
+ press bradford books
+
+
+ eccles j
+
+ and popper k
+
+ 1977
+
+ the self and its brain an argument
+ for interactionism
+
+ berlin springer
+ edelman g
+
+ 1989
+
+ the remembered present a biological theory of
+ consciousness
+
+ new york basic books
+
+
+ farah m
+
+ 1990
+
+ visual agnosia
+
+ cambridge mit press
+
+
+ flanagan o
+
+ 1992
+
+ consciousness reconsidered
+
+ cambridge ma mit
+ press
+
+
+ flohr h
+
+ 1995
+
+ “an information processing theory of anesthesia”
+
+
+ neuropsychologia 339 1169–80
+
+
+ flohr h
+
+ glade u
+
+ and motzko d
+
+ 1998
+
+ “the role of the nmda
+ synapse in general anesthesia”
+
+ toxicology letters 100–101 23–29
+
+
+ fodor j
+
+ 1974
+
+ “special sciences”
+
+ synthese28 77–115
+
+
+ fodor j
+
+ 1983
+
+ the modularity of mind
+
+ cambridge ma mit press
+
+
+ foster j
+
+ 1989
+
+ “a defense of dualism”
+
+ in j
+
+ smythies and j
+
+
+ beloff eds
+
+ the case for dualism
+
+ charlottesville va university
+ of virginia press
+
+
+ foster j
+
+ 1996
+
+ the immaterial self a defence of the cartesian
+ dualist conception of mind
+
+ london routledge
+
+
+ gallistel c
+
+ 1990
+
+ the organization of learning
+
+ cambridge ma mit
+ press
+
+
+ gardiner h
+
+ 1985
+
+ the mind s new science
+
+ new york basic books
+
+
+ gazzaniga m
+
+ 1988
+
+ mind matters how mind and brain interact to
+ create our conscious lives
+
+ boston houghton mifflin
+
+
+ gazzaniga m
+
+ 2011
+
+ who s in charge
+
+ free will and the science of
+ the brain new york harper collins
+
+
+ gennaro r
+
+ 1995
+
+ consciousness and selfconsciousness a defense of
+ the higherorder thought theory of consciousness
+
+ amsterdam and
+ philadelphia john benjamins
+
+
+ gennaro r
+
+ ed
+
+ 2004
+
+ higherorder theories of consciousness
+
+
+ amsterdam and philadelphia john benjamins
+
+
+ gennaro r
+
+ 2012
+
+ the consciousness paradox
+
+ cambridge ma mit
+ press
+
+
+ gray j
+
+ 1995
+
+ “the contents of consciousness a neuropsychological
+ conjecture”
+
+ behavior and brain sciences 184 659–722
+
+
+ hameroff s
+
+ 1998
+
+ “quantum computation in brain microtubules
+
+ the
+ penrosehameroff orch or model of consciousness”
+
+ philosophical
+ transactions royal society london a 356 1869–96
+
+
+ hardin c
+
+ 1986
+
+ color for philosophers
+
+ indianapolis hackett
+
+
+ hardin c
+
+ 1992
+
+ “physiology phenomenology and spinoza s true
+ colors”
+
+ in a
+
+ beckermann h
+
+ flohr and j
+
+ kim eds
+
+ emergence or
+ reduction
+
+ prospects for nonreductive physicalism
+
+ berlin and new
+ york de gruyter
+
+
+ harman g
+
+ 1990
+
+ “the intrinsic quality of experience”
+
+ in j
+
+
+ tomberlin ed
+
+ philosophical perspectives 4
+
+ atascadero ca
+ ridgeview publishing
+
+
+ hartshorne c
+
+ 1978
+
+ “panpsychism mind as sole reality”
+
+ ultimate
+ reality and meaning1 115–29
+
+
+ hasker w
+
+ 1999
+
+ the emergent self
+
+ ithaca ny cornell university
+ press
+
+
+ heidegger m
+
+ 19271962
+
+ being and time sein und zeit
+
+ translated
+ by j
+
+ macquarrie and e
+
+ robinson
+
+ new york harper and row
+
+
+ hellman g
+
+ and thompson f
+
+ 1975
+
+ “physicalism ontology
+ determination and reduction”
+
+ journal of philosophy 72 551–64
+
+
+ hill c
+
+ 1991
+
+ sensationsa defense of type materialism
+
+ cambridge
+ cambridge university press
+
+
+ hill c
+
+ 1997
+
+ “imaginability conceivability possibility and the
+ mindbody problem”
+
+ philosophical studies 87 61–85
+
+
+ hill c
+
+ and mclaughlin b
+
+ 1998
+
+ “there are fewer things in reality
+ than are dreamt of in chalmers philosophy”
+
+ philosophy and
+ phenomenological research 592 445–54
+
+
+ horgan t
+
+ 1984
+
+ “jackson on physical information and qualia
+
+”
+ philosophical quarterly 34 147–83
+
+
+ horgan t
+
+ and tienson j
+
+ 2002
+
+ “the intentionality of
+ phenomenology and the phenomenology of intentionality”
+
+ in d
+
+ j
+
+
+ chalmers ed
+
+ philosophy of mind classical and contemporary
+ readings
+
+ new york oxford university press
+
+
+ hume d
+
+ 17391888
+
+ a treatise of human nature
+
+ ed
+
+ l selbybigge
+
+
+ oxford oxford university press
+
+
+ humphreys n
+
+ 1982
+
+ consciousness regained
+
+ oxford oxford
+ university press
+
+
+ humphreys n
+
+ 1992
+
+ a history of the mind
+
+ london chatto and
+ windus
+
+
+ husserl e
+
+ 19131931
+
+ ideas general introduction to pure
+ phenomenology ideen au einer reinen phänomenologie und
+ phänomenologischen philosophie
+
+ translated by w
+
+ boyce gibson
+
+ new
+ york macmillan
+
+
+ husserl e
+
+ 19291960
+
+ cartesian meditations an introduction to
+ phenomenology
+
+ translated by dorian cairns
+
+ the hague m
+
+ nijhoff
+
+
+ huxley t
+
+ 1866
+
+ lessons on elementary physiology 8
+
+ london
+ huxley t
+
+ 1874
+
+ “on the hypothesis that animals are automata”
+
+
+ fortnightly review 95 555–80
+
+ reprinted in collected essays
+
+
+ london 1893
+
+
+ hurley s
+
+ 1998
+
+ consciousness in action
+
+ cambridge ma harvard
+ university press
+
+
+ jackson f
+
+ 1982
+
+ “epiphenomenal qualia”
+
+ philosophical quarterly
+ 32 127–136
+
+
+ jackson f
+
+ 1986
+
+ “what mary didn t know”
+
+ journal of philosophy
+ 83 291–5
+
+
+ jackson f
+
+ 1993
+
+ “armchair metaphysics”
+
+ in j
+
+ o learyhawthorne
+ and m
+
+ michael eds
+
+ philosophy of mind
+
+ dordrecht kluwer books
+
+
+ jackson f
+
+ 1998
+
+ “postscript on qualia”
+
+ in f
+
+ jackson mind method
+ and conditionals
+
+ london routledge
+
+
+ jackson f
+
+ 2004
+
+ “mind and illusion
+
+” in p
+
+ ludlow y
+
+ nagasawa
+ and d
+
+ stoljar eds
+
+ there s something about mary essays on the
+ knowledge argument
+
+ cambridge ma mit press
+
+
+ james w
+
+ 1890
+
+ the principles of psychology
+
+ new york henry holt
+ and company
+
+
+ jaynes j
+
+ 1974
+
+ the origins of consciousness in the breakdown of
+ the bicameral mind
+
+ boston houghton mifflin
+
+
+ kant i
+
+ 17871929
+
+ critique of pure reason
+
+ translated by n
+
+ kemp
+ smith
+
+ new york macmillan
+
+
+ kim j
+
+ 1987
+
+ “the myth of nonreductive physicalism”
+
+ proceedings
+ and addresses of the american philosophical association
+
+
+ kim j
+
+ 1998
+
+ mind in physical world
+
+ cambridge mit press
+
+
+ kind a
+
+ 2003
+
+ what s so transparent about transparency
+
+
+ philosophical studies 1153 225–44
+
+
+ kant i
+
+ 17871929
+
+ critique of pure reason
+
+ translated by n
+
+ kemp
+ smith
+
+ new york macmillan
+
+
+ kinsbourne m
+
+ 1988
+
+ “integrated field theory of consciousness”
+
+
+ in a
+
+ marcel and e
+
+ bisiach eds
+
+ consciousness in contemporary
+ science
+
+ oxford oxford university press
+
+
+ kirk r
+
+ 1974
+
+ “zombies vs materialists”
+
+ proceedings of the
+ aristotelian society supplementary volume 48 135–52
+
+
+ kirk r
+
+ 1991
+
+ “why shouldn t we be able to solve the mindbody
+ problem
+
+” analysis 51 17–23
+
+
+ köhler w
+
+ 1929
+
+ gestalt psychology
+
+ new york liveright
+
+
+ köffka k
+
+ 1935
+
+ principles of gestalt psychology
+
+ new york
+ harcourt brace
+
+
+ koch c
+
+ 2012
+
+ consciousness confessions of a romantic
+ reductionist
+
+ cambridge ma mit press
+
+
+ kriegel u
+
+ 2009
+
+ subjective consciousness
+
+ oxford oxford
+ university press 2009
+
+
+ kriegel u
+
+ and williford k
+
+ 2006
+
+ self representational approaches
+ to consciousness
+
+ cambridge ma mit press 2006
+
+
+ lamme v
+
+ 2006
+
+ toward a true neural stance on consciousness
+
+ trends
+ in cognitive science 1011 494–501
+
+
+ leibniz g
+
+ w
+
+ 1686 1991
+
+ discourse on metaphysics
+
+ translated
+ by d
+
+ garter and r
+
+ aries
+
+ indianapolis hackett
+
+
+ leibniz g
+
+ w
+
+ 17201925
+
+ the monadology
+
+ translated by r
+
+ lotte
+
+
+ london oxford university press
+
+
+ levine j
+
+ 1983
+
+ “materialism and qualia the explanatory gap”
+
+
+ pacific philosophical quarterly 64 354–361
+
+
+ levine j
+
+ 1993
+
+ “on leaving out what it s like”
+
+ in m
+
+ davies
+ and g
+
+ humphreys eds
+
+ consciousness psychological and
+ philosophical essays
+
+ oxford blackwell
+
+
+ levine j
+
+ 1994
+
+ “out of the closet a qualophile confronts
+ qualophobia”
+
+ philosophical topics 221–2 107–26
+
+
+ levine j
+
+ 2001
+
+ purple haze the puzzle of conscious experience
+
+
+ cambridge mass the mit press
+
+
+ lewis d
+
+ 1972
+
+ “psychophysical and theoretical identifications”
+
+
+ australasian journal of philosophy 50 249–58
+
+
+ lewis d
+
+ 1990
+
+ “what experience teaches
+
+” in w
+
+ lycan ed
+
+ mind and
+ cognition a reader
+
+ oxford blackwell
+
+
+ libet b
+
+ 1982
+
+ “subjective antedating of a sensory experience and
+ mindbrain theories”
+
+ journal of theoretical biology 114 563–70
+
+
+ libet b
+
+ 1985
+
+ “unconscious cerebral initiative and the role of
+ conscious will in voluntary action”
+
+ behavioral and brain sciences
+ 8 529–66
+
+
+ llinas r
+
+ 2001
+
+ i of the vortex from neurons to self
+
+ cambridge
+ ma mit press
+ loar b
+
+ 1990
+
+ “phenomenal states” in philosophical perspectives
+ 4 81–108
+
+
+ loar b
+
+ 1997
+
+ “phenomenal states”
+
+ in n
+
+ block o
+
+ flanagan and g
+
+
+ guzeldere eds
+
+ the nature of consciousness
+
+ cambridge ma mit
+ press
+
+
+ locke j
+
+ 16881959
+
+ an essay on human understanding
+
+ new york
+ dover
+
+
+ lockwood m
+
+ 1989
+
+ mind brain and the quantum
+
+ oxford oxford
+ university press
+
+
+ lorenz k
+
+ 1977
+
+ behind the mirror rückseite dyes speigels
+
+
+ translated by r
+
+ taylor
+
+ new york harcourt brace jovanovich
+
+
+ lycan w
+
+ 1987
+
+ consciousness
+
+ cambridge ma mit press
+
+
+ lycan w
+
+ 1996
+
+ consciousness and experience
+
+ cambridge ma mit
+ press
+
+
+ lycan w
+
+ 2004
+
+ “the superiority of hop to hot”
+
+ in r
+
+ gennaro ed
+
+
+ higherorder theories of consciousness
+
+ amsterdam and philadelphia
+ john benjamins
+
+
+ marshall i
+
+ and zohar d
+
+ 1990
+
+ the quantum self human nature and
+ consciousness defined by the new physics
+
+ new york morrow
+
+
+ mcginn c
+
+ 1989
+
+ “can we solve the mindbody problem
+
+” mind 98
+ 349–66
+ mcginn c
+
+ 1991
+
+ the problem of consciousness
+
+ oxford blackwell
+
+
+ mcginn c
+
+ 1995
+
+ “consciousness and space
+
+” in t
+
+ metzinger ed
+
+
+ conscious experience
+
+ paderborn ferdinand schöningh
+
+
+ merleauponty m
+
+ 19451962
+
+ phenomenology of perception
+ phénoménologie de lye perception
+
+ translated by colin smith
+
+
+ london routledge and kegan paul
+
+
+ metzinger t
+
+ ed
+
+ 1995
+
+ conscious experience
+
+ paderborn ferdinand
+ schöningh
+
+
+ metzinger t
+
+ ed
+
+ 2000
+
+ neural correlates of consciousness
+ empirical and conceptual questions
+
+ cambridge ma mit press
+
+
+ mill j
+
+ 1829
+
+ analysis of the phenomena of the human mind
+
+ london
+
+
+ mill j
+
+s
+
+ 1865
+
+ an analysis of sir william hamilton s philosophy
+
+
+ london
+
+
+ moore g
+
+ e
+
+ 1922
+
+ “the refutation of idealism
+
+” in g
+
+ e
+
+ moore
+ philosophical studies
+
+ london routledge and kegan paul
+
+
+ nagel t
+
+ 1974
+
+ “what is it like to be a bat
+
+” philosophical review
+ 83 435–456
+
+
+ nagel t
+
+ 1979
+
+ “panpsychism
+
+” in t
+
+ nagel mortal questions
+
+
+ cambridge cambridge university press
+
+
+ natsoulas t
+
+ 1983
+
+ “concepts of consciousness
+
+” journal of mind and
+ behavior 4 195–232
+
+
+ nelkin n
+
+ 1989
+
+ “unconscious sensations
+
+” philosophical psychology
+ 2 129–41
+
+
+ nemirow l
+
+ 1990
+
+ “physicalism and the cognitive role of
+ acquaintance
+
+” in w
+
+ lycan ed
+
+ mind and cognition a reader
+
+
+ oxford blackwell
+
+
+ neisser u
+
+ 1965
+
+ cognitive psychology
+
+ englewood cliffs prentice
+ hall
+
+
+ nidarümelin m
+
+ 1995
+
+ “what mary couldn t know belief about
+ phenomenal states
+
+” in t
+
+ metzinger ed
+
+ conscious experience
+
+
+ paderborn ferdinand schöningh
+
+
+ panksepp j
+
+ 1998
+
+ affective neuroscience
+
+ oxford oxford university
+ press
+
+
+ papineau d
+
+ 1994
+
+ philosophical naturalism
+
+ oxford blackwell
+
+
+ papineau d
+
+ 1995
+
+ “the antipathetic fallacy and the boundaries of
+ consciousness
+
+” in t
+
+ metzinger ed
+
+ conscious experience
+
+
+ paderborn ferdinand schöningh
+
+
+ papineau d
+
+ 2002
+
+ thinking about consciousness
+
+ oxford oxford
+ university press
+
+
+ peacocke c
+
+ 1983
+
+ sense and content oxford oxford university
+ press
+
+
+ pearson m
+
+p
+
+ 1999
+
+ the archeology of death and burial
+
+ college
+ station texas texas am press
+
+
+ penfield w
+
+ 1975
+
+ the mystery of the mind a critical study of
+ consciousness and the human brain
+
+ princeton nj princeton
+ university press
+
+
+ perry j
+
+ 2001
+
+ knowledge possibility and consciousness
+
+
+ cambridge ma mit press
+
+
+ penrose r
+
+ 1989
+
+ the emperor s new mind computers minds and the
+ laws of physics
+
+ oxford oxford university press
+
+
+ penrose r
+
+ 1994
+
+ shadows of the mind
+
+ oxford oxford university
+ press
+
+
+ pitt d
+
+ 2004
+
+ the phenomenology of cognition or what is it like to
+ believe that p
+
+ philosophy and phenomenological research 69 1–36
+
+
+ place u
+
+ t
+
+ 1956
+
+ “is consciousness a brain process
+
+” british
+ journal of psychology 44–50
+
+
+ prinz j
+
+ 2012
+
+ the conscious brain
+
+ oxford oxford university
+ press
+
+
+ putnam h
+
+ 1975
+
+ “philosophy and our mental life
+
+” in h
+
+ putnam mind
+ language and reality philosophical papers vol
+
+ 2
+
+ cambridge
+ cambridge university press
+
+
+ putnam h
+
+ and oppenheim p
+
+ 1958
+
+ “unity of science as a working
+ hypothesis
+
+” in h
+
+ fiegl g
+
+ maxwell and m
+
+ scriven eds
+
+ minnesota
+ studies in the philosophy of science ii
+
+ minneapolis university of
+ minnesota press
+
+
+ rey g
+
+ 1986
+
+ “a question about consciousness
+
+” in h
+
+ otto and j
+
+
+ tuedio eds
+
+ perspectives on mind
+
+ dordrecht kluwer
+
+
+ robinson h
+
+ 1982
+
+ matter and sense a critique of contemporary
+ materialism
+
+ cambridge cambridge university press
+
+
+ robinson d
+
+ 1993
+
+ “epiphenomenalism laws and properties
+
+”
+ philosophical studies 69 1–34
+
+
+ rosenberg g
+
+ 2004
+
+ a place for consciousness probing the deep
+ structure of the natural world
+
+ new york oxford university press
+
+
+ rosenthal d
+
+ 1986
+
+ “two concepts of consciousness
+
+” philosophical
+ studies 49 329–59
+
+
+ rosenthal d
+
+ 1991
+
+ “the independence of consciousness and sensory
+ quality
+
+” in e
+
+ villanueva ed
+
+ consciousness
+
+ atascadero ca
+ ridgeview publishing
+
+
+ rosenthal d
+
+ m
+
+ 1993
+
+ “thinking that one thinks
+
+” in m
+
+ davies
+ and g
+
+ humphreys eds
+
+ consciousness psychological and
+ philosophical essays
+
+ oxford blackwell
+
+
+ rosenthal d
+
+ 1994
+
+ “first person operationalism and mental
+ taxonomy
+
+” philosophical topics 221–2 319–50
+
+
+ rosenthal d
+
+ m
+
+ 1997
+
+ “a theory of consciousness
+
+” in n
+
+ block o
+
+
+ flanagan and g
+
+ guzeldere eds
+
+ the nature of consciousness
+
+
+ cambridge ma mit press
+
+
+ russell b
+
+ 1927
+
+ the analysis of matter
+
+ london kegan paul
+
+
+ ryle g
+
+ 1949
+
+ the concept of mind
+
+ london hutchinson and company
+
+
+ sacks o
+
+ 1985
+
+ the man who mistook his wife for a hat
+
+ new york
+ summit
+
+
+ schacter d
+
+ 1989
+
+ “on the relation between memory and
+ consciousness dissociable interactions and consciousness
+
+” in h
+
+
+ roediger and f
+
+ craik eds
+
+ varieties of memory and consciousness
+
+
+ hillsdale nj erlbaum
+
+
+ schneider w
+
+ and shiffrin r
+
+ 1977
+
+ “controlled and automatic
+ processing detection search and attention
+
+” psychological review
+ 84 1–64
+
+
+ searle j
+
+ r
+
+ 1990
+
+ “consciousness explanatory inversion and
+ cognitive science
+
+” behavioral and brain sciences 13 585–642
+
+
+ searle j
+
+ 1992
+
+ the rediscovery of the mind
+
+ cambridge ma mit
+ press
+
+
+ seager w
+
+ 1995
+
+ “consciousness information and panpsychism
+
+”
+ journal of consciousness studies 2 272–88
+
+
+ seigel s
+
+ 2010
+
+ the contents of visual experience
+
+ oxford oxford
+ university press
+
+
+ siewert c
+
+ 1998
+
+ the significance of consciousness
+
+ princeton nj
+ princeton university press
+
+
+ shallice t
+
+ 1988
+
+ from neuropsychology to mental structure
+
+
+ cambridge cambridge university press
+
+
+ shear j
+
+ 1997
+
+ explaining consciousness the hard problem
+
+
+ cambridge ma mit press
+
+
+ shoemaker s
+
+ 1975
+
+ “functionalism and qualia” philosophical
+ studies 27 291–315
+
+
+ shoemaker s
+
+ 1981
+
+ “absent qualia are impossible
+
+” philosophical
+ review 90 581–99
+
+
+ shoemaker s
+
+ 1982
+
+ “the inverted spectrum
+
+” journal of philosophy
+ 79 357–381
+
+
+ shoemaker s
+
+ 1990
+
+ “qualities and qualia what s in the mind”
+ philosophy and phenomenological research supplement 50 109–131
+
+
+ shoemaker s
+
+ 1998
+
+ “two cheers for representationalism” philosophy
+ and phenomenological research
+
+
+ silberstein m
+
+ 1998
+
+ “emergence and the mindbody problem
+
+” journal
+ of consciousness studies 5 464–82
+
+
+ silberstein m 2001
+
+ “converging on emergence consciousness
+ causation and explanation
+
+” journal of consciousness studies 8
+ 61–98
+
+
+ singer p
+
+ 1975
+
+ animal liberation
+
+ new york avon books
+
+
+ singer w
+
+ 1999
+
+ “neuronal synchrony a versatile code for the
+ definition of relations
+
+” neuron 24 49–65
+
+
+ skinner b
+
+ f
+
+ 1953
+
+ science and human behavior
+
+ new york
+ macmillan
+
+
+ smart j
+
+ 1959
+
+ “sensations and brain processes
+
+” philosophical
+ review 68 141–56
+
+
+ stapp h
+
+ 1993
+
+ mind matter and quantum mechanics
+
+ berlin springer
+ verlag
+
+
+ stoljar d
+
+ 2001
+
+ “two conceptions of the physical
+
+” philosophy and
+ phenomenological research 62 253–81
+ strawson g
+
+ 1994
+
+ mental reality
+
+ cambridge mass mit press
+ bradford books
+
+
+ strawson g
+
+ 2005
+
+ real intentionality
+
+ phenomenology and the
+ cognitive sciences 33 287–313
+
+
+ swinburne r
+
+ 1986
+
+ the evolution of the soul
+
+ oxford oxford
+ university press
+
+
+ titchener e
+
+ 1901
+
+ an outline of psychology
+
+ new york macmillan
+
+
+ tononi g
+
+ 2008
+
+ consciousness as integrated information a
+ provisional manifesto
+
+ biological bulletin 215 216–42
+
+
+ travis c
+
+ 2004
+
+ “the silence of the senses
+
+” mind 113 57–94
+
+
+ triesman a
+
+ and gelade g
+
+ 1980
+
+ “a feature integration theory of
+ attention
+
+” cognitive psychology 12 97–136
+
+
+ tye m
+
+ 1995
+
+ ten problems of consciousness
+
+ cambridge ma mit
+ press
+
+
+ tye m
+
+ 2000
+
+ consciousness color and content
+
+ cambridge ma mit
+ press
+
+
+ tye m
+
+ 2003
+
+ “blurry images double vision and other oddities new
+ troubles for representationalism
+
+” in a
+
+ jokic and q
+
+ smith eds
+
+
+ consciousness new philosophical perspectives
+
+ oxford oxford
+ university press
+
+
+ tye m
+
+ 2005
+
+ consciousness and persons
+
+ cambridgema mit press
+
+
+ tye m
+
+ and wright b
+
+ 2011
+
+ is there a phenomenology of thought
+
+
+ in t
+
+ bayne and m
+
+ montague eds
+
+ cognitive phenomenology
+
+ oxford
+ oxford university press
+
+
+ van gulick r
+
+ 1985
+
+ “physicalism and the subjectivity of the
+ mental
+
+” philosophical topics 13 51–70
+
+
+ van gulick r
+
+ 1992
+
+ “nonreductive materialism and intertheoretical
+ constraint
+
+” in a
+
+ beckermann h
+
+ flohr j
+
+ kim eds
+
+ emergence and
+ reduction
+
+ berlin and new york de gruyter 157–179
+
+
+ van gulick r
+
+ 1993
+
+ “understanding the phenomenal mind are we all
+ just armadillos
+
+” in m
+
+ davies and g
+
+ humphreys eds
+
+
+ consciousness psychological and philosophical essays
+
+ oxford
+ blackwell
+
+
+ van gulick r
+
+ 1994
+
+ “dennett drafts and phenomenal realism
+
+”
+ philosophical topics 221–2 443–56
+
+
+ van gulick r
+
+ 1995
+
+ “what would count as explaining consciousness
+
+”
+ in t
+
+ metzinger ed
+
+ conscious experience
+
+ paderborn ferdinand
+ schöningh
+
+
+ van gulick r
+
+ 2000
+
+ “inward and upward reflection introspection
+ and selfawareness
+
+” philosophical topics 28 275–305
+
+
+ van gulick r
+
+ 2003
+
+ “maps gaps and traps
+
+” in a
+
+ jokic and q
+
+
+ smith eds
+
+ consciousness new philosophical perspectives
+
+ oxford
+ oxford university press
+
+
+ van gulick r
+
+ 2004
+
+ “higherorder global states hogs an
+ alternative higherorder model of consciousness
+
+” in gennaro r
+
+ ed
+
+
+ higherorder theories of consciousness
+
+ amsterdam and philadelphia
+ john benjamins
+
+
+ van inwagen p
+
+ 1983
+
+ an essay on free will
+
+ oxford oxford
+ university press
+
+
+ varela f
+
+ and maturana h
+
+ 1980
+
+ cognition and autopoiesis
+
+
+ dordrecht d
+
+ reidel
+
+
+ varela f
+
+ 1995
+
+ “neurophenomenology a methodological remedy for
+ the hard problem
+
+” journal of consciousness studies 3 330–49
+
+
+ varela f
+
+ and thomson e
+
+ 2003
+
+ “neural synchronicity and the unity
+ of mind a neurophenomenological perspective
+
+” in cleermans a
+
+ ed
+
+
+ the unity of consciousness binding integration and dissociation
+
+
+ oxford oxford university press
+ velmans m
+
+ 1991
+
+ “is human information processing conscious
+
+”
+ behavioral and brain sciences 144 651–668
+ velmans m
+
+ 2003
+
+ “how could conscious experiences affect brains
+
+”
+ journal of consciousness studies 9 3–29
+
+
+ von helmholtz h
+
+ 18971924
+
+ treatise on physiological optics
+
+
+ translated by j
+
+ soothly
+
+ new york optical society of america
+
+
+ wilkes k
+
+ v
+
+ 1984
+
+ “is consciousness important
+
+” british journal
+ for the philosophy of science 35 223–43
+
+
+ wilkes k
+
+ v
+
+ 1988
+
+ “yishi duo us and consciousness
+
+” in a
+
+ marcel
+ and e
+
+ bisiach eds
+
+ consciousness in contemporary science
+
+ oxford
+ oxford university press
+
+
+ wilkes k
+
+ v
+
+ 1995
+
+ “losing consciousness
+
+” in t
+
+ metzinger ed
+
+
+ conscious experience
+
+ paderborn ferdinand schöningh
+
+
+ watson j
+
+ 1924
+
+ behaviorism
+
+ new york w
+
+ w
+
+ norton
+
+
+ wegner d
+
+ 2002
+
+ the illusion of conscious will
+
+ cambridge ma mit
+ press
+
+
+ wittgenstein l
+
+ 19211961
+
+ tractatus logicophilosophicus
+
+
+ translated by d
+
+ pears and b
+
+ mcguinness
+
+ london routledge and
+ kegan paul
+
+
+ wundt w
+
+ 1897
+
+ outlines of psychology
+
+ leipzig w
+
+ engleman
+
+
+ yablo s
+
+ 1998
+
+ “concepts and consciousness
+
+” philosophy and
+ phenomenological research 59 455–63
+
+
+
+academic tools
+
+ 
+ sep man icon how to cite this entry
+
+
+ sep man icon preview the pdf version of this entry at the friends of the sep society
+
+
+ inpho icon look up topics and thinkers related to this entry at the internet philosophy ontology project inpho
+
+
+ phil papers icon enhanced bibliography for this entry at philpapers with links to its database
+
+
+ 
+
+other internet resources
+
+ journal of consciousness studies
+
+
+ association for the scientific study of consciousness
+
+
+ center for consciousness studies university of arizonatucson
+
+
+
+related entries
+
+consciousness and intentionality consciousness higherorder theories
+ consciousness representational theories of consciousness unity of
+ dualism epiphenomenalism free will functionalism materialism
+eliminative panpsychism qualia qualia knowledge argument 
+quantum theory and consciousness selfknowledge universals the
+medieval problem of zombies
+
+acknowledgments
+
+the sep editors would like to thank claudio vanin for pointing out a
+rather lengthy list of typographical errors that had crept into this
+entry
+
+ we re grateful to him for taking the time to compile the list
+
+
+
+copyright © 2014 by
+robert van gulick rnvangulsyr
+
+edu
+
+open access to the sep is made possible by a worldwide funding
+initiative
+
+
+the encyclopedia now needs your support
+please read how you can help keep the encyclopedia free
+
+ browse
+
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+
+ about
+
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ accessibility
+ contact
+
+ support sep
+
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+ mirror sites
+
+view this site from another server
+
+usa main site philosophy stanford university
+
+ info about mirror sites
+
+the stanford encyclopedia of philosophy is copyright © 2023 by the
+metaphysics research lab department of philosophy stanford university
+
+library of congress catalog data issn 10955054

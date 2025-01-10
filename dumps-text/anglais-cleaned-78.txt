@@ -1,0 +1,1216 @@
+skip to main content
+
+mobile navigation
+
+psychology today
+
+ find a therapist
+ find a therapist
+
+ therapists
+
+ therapists
+ psychiatrists
+ treatment centers
+ support groups
+
+ x
+
+ international therapists login sign up
+
+ international
+
+ australia
+ austria
+ belgium
+ canada
+ denmark
+ hong kong
+ ireland
+ new zealand
+ singapore
+ south africa
+ sweden
+ switzerland
+ united kingdom
+ united states
+ get help
+ mental health
+
+ addiction
+ anxiety
+ adhd
+ asperger s
+ autism
+ bipolar disorder
+ chronic pain
+ depression
+ eating disorders
+
+ personality
+
+ passive aggression
+ personality
+ shyness
+
+ personal growth
+
+ goal setting
+ happiness
+ positive psychology
+ stopping smoking
+
+ relationships
+
+ low sexual desire
+ relationships
+ sex
+
+ family life
+
+ child development
+ parenting
+
+ view help index
+
+ do i need help
+
+
+
+ self tests
+ new
+ therapy center
+
+ recently diagnosed
+
+
+
+ diagnosis dictionary
+ types of therapy
+
+ talk to someone
+
+ find a therapist
+ find a treatment center
+ find a psychiatrist
+ find a support group
+ find online therapy
+ magazine
+ current
+
+ january 2025 magazine cover
+
+ january 2025
+
+ the new grownup
+
+ there s been a fundamental shift in how we define adulthood—and at
+ what pace it occurs
+
+ pt s authors consider how a once ironclad
+ construct is now up for grabs—and what it means for young people s
+ mental health today
+
+
+
+ subscribe
+
+ recent
+
+ november 2024 magazine cover
+
+ september 2024 magazine cover
+
+ july 2024 magazine cover
+
+ may 2024 magazine cover
+
+ issue archive
+ today
+ news
+
+ essential reads
+
+ trending topics
+
+ emotional intelligence
+ narcissism
+ gaslighting
+ bias
+ affective forecasting
+ neuroscience
+
+ see all
+
+intl
+
+search
+
+search
+
+search
+
+ verified by psychology today
+
+ralph lewis m
+
+d
+
+
+
+ralph lewis m
+
+d
+
+
+
+finding purpose
+
+philosophy
+
+an overview of the leading theories of consciousness
+
+organizing and comparing the major candidate theories in the field
+
+
+
+updated november 25 2023 reviewed by davia sills
+
+ 
+ share on facebookshare
+
+ 
+ share on twittertweet
+
+ 
+ share on linkedinshare
+
+ 
+ share via emailemail
+
+key points
+
+ leading theories of consciousness include hot gwt iit reentry
+ and predictive processing theories
+
+
+ other welldeveloped theoretical approaches to consciousness involve
+ attention learning and affect
+
+
+ many theories seek to solve the “hard problem” of consciousness but
+ not everyone agrees the problem exists
+
+
+
+source agsandrewadobe stock
+
+source agsandrewadobe stock
+
+this post is part i of a series
+
+
+
+the field of consciousness studies has come of age
+
+ prior to the 1990s
+theories of consciousness were more of a philosophical pursuit than a
+serious scientific one
+
+ this was largely because scientists considered
+the domain of subjective experience—which is what consciousness
+fundamentally is—to be well too subjective
+
+ it just didn t seem
+amenable to objective empirical study using the scientific method
+
+ and
+the whole concept of consciousness was considered too slippery and
+vague
+
+
+
+quicksand
+
+
+
+even now in my own very practicallyoriented clinical field of
+psychiatry—one which relies heavily on subjective selfreport by
+patients—when i talk with colleagues about my interest in the science of
+consciousness and tell them about the scientific conferences focused on
+it which i like to attend i am met with comments such as this one from
+a recent email exchange “you brave brave man you—willing to wade into
+the bottomless pit of quicksand that is consciousness studies i run
+screaming in the opposite direction
+
+”
+
+my response to this quip was to point out that a quick glance at the
+program of the particular conference i had just returned from would
+attest to the fact that this field has matured into a rigorous and
+rapidly developing sphere of neuroscience with considerably less
+quicksand than before
+
+ an additional criticism could legitimately be
+that the topic of consciousness has attracted a huge number of mystical
+woo practitioners but even if 99 percent of the field were comprised of
+pseudoscience this conference and the large vibrant scientific
+community it represents would certainly be the other 1 percent
+
+
+
+the hard problem
+
+inevitably attempts to scientifically explain consciousness run up
+against the “explanatory gap” or what is called the “hard problem” of
+consciousness—the problem of subjective experience why it feels like
+something to be conscious
+
+¹ or as the philosopher thomas nagel famously
+formulated it “something that it is like to be
+
+”² the socalled “easy
+problems” concern questions like how the brain processes information
+how different sensory inputs are integrated how memories are formed
+and how we can selectively focus our attention
+
+ they are “easy” relative
+to the hard problem in that they are more scientifically tractable
+
+
+
+correlates vs
+
+ explanations
+
+in the early decades of the revival of scientific interest in studying
+consciousness research focused on identifying the “neural correlates of
+consciousness” nccs which are the essential neural events needed to
+produce conscious states
+
+ that search concentrated on brain states
+closely tied to consciousness
+
+ over time more attention has been
+directed toward developing theories of consciousness tocs
+
+ while the
+ncc approach looks for correlations between brain activity and
+consciousness tocs seek explanatory links between neural mechanisms and
+aspects of consciousness
+
+
+
+a proliferation of theories
+
+presently we are still at a relatively early stage in the scientific
+study of consciousness
+
+ at this point there are a great many theories
+of consciousness proliferating and competing with each other
+
+ those
+theories sometimes seem to talk past each other as they explore vastly
+different approaches to the problem
+
+ attempting to understand the
+various tocs and how they contrast with one another can be quite
+overwhelming even for those with a good deal of familiarity with the
+field
+
+
+
+in recent years there have been a number of academic papers attempting
+to catalogue and compare the various theories
+
+³ still for the general
+reader it can all be quite confusing and impenetrable
+
+ this fivepart
+blog series will attempt to make some of the major theories more
+accessible to a general educated readership
+
+ only a few major theories
+will be covered here
+
+ several others have already been previously
+covered in my other blog posts
+
+⁴
+
+four leading contenders
+
+among the most helpful recent academic journal articles comparing
+different theories of consciousness is a 2022 paper by anil seth and tim
+bayne
+
+⁵
+
+seth and bayne focus their review mainly on the following four prominent
+theoretical approaches to consciousness
+
+ i will briefly summarize these
+here in simple terms
+
+1
+
+ higherorder theories hots these theories propose that thoughts
+ become conscious when basic perceptions “lowerorder”
+ representations become rerepresented as higherorder
+ representations at higher levels of the brain specifically in the
+ prefrontal cortex
+
+
+2
+
+ global workspace theories gwts according to these theories
+ perceptions thoughts emotions etc
+
+ become conscious when they
+ gain access to a “workspace” or to apply another analogy when they
+ make it into the “spotlight”—as if the mind were a theater where
+ conscious thought is the activity in the spotlight on the stage at a
+ given moment except that unlike in the analogy the actual
+ workspace in the brain is not localized but rather is distributed
+ across the frontal and parietal regions of the cortex according to
+ the theory
+
+
+3
+
+ integrated information theory iit this theory is about how parts
+ of a brain interact to create a unified experience
+
+ consciousness is
+ theorized to be related to how much information is integrated among
+ the different parts of the brain
+
+ iit tries to mathematically
+ measure this
+
+ the more information that is connected and integrated
+ the more conscious the system is thought to be
+
+ the theory suggests
+ that not just brains but any complex system with the right level of
+ interconnectedness and integration of information could exhibit
+ consciousness with simpler systems manifesting only an
+ insignificant modicum of consciousness
+
+ iit attempts to explain the
+ quality of conscious experience suggesting that the unique pattern
+ of relationships between the elements of the system is what defines
+ a particular conscious experience
+
+
+4
+
+ reentry and predictive processing theories the core claim of
+ reentry theory and predictive processing is that conscious mental
+ states are associated with topdown signaling
+
+ topdown signaling
+ refers to the process by which higherlevel brain regions send
+ information expectations or context to lowerlevel brain regions
+
+
+ this communication helps shape how the brain perceives and
+ interprets bottomup information received via its sense organs from
+ the world around it
+
+ predictive processing theories are not
+ specifically theories of consciousness but are more general accounts
+ of brain function that can be used to formulate ideas about the
+ properties of consciousness
+
+
+
+philosophy essential reads
+
+
+
+a guide to navigating life s complexities
+
+
+
+what happened to the stratification view of nature
+
+
+
+other strong contenders
+
+besides the above four categories of theories seth and bayne also
+acknowledge other welldeveloped approaches to consciousness—ones that
+involve attention learning and affect
+
+theoretical approaches focused on attention
+
+ attention schema theory ast this is discussed in my post “is
+ consciousness an illusion
+
+”
+
+theoretical approaches focused on learning
+
+ unlimited associative learning ual this is discussed in my post
+ “learning may be the key to the evolution of consciousness
+
+” ual
+ arguably has the strongest evolutionary grounding of all the
+ theories
+
+⁶
+ other learningbased theories overlap with some theories described
+ under the four main sets of theories listed above such as axel
+ cleeremans version of higherorder theory hot and victor lamme s
+ local recurrency account
+
+⁷
+ learningbased theories are also closely related to “selectionist”
+ approaches which ground consciousness in evolutionarylike dynamics
+ within and between neuronal populations referring to gerald
+ edelman s neural darwinism theory
+
+⁸
+
+affectbased theories
+
+ damasio s “self comes to mind” theory according to this theory
+ consciousness depends on interactions between homeostatic routines
+ and multilevel interoceptive maps with affect and feeling at the
+ core
+
+⁹ this is discussed in my posts “are we all zombies
+
+” and “the
+ brain as a prediction machine the key to the self
+
+”
+ some proposals mix an affectbased emphasis with predictive
+ processing to ground conscious experiences in controloriented
+ interoceptive predictions
+
+ this refers to the way the brain controls
+ the body s internal organs and physiological parameters by making
+ predictions about what they should be
+
+ for example the brain
+ predicts what the body s blood glucose level should be and then
+ sends signals to adjust that state if it deviates from predictions
+ anil seth s “beast machine” theory—discussed in my posts “the brain
+ as a prediction machine the key to consciousness
+
+” and “the key to
+ the self
+
+” and lisa feldman barrett s theory¹⁰
+
+
+ some affectbased theories consider cortical mechanisms to be
+ unnecessary for consciousness suggesting instead that the
+ mechanisms of consciousness are located in the brainstem e
+
+g
+
+ the
+ theories of mark solms¹¹ and bjorn merker¹²
+
+in future parts of this blog series we will discuss hots gwts iit
+reentry and predictive processing theories following which we will be
+in a better position to judge whether the field is any closer to solving
+the “hard problem” of consciousness or whether there really is such a
+problem at all
+
+
+
+references
+
+1
+
+ the subjective quality of a conscious experience is also referred to
+as “qualia” – for example the redness of red
+
+ is the experience of
+seeing redness the same for you as for me
+
+ we assume it is but there s
+no really objective way to tell
+
+ and why and how should the visual
+experience even have this “redness” quality at all as the product of
+electrical and chemical signals reverberating in our physical brains
+
+
+the answers to these questions are not selfevident
+
+
+
+2
+
+ nagel stated “an organism has conscious mental states if and only if
+there is something that it is like to be that organism – something that
+it is like for the organism
+
+” nagel t
+
+ 1974
+
+ what is it like to be a
+bat
+
+ the philosophical review 834 435450
+
+
+
+3
+
+ e
+
+g
+
+ northoff g
+
+ lamme v
+
+ 2020
+
+ neural signs and mechanisms of
+consciousness is there a potential convergence of theories of
+consciousness in sight
+
+
+
+ neuroscience and biobehavioral reviews 118
+568–587
+
+ httpsdoi
+
+org10
+
+1016j
+
+neubiorev
+
+2020
+
+07
+
+019
+
+ doerig a
+
+ schurger a
+
+ herzog m
+
+ h
+
+ 2021
+
+ hard criteria for
+empirical theories of consciousness
+
+ cognitive neuroscience 122
+41–62
+
+ httpsdoi
+
+org10
+
+108017588928
+
+2020
+
+1772214
+
+ del pin s
+
+ h
+
+ skóra z
+
+ sandberg k
+
+ overgaard m
+
+ wierzchoń
+m
+
+ 2021
+
+ comparing theories of consciousness why it matters and how
+to do it
+
+ neuroscience of consciousness 20212 niab019
+
+
+httpsdoi
+
+org10
+
+1093ncniab019
+
+ signorelli c
+
+ m
+
+ szczotka j
+
+ prentner r
+
+ 2021
+
+ explanatory
+profiles of models of consciousness towards a systematic
+classification
+
+ neuroscience of consciousness 20212 niab021
+
+
+httpsdoi
+
+org10
+
+1093ncniab021
+
+ promet l
+
+ bachmann t
+
+ 2022
+
+ a comparative analysis of
+empirical theories of consciousness
+
+ psychology of consciousness
+theory research and practice
+
+ advance online publication
+
+
+httpsdoi
+
+org10
+
+1037cns0000341
+
+ yaron i
+
+ melloni l
+
+ pitts m
+
+ mudrik l
+
+ 2022
+
+ the contrast
+database for analysing and comparing empirical studies of consciousness
+theories
+
+ nature human behaviour 64 593–604
+
+
+httpsdoi
+
+org10
+
+1038s41562021012845
+
+ seth a
+
+ k
+
+ bayne t
+
+ 2022
+
+ theories of consciousness
+
+ nature
+reviews
+
+ neuroscience 237 439–452
+
+
+httpsdoi
+
+org10
+
+1038s41583022005874
+
+4
+
+ some of my previous posts covering theories of consciousness are
+listed later in this article
+
+ in addition see the fivepart series what
+actually is consciousness and how did it evolve
+
+ parts 2 4 and 5 of
+that series are mentioned elsewhere in the current post
+
+ see also
+mindbody problem how consciousness emerges from matter
+
+ and older
+posts such as how could mind emerge from mindless matter
+
+ and what
+actually is a thought
+
+ and how is information physical
+
+ among others
+
+
+
+5
+
+ seth a
+
+ k
+
+ bayne t
+
+ 2022
+
+ theories of consciousness
+
+ nature
+reviews
+
+ neuroscience 237 439–452
+
+
+httpsdoi
+
+org10
+
+1038s41583022005874
+
+
+
+6
+
+ another theory of consciousness with a strong evolutionary grounding
+is feinberg and mallatt s theory which was previously reviewed by me
+but was not mentioned in seth bayne s article
+
+ feinberg and mallatt s
+theory is broadly in agreement with ual
+
+
+
+7
+
+ cleeremans a
+
+ achoui d
+
+ beauny a
+
+ keuninckx l
+
+ martin j
+
+ r
+
+
+muñozmoldes s
+
+ vuillaume l
+
+ de heering a
+
+ 2020
+
+ learning to be
+conscious
+
+ trends in cognitive sciences 242 112–123
+
+
+httpsdoi
+
+org10
+
+1016j
+
+tics
+
+2019
+
+11
+
+011 lamme v
+
+ a
+
+ 2006
+
+ towards
+a true neural stance on consciousness
+
+ trends in cognitive sciences
+1011 494–501
+
+ httpsdoi
+
+org10
+
+1016j
+
+tics
+
+2006
+
+09
+
+001
+
+
+
+8
+
+ according to this theory consciousness depends on reentrant
+interactions reflecting a history of valuedependent learning events
+shaped by selectionist principles
+
+
+
+9
+
+ the term interoceptive refers to perception of sensory signals that
+originate from within the body especially in the gut and other internal
+organs as opposed to exteroceptive which refers to stimuli from the
+external environment
+
+
+
+10
+
+ barrett l
+
+ f
+
+ the theory of constructed emotion an active
+inference account of interoception and categorization
+
+ soc
+
+ cogn
+
+
+affect
+
+ neurosci
+
+ 12 1833 2017
+
+
+
+11
+
+ solms m
+
+ the hidden spring a journey to the source of
+consciousness profile books 2021
+
+ solms theory is congruent with the
+important work on affective neuroscience done by jaak panksepp and is
+also congruent with the free energy principle by the influential
+neuroscientist karl friston both of whom solms collaborated with
+
+
+solms theory also incorporates predictive processing
+
+
+
+12
+
+ merker b
+
+ consciousness without a cerebral cortex a challenge for
+neuroscience and medicine
+
+ behav
+
+ brain sci
+
+ 30 63–81 discussion
+81–134 2007
+
+
+
+more references
+
+ 
+ share on facebookshare
+
+ 
+ share on twittertweet
+
+ 
+ share on linkedinshare
+
+ 
+ share via emailemail
+
+advertisement
+
+about the author
+
+ralph lewis m
+
+d
+
+
+
+ralph lewis m
+
+d
+
+ is an associate professor in the department of
+psychiatry at the university of toronto a psychiatrist at sunnybrook
+health sciences centre and a consultant at the odette cancer centre in
+toronto
+
+
+
+online
+
+purposewithoutgod
+
+com website for the book articles videos podcasts
+
+more from ralph lewis m
+
+d
+
+
+
+more from psychology today
+
+advertisement
+
+advertisement
+
+find a therapist
+
+get the help you need from a therapist near you–a free service from
+psychology today
+
+
+
+city or postcode
+
+counselling
+
+countries
+
+ australia
+ austria
+ belgium
+ canada
+ denmark
+ hong kong
+ ireland
+ new zealand
+ singapore
+ south africa
+ sweden
+ switzerland
+ united kingdom
+ united states
+
+are you a therapist
+
+ get listed today
+
+more from ralph lewis m
+
+d
+
+
+
+more from psychology today
+
+psychology today
+
+facebook
+
+twitter
+
+instagram
+
+recent issues
+
+january 2025 magazine cover
+
+november 2024 magazine cover
+
+september 2024 magazine cover
+
+july 2024 magazine cover
+
+may 2024 magazine cover
+
+march 2024 magazine cover
+
+subscribe today
+
+ about
+ editorial process
+ privacy
+ terms
+ accessibility
+ do not sell or share my personal information
+
+international international
+
+psychology today © 2025 sussex publishers llc
+
+back
+
+psychology today
+
+ home
+ find a therapist
+ get help
+ magazine
+ today
+
+back
+
+find a therapist
+
+ get help
+ find a therapist
+ find a treatment center
+ find a psychiatrist
+ find a support group
+ find online therapy
+
+ members
+ login
+ sign up
+
+ international
+ australia
+ austria
+ belgium
+ canada
+ denmark
+ hong kong
+ ireland
+ new zealand
+ singapore
+ south africa
+ sweden
+ switzerland
+
+back
+
+get help
+
+mental health
+
+ addiction
+ anxiety
+ adhd
+ asperger s
+ autism
+ bipolar disorder
+ chronic pain
+ depression
+ eating disorders
+
+personality
+
+ passive aggression
+ personality
+ shyness
+
+personal growth
+
+ goal setting
+ happiness
+ positive psychology
+ stopping smoking
+
+relationships
+
+ low sexual desire
+ relationships
+ sex
+
+family life
+
+ child development
+ parenting
+
+view help index
+
+do i need help
+
+
+
+ self tests
+ new
+ therapy center
+
+recently diagnosed
+
+
+
+ diagnosis dictionary
+ types of therapy
+
+talk to someone
+
+ find a therapist
+ find a treatment center
+ find a psychiatrist
+ find a support group
+ find online therapy
+
+back
+
+magazine
+
+january 2025 magazine cover
+
+january 2025
+
+the new grownup
+
+there s been a fundamental shift in how we define adulthood—and at what
+pace it occurs
+
+ pt s authors consider how a once ironclad construct is
+now up for grabs—and what it means for young people s mental health
+today
+
+
+
+subscribe issue archive
+
+back
+
+today
+
+news
+
+essential reads
+
+trending topics
+
+ emotional intelligence
+ narcissism
+ gaslighting
+ bias
+ affective forecasting
+ neuroscience
+
+see all

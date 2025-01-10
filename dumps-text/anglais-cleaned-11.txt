@@ -1,0 +1,2404 @@
+sep home page
+
+stanford encyclopedia of philosophy
+
+menu
+
+ browse
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+ about
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ contact
+ support sep
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+entry navigation
+
+ entry contents
+ bibliography
+ academic tools
+ friends pdf preview
+ author and citation info
+ back to top
+
+conscience
+
+first published mon mar 14 2016 substantive revision tue oct 1 2024
+
+reading the philosophical and historical literature on conscience the
+first thing one would notice is the variety of meanings and
+psychological and ethical assessments of the concept
+
+ different
+philosophical religious and common sense approaches to conscience have
+emphasized different aspects of the following broad characterization
+through our individual conscience we become aware of our deeply held
+moral principles we are motivated to act upon them and we assess our
+character our behavior and ultimately our self against those
+principles
+
+ the resulting more specific understandings of conscience
+will be presented in the sections below
+
+ on any of these accounts
+conscience is defined by its inward looking and subjective character in
+the following sense conscience is always knowledge of ourselves or
+awareness of moral principles we have committed to or assessment of
+ourselves or motivation to act that comes from within us as opposed to
+external impositions
+
+ this inward looking and subjective character of
+conscience is also reflected in the etymological relation between the
+notion of “conscience” and that of consciousness
+
+ only after the 17th
+century did “consciousness” start to be used with a distinct meaning
+referring to the psychological and phenomenal dimension of the mind
+rather than to its moral dimension for an account of the terminological
+shift see jorgensen 2014
+
+
+
+the term “conscience” translates the latin “conscientia” which refers
+to sharing “knowledge” scientia “with” con and which in turns
+translates the equivalent greek term suneidenai see pierce 1955 and
+sorabji 2014 for an etymological analysis of the term
+
+ the literal
+meaning of the term does not specify the type of knowledge involved and
+whom that knowledge is shared with
+
+ however the concept has
+traditionally been used to refer to moral knowledge we talk
+indifferently of conscience and moral conscience that is shared with
+oneself
+
+ this reference to the self does not rule out that the source of
+the morality in question be external to the self
+
+ for example it might
+be god as in the christian tradition or the influence of one s culture
+or of one s upbringing as in the freudian theory of the superego
+
+
+reference to the self indicates that from a psychological point of
+view conscience involves introspection awareness of one s behavior
+and selfassessment
+
+ as we shall see although these aspects often
+overlap they are psychologically and conceptually distinct functions
+
+
+
+“sharing moral knowledge with oneself” might mean and imply different
+things
+
+ as for the object of knowledge for example it might refer to
+knowledge of one s own conduct in view of an assessment of it against a
+certain moral standard or it might refer to knowledge of moral
+standards or principles themselves
+
+ as for the “self” with whom
+knowledge is shared it might mean sharing knowledge with a part of the
+self as if we were split into two persons sorabji 2014 12 but it
+might also mean sharing knowledge with an imaginary witness such as an
+ideal observer for instance a god an imagined moral model an
+impartial spectator
+
+ unfortunately debates in which appeals to
+conscience are often made—for example the debate about conscientious
+objection in health care—are often characterized by a lack of clarity as
+to what it exactly is that we are talking about when we talk about
+conscience and therefore about what exactly people are claiming when
+they put forward a “conscientious objection” to for example abortion
+
+
+in what sense does abortion violate the conscience of a committed
+catholic doctor
+
+ and is conscience amenable to reason and public
+discussion or are appeals to conscience ultimately based on intuitions
+and private morality
+
+ in what sense is a conscientious choice different
+from a mere moral preference
+
+ the notion of conscience is in need of
+conceptual clarification
+
+
+
+this entry will expound the main features of the notion of conscience as
+it is used in philosophical discussion religious teaching and in common
+language alike
+
+ the perspective adopted here will be theoretical rather
+than historical
+
+ the entry focuses on the western tradition and some
+examples are drawn from christian source
+
+ the entry is structured around
+four possible but not mutually exclusive ways of conceptualizing
+conscience
+
+ these will be preceded by an introductory section outlining
+the pluralistic morally neutral and subjective nature of the concept of
+conscience
+
+ the four main aspects of conscience that will be described
+are the following
+
+ section 2 discusses conscience as a faculty for
+selfknowledge and selfassessment
+
+ section 3 presents the epistemic
+aspect of conscience that allows the formation of moral beliefs
+distinguishing the different possible sources of moral principles that
+inform such beliefs
+
+ in section 4 conscience will be described as a
+motivational force or as the source of our sense of duty which already
+presupposes a body of moral knowledge or of moral beliefs
+
+ finally
+section 5 will focus on conscience understood as the body of personal
+core and selfidentifying moral beliefs which is often taken to be the
+basis of moral integrity fuss 1964 wicclair 2011 and of our sense of
+personal identity childress 1979
+
+ as discussed in section 6 this last
+approach to conscience is often used with a political function to
+advocate freedom of thought and action in liberal democratic societies
+for example as explained in subsection 6
+
+1 through conscientious
+objection to practices that one would otherwise be professionally or
+legally expected to perform
+
+
+
+ 1
+
+ conscience as pluralistic neutral and subjective
+ 2
+
+ conscience as selfknowledge and selfassessment
+ 3
+
+ the epistemic function of conscience
+ 3
+
+1 conscience as a faculty for indirect moral knowledge
+ 3
+
+2 conscience as a faculty for direct moral knowledge
+ 4
+
+ conscience as motivation to act morally
+ 5
+
+ conscience selfidentifying moral commitments and moral
+ integrity
+ 6
+
+ freedom of conscience
+ 6
+
+1 freedom of conscience and conscientious objection today
+ 7
+
+ conclusion
+ bibliography
+ academic tools
+ other internet resources
+ related entries
+
+
+
+1
+
+ conscience as pluralistic neutral and subjective
+
+the concept of conscience does not bear any connection with any
+particular substantial moral view broad 1940
+
+ the voice of conscience
+might suggest different principles and different behaviors to different
+people
+
+ in other words there is no psychological or conceptual relation
+between conscience and any particular moral belief
+
+ however as will be
+explained below in the catholic tradition the idea of an erroneous
+conscience is sometimes used to refer to conscience that fails to
+recognize the true moral laws which it is naturally predisposed to
+“witness” within our heart
+
+ as for secular accounts of conscience the
+independence of the notion of conscience from any substantial moral
+content can be understood in three senses
+
+
+
+first conscience is a pluralistic notion
+
+ to say that a person acted
+with conscience or that something violates someone s conscience does not
+entail anything about what this act consists of or what this person s
+moral values are although it might tell us that conscience is itself a
+value this person holds dear
+
+ to use a metaphor conscience is like an
+empty box that can be filled with any type of moral content
+
+ as put by
+strohm
+
+ conscience has what might be called an “identity problem”—that it
+ possesses no fixed or inherited content of its own and that it can be
+ hailed and mobilized in defence of one position or equally in defence
+ of its rival
+
+ strohm 2011 120
+
+for example while some health practitioners raise “conscientious”
+objection to abortion and refuse to provide the service someone s
+conscience might demand the exact opposite i
+
+e
+
+ to perform abortions
+in order to respect what is conscientiously believed to be a woman s
+right joffe 1995
+
+
+
+second conscience is typically a morally neutral concept
+
+ appealing to
+conscience does not usually add anything to the moral justification of
+any particular conduct or principle
+
+ unless one is committed to the
+relativistic idea that your belief or your conscience about x being
+right or wrong is what makes it right or wrong for you to do x foot
+1979 something is not made morally better or worse acceptable or
+unacceptable simply by being a matter of conscience
+
+ for example the
+morality of abortion has nothing to do with abortion being
+conscientiously opposed by some health practitioners or conscientiously
+supported by others
+
+ this neutrality does not exclude however that an
+appeal to conscience can represent itself as a reason for respecting
+someone s moral views for example a reason for granting someone a right
+to object to carrying out certain activities
+
+ while appeals to
+conscience do not typically provide any moral reason in defense of a
+certain moral stance unless one is a relativist they might ground
+political reasons for respecting individuals moral beliefs such as for
+example tolerance or pluralism
+
+
+
+finally conscience only concerns the subjective dimension of morality
+
+
+even assuming that there are ethical values that in some sense can be
+considered objective conscience only refers to what individuals
+believe independently of any external objective proof or
+justification
+
+ and when people state what they subjectively and
+conscientiously believe they acknowledge that other people might and
+probably will subjectively and conscientiously hold different moral
+views
+
+ thus when i say that abortion violates my conscience i am not
+saying although i might be thinking that abortion is morally wrong by
+some objective standard and i m not necessarily trying to convince
+others that abortion is wrong by some objective standard
+
+ i am simply
+stating what i deeply believe and what i want others to respect as my
+conscientious belief regardless of how good or bad the moral reasons i
+can provide to defend my claims are or appear to be to others mcguire
+1963 259
+
+ in fact when health practitioners claim conscientious
+objection to some medical procedures they are usually not interested in
+preventing other doctors who hold different moral beliefs from
+performing the procedure
+
+ they are usually only interested in so to
+speak keeping their hands clean according to their subjective moral
+standard
+
+
+
+these three aspects related to the independence of conscience from
+particular substantial moral views explain why appeals to conscience to
+justify one s behavior are usually made with the expectation that no
+further reason for the behavior in question be required
+
+ as put by
+childress when an agent appeals to her conscience
+
+ usually the agent has given up the attempt to convince others of the
+ objective rightness of his act and is content to assert its subjective
+ rightness
+
+ childress 1979 329
+
+2
+
+ conscience as selfknowledge and selfassessment
+
+when we talk about conscience we often refer to reflection about
+ourselves as moral persons and about our moral conduct
+
+ through
+conscience we examine ourselves as if we were our own inner judge
+
+ the
+image of an individual split into two persons one who acts and the
+other who observes the former s conduct reflects the original
+conception of “conscience” in the greek world at least from the 5th
+century bce sorabji 2014 12
+
+ but such self knowledge may also be
+thought of as shared with others inside of us such as gods or other
+imaginary witnesses for example an admired philosopher according to
+epicurus sorabji 2014 24 or an impartial spectator according to adam
+smith 1759
+
+ the gods in question might be the gods of a
+particular religion such as the god of christianity or a postulate of
+the practical reason such as in kant according to whom reason in
+order to be “practical” in the sense of informing moral conduct needs
+the idea of a higher authority who sanctions individuals for their
+actions kant 1797
+
+
+
+the role of conscience in this sense is not that of merely gaining
+knowledge about our behavior or character
+
+ the knowledge in question is
+typically though as explained below not always the ground for a
+moral assessment by conscience
+
+ when observing one s behavior
+conscience is more like a judge or sometimes it is identified with the
+judgment itself than like a disinterested observer
+
+ thus for instance
+the impartial spectator with which adam smith identified conscience
+inspired by the stoic s notion of conscience as an imagined admired
+philosopher judging one s conduct is not a morally and emotionally
+neutral observer but generates a sentiment of approval or disapproval
+of oneself smith 1759 and discussion in raphael 2007 34
+
+ even in the
+catholic view where the main characterization of conscience is that of
+a witness of god s law in our hearts as described in section 3
+conscience is also presented as “a moral judgment about man and his
+actions a judgment either of acquittal or condemnation” john paul ii
+1993 59
+
+ analogously in the kantian view conscience is conceived of
+as an inner court wood 2008 184 it is moral selfawareness that
+allows one to apply the moral law suggested by practical reason to our
+moral conduct and to judge whether we have complied with the moral law
+
+
+as kant defines it in the metaphysics of morals conscience is
+
+ practical reason holding the human being s duty before him for his
+ acquittal or condemnation in every case that comes under a law kant
+ 1797 1991 160
+
+and
+
+ consciousness of an internal court in man
+
+ kant 1797 1991 189
+
+this understanding of conscience as an inner court is well illustrated
+by the story of huckleberry finn in mark twain s famous novel twain
+1884 bennett 1974
+
+ in a wellknown episode of the novel huck feels
+guilty and blameworthy for having helped his slave friend jim to escape
+from his owner miss watson
+
+ blame does not come from some external moral
+authority but it is a verdict issued by conscience according to its
+moral laws
+
+ the bites of conscience in huck s case were caused by a
+tension between his feelings supporting what he did and the principles
+he had inherited from his social environment
+
+ at the time when the novel
+is set slaveowning was considered a natural type of possession and
+helping slaves run away meant depriving someone of her private property
+
+
+this was the “law” metaphorically speaking against which huck s
+conscience assessed his behavior
+
+
+
+this story illustrates another interesting feature of conscience as a
+faculty for selfassessment i
+
+e
+
+ the asymmetry between our confidence
+in the validity of the moral standards provided by our own conscience
+and our confidence in the validity of the standards provided other
+people s conscience
+
+ huck thinks that what he did was wrong and that it
+rendered him blameworthy in spite of his feelings because he thinks
+that his own conscience provides a correct moral standard i
+
+e
+
+ a
+standard that he endorses even if some of his feelings or beliefs
+indicate otherwise
+
+ this seems to reflect our common way of relating to
+our own conscience we try to adjust our feelings and judgments to our
+conscience s standard rather than vice versa
+
+ however the same does
+not hold when we talk of other people s conscience which is usually
+taken to indicate their subjective moral standard and does not imply
+that we are endorsing it
+
+ this asymmetry suggests that there is no
+conceptual relation between the notion of conscience per se and the
+notion of an objective or correct moral standard rather it stresses
+once more the fact that conscience has merely to do with one s private
+morality and one s commitment to her own morality
+
+
+
+consistently with this understanding of conscience as selfknowledge and
+selfassessment it has been suggested by some that psychopaths—i
+
+e
+
+
+pathological subjects who display antisocial behavior and systematically
+act without regard to what they consider to be right or wrong—can be
+said to lack conscience hare 1999
+
+ for instance according to
+vujošević 2015 in psychopaths the link between moral knowledge or
+beliefs and selfdirected feelings of condemnation e
+
+g
+
+ guilt is
+broken psychopaths cannot feel the remorse that normal functioning
+agents feel when they perceive the discrepancy between their moral
+beliefs and their behavior and as a consequence psychopaths do not
+consider themselves accountable for their actions gudjonsson and
+roberts 1983 aharoni et al
+
+ 2012 although their moral beliefs are
+often “normal” schaich and sinnottarmstrong 2013
+
+as mentioned above in this section when expressing itself through
+selfevaluative feelings conscience might be conceived of as either
+constituted by such feelings fuss 1964 or as occasioning them broad
+1940
+
+
+
+in the former sense conscience as constituted by selfevaluative
+feelings the feeling is an essential part of conscience
+
+ conscience in
+this case is better conceived not as a judge who issues sentences but
+as a feeling with cognitive content—where the cognitive content concerns
+the adherence of one s behavior to a certain moral standard in such
+cases the negative feeling informs me that what i am doing or am
+contemplating doing is wrong according to my own moral parameters
+
+ in
+the latter sense conscience as occasioning selfevaluative feelings
+the inner judge when in tension with one s conduct generates negative
+selfdirected feelings mill 1861 ch 3
+
+ for instance in freud the
+“superego”—the part of our personality that attends to prohibitions
+inhibitions and moral constraints—takes “the form of conscience” to
+exercise its control over one s impulses and instincts by producing
+negative evaluative feelings towards the individual such as
+aggressiveness towards the ego and guilt freud 1929 2000 30
+
+ as we
+shall see below in section 4 these selfdirected negative feelings play
+an essential role in fulfilling the motivational function of conscience
+
+
+
+as the characterization of conscience as selfassessment here presented
+suggests conscience has most often been associated with negative
+feelings arendt 1971 such as shame guilt fear contrition
+
+ for most
+of us even in our common language conscience is something that yields
+negative feelings more often than not—for example we often talk of the
+“bites of conscience” or of conscience as causing us “remorse” which
+derives from the latin “remordere” i
+
+e
+
+ “to bite again”
+
+ however a
+joyful conscience that praises and takes pride of one s own moral merit
+can be conceived as well
+
+ examples of joyful conscience can be found for
+instance in cicero and some latin stoics most prominently seneca
+sorabji 2014 25–30
+
+ also in the protestant tradition started by
+luther we find the idea of a joyful conscience where joy springs not
+from pride or selfpraise but from awareness of god s future remission
+of sins luther 1535 calvin 1536
+
+
+
+the contrast between the protestant joyful conscience and the catholic
+conscience burdened by negative feelings of guilt and fear was
+emphasized by luther when he denounced the “terrorization of conscience”
+by the roman catholic church
+
+ according to luther with this
+terrorization the roman catholic church aimed to reinforce its authority
+and control over people conscience
+
+ in fact conscience in the catholic
+tradition can only be relieved from its burden of negative feelings
+through the confession of one s sins to a priest and the penitence
+decided by that priest
+
+
+
+3
+
+ the epistemic function of conscience
+
+along with the previous nonepistemic conception of conscience we can
+also understand conscience as having an epistemic function
+
+ in this
+sense conscience brings us some form of moral knowledge or moral
+beliefs—either in an absolute sense e
+
+g
+
+ knowledge of divine laws or
+in a relative sense e
+
+g
+
+ knowledge of social norms in one s culture
+
+
+
+the epistemic role of conscience does not necessarily coincide with the
+role of epistemic faculties or functions such as reason intuitions or
+senses
+
+ in particular that conscience “brings” us moral knowledge or
+beliefs does not necessarily mean that it gives us direct access to the
+source of this knowledge or of these beliefs as might be the case with
+reason intuitions or senses
+
+
+
+the knowledge we get from conscience understood as possessing an
+epistemic function is often conceived as mediated knowledge
+
+ this is
+not surprising since as we have seen conscience is mostly understood
+as inward looking which presupposes that the knowledge to which it
+gives us access is already within us and that we acquired it through
+some other process not involving conscience
+
+ in fact on many accounts
+conscience does not generate its own moral principles
+
+ for example the
+moral contents we discover within us can be acquired through divine
+intervention as is the case with the laws of nature which according to
+christians god infuses in our heart
+
+ as we are going to see in
+subsection 3
+
+1 the understanding of conscience as having an epistemic
+function and as the recipient of mediated knowledge is not exclusive to
+religious views
+
+
+
+on other accounts of conscience however conscience does give us direct
+access to moral knowledge for example as an intuition about what is
+good and what is bad
+
+
+
+let us examine the two accounts of the epistemic role of conscience in
+more detail
+
+
+
+3
+
+1 conscience as a faculty for indirect moral knowledge
+
+in the christian tradition starting from paul the inward looking
+character of conscience is emphasized by the metaphor of the witness
+romans 2 14–15
+
+ conscience does not allow us to acquire the knowledge
+of the moral law directly from an external source god in this case
+but only to witness the presence of god s laws within us
+
+ conscience
+cannot directly contemplate god
+
+ the idea of a faculty that gives us
+indirect and therefore imperfect knowledge of some external moral
+authority suits religious traditions very well
+
+ for example the idea
+that through conscience we discover the true divine laws can also be
+found in islam geaves 1999 164
+
+
+
+it is important to note that also in this case as in the previous
+understanding of conscience as selfawareness and selfassessment
+conscience can be conceived as fulfilling an introspective function
+i
+
+e
+
+ as being directed towards the self and towards one s own mental
+states
+
+ introspection allows one to gain selfknowledge schwitzgebel
+2014 but since the self which is observed contains the moral law it
+is possible to say that the law itself as part of our self becomes the
+object of introspection
+
+ thus for instance in his theological writings
+before his papacy joseph ratzinger said that “something like an
+original memory of the good and the true the two are identical has
+been implanted in us” and conscience is
+
+ so to speak an inner sense a capacity to recall so that the one whom
+ it addresses if he is not turned in on himself hears its echo from
+ within
+
+ ratzinger 1991 2010 535
+
+the catholic church also makes reference to “the voice of the lord
+echoing in the conscience of every individual” john paul ii 1995 par
+
+
+24
+
+
+
+on this account—since conscience is only a witness and does not have
+direct epistemic access to the source of knowledge i
+
+e
+
+ to
+god—conscience is considered fallible and actually often erroneous 1
+corinthians 44 aquinas 1265–1274 butler 1726 sermon 3 3
+
+ in
+particular conscience might fail to correctly interpret the divine laws
+when applying them to real cases
+
+ according to some 13th century
+catholic theologians such as philip the chancellor albert the great
+and most notably thomas aquinas conscience is the act of applying
+universal principles i
+
+e
+
+ divine laws to real situations i
+
+e
+
+ it is
+the conclusion of the practical syllogism whose first premise is a
+universal principle provided by a separate faculty called “synderesis”
+aquinas summa theologiae 1 q79 langston 2000 and 2015 sorabji 2014
+62–66 as such conscience can be erroneous in deriving moral
+conclusions from first principles aquinas on truth q17 art
+
+ 2 and
+discussion in d arcy 1961 100–103
+
+ however other catholic thinkers
+have emphasized the essential role of conscience in humans search for
+the truth
+
+ cardinal john henry newman for instance saw conscience as
+the moral sense that can lead us to the moral truth
+
+ as such conscience
+is in his view both epistemic and action guiding but the two aspects
+are not distinguishable to the extent that the moral truth is what
+guides our actions
+
+ as he wrote “the feeling of conscience is
+twofold it is a moral sense and a sense of duty a judgment of the
+reason and a magisterial dictate
+
+ of course its act is indivisible
+still it has these two aspects distinct from each other and admitting
+of a separate consideration” newman 1870 101
+
+on a secular account the external source of moral knowledge that
+instills moral principles in us is not god but one s own culture or
+upbringing
+
+ in this case the moral knowledge in question is typically
+understood in a relativistic sense our conscience is the faculty
+through which the social norms of our culture or the norms of our
+upbringing are evoked and exert their influence on our moral psychology
+
+
+these norms explain our moral feelings and our moral choices but what
+conscience tells us in this case is the product of social and cultural
+dynamics over which we have little control
+
+ as the case of huckleberry
+finn s conscience demonstrates hardly can conscience so understood be
+credited any moral authority since our educators or our culture might
+be highly immoral for example our conscience might end up drawing on
+racist or discriminatory principles such as the ones which supported
+slavery in huck s social environment
+
+ and in fact unsurprisingly many
+are rather skeptical or dismissive of the moral authority of conscience
+since they see it as mere opinion about moral principles influenced or
+even determined by one s own culture montaigne 1580 book 1 ch
+
+ 22
+hobbes 1651 ch
+
+ 7
+
+ in this sense conscience is a merely relativistic
+notion whose content changes according to social cultural and familial
+circumstances
+
+
+
+3
+
+2 conscience as a faculty for direct moral knowledge
+
+contrary to what montaigne and hobbes had claimed rousseau argued in
+emile or education that good education can free conscience from the
+corrupting influences of societies
+
+ actually one of the aims of
+education is to render the young autonomous moral thinkers and agents by
+teaching them how to critically examine and if necessary replace
+received norms rousseau 1762 see sorabji 2014 for a discussion
+
+ the
+idea here is that conscience is what remains of our innate moral sense
+once we free it from “childish errors” and “prejudices of our
+upbringing” rousseau 1921 1762 253
+
+ as rousseau presents it
+
+ there is therefore at the bottom of our hearts an innate principle of
+ justice and virtue by which in spite of our maxims we judge our own
+ actions or those of others to be good or evil and it is this
+ principle that i call conscience
+
+ rousseau 1921 1762 253
+
+according to rousseau then conscience has a natural tendency to
+perceive and follow the right order of nature and a good teacher should
+help the young s conscience to do what it is naturally predisposed to
+do
+
+ in rousseau s words
+
+ too often does reason deceive us we have only too good a right to
+ doubt her but conscience never deceives us she is the true guide of
+ man it is to the soul what instinct is to the body he who obeys his
+ conscience is following nature and he need not fear that he will go
+ astray let us obey the call of nature we shall see that her yoke is
+ easy and that when we give heed to her voice we find a joy in the
+ answer of a good conscience
+
+ rousseau 1921 1762 252
+
+this understanding of conscience as a deeper form of moral knowledge
+brings us to the second sense in which conscience can be said to have an
+epistemic role
+
+ as well as merely witnessing received opinions or divine
+laws conscience can also be conceived as a moral sense giving us direct
+access to moral principles
+
+ understood in this way conscience is
+typically seen as intuitive and influenced by emotions rather than a
+reasonbased faculty
+
+ in particular 18th century sentimentalist
+philosophers often e
+
+g
+
+ shaftesbury 1711 and hume 1738–1740
+identified conscience with a moral “sentiment” or moral “sense”
+
+
+according to hume s psychological theory for instance “reason is
+wholly inactive and can never be the source of so active a principle as
+conscience or a sense of morals” hume 1738–1740 book 3 part 1
+section 1
+
+ also on more recent accounts of conscience and of private
+morality the dictates of conscience can be understood as expressions of
+our moral intuitions
+
+ according to thagard and finn 2011 for
+instance “conscience is a kind of moral intuition” p
+
+ 168 that is
+“both cognitive and emotional”p
+
+156
+
+
+
+once again there are reasons to doubt the epistemic and moral authority
+of conscience so understood
+
+ a lot of work in recent moral psychology
+aimed at understanding moral disagreement has suggested that there are
+seemingly irreconcilable differences in fundamental moral intuitions and
+emotions among people with different worldviews e
+
+g
+
+ haidt 2012
+greene 2013
+
+ these differences in fundamental moral intuitions seem to
+undermine the epistemic status of conscience and with it conscience s
+moral authority not least because most of our moral intuitions seem
+according to these recent developments in moral psychology not to be
+amenable to revision in light of new evidence or new good reasons
+
+
+reasoning on any plausible account should be an important part of
+morality however what our conscience tells us may have little to do
+with reasons and evidence
+
+ theoretical work in moral psychology e
+
+g
+
+
+haidt 2012 graham et al
+
+ 2009 haidt 2001 supported by evidence from
+neuroscience greene 2013 suggests that our most fundamental moral
+beliefs might be based on intuitions and emotions over which our
+rational capacities have little control
+
+ if this account is correct
+then we have reasons to be skeptical about the possibility of affecting
+let alone changing people s conscientious beliefs through dialogue
+public discussion and reason giving
+
+ psychological research has focused
+particularly on the differences between liberal and conservative
+thinking
+
+ for example it has been suggested that conservative moral and
+political views are often founded on certain specific emotions e
+
+g
+
+
+disgust or fears and specific intuitions e
+
+g
+
+ intuitive opposition to
+perceived violations of purity and to authority subversion whereas
+liberal views are often driven by other specific emotions e
+
+g
+
+ anger
+and intuitions e
+
+g
+
+ intuitive rejection of fairness violations or
+liberty infringements haidt 2001 and 2012
+
+ if conscience simply is the
+expression of moral intuition and if individuals have significantly
+different and irreconcilable moral intuitions then individuals also
+have significantly different and difficulttoreconcile conscientious
+moral consciences
+
+
+
+4
+
+ conscience as motivation to act morally
+
+conscience can also be conceived as our sense of duty
+
+ according to this
+understanding conscience motivates us to act according to moral
+principles or beliefs we already possess e
+
+g
+
+ d arcy 1963 childress
+1979 mcguire 1963 fuss 1964
+
+ conscience so understood “establishes a
+general sense of moral obligation in the individual s consciousness”
+fuss 1964 116
+
+ the subjective character of conscience implies that
+the motivational force must come entirely from within the individual as
+opposed to sanctions from an external authority
+
+
+
+a powerful motivational source is represented by the feelings that
+conscience generates in its selfassessment function
+
+ as we said at the
+beginning the different understandings of conscience presented here are
+not necessarily mutually exclusive
+
+ conscience as selfassessment and
+conscience as motivation to act morally constitute a good example of
+perspectives on conscience which are not only consistent with one
+another but which actually complete one another
+
+ in kant for example
+the theory of conscience can be seen as “a motivation theory set in the
+context of a reflection theory” wood 2008 183 as wood interprets the
+kantian notion of conscience “conscience is a feeling of pleasure or
+displeasure associated with myself” that arises when i comply or don t
+comply with moral principles and that motivates me to act in one sense
+rather than the other when the feeling accompanies the contemplation of
+a certain course of action wood 2008 183–184
+
+ conscience for kant is
+therefore not only an inner court but also a source of motivation to
+act morally that is motivation to follow our sense of duty as
+determined by reason kant 1797 1991 161
+
+
+
+more generally as we have seen in section 1 conscience s
+selfassessment often produces remorse or other negative feelings
+guilt shame fear and so on
+
+ our desire or tendency to avoid this
+form of selfpunishment can have motivational force towards acting
+morally
+
+ thus for instance according to childress the motive for
+acting morally that defines conscience is “in part avoidance of a
+sanction imposed by the self on itself” childress 1979 328
+
+
+
+consistent with this philosophical view are studies in developmental
+psychology suggesting that the emotion of guilt which is typically seen
+as one of the products of conscience as selfassessment is “the
+motivational engine that infuses misdeeds with negative personal
+valence” kochanska and aksan 2006 1589
+
+ transgression generates
+anxious feelings in most children and these negative feelings help
+children suppress future wrongdoing and internalize the relative moral
+norms damásio 1994 as reported in kochanska and aksan 2006 1595
+
+
+
+however at the same time the negative selfdirected feelings must
+themselves be generated by previous experience of tension between our
+action and a preexisting sense of duty
+
+ although it might seem that we
+are stuck in an infinite regress where sense of duty and negative
+selfdirected feelings presuppose one another this need not be the
+case
+
+ it is possible to conceive of an external or independent source of
+that most fundamental sense of duty that constitutes our conscience
+such as for example our moral education and upbringing mill 1861 ch
+
+
+3
+
+ but the sense of duty that identifies a conscientious person can
+also be conceived as a primitive function an innate disposition which
+is not explained by any other more fundamental mechanism
+
+ in kant for
+instance “every human being as a moral being has a conscience within
+him originally” kant 1797 1991 160 and conscience is one of the
+four “natural predispositions of the mind for being affected by
+concepts of duty” the other three being moral feeling love for one s
+neighbors and respect for oneself kant 1797 1991 160
+
+
+
+negative feelings and sense of duty are not always successful in
+prompting agents to do what their moral principles require
+
+ but the
+“bites of conscience” or just the prospect of bites of conscience act
+as motivational force towards aligning our future behavior to those
+norms
+
+ of course positive feelings associated with conscience might
+also have a motivational force
+
+ for example as seen above kant
+associated conscience also with positive feelings about oneself when the
+agent recognizes he has acted according to his sense of duty
+
+ rousseau
+alongside the epistemic account of conscience presented above also
+provides in emile a motivational account of conscience based on positive
+feelings while reason gives us knowledge of the good it is conscience
+through a sentiment of love for the good which motivates us to behave
+morally rousseau 1762
+
+
+
+5
+
+ conscience selfidentifying moral commitments and moral integrity
+
+the subjective character of conscience delimits a sphere of personal
+morality that is an essential part of our sense of personal identity
+understood as our sense of who we are and of what characterizes
+qualitatively our individuality for instance our character our
+psychological traits our past experience etc
+
+
+
+ my conscience is what
+makes me this particular individual in a social and cultural context
+that i want to keep separate from me
+
+
+
+this private space in which the individual finds her own sense of
+identity often grounds the political use of the notion of conscience
+
+
+thus many people claim the right to stick to their
+conscience—particularly by advancing so called “conscientious
+objection”—when social expectations or legal obligations would demand
+otherwise
+
+ these political appeals to conscience are usually made on the
+basis of two principles
+
+ the first is the principle of respect for moral
+integrity which finds its justification in the close relationship
+between the notions of conscience and of moral integrity on one side
+childress 1979 and the sense of personal identity on the other
+
+ the
+second principle often invoked in the political uses of “conscience” is
+the principle of “freedom of conscience”
+
+ the former will be discussed
+in this section and the latter in the next section
+
+
+
+the concept of personal identity in the sense in which the notion is
+used here—i
+
+e what defines me as this particular person in a qualitative
+sense—is intimately related to the notions of conscience wicclair 2011
+childress 1979 and of moral integrity and more specifically to the
+“identity view of integrity” cox et al
+
+ 2013 williams 1973 and 1981
+
+
+according to this view for people to have integrity means to remain
+faithful to “identityconferring commitments” i
+
+e
+
+ “commitments that
+people identify with most deeply as constituting what they consider
+their life is fundamentally about” cox et al
+
+ 2013
+
+ this
+identityconferring aspect of one s morality is exactly what some people
+call “conscience”
+
+ according to childress for example
+
+ in appealing to conscience i indicate that i am trying to preserve a
+ sense of myself my wholeness and integrity my good conscience and
+ that i cannot preserve these qualities if i submit to certain
+ requirements of the state or society
+
+ childress 1979 327
+
+conscience as selfidentifying can be understood in two ways
+
+ it can be
+thought of either as a set of core and selfidentifying moral beliefs
+that are “integral to an agent s understanding of who she is i
+
+e
+
+ her
+selfconception or identity” wicclair 2011 4 or as a way of
+approaching and relating to such moral beliefs i
+
+e
+
+ a “commitment to
+uphold one s deepest and selfidentifying moral beliefs” sulmasy 2008
+138 and “a mode of consciousness in which prospective actions are
+viewed in relation to one s self and character” bluestein 1993 294
+
+
+
+conceived in either way conscience is an essential part of our
+understanding of what kind of person we are and this is taken to be a
+reason for warranting protection of conscience and conscientious
+objection in different contexts particularly in the health care
+professions wicclair 2011 25–26 bluestein 1993 295
+
+
+
+we have seen above that there is a sense in which according to some
+psychopaths can be said to lack conscience hare 1999 psychopaths are
+not capable of connecting their moral knowledge to their conduct through
+the feelings of guilt and disapproval which conscience on some
+accounts produces
+
+ interestingly according to some psychologists
+psychopaths are also less likely to base their sense of personal
+identity on moral traits than normal functioning individuals glenn et
+al
+
+ 2010
+
+ more recent psychological studies have suggested that people
+tend to link the identity of others not so much to their memories as
+traditionally believed but to their morals it is the loss of one s
+moral character and moral beliefs rather than of one s memory that
+leads us to say that a certain individual is not the same person anymore
+strohminger and nichols 2015
+
+ these findings provide empirical support
+to the idea that conscience is essential to one s sense of personal
+identity and to attributions of personal identity
+
+6
+
+ freedom of conscience
+
+some people have suggested that appeals to freedom of conscience tend to
+be more vigorously put forward and more effective in contexts where
+political or religious structures lose power or moral authority
+
+ thus
+for instance according to c
+
+a
+
+ pierce
+
+ conscience only came into its own in the greek world after the
+ collapse of the citystate
+
+ the close integration of politics with
+ ethics with the former predominant was no longer possible there was
+ no sufficiently close authority external to the individual
+ effectively to direct conduct
+
+ consequently as a pis aller men fell
+ back on the internal chastisement of the conscience as the only
+ authority
+
+ pierce 1955 76
+
+the same can be said for 17th century england with its crisis of
+religious authority and the frequent appeals to freedom of conscience in
+the philosophical and political literature of that time childress 1979
+326
+
+
+
+there are three main arguments that can be used to defend a principle of
+freedom of conscience
+
+ two of them are frequently found in the 16th
+and 17th century philosophical literature they are the “argument
+from ineffectiveness or hypocrisy” and the “argument from ignorance”
+sorabji 2014 139
+
+ a third argument which might be called “argument
+from legitimization” was put forward by john stuart mill
+
+ let us
+examine them in order
+
+
+
+a the argument from ineffectiveness or hypocrisy is based on the
+relevance of the distinction between beliefs and acts for the definition
+of conscience
+
+ according to this argument it is not possible to compel
+someone to believe or to not believe something i
+
+e
+
+ to change one s
+conscientious beliefs
+
+ all we can do is compel people to act as if they
+believed something which would be a hypocritical behavior
+
+ therefore
+if some authority aims to convert people or to change people s moral
+views prohibiting the free expression through actions of one s
+conscience would not serve this purpose
+
+
+
+this line of argument was often put forward by early christians most
+notably christian apologist tertullian to defend their freedom to
+practice their cult in a time where they were persecuted by roman
+governors their claim was that forcing them to abandon the christian
+cults would have no effect on their conscience
+
+ the same line of
+argument can also be found in locke s works on toleration the essay
+concerning toleration of 1667 and a letter concerning toleration of
+1689
+
+
+
+however christians did not seem to believe in the force of this
+argument and more generally in the principle of freedom of conscience
+when later on they attempted to justify the violent persecution of
+heretics those who revise their religious dogmas and apostates those
+who abandon their religion and their forced conversion clarke 2014
+118–123
+
+ two main justifications have been given by christian
+theologians for the forced conversion of heretics and apostates
+
+
+
+one can be found among others in aquinas and calvin who thought that
+violent persecution is justified because heretics mistaken views would
+exert great influence on many ordinary people
+
+ by departing from the
+christian doctrine these people would be condemned to eternal damnation
+in the afterlife and christians have a duty to save as many people as
+possible from eternal damnation clarke 2014 120–121
+
+
+
+a second type of argument in defense of violent persecution is the one
+offered by augustine 5th century
+
+ he argued that compelling people
+to follow the true religion—by which he meant persecuting heretics—could
+open their eyes to the truth sorabji 2014 49–50
+
+ this thesis implies
+that sometimes conscience even if we confine it to matters of inward
+conviction and not to behavior can be influenced by some external
+imposition
+
+
+
+this latter approach based on the idea of bringing the truth to
+conscience by “freeing” conscience from error is consistent with the
+catholic peculiar understanding of the notion of freedom of conscience
+
+
+philosophically speaking “freedom of conscience” is typically
+understood as an individualistic concept that allows for a plurality of
+moral and religious views strohm 2011 90
+
+ for the catholic church
+however authentic freedom is inseparable from the notion of truth
+
+
+inspired by the works of the english theologian and cardinal john henry
+newman joseph ratzinger writes that in the catholic view “truth” is the
+middle term that reconciles authority of god and subjectivity of
+conscience the latter when authentically free cannot but reveal the
+truth established by the former ratzinger 1991 2010
+
+ since as we
+have seen above in the catholic view reason alone can t create its own
+values which are instilled by god into humans hearts “human freedom
+finds its authentic and complete fulfillment precisely in the acceptance
+of that law” of god john paul ii 1993 par
+
+ 35
+
+ so when practical
+reason is free to exercise its “participation” john paul ii 1993 sec
+
+
+40 in the divine law then “in the depths of his conscience man
+detects a law which he does not impose upon himself but which holds him
+to obedience” paul vi 1965 par
+
+ 16
+
+
+
+in any case it is not necessary to dismiss the argument from
+ineffectiveness in order to justify imposing norms and practices that
+might violate individuals conscience
+
+ actually the same argument from
+ineffectiveness can be used to support the imposition of policies that
+might conflict with individuals consciences
+
+ on the basis of the idea
+that conscience is merely a matter of private beliefs not of action
+some authors have argued that compelling people to follow certain rules
+even against their conscience would not constitute a violation of their
+freedom of conscience and is therefore justifiable
+
+ this was the line
+of argument pursued for example by thomas hobbes 1651 chapter 40
+baruch spinoza 1670 chapter 20 and john locke 1660 who argued that
+the state has the power to enforce certain practices even when citizens
+claim that it would violate their conscience in order to protect social
+order
+
+
+
+b the “argument from ignorance” which might be better labeled
+“argument from humility” is based on a skeptical approach to the
+content of conscience
+
+ the possibility exists that what we
+conscientiously believe is wrong and that those holding conscientious
+beliefs opposite to ours are right
+
+ therefore there is a reason for not
+forcing anyone to believe in something or to engage in behaviors that
+might turn out to be morally wrong
+
+ the argument from ignorance or
+humility started to be put forward quite frequently and most
+prominently by pierre bayle 1686–1688 after the catholic church lost
+a significant proportion of its religious and moral authority following
+the protestant reform in 16th and 17th century—which was defined
+by keith thomas 1993 as “the age of conscience”
+
+ it was at that time
+that we assisted to the “secularization of conscience” in the modern era
+strohm 2011 although the phenomenon would be better conceived of as a
+“resecularization” since conscience was not related to the voice or
+the authority of god in the greek world
+
+
+
+the same argument from ignorance or from humility is also put forward by
+john locke in his second letter concerning toleration
+
+ locke had to rely
+on this argument as an alternative strategy to defend freedom of
+conscience after the anglican priest jonas proast pointed out that
+compulsion can actually change personal beliefs as augustine had
+argued and that therefore the argument from ineffectiveness that locke
+had used in his first letter fails sorabji 2014 151
+
+
+
+a version of the argument from ignorance can also be found in
+contemporary defenses of conscientious objection in an age where
+pluralism of worldviews is acknowledged and actually supported
+
+ for
+example sulmasy appeals to epistemic humility as “true basis of
+tolerance” sulmasy 2008 144 in his arguments in support of a right to
+conscientious objection in health care
+
+
+
+c finally the third argument in defense of freedom of conscience is
+what i have called above the “argument from legitimization”
+
+ john stuart
+mill 1859 defended freedom of conscience by appealing to the idea that
+allowing the free expression of any opinion and particularly mistaken
+opinions would allow truth to emerge more clearly and would provide us
+with a justification for acting upon our own beliefs once they have
+been assessed against others opinions
+
+ as put by mill
+
+ complete liberty of contradicting and disproving our opinion is the
+ very condition which justifies us in assuming its truth for purposes
+ of action and on no other terms can a being with human faculties have
+ any rational assurance of being right
+
+ mill 1859 ch
+
+ 2
+
+6
+
+1 freedom of conscience and conscientious objection today
+
+freedom of conscience is today protected by the united nations universal
+declaration of human rights which reads “everyone has the right to
+freedom of thought conscience and religion” art
+
+ 18
+
+
+
+according to strohm this article should not be taken to imply freedom
+to act according to one s conscience but it only refers to “matters of
+inward conviction” strohm 2011 88
+
+ if this interpretation is correct
+article 18 does not seem to raise any interesting philosophical or
+practical problem today as very few people today would deny freedom in
+matters of inward conviction
+
+ more problematic is the moral and
+political debate about the freedom to act or to refrain from acting
+according to one s conscience especially where there are professional
+roles or legal obligations that would demand otherwise
+
+ in fact appeals
+to conscience and freedom of conscience are often deployed to claim and
+justify “conscientious objection” to certain activities that someone
+would otherwise be required to perform
+
+
+
+one example is conscientious objection to the military service where
+conscription is in place
+
+ although originally conscientious objection to
+war was mainly a religious issue the quakers were the most famous group
+of conscientious objectors to war in more recent times the objection
+to war has been put forward and granted without explicit reference to
+any religious justification moskos and chamber 1993
+
+
+
+as most states have now abolished conscription appeals to freedom of
+conscience and to conscientious objection today can be found mainly in
+debates in medical ethics with regard to health practitioners who
+conscientiously object to performing medical procedures they morally
+oppose such as abortions for overviews of the debate in medical
+ethics see wicclair 2011 wester 2015
+
+
+
+according to those who are against a right to conscientious objection
+professional obligations trump any value conscience might have and any
+principle that might justify conscientious objection qua conscientious
+e
+
+g
+
+ giubilini schuklenk minerva and savulescu 2025 savulescu and
+schuklenk 2017 according to defenders of conscientious objection
+professionals conscience must be protected to the largest extent
+possible i
+
+e
+
+ up to the point where respecting conscience would
+significantly jeopardize physical or psychological health of patients
+e
+
+g
+
+ sulmasy 2008 wicclair 2011 a compromise that depending on
+circumstances—for example a too high percentage of objecting
+practitioners which would make it nearly impossible to refer patients to
+nonobjecting doctors—might be very difficult to achieve minerva 2015
+
+
+between these two stances there are positions that are neither for nor
+against conscientious objection in principle but pose tighter
+restrictions to those who advance conscientious objection mcleod 2020
+for example the requirement to provide reasons for the objection and to
+submit such reasons to public scrutiny or experts assessment of the
+reasonability of one s objection card 2007 card 2020 or the
+qualification that objection can only be justified if consistent with
+the internal values of the profession wicclair 2000 deans 2013
+
+
+
+however if it is the validity or the soundness of the reasons provided
+which is considered relevant for the justification of conscientious
+objection it seems that the value of conscience and the principle of
+freedom of conscience are no longer at stake
+
+ what makes an objection
+good or bad acceptable or unacceptable has nothing to do with its
+being conscientious unless we add a “genuineness requirement” e
+
+g
+
+
+meyers and woods 1996 to an assessment of the legitimacy of a
+conscientious objection whereby professionals need to demonstrate that
+the moral beliefs at stake are deeply and sincerity held
+
+ the
+interesting question in this case would be whether a test can be devised
+that can reliably track genuine conscientious objections
+
+
+
+7
+
+ conclusion
+
+there is no such a thing as the notion of conscience both in a
+philosophical and in a psychological sense
+
+ as we have seen the concept
+of conscience has been given different interpretations throughout
+history sometimes on the basis of underlying systematic philosophical
+theories of the mind and of morality and sometimes serving religious or
+political purposes
+
+
+
+this lack of uniformity is not only a problem for historians and
+theoretical philosophers
+
+ because it cannot be immediately clear what we
+are talking about when we talk of conscience of freedom of conscience
+or of conscientious objection it is important that clarity is made
+every time conscience is appealed to in different branches of applied
+philosophy particularly medical ethics and in public debates alike
+
+
+
+this entry has presented a conceptual map rather than a historical
+account of conscience which can provide some guidance for those
+engaged in this clarificatory task
+
+ one of the benefits of clarifying
+concepts and clarifying them in the different circumstances in which
+they are used is their subsequent demystification
+
+
+
+conscience needs to be demystified since it is one of those concepts
+that tend to elicit reverence rather than questions or an interest in
+further inquiry
+
+ as seen above appeals to conscience often replace
+reason giving and are made with the expectation that no further reason
+for one s decisions and positions is requested
+
+ this attitude is also
+displayed in many legislative approaches dealing with the notion of
+conscience in particular legislations about conscientious objection in
+health care typically grant doctors a right to object to performing
+certain professional activities e
+
+g
+
+ conscientious objection to
+abortion without requiring them to provide reasons for their objection
+let alone submitting reasons to some form of assessment
+
+
+
+this entry has distinguished four main understandings of conscience
+drawing on the philosophical tradition of the concept
+
+ whether the
+concept is to be understood as a faculty for selfknowledge and
+selfassessment or as having an epistemic function in the sphere of
+morality or as a motivational force or again as a set of
+selfidentifying moral beliefs or a combination of any of these
+characterizations it is important to have clear in mind what exactly we
+are talking about when we talk of conscience and of freedom of
+conscience in each circumstance
+
+
+
+far from being a conversationstopper conscience can only find its
+proper place in philosophical and in public discussion if its
+philosophical and psychological aspects are teased out defined and
+assessed
+
+ appeals to conscience can only be part of philosophical
+political and legal discussion if they are seen as the start not the
+end of discussions
+
+
+
+bibliography
+
+ aharoni e
+
+ w
+
+ sinnottarmstrong and k
+
+a
+
+ kiehl 2012 “can
+ psychopathic offenders discern moral wrongs
+
+ a new look at the
+ moralconventional distinction” journal of abnormal psychology
+ 1212 484–497
+
+ doi10
+
+1037a0024796
+ aquinas thomas 1256–1259 on truth in ralph mcinerny ed
+
+
+ thomas aquinas
+
+ selected writings london penguins 1998
+
+
+ ––– 1265–1274 summa theologiae christian classics ethereal
+ library
+
+ summa theologia available online
+ arendt hannah 1971 “thinking and moral considerations” social
+ research 383 417–446
+
+
+ bayle pierre 1686–1688 philosophical commentary on these words of
+ jesus christ “compel them to come in that my house may be full”
+ john kilcullen and chandra kukhatas ed
+
+ indianapolis liberty
+ fund 2005
+
+
+ bennett jonathan 1974 “the conscience of huckleberry finn”
+ philosophy 49 123–134
+
+
+ blustein jeffrey 1993 “doing what the patient orders maintaining
+ integrity in the doctorpatient relationship” bioethics 74
+ 289–314
+
+
+ broad charles d
+
+ 1940 “conscience and conscientious action”
+ philosophy 1558 115–130
+
+
+ butler joseph 1726 fifteen sermons preached in the rolls chapel
+ christian classics ethereal library
+
+ butler 1726 available online
+ calvin 1536 institutes of the christian religion christian
+ classics ethereal library
+
+ calvin 1536 available online
+ card robert f
+
+ 2007 “conscientious objection and emergency
+ contraception” the american journal of bioethics 76 8–14
+
+
+ ––– 2020 a new theory of conscientious objection in medicine
+
+
+ justification and reasonability new york routledge
+
+
+ childress james f
+
+ 1979 “appeals to conscience” ethics 894
+ 315–355
+
+
+ clarke steve 2014 the justification of religious violence
+ chichester wiley blackwell
+
+
+ cox damian marguerite la caze and michael levine 2013
+ “integrity” the stanford encyclopedia of philosophy fall 2013
+ edition edward n
+
+ zalta ed
+
+ url 
+ httpsplato
+
+stanford
+
+eduarchivesfall2013entriesintegrity
+
+
+ d arcy eric 1961 conscience and its right to freedom new york
+ sheed and ward
+
+
+ ––– 1963 human acts an essay in their moral evaluation oxford
+ clarendon press
+
+
+ damásio antónio 1994 descartes error emotion reason and the
+ human brain new york putnam publishing
+
+
+ deans zuzana 2013 “conscientious objection in pharmacy practice
+ in great britain” bioethics 271 48–57
+
+
+ foot philippa 1979 “moral relativism” lindley lecture in her
+ moral dilemmas and other topics in moral philosophy oxford oxford
+ university press 2002 pp
+
+ 20–36
+
+
+ freud sigmund 1929 2000 civilization and its discontents joan
+ riviere trans
+
+ london hogarth press 1930
+
+ page numbers from the
+ reprint chrysoma associates ltd aylesbury buckinghamshire 2000
+
+
+ fuss peter 1964 “conscience” ethics 742 111–120
+
+
+ geaves ron 1999 “islam and conscience” in jayne hoose ed
+
+
+ conscience in world religions herefordshire gracewings 155–175
+
+
+ giubilini alberto udo schuklenk francesca minerva and julian
+ savulescu 2025 rethinking conscientious objection in health care
+ new york oxford university press
+ glenn andrea spassena koleva ravi iyer jesse graham and
+ peter h
+
+ ditto 2010 “moral identity in psychopathy” judgment and
+ decision making 57 497–505
+
+ glenn et al
+
+ 2010 available online
+ goldziher ignaz 1917 mohammed and islam new haven yale
+ university press
+
+ goldziher 1917 available online
+ graham jesse jonathan haidt and brian a
+
+ nosek 2009 “liberals
+ and conservatives use different sets of moral foundations” journal
+ of personality and social psychology 965 1029–1046
+
+
+ doi10
+
+1037a0015141
+ greene joshua 2013 moral tribes emotion reason and the gap
+ between us and them new york the penguin press
+
+
+ gudjonsson gisli and joanna roberts 1983 “guilt and selfconcept
+ in secondary psychopaths ” personality and individual differences
+ 4–1 65–70
+
+
+ haidt jonathan 2001 “the emotional dog and its rational tail a
+ social intuitionist approach to moral judgment” psychological
+ review 1084 814–834
+
+
+ ––– 2012 the righteous mind
+
+ why good people are divided by
+ politics and religion new york pantheon books
+
+
+ hare robert d
+
+ 1999 without conscience
+
+ the disturbing world of
+ the psychopaths among us new york guilford press
+
+
+ hobbes thomas 1651 leviathan london
+
+ hobbes 1651 available
+ online
+ hume david 1738–1740 a treatise of human nature in particular
+ book 3 of morals part 1 section 1
+
+ hume 1738 available online
+ john paul ii 1993 veritatis splendor vatican city libreria
+ editrice vaticana
+
+ official english translation at
+ httpw2
+
+vatican
+
+vacontentjohnpauliienencyclicalsdocumentshfjpiienc06081993veritatissplendor
+
+html
+
+
+ ––– 1995 evangelium vitae vatican city libreria editrice
+ vaticana
+
+ official english translation at available online
+
+
+ joffe carole e
+
+ 1995 doctors of conscience
+
+ the struggle to
+ provide abortions before and after roe v
+
+ wade boston beacon
+ press
+
+
+ jorgensen larry m
+
+ 2014 “seventeenthcentury theories of
+ consciousness” the stanford encyclopedia of philosophy winter 2014
+ edition edward n
+
+ zalta ed
+
+ url 
+ httpsplato
+
+stanford
+
+eduarchiveswin2014entriesconsciousness17th
+
+
+ kant immanuel 1797 the metaphysic of morals cambridge cambridge
+ university press 1991
+
+
+ kochanska grazyna and aksan nazan 2006 “children s conscience
+ and selfregulation” journal of personality 746 1587–1618
+
+
+ langston douglas c
+
+ 2000 conscience and other virtues from
+ bonaventure to macintyre pennsylvania state university press
+
+
+ ––– 2015 “medieval theories of conscience” the stanford
+ encyclopedia of philosophy fall 2015 edition edward n
+
+ zalta
+ ed
+
+ url 
+ httpsplato
+
+stanford
+
+eduarchivesfall2015entriesconsciencemedieval
+
+
+ locke john 1660 two tracts on government philip abrams ed
+
+
+ cambridge cambridge university press 1967
+
+
+ ––– 1667 an essay concerning toleration j
+
+r
+
+ milton and philip
+ milton ed
+
+ oxford oxford university press 2010
+
+
+ ––– 1689 two treatises on government peter laslett ed
+
+
+ cambridge cambridge university press 1988
+
+
+ ––– 1689 a letter concerning toleration william popple trans
+
+
+ from latin
+
+ locke 1689 available online
+ ––– 1690 a second letter concerning toleration in r
+
+ vernon
+ ed
+
+ locke on toleration cambridge cambridge university press
+ 2010 pp
+
+ 67–107
+
+
+ luther martin 1535 lectures on galatians in luther s works
+ volume 26 jaroslav pelikan ed
+
+ saint louis mo concordia
+ publishing house 1963
+
+
+ mcguire martin c
+
+ 1963 “on conscience” journal of philosophy
+ 6010 253–263
+
+
+ mcleod carolyn 2020 conscience in reproductive health care
+
+
+ prioritizing the patient new york oxford university press
+
+
+ meyers christopher and robert d
+
+ woods 1996 “an obligation to
+ provide abortion services what happens when physicians refuse
+
+”
+ journal of medical ethics 222 115–120
+
+
+ mill john stuart 1859 on liberty
+
+ mill 1859 available online
+ ––– 1861 utilitarianism
+
+ mill 1861 available online 7th
+ edition
+ minerva francesca 2015 “conscientious objection in italy”
+ journal of medical ethics 412 170–173
+
+
+ doi10
+
+1136medethics2013101656
+ montaigne michele 1580 “of customs and that we should not easily
+ change a law received” in essays of michele de montaigne charles
+ cotton trans
+
+ william hazlitt ed
+
+ london reeves and
+ turner 1877
+
+ montaigne 1580 available online
+ moskos charles c
+
+ and john w
+
+ chambers eds
+
+ 1993 the new
+ conscientious objection
+
+ from sacred to secular resistance new
+ york oxford university press
+
+
+ newman j
+
+r
+
+ 1870 an essay in aid of a grammar of assent new
+ york the catholic publication society
+
+
+ paul vi 1965 gaudium et spes vatican city vatican english
+ translation available at
+ httpwww
+
+vatican
+
+vaarchivehistcouncilsiivaticancouncildocumentsvatiiconst19651207gaudiumetspesen
+
+html
+
+
+ pierce c
+
+a
+
+ 1955 conscience in the new testament a study of
+ syneidesis in the new testament in the light of its sources and
+ with particular reference to st
+
+ paul with some observations
+ regarding its pastoral relevance today studies in biblical theology
+ no
+
+ 15 london scm press
+
+
+ raphael d
+
+d
+
+ 2007 the impartial spectator adam smith s moral
+ philosophy oxford university press
+
+
+ ratzinger joseph 1991 2010 “conscience and truth” communio
+ 37 529–538
+
+
+ rousseau jean jacques 1762 emile or on education barbara foxley
+ trans
+
+ london toronto j
+
+m
+
+ dent and sons 1921 new york e
+
+p
+
+
+ dutton 1921
+
+ rousseau 1762 1921 available online
+ savulescu julian 2006 “conscientious objection in medicine”
+ british medical journal 332 294–297
+
+
+ savulescu julian and udo schuklenk 2017 “doctors have no right to
+ refuse medical assistance in dying abortion and contraception”
+ bioethics 313 162–170
+
+
+ schaich jana borg and walter sinnottarmstrong 2013 “do
+ psychopaths make moral judgments
+
+” in handbook on psychopathy and
+ law kent kiehl and walter sinnottarmstrong eds
+
+ new york
+ oxford university press 2013 107–128
+
+
+ schwitzgebel eric 2014 “introspection” the stanford encyclopedia
+ of philosophy summer 2014 edition edward n
+
+ zalta ed
+
+ url 
+ httpsplato
+
+stanford
+
+eduarchivessum2014entriesintrospection
+
+
+ shaftesbury 1711 an enquiry concerning virtue and merit reprinted
+ in l
+
+a
+
+ selbybigge ed
+
+ british moralists oxford oxford
+ university press 1897
+
+
+ smith adam 1759 the theory of moral sentiments d
+
+d
+
+ raphael and
+ a
+
+l
+
+ macfie eds
+
+ oxford oxford university press 1976
+
+
+ sorabji richard 2014 moral conscience through the ages oxford
+ oxford university press
+
+
+ spinoza baruch 1670 theological political treatise jonathan
+ israel ed
+
+ cambridge cambridge university press 2007
+
+
+ strohm paul 2011 conscience a very short introduction oxford
+ university press
+
+
+ strohminger nina and shaun nichols 2015 “neurodegeneration and
+ identity” psychological science 269 1469–1479
+
+
+ sulmasy daniel p
+
+ 2008 “what is conscience and why is respect for
+ it so important” theoretical medicine and bioethics 293
+ 135–149
+
+ doi10
+
+1007s1101700890722
+ thagard paul and tracy finn 2011 “conscience what is moral
+ intuition
+
+” in carla bagnoli ed
+
+ morality and emotions oxford
+ oxford university press 2011 150–169
+
+
+ thomas keith 1993 “cases of conscience in seventeenthcentury
+ england” in john morrill paul slack and daniel woolf eds
+
+
+ public duty and private conscience in seventeenthcentury england
+ essays presented to g
+
+e
+
+ aylmer oxford clarendon press
+
+
+ twain mark 1884 adventures of huckleberry finn new york w
+
+w
+
+
+ norton co
+
+ 1998
+ vujošević marijana 2015 “conscience as the rational deficit of
+ psychopaths” philosophical psychology 288 1219–1240
+
+
+ doi10
+
+108009515089
+
+2014
+
+983221
+ wester gry 2015 “conscientious objection by health care
+ professionals” philosophy compass 107 427–437
+
+
+ doi10
+
+1111phc3
+
+12235
+ wicclair mark r
+
+ 2000 “conscientious objection in medicine”
+ bioethics 143 205–227
+
+
+ ––– 2011 conscientious objection in health care cambridge
+ cambridge university press
+
+
+ williams bernard 1973 “integrity” in j
+
+j
+
+c
+
+ smart and bernard
+ williams utilitarianism for and against new york cambridge
+ 108–117
+
+
+ ––– 1981 “persons character and morality ” in williams
+ bernard moral luck philosophical papers 1973–80 cambridge
+ cambridge university press 1–19
+
+
+ wood allen 2008 kantian ethics new york cambridge university
+ press chapter 3
+
+
+
+academic tools
+
+ 
+ sep man icon how to cite this entry
+
+
+ sep man icon preview the pdf version of this entry at the friends of the sep society
+
+
+ inpho icon look up topics and thinkers related to this entry at the internet philosophy ontology project inpho
+
+
+ phil papers icon enhanced bibliography for this entry at philpapers with links to its database
+
+
+ 
+
+other internet resources
+
+ uehiro centre for practical ethics youtube channels with some
+ interviews to philosophers and ethicists about conscience and
+ conscientious objection in healthcare
+
+related entries
+
+aquinas thomas moral political and legal philosophy conscience
+medieval theories of consciousness seventeenthcentury theories of 
+ethics biomedical privacy and medicine integrity moral
+epistemology moral sentimentalism
+
+copyright © 2024 by
+alberto giubilini alberto
+
+giubiliniphilosophy
+
+ox
+
+ac
+
+uk
+
+open access to the sep is made possible by a worldwide funding
+initiative
+
+
+the encyclopedia now needs your support
+please read how you can help keep the encyclopedia free
+
+ browse
+
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+
+ about
+
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ accessibility
+ contact
+
+ support sep
+
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+ mirror sites
+
+view this site from another server
+
+usa main site philosophy stanford university
+
+ info about mirror sites
+
+the stanford encyclopedia of philosophy is copyright © 2024 by the
+metaphysics research lab department of philosophy stanford university
+
+library of congress catalog data issn 10955054

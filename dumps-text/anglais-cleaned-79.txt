@@ -1,0 +1,4544 @@
+skip to main content
+
+thank you for visiting nature
+
+com
+
+ you are using a browser version with
+limited support for css
+
+ to obtain the best experience we recommend you
+use a more up to date browser or turn off compatibility mode in
+internet explorer
+
+ in the meantime to ensure continued support we are
+displaying the site without styles and javascript
+
+
+
+advertisement
+
+advertisement
+
+nature reviews neuroscience
+
+ view all journals
+ search
+ log in
+
+ explore content
+ about the journal
+ publish with us
+ subscribe
+
+ sign up for alerts
+ rss feed
+
+1
+
+ nature
+ 
+2
+
+ nature reviews neuroscience
+ 
+3
+
+ review articles
+ 
+4
+
+ article
+
+ review article
+ published 03 may 2022
+
+theories of consciousness
+
+ anil k
+
+ seth  orcid orcid
+
+org000000021421605112 
+ tim bayne234 
+
+nature reviews neuroscience volume 23 pages 439–452 2022cite this
+article
+
+ 65k accesses
+
+ 276 citations
+
+ 1168 altmetric
+
+ metrics details
+
+subjects
+
+ consciousness
+ neuroscience
+
+abstract
+
+recent years have seen a blossoming of theories about the biological and
+physical basis of consciousness
+
+ good theories guide empirical research
+allowing us to interpret data develop new experimental techniques and
+expand our capacity to manipulate the phenomenon of interest
+
+ indeed it
+is only when couched in terms of a theory that empirical discoveries can
+ultimately deliver a satisfying understanding of a phenomenon
+
+ however
+in the case of consciousness it is unclear how current theories relate
+to each other or whether they can be empirically distinguished
+
+ to
+clarify this complicated landscape we review four prominent theoretical
+approaches to consciousness higherorder theories global workspace
+theories reentry and predictive processing theories and integrated
+information theory
+
+ we describe the key characteristics of each approach
+by identifying which aspects of consciousness they propose to explain
+what their neurobiological commitments are and what empirical data are
+adduced in their support
+
+ we consider how some prominent empirical
+debates might distinguish among these theories and we outline three
+ways in which theories need to be developed to deliver a mature regimen
+of theorytesting in the neuroscience of consciousness
+
+ there are good
+reasons to think that the iterative development testing and comparison
+of theories of consciousness will lead to a deeper understanding of this
+most profound of mysteries
+
+
+
+ access through your institution
+
+buy or subscribe
+
+this is a preview of subscription content access via your institution
+
+access options
+
+ access through your institution
+
+ access through your institution
+
+change institution
+
+buy or subscribe
+
+access nature and 54 other nature portfolio journals
+
+get nature our bestvalue onlineaccess subscription
+
+2499 €  30 days
+
+cancel any time
+
+learn more
+
+subscribe to this journal
+
+receive 12 print issues and online access
+
+18636 € per year
+
+only 1553 € per issue
+
+learn more
+
+buy this article
+
+ purchase on springerlink
+ instant access to full article pdf
+
+buy now
+
+prices may be subject to local taxes which are calculated during
+checkout
+
+additional access options
+
+ log in
+ learn about institutional subscriptions
+ read our faqs
+ contact customer support
+
+
+
+fig
+
+ 1 higherorder theories
+
+
+
+
+
+fig
+
+ 2 global workspace theories
+
+
+
+
+
+fig
+
+ 3 integrated information theory
+
+
+
+
+
+fig
+
+ 4 reentry theory and predictive processing
+
+
+
+similar content being viewed by others
+
+
+
+two conceptions of consciousness and why only the neoaristotelian one enables us to construct evolutionary explanations
+
+article open access 15 september 2020
+
+
+
+the contrast database for analysing and comparing empirical studies of consciousness theories
+
+article 21 february 2022
+
+
+
+the complexity of the stream of consciousness
+
+article open access 03 november 2022
+
+references
+
+1
+
+ crick f
+
+ koch c
+
+ towards a neurobiological theory of
+ consciousness
+
+ semin
+
+ neurosci
+
+ 2 263–275 1990
+
+
+
+ google scholar 
+
+2
+
+ metzinger t
+
+ ed
+
+ neural correlates of consciousness empirical
+ and conceptual questions mit press 2000
+
+
+
+3
+
+ koch c
+
+ massimini m
+
+ boly m
+
+ tononi g
+
+ neural correlates of
+ consciousness progress and problems
+
+ nat
+
+ rev
+
+ neurosci
+
+ 17
+ 307–321 2016
+
+
+
+ article  cas  pubmed  google scholar 
+
+4
+
+ de graaf t
+
+ a
+
+ hsieh p
+
+ j
+
+ sack a
+
+ t
+
+ the correlates in
+ neural correlates of consciousness
+
+ neurosci
+
+ biobehav
+
+ rev
+
+ 36
+ 191–197 2012
+
+
+
+ article  pubmed  google scholar 
+
+5
+
+ aru j
+
+ bachmann t
+
+ singer w
+
+ melloni l
+
+ distilling the
+ neural correlates of consciousness
+
+ neurosci
+
+ biobehav
+
+ rev
+
+ 36
+ 737–746 2012
+
+
+
+ article  pubmed  google scholar 
+
+6
+
+ tsuchiya n
+
+ wilke m
+
+ frassle s
+
+ lamme v
+
+ a
+
+ noreport
+ paradigms extracting the true neural correlates of consciousness
+
+
+ trends cogn
+
+ sci
+
+ 19 757–770 2015
+
+
+
+ article  pubmed  google scholar 
+
+7
+
+ klein c
+
+ hohwy j
+
+ bayne t
+
+ explanation in the science of
+ consciousness from the neural correlates of consciousness nccs to
+ the differencemakers of consciousness dmcs
+
+ philos
+
+ mind sci
+
+
+ httpsdoi
+
+org10
+
+33735phimisci
+
+2020
+
+ii
+
+60 2020
+
+
+
+ article  google scholar 
+
+8
+
+ michel m
+
+ et al
+
+ opportunities and challenges for a maturing
+ science of consciousness
+
+ nat
+
+ hum
+
+ behav
+
+ 3 104–107 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+9
+
+ seth a
+
+ k
+
+ consciousness the last 50 years and the next
+
+ brain
+ neurosci
+
+ adv
+
+ 2 2398212818816019 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+10
+
+ seth a
+
+ k
+
+ explanatory correlates of consciousness theoretical and
+ computational challenges
+
+ cogn
+
+ comput
+
+ 1 50–63 2009
+
+
+
+ article  google scholar 
+
+11
+
+ searle j
+
+ the rediscovery of the mind mit press 1992
+
+
+
+12
+
+ varela f
+
+ j
+
+ neurophenomenology a methodological remedy for the
+ hard problem
+
+ j
+
+ conscious
+
+ stud
+
+ 3 330–350 1996
+
+
+
+ google scholar 
+
+13
+
+ seth a
+
+ k
+
+ being you a new science of consciousness faber 
+ faber 2021
+
+
+
+14
+
+ dennett d
+
+ c
+
+ welcome to strong illusionism
+
+ j
+
+ conscious
+
+ stud
+
+
+ 26 48–58 2019
+
+
+
+ google scholar 
+
+15
+
+ frankish k
+
+ illusionism as a theory of consciousness imprint
+ academic 2017
+
+
+
+16
+
+ wiese w
+
+ the science of consciousness does not need another theory
+ it needs a minimal unifying model
+
+ neurosci
+
+ conscious
+
+ 2020
+ niaa013 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+17
+
+ melloni l
+
+ mudrik l
+
+ pitts m
+
+ koch c
+
+ making the hard
+ problem of consciousness easier
+
+ science 372 911–912 2021
+
+ this
+ work sets out how an adversarial collaboration is planning to
+ arbitrate between integrated information and global workspace tocs
+
+
+
+ article  cas  pubmed  google scholar 
+
+18
+
+ hameroff s
+
+ penrose r
+
+ consciousness in the universe a review
+ of the orch or theory
+
+ phys
+
+ life rev
+
+ 11 39–78 2014
+
+
+
+ article  pubmed  google scholar 
+
+19
+
+ chalmers d
+
+ j
+
+ mcqueen k
+
+ in quantum mechanics and consciousness
+ ed gao s
+
+ oxford univ
+
+ press 2022
+
+
+
+20
+
+ nagel t
+
+ what is it like to be a bat
+
+ philos
+
+ rev
+
+ 83 435–450
+ 1974
+
+
+
+ article  google scholar 
+
+21
+
+ bayne t
+
+ hohwy j
+
+ owen a
+
+ m
+
+ are there levels of
+ consciousness
+
+ trends cogn
+
+ sci
+
+ 20 405–413 2016
+
+ this work
+ challenges the common unidimensional notion of level of
+ consciousness outlining an alternative richer multidimensional
+ account
+
+
+
+ article  pubmed  google scholar 
+
+22
+
+ metzinger t
+
+ being noone mit press 2003
+
+
+
+23
+
+ damasio a
+
+ self comes to mind constructing the conscious brain
+ william heinemann 2010
+
+
+
+24
+
+ park h
+
+ d
+
+ tallonbaudry c
+
+ the neural subjective frame from
+ bodily signals to perceptual consciousness
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+
+ lond
+
+ b biol
+
+ sci
+
+ 369 20130208 2014
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+25
+
+ bayne t
+
+ the unity of consciousness oxford univ
+
+ press 2010
+
+
+
+26
+
+ bayne t
+
+ chalmers d
+
+ j
+
+ in the unity of consciousness binding
+ integration and dissociation ed cleeremans a
+
+ 23–58 oxford
+ univ
+
+ press 2003
+
+
+
+27
+
+ cummins r
+
+ functional analysis
+
+ j
+
+ philos
+
+ 72 741–765 1975
+
+
+
+ article  google scholar 
+
+28
+
+ blake r
+
+ brascamp j
+
+ heeger d
+
+ j
+
+ can binocular rivalry reveal
+ neural correlates of consciousness
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b
+ biol
+
+ sci
+
+ 369 20130211 2014
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+29
+
+ signorelli c
+
+ m
+
+ szczotka j
+
+ prentner r
+
+ explanatory profiles
+ of models of consciousness — towards a systematic classification
+
+
+ neurosci
+
+ conscious
+
+ 2021 niab021 2021
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+30
+
+ lau h
+
+ rosenthal d
+
+ empirical support for higherorder theories
+ of conscious awareness
+
+ trends cogn
+
+ sci
+
+ 15 365–373 2011
+
+ this
+ work presents a summary of empirical evidence favouring higherorder
+ tocs
+
+
+
+ article  pubmed  google scholar 
+
+31
+
+ rosenthal d
+
+ consciousness and mind clarendon 2005
+
+
+
+32
+
+ brown r
+
+ the horor theory of phenomenal consciousness
+
+ philos
+
+
+ stud
+
+ 172 1783–1794 2015
+
+
+
+ article  google scholar 
+
+33
+
+ cleeremans a
+
+ consciousness the radical plasticity thesis
+
+ prog
+
+
+ brain res
+
+ 168 19–33 2008
+
+
+
+ article  pubmed  google scholar 
+
+34
+
+ cleeremans a
+
+ et al
+
+ learning to be conscious
+
+ trends cogn
+
+ sci
+
+
+ 24 112–123 2020
+
+
+
+ article  pubmed  google scholar 
+
+35
+
+ fleming s
+
+ m
+
+ awareness as inference in a higherorder state space
+
+
+ neurosci
+
+ conscious
+
+ 2020 niz020 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+36
+
+ lau h
+
+ consciousness metacognition and perceptual reality
+ monitoring
+
+ preprint at arxiv httpsdoi
+
+org10
+
+31234osf
+
+iockbyf
+ 2020
+
+
+
+ article  google scholar 
+
+37
+
+ gershman s
+
+ j
+
+ the generative adversarial brain
+
+ front
+
+ artif
+
+
+ intell
+
+ httpsdoi
+
+org10
+
+3389frai
+
+2019
+
+00018 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+38
+
+ cohen m
+
+ a
+
+ dennett d
+
+ c
+
+ kanwisher n
+
+ what is the bandwidth
+ of perceptual experience
+
+ trends cogn
+
+ sci
+
+ 20 324–335 2016
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+39
+
+ haun a
+
+ m
+
+ tononi g
+
+ koch c
+
+ tsuchiya n
+
+ are we
+ underestimating the richness of visual experiences
+
+ neurosci
+
+
+ conscious
+
+ 3 1–4 2017
+
+
+
+ google scholar 
+
+40
+
+ odegaard b
+
+ chang m
+
+ y
+
+ lau h
+
+ cheung s
+
+ h
+
+ inflation versus
+ fillingin why we feel we see more than we actually do in
+ peripheral vision
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b biol
+
+ sci
+
+
+ httpsdoi
+
+org10
+
+1098rstb
+
+2017
+
+0345 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+41
+
+ ledoux j
+
+ e
+
+ brown r
+
+ a higherorder theory of emotional
+ consciousness
+
+ proc
+
+ natl acad
+
+ sci
+
+ usa 114 e2016–e2025 2017
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+42
+
+ morrison j
+
+ perceptual confidence
+
+ anal
+
+ philos
+
+ 78 99–147 2016
+
+
+
+ google scholar 
+
+43
+
+ peters m
+
+ a
+
+ k
+
+ towards characterizing the canonical computations
+ generating phenomenal experience
+
+ preprint at psyarxiv
+ httpsdoi
+
+org10
+
+31234osf
+
+iobqfr6 2021
+
+
+
+ article  google scholar 
+
+44
+
+ rosenthal d
+
+ consciousness and its function
+
+ neuropsychologia 46
+ 829–840 2008
+
+
+
+ article  pubmed  google scholar 
+
+45
+
+ charles l
+
+ van opstal f
+
+ marti s
+
+ dehaene s
+
+ distinct brain
+ mechanisms for conscious versus subliminal error detection
+
+
+ neuroimage 73 80–94 2013
+
+
+
+ article  pubmed  google scholar 
+
+46
+
+ brown r
+
+ lau h
+
+ ledoux j
+
+ e
+
+ understanding the higherorder
+ approach to consciousness
+
+ trends cogn
+
+ sci
+
+ 23 754–768 2019
+
+
+
+ article  pubmed  google scholar 
+
+47
+
+ baars b
+
+ j
+
+ a cognitive theory of consciousness cambridge univ
+
+
+ press 1988
+
+
+
+48
+
+ dehaene s
+
+ changeux j
+
+ p
+
+ experimental and theoretical
+ approaches to conscious processing
+
+ neuron 70 200–227 2011
+
+
+
+ article  cas  pubmed  google scholar 
+
+49
+
+ mashour g
+
+ a
+
+ roelfsema p
+
+ changeux j
+
+ p
+
+ dehaene s
+
+
+ conscious processing and the global neuronal workspace hypothesis
+
+
+ neuron 105 776–798 2020
+
+ this work presents a summary of the
+ neuronal gwt and its supporting evidence
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+50
+
+ dehaene s
+
+ sergent c
+
+ changeux j
+
+ p
+
+ a neuronal network model
+ linking subjective reports and objective physiological data during
+ conscious perception
+
+ proc
+
+ natl acad
+
+ sci
+
+ usa 100 8520–8525
+ 2003
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+51
+
+ naccache l
+
+ why and how access consciousness can account for
+ phenomenal consciousness
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b biol
+
+ sci
+
+
+ httpsdoi
+
+org10
+
+1098rstb
+
+2017
+
+0357 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+52
+
+ mashour g
+
+ a
+
+ cognitive unbinding a neuroscientific paradigm of
+ general anesthesia and related states of unconsciousness
+
+ neurosci
+
+
+ biobehav
+
+ rev
+
+ 37 2751–2759 2013
+
+
+
+ article  pubmed  google scholar 
+
+53
+
+ demertzi a
+
+ et al
+
+ human consciousness is supported by dynamic
+ complex patterns of brain signal coordination
+
+ sci
+
+ adv
+
+ 5 eaat7603
+ 2019
+
+ this large empirical study of functional connectivity
+ patterns across different global states of consciousness focuses on
+ how these patterns relate to underlying structural connectivity
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+54
+
+ barttfeld p
+
+ et al
+
+ signature of consciousness in the dynamics of
+ restingstate brain activity
+
+ proc
+
+ natl acad
+
+ sci
+
+ usa 112 887–892
+ 2015
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+55
+
+ uhrig l
+
+ et al
+
+ restingstate dynamics as a cortical signature of
+ anesthesia in monkeys
+
+ anesthesiology 129 942–958 2018
+
+
+
+ article  pubmed  google scholar 
+
+56
+
+ carruthers p
+
+ human and animal minds the consciousness questions
+ laid to rest oxford univ
+
+ press 2019
+
+
+
+57
+
+ tononi g
+
+ consciousness as integrated information a provisional
+ manifesto
+
+ biol
+
+ bull
+
+ 215 216–242 2008
+
+
+
+ article  pubmed  google scholar 
+
+58
+
+ tononi g
+
+ integrated information theory of consciousness an
+ updated account
+
+ arch
+
+ ital
+
+ biol
+
+ 150 293–329 2012
+
+
+
+ cas  pubmed  google scholar 
+
+59
+
+ tononi g
+
+ boly m
+
+ massimini m
+
+ koch c
+
+ integrated
+ information theory from consciousness to its physical substrate
+
+
+ nat
+
+ rev
+
+ neurosci
+
+ 17 450–461 2016
+
+ this work presents an
+ account of the core claims and concepts of the integrated
+ information toc
+
+
+
+ article  cas  pubmed  google scholar 
+
+60
+
+ oizumi m
+
+ albantakis l
+
+ tononi g
+
+ from the phenomenology to
+ the mechanisms of consciousness integrated information theory 3
+
+0
+
+
+ plos comput
+
+ biol
+
+ 10 e1003588 2014
+
+
+
+ article  pubmed  pubmed central  cas  google scholar 
+
+61
+
+ tononi g
+
+ koch c
+
+ consciousness here there and everywhere
+
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b biol
+
+ sci
+
+
+ httpsdoi
+
+org10
+
+1098rstb
+
+2014
+
+0167 2015
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+62
+
+ haun a
+
+ m
+
+ tononi g
+
+ why does space feel the way it does
+
+
+ towards a principled account of spatial experienc
+
+ entropy 21 1160
+ 2019
+
+
+
+ article  pubmed central  google scholar 
+
+63
+
+ albantakis l
+
+ hintze a
+
+ koch c
+
+ adami c
+
+ tononi g
+
+
+ evolution of integrated causal structures in animats exposed to
+ environments of increasing complexity
+
+ plos comput
+
+ biol
+
+ 10
+ e1003966 2014
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+64
+
+ marshall w
+
+ gomezramirez j
+
+ tononi g
+
+ integrated information
+ and state differentiation
+
+ front
+
+ psychol
+
+ 7 926 2016
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+65
+
+ lamme v
+
+ a
+
+ towards a true neural stance on consciousness
+
+ trends
+ cogn
+
+ sci
+
+ 10 494–501 2006
+
+
+
+ article  pubmed  google scholar 
+
+66
+
+ lamme v
+
+ a
+
+ roelfsema p
+
+ r
+
+ the distinct modes of vision offered
+ by feedforward and recurrent processing
+
+ trends neurosci
+
+ 23
+ 571–579 2000
+
+
+
+ article  cas  pubmed  google scholar 
+
+67
+
+ hohwy j
+
+ seth a
+
+ k
+
+ predictive processing as a systematic basis
+ for identifying the neural correlates of consciousness
+
+ philos
+
+ mind
+ sci
+
+ 1 3 2020
+
+
+
+ google scholar 
+
+68
+
+ lamme v
+
+ a
+
+ super h
+
+ landman r
+
+ roelfsema p
+
+ r
+
+ 
+ spekreijse h
+
+ the role of primary visual cortex v1 in visual
+ awareness
+
+ vis
+
+ res
+
+ 40 1507–1521 2000
+
+
+
+ article  cas  pubmed  google scholar 
+
+69
+
+ pascualleone a
+
+ walsh v
+
+ fast backprojections from the motion
+ to the primary visual area necessary for visual awareness
+
+ science
+ 292 510–512 2001
+
+ this early study uses transcranial magnetic
+ stimulation to reveal a role for reentrant activity in conscious
+ visual perception in humans
+
+
+
+ article  cas  pubmed  google scholar 
+
+70
+
+ boehler c
+
+ n
+
+ schoenfeld m
+
+ a
+
+ heinze h
+
+ j
+
+ hopf j
+
+ m
+
+ rapid
+ recurrent processing gates awareness in primary visual cortex
+
+ proc
+
+
+ natl acad
+
+ sci
+
+ usa 105 8742–8747 2008
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+71
+
+ lamme v
+
+ a
+
+ how neuroscience will change our view on consciousness
+
+
+ cogn
+
+ neurosci
+
+ 1 204–220 2010
+
+
+
+ article  pubmed  google scholar 
+
+72
+
+ von helmholtz h
+
+ handbuch der phsyiologischen optik german voss
+ 1867
+
+
+
+73
+
+ clark a
+
+ whatever next
+
+ predictive brains situated agents and the
+ future of cognitive science
+
+ behav
+
+ brain sci
+
+ 36 181–204 2013
+
+
+ this work presents a classic exposition of predictive processing and
+ its relevance for perception cognition and action
+
+
+
+ article  pubmed  google scholar 
+
+74
+
+ friston k
+
+ j
+
+ the freeenergy principle a unified brain theory
+
+
+ nat
+
+ rev
+
+ neurosci
+
+ 11 127–138 2010
+
+
+
+ article  cas  pubmed  google scholar 
+
+75
+
+ seth a
+
+ k
+
+ in open mind eds windt j
+
+ m
+
+ metzinger t
+
+ mind
+ group 2015
+
+
+
+76
+
+ friston k
+
+ j
+
+ am i selfconscious
+
+ or does selforganization
+ entail selfconsciousness
+
+
+
+ front
+
+ psychol
+
+ 9 579 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+77
+
+ seth a
+
+ k
+
+ tsakiris m
+
+ being a beast machine the somatic basis
+ of selfhood
+
+ trends cogn
+
+ sci
+
+ 22 969–981 2018
+
+
+
+ article  pubmed  google scholar 
+
+78
+
+ bruineberg j
+
+ dolega k
+
+ dewhurst j
+
+ baltieri m
+
+ the
+ emperor s new markov blankets
+
+ behav
+
+ brain sci
+
+
+ httpsdoi
+
+org10
+
+1017s0140525x21002351 2021
+
+
+
+ article  pubmed  google scholar 
+
+79
+
+ hohwy j
+
+ the predictive mind oxford univ
+
+ press 2013
+
+
+
+80
+
+ rao r
+
+ p
+
+ ballard d
+
+ h
+
+ predictive coding in the visual cortex
+ a functional interpretation of some extraclassical receptivefield
+ effects
+
+ nat
+
+ neurosci
+
+ 2 79–87 1999
+
+
+
+ article  cas  pubmed  google scholar 
+
+81
+
+ teufel c
+
+ fletcher p
+
+ c
+
+ forms of prediction in the nervous
+ system
+
+ nat
+
+ rev
+
+ neurosci
+
+ 21 231–242 2020
+
+
+
+ article  cas  pubmed  google scholar 
+
+82
+
+ friston k
+
+ j
+
+ daunizeau j
+
+ kilner j
+
+ kiebel s
+
+ j
+
+ action and
+ behavior a freeenergy formulation
+
+ biol
+
+ cybern
+
+ 102 227–260
+ 2010
+
+
+
+ article  pubmed  google scholar 
+
+83
+
+ parr t
+
+ friston k
+
+ j
+
+ generalised free energy and active
+ inference
+
+ biol
+
+ cybern
+
+ 113 495–513 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+84
+
+ pennartz c
+
+ m
+
+ a
+
+ consciousness representation action the
+ importance of being goaldirected
+
+ trends cogn
+
+ sci
+
+ 22 137–153
+ 2018
+
+
+
+ article  pubmed  google scholar 
+
+85
+
+ williford k
+
+ bennequin d
+
+ friston k
+
+ rudrauf d
+
+ the
+ projective consciousness model and phenomenal selfhood
+
+ front
+
+
+ psychol
+
+ 9 2571 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+86
+
+ hohwy j
+
+ new directions in predictive processing
+
+ mind lang
+
+ 35
+ 209–223 2020
+
+
+
+ article  google scholar 
+
+87
+
+ seth a
+
+ k
+
+ a predictive processing theory of sensorimotor
+ contingencies explaining the puzzle of perceptual presence and its
+ absence in synesthesia
+
+ cogn
+
+ neurosci
+
+ 5 97–118 2014
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+88
+
+ o regan j
+
+ k
+
+ noë a
+
+ a sensorimotor account of vision and visual
+ consciousness
+
+ behav
+
+ brain sci
+
+ 24 939–973 discussion 973–1031
+ 2001
+
+ this primary description of the sensorimotor toc argues that
+ conscious perception is intimately related to action
+
+
+
+ article  pubmed  google scholar 
+
+89
+
+ seth a
+
+ k
+
+ interoceptive inference emotion and the embodied self
+
+
+ trends cogn
+
+ sci
+
+ 17 565–573 2013
+
+ this work presents a
+ theoretical application of predictive processing to interoception
+ and physiological regulation relating this to experiences of
+ emotion and selfhood
+
+
+
+ article  pubmed  google scholar 
+
+90
+
+ barrett l
+
+ f
+
+ the theory of constructed emotion an active
+ inference account of interoception and categorization
+
+ soc
+
+ cogn
+
+
+ affect
+
+ neurosci
+
+ 12 1833 2017
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+91
+
+ solms m
+
+ the hard problem of consciousness and the free energy
+ principle
+
+ front
+
+ psychol
+
+ 9 2714 2018
+
+
+
+ article  pubmed  google scholar 
+
+92
+
+ hohwy j
+
+ roepstorff a
+
+ friston k
+
+ predictive coding explains
+ binocular rivalry an epistemological review
+
+ cognition 108 687–701
+ 2008
+
+
+
+ article  pubmed  google scholar 
+
+93
+
+ parr t
+
+ corcoran a
+
+ w
+
+ friston k
+
+ j
+
+ hohwy j
+
+ perceptual
+ awareness and active inference
+
+ neurosci
+
+ conscious
+
+ 2019 niz012
+ 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+94
+
+ friston k
+
+ j
+
+ fitzgerald t
+
+ rigoli f
+
+ schwartenbeck p
+
+ 
+ pezzulo g
+
+ active inference a process theory
+
+ neural comput
+
+ 29
+ 1–49 2017
+
+
+
+ article  pubmed  google scholar 
+
+95
+
+ boly m
+
+ et al
+
+ preserved feedforward but impaired topdown
+ processes in the vegetative state
+
+ science 332 858–862 2011
+
+ this
+ neuroimaging study uses dynamic causal modelling to show that loss
+ of consciousness in the vegetative state is associated with impaired
+ topdown connectivity from frontal to temporal cortices
+
+
+
+ article  cas  pubmed  google scholar 
+
+96
+
+ parr t
+
+ friston k
+
+ j
+
+ working memory attention and salience in
+ active inference
+
+ sci
+
+ rep
+
+ 7 14678 2017
+
+
+
+ article  pubmed  pubmed central  cas  google scholar 
+
+97
+
+ chalmers a
+
+ what is this thing called science
+
+ queensland univ
+
+
+ press 2013
+
+
+
+98
+
+ godfreysmith p
+
+ g
+
+ theory and reality an introduction to the
+ philosophy of science 2nd edn univ
+
+ chicago press 2021
+
+
+
+99
+
+ lipton p
+
+ inference to the best explanation routledge 2004
+
+
+
+100
+
+ lau h
+
+ passingham r
+
+ e
+
+ relative blindsight in normal observers
+ and the neural correlate of visual consciousness
+
+ proc
+
+ natl acad
+
+
+ sci
+
+ usa 103 18763–18768 2006
+
+ this empirical study compares
+ conscious and unconscious visual perception in humans controlling
+ for performance and reveals differences in prefrontal activation
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+101
+
+ van vugt b
+
+ et al
+
+ the threshold for conscious report signal loss
+ and response bias in visual and frontal cortex
+
+ science 360
+ 537–542 2018
+
+ this empirical study tracks the time course of
+ neural signals in primate frontal cortex showing that perceived
+ stimuli elicit sustained activity when compared with nonperceived
+ stimuli
+
+
+
+ article  pubmed  cas  google scholar 
+
+102
+
+ gaillard r
+
+ et al
+
+ converging intracranial markers of conscious
+ access
+
+ plos biol
+
+ 7 e61 2009
+
+
+
+ article  pubmed  cas  google scholar 
+
+103
+
+ panagiotaropoulos t
+
+ i
+
+ deco g
+
+ kapoor v
+
+ logothetis n
+
+ k
+
+
+ neuronal discharges and gamma oscillations explicitly reflect
+ visual consciousness in the lateral prefrontal cortex
+
+ neuron 74
+ 924–935 2012
+
+
+
+ article  cas  pubmed  google scholar 
+
+104
+
+ kapoor v
+
+ et al
+
+ decoding internally generated transitions of
+ conscious contents in the prefrontal cortex without subjective
+ reports
+
+ nat
+
+ comm
+
+ 13 1535 2022
+
+
+
+ article  cas  google scholar 
+
+105
+
+ bellet j
+
+ et al
+
+ decoding rapidly presented visual stimuli from
+ prefrontal ensembles without report nor postperceptual processing
+
+
+ neurosci
+
+ conscious
+
+ 2022 niac005 2022
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+106
+
+ levinson m
+
+ podvalny e
+
+ baete s
+
+ h
+
+ he b
+
+ j
+
+ cortical and
+ subcortical signatures of conscious object recognition
+
+ nat
+
+
+ commun
+
+ 12 2930 2021
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+107
+
+ boly m
+
+ et al
+
+ are the neural correlates of consciousness in the
+ front or in the back of the cerebral cortex
+
+ clinical and
+ neuroimaging evidence
+
+ j
+
+ neurosci
+
+ 37 9603–9613 2017
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+108
+
+ raccah o
+
+ block n
+
+ fox k
+
+ c
+
+ r
+
+ does the prefrontal cortex
+ play an essential role in consciousness
+
+ insights from intracranial
+ electrical stimulation of the human brain
+
+ j
+
+ neurosci
+
+ 41
+ 2076–2087 2021
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+109
+
+ odegaard b
+
+ knight r
+
+ t
+
+ lau h
+
+ should a few null findings
+ falsify prefrontal theories of conscious perception
+
+ j
+
+ neurosci
+
+
+ 37 9593–9602 2017
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+110
+
+ brascamp j
+
+ blake r
+
+ knapen t
+
+ negligible frontoparietal
+ bold activity accompanying unreportable switches in bistable
+ perception
+
+ nat
+
+ neurosci
+
+ 18 1672–1678 2015
+
+ this empirical
+ noreport study shows that frontoparietal activity does not
+ track switches in perceptual dominance when subjective reports are
+ not required
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+111
+
+ sergent c
+
+ et al
+
+ bifurcation in brain dynamics reveals a
+ signature of conscious processing independent of report
+
+ nat
+
+
+ commun
+
+ 12 1149 2021
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+112
+
+ siclari f
+
+ et al
+
+ the neural correlates of dreaming
+
+ nat
+
+
+ neurosci
+
+ 20 872–878 2017
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+113
+
+ wong w
+
+ et al
+
+ the dream catcher experiment blinded analyses
+ failed to detect markers of dreaming consciousness in eeg spectral
+ power
+
+ neurosci
+
+ conscious
+
+ 2020 niaa006 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+114
+
+ block n
+
+ consciousness accessibility and the mesh between
+ psychology and neuroscience
+
+ behav
+
+ brain sci
+
+ 30 481–548 2007
+
+
+ this work argues that research in psychology and neuroscience shows
+ that there is a real and not merely conceptual distinction between
+ phenomenal consciousness that is experience and cognitive access
+ to phenomenal consciousness
+
+
+
+ article  pubmed  google scholar 
+
+115
+
+ musgrave a
+
+ in relativism and realism in science ed nola r
+
+
+ 229–252 kluwer 1988
+
+
+
+116
+
+ song c
+
+ haun a
+
+ m
+
+ tononi g
+
+ plasticity in the structure of
+ visual space
+
+ eneuro httpsdoi
+
+org10
+
+1523eneuro
+
+008017
+
+2017
+ 2017
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+117
+
+ marshel j
+
+ h
+
+ et al
+
+ cortical layerspecific critical dynamics
+ triggering perception
+
+ science
+ httpsdoi
+
+org10
+
+1126science
+
+aaw5202 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+118
+
+ dembski c
+
+ koch c
+
+ pitts m
+
+ perceptual awareness negativity
+ a physiological correlate of sensory consciousness
+
+ trends cogn
+
+
+ sci
+
+ 25 660–670 2021
+
+
+
+ article  pubmed  google scholar 
+
+119
+
+ sanchez g
+
+ hartmann t
+
+ fusca m
+
+ demarchi g
+
+ weisz n
+
+
+ decoding across sensory modalities reveals common supramodal
+ signatures of conscious perception
+
+ proc
+
+ natl acad
+
+ sci
+
+ usa 117
+ 7437–7446 2020
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+120
+
+ sergent c
+
+ the offline stream of conscious representations
+
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b biol
+
+ sci
+
+
+ httpsdoi
+
+org10
+
+1098rstb
+
+2017
+
+0349 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+121
+
+ michel m
+
+ doerig a
+
+ a new empirical challenge for local
+ theories of consciousness
+
+ mind lang
+
+
+ httpsdoi
+
+org10
+
+1111mila
+
+12319 2021
+
+
+
+ article  google scholar 
+
+122
+
+ sergent c
+
+ et al
+
+ cueing attention after the stimulus is gone can
+ retrospectively trigger conscious perception
+
+ curr
+
+ biol
+
+ 23
+ 150–155 2013
+
+ this empirical study reveals that conscious
+ perception of a stimulus can be influenced by events happening
+ hundreds of milliseconds after the stimulus appeared
+ retroperception 
+
+
+
+ article  cas  pubmed  google scholar 
+
+123
+
+ roseboom w
+
+ et al
+
+ activity in perceptual classification networks
+ as a basis for human subjective time perception
+
+ nat
+
+ commun
+
+ 10
+ 267 2019
+
+
+
+ article  pubmed  pubmed central  cas  google scholar 
+
+124
+
+ kent l
+
+ wittmann m
+
+ special issue consciousness science and
+ its theories
+
+ time consciousness the missing link in theories of
+ consciousness
+
+ neurosci
+
+ conscious
+
+ 2021 niab011 2021
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+125
+
+ husserl e
+
+ ideas a general introduction to pure phenomenology
+ collier books 1963
+
+
+
+126
+
+ yaron i
+
+ melloni l
+
+ pitts m
+
+ mudrik l
+
+ the contrast
+ database for analyzing and comparing empirical studies of
+ consciousness theories
+
+ nat
+
+ hum
+
+ behav
+
+
+ httpsdoi
+
+org10
+
+1038s41562021012845 2022
+
+ this work
+ presents an online resource of empirical studies of consciousness
+ organized with respect to different tocs
+
+
+
+ article  pubmed  google scholar 
+
+127
+
+ joglekar m
+
+ r
+
+ mejias j
+
+ f
+
+ yang g
+
+ r
+
+ wang x
+
+ j
+
+
+ interareal balanced amplification enhances signal propagation in a
+ largescale circuit model of the primate cortex
+
+ neuron 98
+ 222–234
+
+e8 2018
+
+
+
+ article  cas  pubmed  google scholar 
+
+128
+
+ vanrullen r
+
+ kanai r
+
+ deep learning and the global workspace
+ theory
+
+ trends neurosci
+
+ 44 692–704 2021
+
+
+
+ article  cas  pubmed  google scholar 
+
+129
+
+ shea n
+
+ frith c
+
+ d
+
+ the global workspace needs metacognition
+
+
+ trends cogn
+
+ sci
+
+ 23 560–571 2019
+
+
+
+ article  pubmed  google scholar 
+
+130
+
+ suzuki k
+
+ roseboom w
+
+ schwartzman d
+
+ j
+
+ seth a
+
+ k
+
+ a
+ deepdream virtual reality platform for studying altered perceptual
+ phenomenology
+
+ sci
+
+ rep
+
+ 7 15982 2017
+
+
+
+ article  pubmed  pubmed central  cas  google scholar 
+
+131
+
+ vilas m
+
+ g
+
+ auksztulewicz r
+
+ melloni l
+
+ active inference as a
+ computational framework for consciousness
+
+ rev
+
+ philos
+
+ psychol
+
+
+ httpsdoi
+
+org10
+
+1007s1316402100579w 2021
+
+
+
+ article  google scholar 
+
+132
+
+ browning h
+
+ veit w
+
+ the measurement problem in consciousness
+
+
+ philos
+
+ top
+
+ 48 85–108 2020
+
+
+
+ article  google scholar 
+
+133
+
+ seth a
+
+ k
+
+ dienes z
+
+ cleeremans a
+
+ overgaard m
+
+ pessoa l
+
+
+ measuring consciousness relating behavioural and
+ neurophysiological approaches
+
+ trends cogn
+
+ sci
+
+ 12 314–321
+ 2008
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+134
+
+ michel m
+
+ calibration in consciousness science
+
+ erkenntnis
+ httpsdoi
+
+org10
+
+1007s1067002100383z 2021
+
+
+
+ article  google scholar 
+
+135
+
+ birch j
+
+ schnell a
+
+ k
+
+ clayton n
+
+ s
+
+ dimensions of animal
+ consciousness
+
+ trends cogn
+
+ sci
+
+ 24 789–801 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+136
+
+ bayne t
+
+ seth a
+
+ k
+
+ massimini m
+
+ are there islands of
+ awareness
+
+ trends neurosci
+
+ 43 6–16 2020
+
+ this work presents an
+ examination of the possibility of consciousness in isolated neural
+ systems such as brain organoids disconnected cortical hemispheres
+ and ex cranio brains
+
+
+
+ article  cas  pubmed  google scholar 
+
+137
+
+ dehaene s
+
+ lau h
+
+ kouider s
+
+ what is consciousness and could
+ machines have it
+
+ science 358 486–492 2017
+
+
+
+ article  cas  pubmed  google scholar 
+
+138
+
+ hu h
+
+ cusack r
+
+ naci l
+
+ typical and disrupted brain circuitry
+ for conscious awareness in fullterm and preterm infants
+
+ 2021
+
+
+
+139
+
+ owen a
+
+ m
+
+ coleman m
+
+ r
+
+ detecting awareness in the vegetative
+ state
+
+ ann
+
+ n y acad
+
+ sci
+
+ 9 130–138 2008
+
+
+
+ article  google scholar 
+
+140
+
+ cleeremans a
+
+ the radical plasticity thesis how the brain learns
+ to be conscious
+
+ front
+
+ psychol
+
+ 2 86 2011
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+141
+
+ jackendoff r
+
+ consciousness and the computational mind mit press
+ 1987
+
+
+
+142
+
+ prinz j
+
+ the conscious brain how attention engenders experience
+ oxford univ
+
+ press 2012
+
+
+
+143
+
+ chang a
+
+ y
+
+ c
+
+ biehl m
+
+ yu y
+
+ kanai r
+
+ information closure
+ theory of consciousness
+
+ front
+
+ psychol
+
+ 11 1504 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+144
+
+ tononi g
+
+ edelman g
+
+ m
+
+ consciousness and complexity
+
+ science
+ 282 1846–1851 1998
+
+ this work presents an early proposal of how
+ measures of neural complexity might relate to phenomenological
+ properties of all conscious experiences
+
+
+
+ article  cas  pubmed  google scholar 
+
+145
+
+ edelman g
+
+ m
+
+ neural darwinism the theory of neuronal group
+ selection basic books 1987
+
+
+
+146
+
+ edelman g
+
+ m
+
+ the remembered present basic books 1989
+
+
+
+147
+
+ damasio a
+
+ the feeling of what happens body and emotion in the
+ making of consciousness harvest books 2000
+
+
+
+148
+
+ graziano m
+
+ s
+
+ a
+
+ the attention schema theory a foundation for
+ engineering artificial consciousness
+
+ front
+
+ robot
+
+ ai 4 60
+ 2017
+
+
+
+ article  google scholar 
+
+149
+
+ dennett d
+
+ c
+
+ consciousness explained little brown 1991
+
+
+
+150
+
+ ginsburg s
+
+ jablonka e
+
+ the evolution of the sensitive soul
+ learning and the origins of consciousness mit press 2019
+
+
+
+151
+
+ aru j
+
+ suzuki m
+
+ larkum m
+
+ e
+
+ cellular mechanisms of
+ conscious processing
+
+ trends cogn
+
+ sci
+
+ 24 814–825 2020
+
+
+
+ article  pubmed  google scholar 
+
+152
+
+ mcfadden j
+
+ integrating information in the brain s em field the
+ cemi field theory of consciousness
+
+ neurosci
+
+ conscious
+
+ 2020
+ niaa016 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+153
+
+ fleming s
+
+ m
+
+ ryu j
+
+ golfinos j
+
+ g
+
+ blackmon k
+
+ e
+
+
+ domainspecific impairment in metacognitive accuracy following
+ anterior prefrontal lesions
+
+ brain 137 2811–2822 2014
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+154
+
+ fox k
+
+ c
+
+ r
+
+ et al
+
+ intrinsic network architecture predicts the
+ effects elicited by intracranial electrical stimulation of the
+ human brain
+
+ nat
+
+ hum
+
+ behav
+
+ 4 1039–1052 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+155
+
+ dehaene s
+
+ naccache l
+
+ towards a cognitive neuroscience of
+ consciousness basic evidence and a workspace framework
+
+ cognition
+ 79 1–37 2001
+
+
+
+ article  cas  pubmed  google scholar 
+
+156
+
+ sergent c
+
+ baillet s
+
+ dehaene s
+
+ timing of the brain events
+ underlying access to consciousness during the attentional blink
+
+
+ nat
+
+ neurosci
+
+ 8 1391–1400 2005
+
+
+
+ article  cas  pubmed  google scholar 
+
+157
+
+ mediano p
+
+ a
+
+ m
+
+ seth a
+
+ k
+
+ barrett a
+
+ b
+
+ measuring
+ integrated information comparison of candidate measures in theory
+ and simulation
+
+ entropy 21 17 2019
+
+
+
+ article  google scholar 
+
+158
+
+ casali a
+
+ g
+
+ et al
+
+ a theoretically based index of consciousness
+ independent of sensory processing and behavior
+
+ sci
+
+ transl
+
+ med
+
+
+ 5 198ra105 2013
+
+ this empirical study shows that a measure of
+ the complexity of the cortical response to transcranial magnetic
+ stimulation distinguishes between a range of global conscious
+ states including disorders of consciousness
+
+
+
+ article  pubmed  google scholar 
+
+159
+
+ luppi a
+
+ i
+
+ et al
+
+ consciousnessspecific dynamic interactions of
+ brain integration and functional diversity
+
+ nat
+
+ commun
+
+ 10 4616
+ 2019
+
+
+
+ article  pubmed  pubmed central  cas  google scholar 
+
+160
+
+ hardstone r
+
+ et al
+
+ longterm priors influence visual perception
+ through recruitment of longrange feedback
+
+ nat
+
+ commun
+
+ 12 6288
+ 2021
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+161
+
+ de lange f
+
+ p
+
+ heilbron m
+
+ kok p
+
+ how do expectations shape
+ perception
+
+ trends cogn
+
+ sci
+
+ 22 764–779 2018
+
+
+
+ article  pubmed  google scholar 
+
+162
+
+ melloni l
+
+ schwiedrzik c
+
+ m
+
+ muller n
+
+ rodriguez e
+
+ 
+ singer w
+
+ expectations change the signatures and timing of
+ electrophysiological correlates of perceptual awareness
+
+ j
+
+
+ neurosci
+
+ 31 1386–1396 2011
+
+ this empirical study uses a
+ perceptual hysteresis paradigm to show that expectations enhance
+ and accelerate conscious perception
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+163
+
+ pinto y
+
+ van gaal s
+
+ de lange f
+
+ p
+
+ lamme v
+
+ a
+
+ 
+ seth a
+
+ k
+
+ expectations accelerate entry of visual stimuli into
+ awareness
+
+ j
+
+ vis
+
+ 15 13 2015
+
+
+
+ article  pubmed  google scholar 
+
+164
+
+ chalmers d
+
+ j
+
+ facing up to the problem of consciousness
+
+ j
+
+
+ conscious
+
+ stud
+
+ 23 200–219 1995
+
+ this work presents the classic
+ statement of the philosophical distinction between the hard and
+ easy problems of consciousness
+
+
+
+ google scholar 
+
+165
+
+ levine j
+
+ materialism and qualia the explanatory gap
+
+ pac
+
+
+ philos
+
+ q
+
+ 64 354–361 1983
+
+
+
+ article  google scholar 
+
+166
+
+ seth a
+
+ k
+
+ the real problem aeon 2016
+
+
+
+167
+
+ balog k
+
+ in the oxford handbook of philosophy of mind eds
+ beckermann a
+
+ mclaughlin b
+
+ p
+
+ walter s
+
+ 292–312 oxford
+ univ
+
+ press 2009
+
+
+
+168
+
+ perry j
+
+ knowledge possibility and consciousness mit press
+ 2001
+
+
+
+169
+
+ varela f
+
+ j
+
+ thompson e
+
+ rosch e
+
+ the embodied mind
+ cognitive science and human experience mit press 1993
+
+
+
+170
+
+ carvalho g
+
+ b
+
+ damasio a
+
+ interoception and the origin of
+ feelings a new synthesis
+
+ bioessays 43 e2000261 2021
+
+
+
+ article  pubmed  google scholar 
+
+171
+
+ solms m
+
+ the hidden spring a journey to the source of
+ consciousness profile books 2021
+
+
+
+172
+
+ merker b
+
+ consciousness without a cerebral cortex a challenge for
+ neuroscience and medicine
+
+ behav
+
+ brain sci
+
+ 30 63–81 discussion
+ 81–134 2007
+
+
+
+ article  pubmed  google scholar 
+
+173
+
+ parvizi j
+
+ damasio a
+
+ consciousness and the brainstem
+
+
+ cognition 79 135–160 2001
+
+
+
+ article  cas  pubmed  google scholar 
+
+174
+
+ naber m
+
+ frassle s
+
+ einhauser w
+
+ perceptual rivalry reflexes
+ reveal the gradual nature of visual awareness
+
+ plos one 6 e20910
+ 2011
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+175
+
+ casarotto s
+
+ et al
+
+ stratification of unresponsive patients by an
+ independently validated index of brain complexity
+
+ ann
+
+ neurol
+
+ 80
+ 718–729 2016
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+176
+
+ shea n
+
+ bayne t
+
+ the vegetative state and the science of
+ consciousness
+
+ br
+
+ j
+
+ philos
+
+ sci
+
+ 61 459–484 2010
+
+
+
+ article  pubmed  google scholar 
+
+177
+
+ birch j
+
+ the search for invertebrate consciousness
+
+ noûs 56
+ 133–153 2020
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+178
+
+ phillips i
+
+ the methodological puzzle of phenomenal consciousness
+
+
+ philos
+
+ trans
+
+ r
+
+ soc
+
+ lond
+
+ b biol
+
+ sci
+
+
+ httpsdoi
+
+org10
+
+1098rstb
+
+2017
+
+0347 2018
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+download references
+
+acknowledgements
+
+a
+
+k
+
+s
+
+ is codirector of and t
+
+b
+
+ is a fellow in the cifar program on
+brain mind and consciousness
+
+ a
+
+k
+
+s
+
+ is additionally grateful to the
+european research council advanced investigator grant 101019254 and
+the dr
+
+ mortimer and theresa sackler foundation
+
+
+
+author information
+
+authors and affiliations
+
+1
+
+ department of informatics and sackler centre for consciousness
+ science university of sussex brighton uk
+
+ anil k
+
+ seth
+
+2
+
+ program on brain mind and consciousness canadian institute for
+ advanced research cifar toronto ontario canada
+
+ anil k
+
+ seth  tim bayne
+
+3
+
+ school of philosophical historical and international studies
+ monash university melbourne victoria australia
+
+ tim bayne
+
+4
+
+ monash centre for consciousness and contemplative studies monash
+ university melbourne victoria australia
+
+ tim bayne
+
+authors
+
+1
+
+ anil k
+
+ seth
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+2
+
+ tim bayne
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+
+contributions
+
+the authors both contributed to all aspects of preparing the article
+
+
+
+corresponding author
+
+correspondence to anil k
+
+ seth
+
+
+
+ethics declarations
+
+competing interests
+
+the authors declare no competing interests
+
+
+
+peer review
+
+peer review information
+
+nature reviews neuroscience thanks l
+
+ melloni c
+
+ sergent and the other
+anonymous reviewers for their contribution to the peer review of this
+work
+
+
+
+additional information
+
+publisher s note
+
+springer nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations
+
+
+
+glossary
+
+neural correlates of consciousness
+
+ nccs
+
+ the minimal set of neural events that is jointly sufficient
+ for a conscious state
+
+
+
+explanatory gap intuitions
+
+ intuitions that there is no prospect of a fully satisfying
+ explanation of consciousness in physical mechanistic terms
+
+
+
+adversarial collaborations
+
+ research projects in which proponents of different theories together
+ design an experiment to distinguish their preferred theories and
+ agree in advance about how the outcome will favour one theory over
+ the others
+
+
+
+global states
+
+ relating to an organism s overall state of consciousness usually
+ linked to arousal and behavioural responsiveness and associated
+ with the level of consciousness
+
+
+
+local states
+
+ relating to particular conscious mental states such as a conscious
+ perception emotion or thought
+
+ local states are also often called
+ conscious contents
+
+
+
+binocular rivalry
+
+ a phenomenon in which different images are presented to each eye
+ and conscious perception alternates between the two images
+
+
+
+phenomenal character
+
+ the experiential nature of a local state such as the redness of
+ an experience of red or the pain of a toothache — sometimes also
+ called qualia
+
+
+
+metarepresentation
+
+ a mental representation that has as its target another mental
+ representation
+
+noreport paradigms
+
+ behavioural experiments in which participants do not provide
+ subjective verbal behavioural reports
+
+
+
+Φ
+
+ the amount of information specified by a system that is irreducible
+ to that specified by its parts
+
+ there are many variations of Φ each
+ calculated differently and making different assumptions
+
+
+
+posterior hot zone
+
+ a range of brain regions towards the rear of the cortex including
+ parietal temporal and occipital areas as well as regions such as
+ the precuneus
+
+
+
+complex
+
+ in integrated information theory iit a subset of a physical
+ system that underpins a maximum of irreducible integrated
+ information
+
+
+
+interoceptive predictions
+
+ predictions about the causes of sensory signals originating from
+ within the body interoception refers to perception of the body
+ from within 
+
+
+
+unity of consciousness
+
+ the fact that that the experiences that a single agent has at a time
+ seem always to occur as the components of a single complex
+ experience
+
+
+
+cognitive access
+
+ a functional property whereby a mental state has access to a wide
+ range of cognitive processes usually including verbal andor
+ behavioural report
+
+
+
+computational neurophenomenology
+
+ the use of computational models to account for the phenomenal
+ character of a conscious state in terms of neural mechanisms
+
+
+
+the measurement problem
+
+ the problem of identifying whether a particular mental state is
+ conscious or determining whether an organism or other system is or
+ has the capacity to be conscious
+
+
+
+cerebral organoids
+
+ laboratorygrown neural structures that selforganize into systems
+ with cellular and network features resembling aspects of the
+ developing human brain
+
+
+
+rights and permissions
+
+reprints and permissions
+
+about this article
+
+check for updates
+
+ verify currency and authenticity via crossmark
+
+cite this article
+
+seth a
+
+k
+
+ bayne t
+
+ theories of consciousness
+
+ nat rev neurosci 23
+439–452 2022
+
+ httpsdoi
+
+org10
+
+1038s41583022005874
+
+download citation
+
+ accepted 22 march 2022
+
+ published 03 may 2022
+
+ issue date july 2022
+
+ doi httpsdoi
+
+org10
+
+1038s41583022005874
+
+share this article
+
+anyone you share the following link with will be able to read this
+content
+
+get shareable link
+
+sorry a shareable link is not currently available for this article
+
+
+
+copy to clipboard
+
+provided by the springer nature sharedit contentsharing initiative
+
+this article is cited by
+
+ revolutionizing treatment for disorders of consciousness a multidisciplinary review of advancements in deep brain stimulation
+
+ yi yang
+ tianqing cao
+ shouyan wang
+
+ military medical research 2024
+
+ measuring the dynamic balance of integration and segregation underlying consciousness anesthesia and sleep in humans
+
+ hyunwoo jang
+ george a
+
+ mashour
+ zirui huang
+
+ nature communications 2024
+
+ local orchestration of distributed functional patterns supporting loss and restoration of consciousness in the primate brain
+
+ andrea i
+
+ luppi
+ lynn uhrig
+ rodrigo cofre
+
+ nature communications 2024
+
+ streams of conscious visual experience
+
+ mar martínsignes
+ ana b
+
+ chica
+ michel thiebaut de schotten
+
+ communications biology 2024
+
+ heartbeatevoked neural response abnormalities in generalized anxiety disorder during peripheral adrenergic stimulation
+
+ charles verdonk
+ adam r
+
+ teed
+ sahib s
+
+ khalsa
+
+ neuropsychopharmacology 2024
+
+ access through your institution
+
+buy or subscribe
+
+ access through your institution
+
+change institution
+
+buy or subscribe
+
+advertisement
+
+advertisement
+
+explore content
+
+ research articles
+ reviews analysis
+ news comment
+ videos
+ current issue
+ collections
+
+ follow us on facebook
+ follow us on twitter
+ subscribe
+ sign up for alerts
+ rss feed
+
+about the journal
+
+ aims scope
+ journal information
+ editorial policies
+ about the editors
+ reviews crossjournal editorial team
+ journal credits
+ editorial input and checks
+ editorial values statement
+ journal metrics
+ publishing model
+ conferences
+ posters
+ web feeds
+ contact
+
+publish with us
+
+ for authors
+ for referees
+ submit manuscript
+
+search
+
+search articles by subject keyword or author
+
+show results from all journals this journal
+
+search
+
+advanced search
+
+quick links
+
+ explore articles by subject
+ find a job
+ guide to authors
+ editorial policies
+
+nature reviews neuroscience nat
+
+ rev
+
+ neurosci
+
+ issn 14710048
+online issn 1471003x print
+
+nature
+
+com sitemap
+
+about nature portfolio
+
+ about us
+ press releases
+ press office
+ contact us
+
+discover content
+
+ journals az
+ articles by subject
+ protocols
+
+io
+ nature index
+
+publishing policies
+
+ nature portfolio policies
+ open access
+
+author researcher services
+
+ reprints permissions
+ research data
+ language editing
+ scientific editing
+ nature masterclasses
+ research solutions
+
+libraries institutions
+
+ librarian service tools
+ librarian portal
+ open research
+ recommend to library
+
+advertising partnerships
+
+ advertising
+ partnerships services
+ media kits
+ branded content
+
+professional development
+
+ nature careers
+ nature conferences
+
+regional websites
+
+ nature africa
+ nature china
+ nature india
+ nature italy
+ nature japan
+ nature middle east
+
+ privacy policy
+ use of cookies
+ your privacy choicesmanage cookies
+ legal notice
+ accessibility statement
+ terms conditions
+ your us state privacy rights
+
+springer nature
+
+© 2025 springer nature limited
+
+
+
+ close
+
+nature briefing
+
+sign up for the nature briefing newsletter — what matters in science
+free to your inbox daily
+
+
+
+email address
+
+sign up
+
+i agree my information will be processed in accordance with the nature
+and springer nature limited privacy policy
+
+
+
+ close
+
+get the most important science stories of the day free in your inbox
+
+
+sign up for nature briefing
+
+

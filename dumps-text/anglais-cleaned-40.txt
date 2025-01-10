@@ -1,0 +1,2941 @@
+sep home page
+
+stanford encyclopedia of philosophy
+
+menu
+
+ browse
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+ about
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ contact
+ support sep
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+entry navigation
+
+ entry contents
+ bibliography
+ academic tools
+ friends pdf preview
+ author and citation info
+ back to top
+
+medieval theories of conscience
+
+first published tue jan 19 2021
+
+the question of what role the human mind plays in moral behaviour—or the
+study of moral psychology—has been a fruitful area of research in
+medieval philosophy since at least the early to mid1990s
+
+ since then
+scholars have done much to illuminate medieval contributions to such
+perennial topics as the freedom of the will the problem of moral
+weakness and what role if any the emotions and the moral virtues play
+in the achievement of happiness e
+
+g
+
+ kent 1995 saarinen 1994 dumont
+2000 eardley 2006 hoffmann 2007 and osborne 2014
+
+ similarly
+metaethical theories about the foundations of morality that were
+prominent during the medieval period such as natural law
+theory—particularly in its thomistic and scotistic variants—continue to
+receive robust scholarly attention e
+
+g
+
+ porter 2005 möhle 2003
+lisska 2012 sweeney 2012 and cross 2012
+
+ comparatively less
+consideration however has been devoted to what was believed to link
+the psychological to the metaethical the mental habit or act of
+conscience and its sisterconcept of synderesis though interest in
+the subject has recently seen a modest resurgence e
+
+g
+
+ hoffmann 2012
+eardley 2013 and dougherty 2018
+
+
+
+what is the scope and nature of this apparent ability to intuitively
+grasp right from wrong
+
+ can conscience err and if so do its dictates
+still bind
+
+ the best way to address these and other questions is to
+employ a developmental approach
+
+ the term conscience is still generally
+used to refer to an innate moral sense but it has slightly different
+connotations today than it did in the medieval period which in turn had
+different connotations from what preceded it in pagan antiquity and in
+scripture
+
+ still medieval theories of conscience drew extensively on
+these earlier sources
+
+ since the concepts of conscience and synderesis
+evolved over time then it will be necessary to take a linear approach
+to the topic and begin with some background
+
+
+
+ 1
+
+ background the pagan and earlychristian context
+ 1
+
+1 the ancient context judicial conscience
+ 1
+
+2 st
+
+ paul legislative conscience
+ 1
+
+3 st
+
+ jerome the invention of synderesis
+ 2
+
+ the earlyscholastic tradition
+ 2
+
+1 peter lombard the scholastic origins of the debate
+ 2
+
+2 stephen langton synderesis and its properties
+ 2
+
+3 philip the chancellor the first systematic treatment of
+ synderesis and conscience
+ 3
+
+ the laterscholastic tradition
+ 3
+
+1 st
+
+ bonaventure conscience as cognitivesynderesis as
+ affective
+ 3
+
+2 st thomas aquinas synderesis and conscience as cognitive
+ 3
+
+3 william of ockham new directions in the understanding of
+ synderesis and conscience
+ bibliography
+ primary sources
+ secondary sources
+ academic tools
+ other internet resources
+ related entries
+
+
+
+1
+
+ background the pagan and earlychristian context
+
+1
+
+1 the ancient context judicial conscience
+
+to understand the medieval theory of conscience it is essential to
+examine its etymology
+
+ unlike most philosophical categories that are
+central to medieval thought the concept of conscience did not have its
+origins in plato or aristotle potts 1982 687
+
+ rather most scholars
+agree it originated in the greek playwrights of the fifth century bce
+sorabji 2014 12 15–18
+
+ it is also possible to find its use elsewhere
+in greek literature such as in the fragments of democritus d arcy
+1961 5
+
+
+
+the english word “conscience” is derived from the latin conscientia
+
+ its
+greek equivalent is syneidesis
+
+ both terms connote a state or act of
+“sharing knowledge with oneself” sorabji 2014 12
+
+ this knowledge is
+privileged and involves awareness of a personal moral defect
+
+ the notion
+that “i” can judge “myself” naturally suggests as sorabji puts it a
+sort of “split personality”
+
+ that is it suggests that i can at once be
+both the judge and the one being judged particularly with respect to
+specific past actions which ordinarily elicit remorse
+
+ this suggestion
+is rooted in the quite intuitive idea that human beings are reflexive
+animals beings who are not only capable of turning their attention to
+objects in the outside world but can also “turn back on” reflectere or
+become an object to themselves
+
+ as c
+
+ s
+
+ lewis put it in his study of
+the concept of concept of conscience in the western tradition
+
+ man might be defined as a reflexive animal
+
+ a person cannot help
+ thinking and speaking of himself as and even feeling himself to be
+ for certain purposes two people one of whom can act upon and
+ observe the other
+
+ thus he pities loves admires hates despises
+ rebukes comforts examines masters or is mastered by “himself” 
+ he is privy to his own acts is his own conscius or accomplice
+
+ and of
+ course this shadowy inner accomplice has all the same properties as
+ an external one he too is a witness against you a potential
+ blackmailer one who inflicts shame and fear
+
+ lewis 1960 187 see
+ also sorabji 2014 12
+
+lewis refers to this primarily pagan understanding of conscience as an
+“inner witness”
+
+ it does not judge our actions as right or wrong but
+merely testifies to their existence
+
+ it bears witness to the facts say that we committed a murder
+
+ it
+ does not tell us that murder is wrong we are supposed to know that in
+ some other way
+
+ lewis 1960 190
+
+others however regard the sort of conscience that lewis describes here
+as a type of internal judge and therefore refer to it as “judicial
+conscience” d arcy 1961 8
+
+ while this property of the mind does not
+necessarily issue binding rules it does pass moral judgements on our
+deeds
+
+ it would however eventually take on the role of issuing moral
+dictates for future acts as well
+
+ eric d arcy refers to this later form
+of syneidesis or conscientia as the “legislative conscience” whose
+innovator he argues was the apostle paul ca
+
+ 5 ce–ca
+
+ 6467 ce the
+most important founder of the christian faith after jesus of nazareth
+d arcy 1961 8
+
+
+
+1
+
+2 st
+
+ paul legislative conscience
+
+the judicial understanding of conscience continued well into the first
+century of the common era
+
+ to be sure paul himself continued to employ
+it
+
+ at the same time d arcy credited paul with introducing in addition
+to the “judicial conscience” a novel conception he termed the
+“legislative conscience”
+
+ it is not difficult to see why the earlier
+judicial conception would later take on legislative features
+
+ this is
+because the ability to judge past actions as either right or wrong—and
+to issue exhortations on that basis—would once this property came to be
+associated with the moral law take on the legislative role of issuing
+commands
+
+ indeed it is in st
+
+ paul that we find this very association
+between syneidesis and the moral law
+
+ when gentiles who do not have the law do by nature things required
+ by the law they are a law for themselves even though they do not
+ have the law
+
+ they show that the requirements of the law are written
+ on their hearts their consciences also bearing witness and their
+ thoughts sometimes accusing them and at other times even defending
+ them
+
+ romans 214–15 niv
+
+judging by this passage there are evidently two expressions of the
+moral law according to paul the mosaic law explicitly handed down to
+the jews and another law that is “written on men s hearts”
+
+ this
+latter was later glossed as a reference to the natural law which is
+accessible to all people nonjews included and is consistent with the
+mosaic law
+
+ notice that according to the foregoing passage conscience
+syneidesis is not the ultimate source of right and wrong
+
+ rather the
+foundation of right and wrong is the objective moral law which is both
+“written on men s hearts” and borne witness to by conscience
+
+
+
+one might say then that the objective norm of morality on paul s
+account is the moral law or natural law
+
+ conscience however might be
+termed morality s subjective norm
+
+ this is made clear in another passage
+from st
+
+ paul where he is addressing the question of whether it is
+permissible for christians to eat meat that was previously sacrificed to
+idols
+
+ some paul says erroneously think that to eat such food defiles
+them
+
+ in fact since the pagan idols do not exist eating food
+sacrificed to them or indeed to god himself is morally irrelevant
+since “food does not bring us near to god—we are no worse if we do not
+eat and no better if we do” 1 corinthians 88 niv
+
+ still even
+though the consciences of such christians are erroneous they must
+follow them since conscience paul suggests is a rule of conduct
+romans 1413–23
+
+ eric d arcy sums up these two important contributions
+of st
+
+ paul as follows
+
+ st
+
+ paul then introduces an entirely new phase in the history of the
+ term “conscience” in moral theory and two new features characterize
+ his use of it
+
+ first it is to play a directive role before action
+ takes place
+
+ in the pagan writers conscience did not appear on the
+ scene until after the action was performed and its role was purely
+ judicial but in st
+
+ paul conscience is credited with a legislative
+ function and it induces an obligation in the proper sense
+
+ second
+ conscience is fallible the directions it issues may be mistaken but
+ whether it be mistaken or not it seems that we are bound to follow
+ its rulings
+
+ d arcy 1961 11–12
+
+in sum we might follow sorabji s suggestion that this phase in the
+development of the concept of conscience—that is from its origins in
+fifthcentury bce greek literature to the firstcentury ce—has eight
+features sorabji 2014 36
+
+
+
+1
+
+ it involves a consciousness of the self rather than of others
+
+
+2
+
+ it draws on values to which one feels personally committed or that
+ are “not necessarily shared by others”
+
+
+3
+
+ it is selfreflexive insofar as it suggests a “split person” an “i”
+ that has secret knowledge which it shares with itself
+
+
+4
+
+ its original purpose was “retrospective” or judicial although it
+ later incorporated into its definition a “prospective” or
+ legislative function
+
+
+5
+
+ although it draws on general moral principles it is chiefly
+ concerned with their application to the specific circumstances in
+ which the agent finds him or herself
+
+
+6
+
+ it began as a secular concept
+
+
+7
+
+ in the christian tradition it is regarded as susceptible to error
+ and
+8
+
+ although cognitive in character it possesses motivating or
+ affective power
+
+
+
+1
+
+3 st
+
+ jerome the invention of synderesis
+
+that conscience was so central a concept in st
+
+ paul s writings
+guaranteed it an important place in the moral theology of the greek and
+latin fathers especially st
+
+ basil john damascene and st
+
+ ambrose
+
+
+amongst these early writers however it was a text from st
+
+ jerome that
+was particularly consequential since it introduced into the debate a
+neologism that would have an important impact in the later middle ages
+the concept of synderesis
+
+
+
+in the course of commenting on ezekiel jerome had tied a prophecy
+mentioned in its first book to plato s moral psychology commentary on
+ezekiel 1
+
+7
+
+ the prophecy in question consisted of a vision of four
+creatures emerging from the heavens each with four faces those of a
+man a lion an ox and an eagle ezekiel 1 4–14
+
+ in his gloss jerome
+noted that “most people” plerique interpreted this vision with
+reference to plato s tripartite division of the soul in the republic
+the human face representing reason the lion s face the spirited part
+and the ox s face the appetitive part cf
+
+ plato republic 436b–441b
+
+
+what did the eagle represent
+
+ according to jerome it represented that
+“spark of conscience” scintilla conscientiae which makes us aware of
+our sinfulness when reason spirit or desire become disordered
+
+ medieval
+manuscripts refer to this psychological property as synderesis or
+sometimes synteresis
+
+ now above these three was the eagle so in the soul they say above
+ the other three elements and beyond them is a fourth which the greeks
+ call synderesis
+
+ this is that spark of conscience which was not
+ quenched even in the heart of cain when he was driven out of
+ paradise
+
+ this it is that which makes us too feel our sinfulness
+ when we are overcome by evil desire or unbridled spirit or deceived
+ by sham reason
+
+ it is natural to identify synderesis with the eagle
+ since it is distinct from the other three elements and corrects them
+ when they err however we also see that this conscience
+ conscientia is cast down in some people who have neither shame nor
+ insight regarding their offences and loses its place 
+
+ commentary
+ on ezekiel 1
+
+7 d arcy trans
+
+ 1961 16–17
+
+most scholars now agree that the neologism “synderesis” introduced in
+jerome s commentary is simply a corruption of the greek syneidesis
+kries 2002 67
+
+ since syneidesis is simply the greek equivalent of the
+latin term conscientia—a fact of which jerome would certainly have been
+aware—one might have expected jerome to use them interchangeably
+
+
+surprisingly however jerome suggests that the latin term means
+something different from the greek term
+
+ in the text cited above he
+quite explicitly states that regardless of how morally corrupt its
+possessor becomes synderesis can never be lost
+
+ a few lines later
+however he does admit the existence of those who are shameless and
+lacking in moral insight
+
+ such people are oblivious to their offenses
+because according to jerome their conscience conscientia ceases to
+be present in them “looses its place”
+
+ if synderesis cannot be lost
+but conscience can then it seems to follow that they are separate
+properties of the soul
+
+ in any case whatever jerome s intention this
+curious passage was indirectly handed down to the middle ages via the
+sentences of peter lombard 1095–1160
+
+
+
+2
+
+ the earlyscholastic tradition
+
+2
+
+1 peter lombard the scholastic origins of the debate
+
+peter lombard s role in the evolution of the concept of conscience is
+both surprising and unsurprising
+
+ it is—at first sight
+anyway—surprising because lombard does not discuss conscience or
+synderesis in any actual detail
+
+ indeed he does not strictly speaking
+mention the terms “synderesis” or “conscience” at all
+
+ what he does is
+merely to allude to jerome s commentary on ezekiel in the context of
+discussing the will s role in how rational agents can naturally want
+what is good while simultaneously being slaves to sin peter lombard
+sententiae in iv libros distinctae 2
+
+39 potts 1980 92
+
+ in st
+
+ paul s
+reference to moral weakness in romans 715 he famously says “for i do
+not do what i want but do what i do not want”
+
+ is paul suggesting asks
+lombard that we have two separate wills one naturally oriented towards
+the good and another oriented towards sin
+
+ or is it rather the case that
+we have a single will that although naturally inclined to the good
+contains a defect which also “takes pleasure in what is evil”
+sententiae in iv libros distinctae 2
+
+39 potts 1980 93
+
+ amongst
+those who hold the first view the motivating power that orients us
+towards the good is called the “natural” will while the inclination
+towards sin resulting from the fall is called “free will” or “free
+choice”
+
+ with respect to the former peter writes
+
+ for some say that there are two motivations one by which a man
+ naturally wants what is good
+
+ why naturally
+
+ and why is it called
+ “natural”
+
+ because such was the motivation of human nature in its
+ original state in which we were created without any defect and this
+ is properly called “nature”
+
+ for man was created with a righteous will
+ man is therefore rightly said naturally to want what is good
+ because he was constructed with a good and righteous will
+
+ for the
+ higher spark of reason superior enim scintilla rationis which as
+ jerome says “could not even be extinguished in cain” always wants
+ what is good and hates what is bad
+
+ peter lombard sententiae in iv
+ libros distinctae 2
+
+39 potts trans
+
+ 1980 92–93
+
+lombard s brief mention of jerome s “spark of reason” sic in the
+aforementioned passage is the full extent of his treatment of conscience
+and synderesis
+
+ still that was sufficient to ensure that it would
+receive robust attention by later scholastics who would track down the
+original text from jerome in order to comment on it
+
+ a compilation of
+theological writings taken mainly from scripture and the fathers and
+arranged in systematic fashion the sentences had an enormous impact on
+later theological enquiry since much it after the 1220s was carried
+out within the taxonomy that lombard had laid out in his work
+
+ indeed
+after alexander of hales 1185–1245 adopted the sentences as the main
+source for his ordinary lectures at paris in 1222 and richard fischacre
+1206–1248 did the same at oxford in 1245 lecturing on the sentences
+became a requirement for every aspiring master of theology
+
+ thus did
+such major scholastics of the thirteenth and fourteenth centuries as
+bonaventure 1221–1274 thomas aquinas 122425–1274 john duns scotus
+1265–1308 and william of ockham 1287–1347 come to write their
+important commentaries on the work
+
+ this tradition would continue well
+into the sixteenth century
+
+
+
+consisting of four books each subdivided into chapters the sentences
+follows the distinction that saint augustine had drawn in the de
+doctrina christiana between the things that are real and the signs that
+lead us back to the former
+
+ book one treats of god who is really real
+and his triune nature
+
+ book two deals with creation and the fall
+including human nature treating these as signs that point back to god
+
+
+book three treats of christ who is the antidote to the fall and who
+as god incarnate is both thing and sign
+
+ finally book four treats of
+the sacraments which are signs that assist the fallen in their return
+to god the ultimate reality
+
+ since book two deals with human moral
+psychology in the context of creation and the fall it is here in
+distinction 39 that peter lombard s mention of jerome s commentary on
+ezekiel is found
+
+
+
+since lombard s treatment of jerome was partial and elliptical later
+thinkers in composing their commentaries on the sentences naturally
+turned to jerome s text in order to scrutinize the original passage
+
+
+there they discovered his apparent distinction between synderesis and
+conscience which in turn would come to frame the parameters of the
+later medieval debate
+
+ if synderesis and conscience are in fact two
+separate parts of the soul for instance what is their relationship to
+one another
+
+ what come to that are their respective natures and
+rather importantly can they become disordered
+
+ such questions would
+preoccupy the theologians of the later middle ages
+
+
+
+2
+
+2 stephen langton synderesis and its properties
+
+stephen langton 1155–1228 regent master of theology at paris and
+later archbishop of canterbury is important in the present context less
+for any systematic treatment of conscience—indeed stephen scarcely
+touches on the issue at all—than for his somewhat scattered views on
+synderesis
+
+ the relevant treatment comes in stephen s quaestiones
+disputatae of 1203–1205 in the context of his discussion on free
+decision liberum arbitrium
+
+
+
+for stephen there are three powers vires of the soul that are
+relevant to the moral life the concupiscible appetite reason and
+synderesis
+
+ the concupiscible appetite draws reason towards what is
+bad—specifically towards the sin of sensuality—while synderesis attempts
+to sway it towards the good
+
+ it is reason s job to adjudicate between
+these two impulses
+
+ freedom of decision libertas arbitrii is the
+outcome of reason directing the will to choose in accordance with either
+the promptings of sensuality or the promptings of synderesis stephen
+langton quaestiones disputatae lottin ed
+
+ psychologie et morale i
+1942 61
+
+
+
+the purpose of synderesis then is to direct reason away from vice for
+it is the faculty “by which a person naturally detests what is evil and
+is a part of the rational power” quaestiones disputatae lottin ed
+
+
+psychology et morale ii
+
+1 1948 112
+
+ can such a power be extinguished
+
+
+yes and no
+
+ in its capacity as an inclination towards the good which is
+accidental to it synderesis can indeed be lost in the damned
+
+
+essentially speaking however the purpose of synderesis is to repudiate
+what is wicked
+
+ in this sense it is never lost even in the damned
+quaestiones disputatae lottin ed
+
+ 1948 111
+
+
+
+stephen langton s most important contribution to the development of the
+concept of synderesis occurs in his discussion of whether synderesis can
+merit or demerit
+
+ in the process of discussing this issue stephen links
+synderesis to the practical syllogism specifically associating it with
+the grasp of general principles quaestiones disputatae lottin ed
+
+
+1948 113
+
+ d arcy sums up langton s position as follows
+
+ remorse of conscience is the work not of synderesis but of reason
+ for synderesis remains at the level of general principles whereas
+ reason descends to the concrete case but it is precisely over the
+ concrete case that remorse of conscience is felt hence it is by
+ reason and not by synderesis that we sin
+
+ d arcy 1961 23–24
+
+langton s association of synderesis with general moral principles would
+as we will see influence later thinkers such as aquinas
+
+
+
+2
+
+3 philip the chancellor the first systematic treatment of synderesis and conscience
+
+although stephen langton was the first scholastic to touch on the issue
+of synderesis in any depth it was philip the chancellor ca
+
+ 1170–1237
+who wrote the first treatise devoted to exploring the relationship
+between synderesis and conscience lottin 1948 139–157
+
+ as chancellor
+of notre dame philip had the right to grant the license to teach in the
+theology faculty at paris and it was under his tenure that the
+dominicans and the franciscans acquired their chairs in theology two
+for the former and one for the latter
+
+ although primarily an
+administrator philip was also a trained theologian
+
+ his most important
+work is the summa de bono which includes the treatise on conscience
+
+
+
+in his treatise philip sets out to answer several questions related to
+the ontological status of synderesis to the question of whether anyone
+can sin if they follow synderesis and to whether it can ever be
+extinguished
+
+ as to the ontological status of synderesis philip cites
+jerome s authoritative suggestion that synderesis is a faculty or power
+of the soul
+
+ recall that jerome had posited a quadripartite soul one
+that is composed of reason spirit desire and synderesis
+
+ since the
+first three parts of the soul are potentialities and synderesis is
+classified alongside these it seems to follow that it too must be a
+faculty or power of the soul distinct from the faculty of reason
+
+
+philip cites st
+
+ paul and john of damascus as corroborating authorities
+who apparently share the view that synderesis is a faculty of the soul
+independent of the others philip the chancellor summa de bono
+treatise on conscience potts trans
+
+ 1980 95–96
+
+
+
+against the claim that synderesis is a power of the soul philip
+presents arguments for the view that it is on the contrary a moral
+habit
+
+ on this view synderesis is to the natural will what choice is to
+the deliberative will a disposition that regulates the rationally
+appetitive powers
+
+ but while choice simply regulates the deliberative
+will with respect to the contingent good or means towards happiness
+synderesis
+
+ is a disposition arising naturally in conjunction with that
+ potentiality by which the natural will is directed to what is good
+ without qualification
+
+ summa de bono treatise on conscience potts
+ trans
+
+ 1980 96
+
+moreover just as the impulse to sin is distinct from the soul so too
+is synderesis
+
+ but whereas the former inclines the agent towards evil
+the latter inclines him towards goodness
+
+
+
+is synderesis then a power of the soul or a habit
+
+ this distinction
+goes back to aristotle for whom powers are innate and associated with
+specific capacities while habits are acquired and associated by
+contrast with tendencies to behave in certain ways
+
+ habits moreover
+inhere in powers
+
+ although both of these properties dispose the agent to
+act in particular ways powers in contrast to habits are linked to the
+ability to do so contingently
+
+ if i am in the habit of speaking russian
+for instance then i will have the tendency to do so on a regular basis
+
+
+it is my preferred mode of communication and i will take every
+opportunity to express myself in that language
+
+ that i may have the mere
+capacity—or power—to speak russian on the other hand having studied it
+in school say in no way ensures that i will do so even in situations
+where i probably should
+
+ i might for example hate and resent speaking
+russian for various reasons and therefore freely refuse to do so under
+any circumstances see e
+
+g
+
+ aristotle metaphysics 9
+
+2 and potts
+1980 20–22
+
+
+
+although philip seems to favour the belief that synderesis is a habit
+the claim that it is a power of the soul has the rather weighty
+authority of st
+
+ paul and st
+
+ jerome
+
+ philip therefore splits the
+difference as it were and argues that it is a “habitlike power” or
+“dispositional potentiality” habitualis potentiae—a faculty of the
+soul that disposes its possessor towards choosing the unqualified
+good—though one that is innate rather than acquired through habituation
+
+ synderesis although the morphology of its name makes it sound more
+ like a disposition than a potentiality is nevertheless the name of a
+ dispositional potentiality i do not say of an acquired disposition
+ but of an innate one
+
+ and thus qua disposition it can be applied to
+ what is related to it as a disposition qua potentiality to what is
+ related to it as a potentiality
+
+ from this it follows that it has a
+ certain opposition to free choice a certain opposition to the impulse
+ to sin and sensuality and a certain opposition to proheresis which
+ is part of free choice qua potentiality it is disparate from free
+ choice and from sensuality qua disposition it is disparate from
+ proheresis and the impulse to sinso if anyone asks whether it is a
+ potentiality or a disposition the right answer lies in taking
+ something in between a dispositional potentiality
+
+ summa de bono
+ treatise on conscience potts trans
+
+ 1980 97
+
+it would seem then that synderesis is a potentiality albeit an
+unusual one
+
+ is it connected to the cognitive side of the soul or to the
+appetitive
+
+ according to philip it is related to the appetitive and
+specifically to the rational appetite that is to the will rather than
+to the sense appetite
+
+ however as we saw philip divides the rational
+appetite into what he calls “natural will” and “deliberative will”
+
+ the
+natural will signifies the general inclination that humans have to the
+good or happiness as such
+
+ such an object is beyond the scope of choice
+
+
+having said that happiness can be achieved in any number of ways and by
+the acquisition of any number of legitimate though contingent goods
+
+
+indeed it is fair to say that rational agents never choose happiness as
+such given that it is a mere abstraction
+
+ rather what they choose are
+particular goods which taken together comprise the good life if
+pursued in an orderly way
+
+ such contingent goods are the means to
+happiness and are the objects of the deliberative will and therefore
+choice
+
+ synderesis according to philip pertains to the natural will
+
+
+it is the remnant of original rectitude or justice which although
+damaged during the fall remains in the soul in diminished form
+
+ as
+philip puts it synderesis is that which “murmurs back against sin and
+correctly contemplates and wants what is good without qualification”
+summa de bono treatise on conscience potts trans
+
+ 1980 100
+
+
+
+on the matter of conscience and how it is related to synderesis philip
+distinguishes them
+
+ for one thing conscience can be mistaken while
+synderesis cannot
+
+ specifically conscience is the result of a
+concurrence of synderesis with free decision liberum arbitrium
+
+ put
+otherwise it is the specific application of a general moral principle
+that is the outcome of deliberation
+
+ when correctly applied conscience
+is correct
+
+ when incorrectly applied it errs
+
+ in either case the
+judgement of conscience generates a moral obligation to act
+
+ philip uses
+the following example of how synderesis which is always right can
+nonetheless conjoin with an erring conscience potts 1980 104
+
+1
+
+ unerring universal premise of synderesis “everyone who falsely
+ claims to be the son of god should be put to death”
+
+
+2
+
+ erring minor premise of reason “this christ fellow is falsely
+ claiming to be the son of god”
+
+
+3
+
+ erring judgement of conscience “therefore this christ fellow should
+ be put to death”
+
+from the foregoing example it is clear that synderesis delivers a
+general nondeliberative proposition while conscience yields what
+potts calls a particular “deontic proposition”
+
+ philip s argument is that we need to distinguish between general
+ and particular propositions which are of the form “a ought to φ”
+ where the proper name of any person may be substituted for “a” and any
+ verbphrase containing a verb of action for “φ” i shall henceforth
+ call these “deontic propositions”
+
+ potts 1982 690–692
+
+in the example given above then the first universal premise is
+correct by definition while the conclusion as mediated by erring
+reason generates an incorrect deontic proposition which is to say an
+obligation to act albeit a mistaken one
+
+
+
+3
+
+ the laterscholastic tradition
+
+3
+
+1 st
+
+ bonaventure conscience as cognitivesynderesis as affective
+
+one of the most prominent representatives of the franciscan intellectual
+tradition bonaventure 1217–1274 lectured on the sentences at paris
+from 1250 until 1252 when he became regent master in the theology
+faculty a position he held until 1257
+
+ his commentary on the sentences
+is the fruit of these lectures and it is in this work that he discusses
+the topics of conscience and synderesis
+
+ for bonaventure we not only
+possess innate moral knowledge but we also have an inextinguishable
+inclination towards achieving the good
+
+ our inborn knowledge of the
+former that is of the natural law is associated with conscience
+which resides in the intellect while our inclination towards desiring
+the good is associated with synderesis which inheres in the will
+
+
+
+what is the ontological status of conscience
+
+ according to bonaventure
+just as theologians have disagreed over the nature of “thought”
+defining it variously as the power of thinking a habit or an
+apprehended principle of knowledge so too have they differed over how
+to define “conscience” conscientia
+
+ most commonly however the term
+has been used to refer to a cognitive habit or disposition that relates
+to the practical as opposed to the theoretical intellect
+
+ indeed it is
+the disposition that perfects the practical intellect
+
+ how so
+
+ through
+its consciousness of the principles that comprise the natural law—such
+as that “god is to be honoured”—and through the issuing of such
+injunctions to the will
+
+ as bonaventure puts it
+
+ theoretical knowledge perfects our thought to the extent that the
+ latter is theoretical whereas conscience is a disposition perfecting
+ our thought to the extent that it is practical or to the extent that
+ it directs us towards deeds
+
+ bonaventure commentary on the
+ sentences 2
+
+39 a
+
+ 1 q
+
+ 1 potts trans
+
+ 1980 111
+
+is such a disposition innate or acquired
+
+ it is possible according to
+bonaventure to find authorities on both sides of the debate
+
+ for the
+opinion that conscience is innate bonaventure cites among other
+authorities st
+
+ paul s famous reference to a moral law that is “written
+on men s hearts” in romans 114–15
+
+ he also appeals to a “natural
+instinct to seek blessedness and to honor one s parents” commentary
+on the sentences 2
+
+39 a
+
+ 1 q
+
+ 2 mcgrade trans
+
+ 2001 175–176
+
+ for
+the opinion that conscience is not innate on the other hand
+bonaventure cites aristotle s claim that the soul is a blank slate
+
+
+bonaventure s solution is to find a middle position between st
+
+ paul on
+the one hand and aristotle on the other
+
+ his conclusion conscience is
+part innate part acquired
+
+
+
+in what sense is it innate
+
+ just as rational creatures have a natural
+capacity to judge the veracity of first principles in the realm of
+speculative reason so we have an innate capacity to judge the first
+principles of practical reason
+
+ this innate capacity to immediately
+grasp such principles as true or not in the realm of practical reason is
+called conscience
+
+ it is associated for bonaventure with the
+augustinian “natural light”—or “natural tribunal”—that is built into the
+structure of the mind and which permits rational agents to intuitively
+grasp the basic principles of the natural law see e
+
+g
+
+ augustine
+city of god 11
+
+27 bettenson trans
+
+ 1972 461–462
+
+ just as the mind is
+disposed to grasp in the realm of theoretical reason the axiomatic
+nature of such propositions as that “all bachelors are unmarried males”
+so too it has a innate disposition to grasp as selfevidently true such
+basic principles in the domain of practical reason as “honour thy father
+and mother” and “do not harm thy neighbour”
+
+
+
+in what sense though is conscience acquired
+
+ although the ability to
+judge the deontic propositions of the natural law as selfevidently true
+is innate it does not follow that the contents of such propositions are
+innate
+
+ it does not follow that is that the concepts “father” and
+“mother” in the precept to honor one s parents are in the mind from
+birth
+
+ and indeed so bonaventure thinks they are not
+
+ rather they are
+species or likenesses acquired through sense experience which once
+acquired form the terms of the universal propositions of the natural
+law that are intuitively grasped
+
+ in this sense bonaventure is true to
+aristotle
+
+ for everyone agrees that there is an imparted light of the
+ apprehensory potentiality which is called a natural tribunal but we
+ acquire forms and likenesses of things by means of the senses as
+ aristotle says explicitly in many places and as experience also
+ teaches us
+
+ commentary on the sentences 2
+
+39 a
+
+ 1 q
+
+ 2 potts
+ trans
+
+ 1980 113
+
+conscience then is partly innate and partly acquired with respect to
+the content of the natural law
+
+ but what is the relationship of such
+universal premises to the conclusions of practical reason
+
+ how does the
+agent proceed from a general knowledge of right and wrong to the
+application of this knowledge to concrete situations
+
+ after all such
+universal premises are only useful to the extent that they can be
+applied
+
+ for bonaventure the habit of directing the agent toward
+applying the general principles of the natural law to specific actions
+like the habit of immediately grasping deontic principles is innate
+
+
+but in order to apply this selfevident knowledge we must acquire
+further knowledge
+
+ for example although we grasp a priori the truth
+that one should honor one s father and mother we have no innate
+knowledge that john and mary are our parents and that it is they
+specifically who must be honoured as opposed to say michael and jane
+
+
+rather this type of knowledge is derived from experience and
+instruction
+
+
+
+note that conscience does not simply move from the general to the
+particular with respect to concrete actions
+
+ it also moves from the
+general to the specific with respect to propositions themselves
+
+ as
+potts points out there are in fact two classes of deontic propositions
+basic and derived potts 1982 698
+
+ consider the deontic proposition to
+obey god which is basic or maximally evident
+
+ obviously other more
+specific precepts can be derived from this very general one
+
+
+historically for instance from the basic deontic proposition to obey
+god the jews derived the further less evident but more specific deontic
+propositions to refrain from eating pork and to circumcise their sons
+
+
+how did they come to know these more specific propositions
+
+ by means of
+a revealed commandment—via divine instruction in other words
+commentary on the sentences 2
+
+39 a
+
+ 2 q
+
+ 3 ad 4 potts trans
+
+ 1980
+120
+
+ although the distinction between basic and derived deontic
+propositions is potts and although the case cited is an example of an
+erroneous conscience bonaventure argues that male circumcision and the
+prohibition on eating pork are no longer applicable it accurately sums
+up bonaventure s distinction between propositions that are “very clearly
+evident” versus those that are “less evident”
+
+ just as some things that are cognizable are very clearly evident such
+ as axioms and first principles while some are less evident such as
+ particular conclusions so also in things that can be done some are
+ evident in the highest degree for example “do not do to another what
+ you do not want done to you” and that one should submit to god and
+ suchlike
+
+ in the same way then as the cognition of first principles
+ is said to be innate in us by reason of that light because due to
+ their selfevidence that light suffices for cognizing them after the
+ reception of species without any additional persuasion so also the
+ cognition of moral first principles is innate in us in that that
+ judicatory suffices for cognizing them
+
+ again in the same way as
+ cognition of the particular conclusions of the sciences is acquired
+ because the light innate in us does not fully suffice for knowing
+ them but some persuasion and fuller acquaintance are needed so on
+ the side of things that can be done we must understand similarly
+ that we are bound to do some things which we know only through
+ additional instruction
+
+ commentary on the sentences 2
+
+39 a
+
+ 1 q
+
+ 2
+ mcgrade trans 2001 179
+
+this distinction between basic or very general principles and specific
+or derived precepts is germane to the question of whether conscience can
+ever be mistaken and if so whether in such cases it continues to bind
+
+
+bonaventure s response is that we can never be mistaken about basic
+deontic propositions
+
+ rather it is with respect to derived ones that we
+sometimes err since
+
+ although conscience is always right so long as it sticks to the
+ general and is moved by simple inspection it can become mistaken when
+ it descends to particulars and brings things together because the
+ actualisation of deliberative reason is mixed with it
+
+ commentary on
+ the sentences 2
+
+39 a
+
+ 2 q
+
+ 3 ad 4 potts trans
+
+ 1980 120
+
+is one obliged to always follow one s conscience
+
+ it depends since
+conscience is fallible
+
+ if what it dictates is in accordance with god s
+will then one is obliged to follow it on pain of eternal damnation
+
+ if
+erroneous—if what it dictates is contrary to the divine will—as is
+sometimes the case when applying basic deontological principles then
+conscience does not bind
+
+ rather the agent has an obligation to correct
+the error in order to bring his conscience into line with the natural
+law
+
+ if he does not and follows his erroneous conscience he commits a
+mortal sin
+
+ “it is clear that conscientia always either binds us to do
+what it tells us or binds us to change it” commentary on the sentences
+2
+
+39 a
+
+ 1 q
+
+ 3 potts trans
+
+ 1980 114–115
+
+ obviously then the
+intellect plays an important role in achieving happiness given its
+possession of conscience
+
+ but what of the will
+
+ does it not have an
+equally important role to play in the moral life
+
+ yes in its possession
+of synderesis
+
+ in line with tradition bonaventure calls synderesis the
+“spark of conscience” commentary on the sentences 2
+
+39 a
+
+ 2 mcgrade
+trans
+
+ 2001 186
+
+ he breaks with tradition however in arguing that it
+inheres in the will rather than in the intellect
+
+ indeed synderesis for
+bonaventure is precisely the counterpart of conscience insofar as the
+will like the intellect has an innate inclination towards the moral
+as opposed to the useful good
+
+ in the case of the intellect this
+disposition takes the form of the “natural light” of conscience that
+apprehends the first principles of the natural law in the case of the
+will it takes the form of synderesis a “natural bias” towards desiring
+the moral good
+
+ there is one sense however in which synderesis is not
+exactly analogous to conscience
+
+ while it looks very much like a habit
+synderesis is rather according to bonaventure presumably following
+philip the chancellor a habitlike power of the soul commentary on
+the sentences 2
+
+39 a
+
+ 2 q
+
+ 1 potts trans
+
+ 1980 116–117
+
+
+
+can synderesis ever be extinguished
+
+ no it is an innate orientation
+towards goodness that cannot be completely eradicated ontologically
+speaking even in the most vicious of people
+
+ in its exercise however
+it can become impeded “either by the darkness of blindness or by the
+wantonness of pleasure or by the hardness of obstinacy” commentary on
+the sentences 2
+
+39 a
+
+ 2 q
+
+ 2 potts trans
+
+ 1980 117
+
+ in such cases
+synderesis ceases to “murmur” against evil or “goad” towards the good
+either because the agent is blinded by ignorance distracted by physical
+pleasure or is so stubbornly persistent in their depravity that they
+cannot reorient themselves towards the good
+
+ still when synderesis
+follows the innate judgement of conscience with respect to basic deontic
+principles which can never err then it too functions correctly because
+that is its natural state
+
+ it has the potential to go wrong and fall
+into sin only during the exercise of deliberation with respect to
+particular truths since it is here that reason can become faulty and the
+will which is free disordered
+
+ when reason and will malfunction
+synderesis is “overthrown in that its effect and its government over
+the other deliberative powers is repulsed and broken” commentary on the
+sentences 2
+
+39 a
+
+ 2 q
+
+ 3 potts trans
+
+ 1980 119
+
+ when this happens
+the agent sins
+
+
+
+3
+
+2 st thomas aquinas synderesis and conscience as cognitive
+
+thomas aquinas 122425–1274 is by any measure one of the most
+important if not the most important scholastic theologian of the later
+middle ages
+
+ although his views on conscience and synderesis have
+received less attention in recent years than his theory of natural law
+this is unjustified
+
+ for the scholastics a full account of morality
+includes not only an explanation of how practical norms are grounded
+but also an understanding of how they are grasped and how it is that
+rational agents despite possessing an infallible guide to such
+knowledge often fail to apply it
+
+ one s metaethics in other words is
+inextricably linked to one s moral psychology which is to say to one s
+understanding of how the will and the intellect interact with one s
+knowledge of right and wrong
+
+
+
+aquinas discussed the issues of synderesis and conscience in several of
+his major works from his early commentary on the sentences and the de
+veritate to his mature summa theologica see d arcy 1961 36–47
+
+ as
+might be expected his account is very different from that of his
+franciscan contemporary bonaventure
+
+ for one thing bonaventure assigns
+synderesis to the will
+
+ he also describes it as we saw above as a
+“habitlike faculty”
+
+ aquinas as might be expected hews much closer to
+his dominican mentor and teacher albert the great ca
+
+ 1200–1280 for
+whom both synderesis and conscience belong to the intellect see
+dougherty 2018 221
+
+
+
+for aquinas the rational part of the soul comprises the faculties or
+powers of intellect and will
+
+ the object of the will is the good and
+the object of the intellect is the true
+
+ the latter potency is further
+divided into the speculative intellect intellectus speculativus and
+the practical intellect intellectus practicus
+
+ how do these differ
+
+
+the object of the speculative intellect is truth as such while the
+object of the practical intellect is the good “under the aspect of
+truth” thomas aquinas summa theologica i q
+
+ 79 a
+
+ 11 ad
+
+ 2
+
+
+synderesis and conscience for aquinas both belong to the practical
+intellect
+
+
+
+all reasoning must start from immediately evident principles if an
+infinite regress is to be avoided
+
+ this is as true in the realm of
+practical reason as it is in the realm of speculative reason
+
+ once such
+principles have been grasped and assented to more specific conclusions
+can be deduced
+
+ how are these principles grasped
+
+ in the domain of
+speculative reason they are apprehended by the innate disposition that
+aquinas calls intellectus—“intuitive reason” or “understanding”—and that
+aristotle called nous
+
+ the objects of this habit are such selfevident
+propositions as that “every whole is greater than its part” and that
+“things equal to one and the same are equal to one another” summa
+theologica iii q 94 a
+
+ 2 corp
+
+
+
+ once their terms are known the
+intellect immediately grasps the truth of such propositions since they
+are analytic in nature
+
+ the corresponding habit in the domain of
+practical reason on the other hand is synderesis a property of the
+soul which can never be lost which never errs and whose objects are
+the first principles of the natural law de veritate 16
+
+1 corp
+
+
+
+ a
+good description of how aquinas understands synderesis is hoffmann s
+who calls it an “infallible moral awareness” hoffmann 2012 255
+
+ like
+understanding synderesis is innate
+
+ wherefore the first practical principles bestowed on us by nature do
+ not belong to a special power but to a special natural habit which
+ we call “synderesis”
+
+ whence “synderesis” is said to incite to good
+ and to murmur at evil inasmuch as through first principles we proceed
+ to discover and judge of what we have discovered
+
+ it is therefore
+ clear that “synderesis” is not a power but a natural habit
+
+ summa
+ theologica i q
+
+ 79 a
+
+ 12 corp
+
+
+
+in broad terms synderesis is a link between the human intellect and the
+divine wisdom
+
+ the universe is created and governed by a providential
+god and is therefore subject to the order of final causality
+
+
+accordingly all things rational and nonrational alike seek their
+proper ends
+
+ nonrational beings since they lack will and intellect and
+are therefore incapable of prudential reasoning achieve their ends
+through the natural inclinations that are implanted in them by god
+
+ in
+this sense they participate in the providential plan for all creation
+that aquinas calls the “eternal law” the divine wisdom insofar as it
+directs all creatures towards their ends summa theologica iii q
+
+ 93
+a
+
+ 1 corp
+
+
+
+ they do so however in a diminished way
+
+ rational beings
+by contrast participate in divine providence in a more excellent way
+
+
+this participation in the eternal law is called the natural law whose
+moral principles function to direct human beings toward their ultimate
+end happiness summa theologica iii q
+
+ 91 a
+
+ 2 corp
+
+
+
+ these moral
+principles which are grasped and accordingly possessed by synderesis
+offer an insight into god s intentions for human beings and therefore
+into the ultimate purpose of human life
+
+ as baylor writes of aquinas s
+theory
+
+ moral principles are based upon and derived from a rationality that is
+ present in reality they are a human knowledge of the exemplary ideas
+ in the divine mind according to which creation is imbued with a
+ rational order
+
+ baylor 1977 46
+
+practical reasoning then plays a central role in the achievement of
+happiness the final end for humans and therefore in god s plan for us
+
+
+like speculative reasoning practical reasoning generally takes a
+deductive form
+
+ just as science is the conclusion of the demonstrative
+syllogism so conscience is the conclusion of a practical syllogism
+
+ the
+practical syllogism like the demonstrative syllogism contains a major
+premise a minor premise and a conclusion
+
+ the major premise is drawn or
+deduced from synderesis
+
+ the minor premise on the other hand is drawn
+either from faith natural reason or human positive law
+
+ from the major
+and minor premises a conclusion is drawn that generates a moral
+obligation to act hoffmann 2012 258
+
+ this inferential judgment is
+associated for aquinas with conscience an act—as opposed to a faculty
+or a habit—that includes a number of applications such as “to witness
+to bind or incite and also to accuse torment or rebuke” thomas
+aquinas summa theologica i q
+
+ 79 a
+
+ 13 corp
+
+
+
+
+
+conscience acts as a “witness” when it is consciously aware of some
+personal wrongdoing whether of commission or omission
+
+ it “binds” or
+“incites” when it makes a judgement that some act should be performed
+
+
+finally it “accuses” “torments” or “rebukes” when it judges that some
+past action was either morally acceptable or it was not
+
+ although it is
+difficult to see how conscience in the first sense—conscience as
+witness—can function as an application of knowledge to conduct this
+seems less problematic in the second and third senses of the term which
+harken back to the legislative and judicial senses of conscience found
+in st
+
+ paul and pagan antiquity respectively d arcy 1961 46
+
+ in any
+case an example of the way in which conscience applies the natural
+law—whose principles are apprehended by synderesis— is articulated in
+aquinas s de veritate
+
+ if the judgement of synderesis expresses the statement “nothing
+ prohibited by the law of god is to be done” and if the knowledge of
+ higher reason presents this minor premise “sexual intercourse with
+ this woman is forbidden by the law of god” the application of
+ conscience will be made by concluding “this sexual intercourse is to
+ be avoided”
+
+ de veritate q
+
+ 17 a
+
+ 2 corp
+
+ cited in dougherty
+ 2018 222
+
+now the dictates of conscience can either be right if correctly deduced
+from the natural law or wrong if they are incorrectly deduced
+
+ the
+dictates of the former are the product of a “correct conscience” and the
+judgements of the latter are the result of an “erroneous conscience”
+
+
+since synderesis is infallible the main source of an erroneous
+conscience when it does occur is the agent s adoption of a faulty
+minor premise in the practical syllogism de veritate q
+
+ 17 a
+
+ 2 potts
+trans
+
+ 1980 132–133
+
+
+
+now it is clear that we have an obligation to follow a correct
+conscience since to do so contributes to achieving our final end
+
+ but
+what of an erroneous conscience
+
+ does this have any authority
+
+ for
+aquinas an erring conscience also binds
+
+ it does not however
+necessarily excuse
+
+ as hoffmann puts it
+
+ regardless of whether my action is objectively good evil or
+ indifferent conscience binds for it is by means of conscience that
+ an action is proposed to me as good bad or indifferent
+
+ hoffmann
+ 2012 260
+
+for example it is objectively right—in accordance with the natural
+law—to refrain from sex outside of marriage
+
+ but suppose that an agent
+mistakenly believes that such abstinence is sinful and yet still
+refrains
+
+ according to aquinas this agent although he does what is
+objectively right nonetheless sins
+
+ why
+
+ because in choosing the
+opposite of what his conscience dictated he chose to do something he
+believed to be evil
+
+ and choosing what is subjectively if not
+objectively wrong for aquinas is a sin “f from the very fact that
+a thing is proposed by the reason as being evil the will by tending
+thereto becomes evil” summa theologica iii q
+
+ 19 a
+
+ 5 corp
+
+
+
+
+
+what follows from this is that conscience whether right or erroneous
+always binds
+
+ as to the question of whether an erroneous conscience
+excuses on the other hand that depends on the type of ignorance that
+causes it
+
+ this is because some types of ignorance render an act
+involuntary and therefore excusable and some do not
+
+ ignorance that
+excuses is called invincible and concerns ignorance about the facts of
+the situation assuming of course there is no negligence involved
+
+
+such cases that is where an agent could not have known better under
+the circumstances and would not have thus acted had he known better are
+excusable
+
+ aquinas uses the example of fornication—voluntary illicit
+sex—to illustrate his point
+
+ although it is a sin to commit adultery a
+man is excused if he has sexual relations with a woman who is not his
+wife so long as he is genuinely if improbably mistakes the women for
+his wife
+
+ this is
+
+ because this error arises from ignorance of a circumstance which
+ ignorance excuses and causes the act to be involuntary
+
+ summa
+ theologica iii q
+
+ 19 a
+
+ 6 corp
+
+
+
+ignorance that contributes to an erroneous conscience that is in any way
+voluntary is vincible or able to be corrected and therefore culpable
+if followed
+
+ this generally happens where the agent s ignorance of the
+particulars of the situation is either the result of negligence or
+where there is ignorance of the relevant moral principles
+
+ the former
+cases are the result of the agent not taking appropriate care to find
+out about the facts of situation so that he or she can sin while
+feigning ignorance
+
+ in the case of one s ignorance of universal
+premises this too is culpable since it is one s obligation to know the
+moral law
+
+ summa theologica iii q
+
+ 19 a
+
+ 6 corp
+
+
+
+
+
+but one might be wondering how it is that culpable ignorance is even
+possible where it relates to general moral principles
+
+ how can one go
+wrong about the universal premises that form the major premise of the
+practical syllogism which are drawn from the precepts which comprise
+the natural law if synderesis which grasps such premises is
+infallible
+
+ aquinas s answer is that there are two types of natural law
+precepts primary—or those which are “most general”—and secondary
+
+
+aquinas is less specific on this topic than is optimal but in drawing
+this distinction he seems to mean something like the following
+
+ about
+the primary precepts of the natural law noone can go wrong
+
+
+unfortunately as we have seen such precepts are of a very general
+character such as “do good and avoid evil”
+
+ for such general knowledge
+to be applicable by conscience it must be further specified
+
+ this
+further specification comprises the secondary precepts of the natural
+law which are closely drawn from the former precepts and from natural
+inclination
+
+ about such secondary derived precepts of the natural law
+such as “adultery is to be avoided” humans are all too prone to become
+ignorant
+
+ for aquinas such ignorance is the result either of vice or of
+having been socialized in a culture with “vicious customs”
+
+ i answer that there belongs to the natural law first certain
+ most general precepts that are known to all and secondly certain
+ secondary and more detailed precepts which are as it were
+ conclusions following closely from first principles
+
+ as to those
+ general principles the natural law in the abstract can nowise be
+ blotted out from men s hearts
+
+ but as to the secondary
+ precepts the natural law can be blotted out from the human heart
+ either by evil persuasions just as in speculative matters errors
+ occur in respect of necessary conclusions or by vicious customs and
+ corrupt habits 
+
+ summa theologica iii q
+
+ 94 a
+
+ 6 corp
+
+
+
+a final problem seems to emerge are we not according to aquinas s
+account of the erroneous conscience left with the possibility of a
+moral dilemma
+
+ for if we have an obligation to always follow our
+consciences but we sometimes sin when we do follow them then it seems
+that we are sometimes put into a double bind
+
+ we seem that is to
+sometimes have conflicting obligations so that regardless of what we do
+we sin
+
+ aquinas s solution is that it is only wrong to follow a
+conscience that is in a state of vincible ignorance
+
+ since such
+ignorance is by definition correctable we can always resolve the
+apparent dilemma by choosing to put aside our ignorance
+
+ as far as
+acting from invincible ignorance is concerned we are pardoned
+
+
+
+3
+
+3 william of ockham new directions in the understanding of synderesis and conscience
+
+with the fourteenthcentury theologian william of ockham 1285–1347 we
+encounter some radically new developments on the topics of synderesis
+and conscience
+
+ while ockham s franciscan predecessor john duns scotus
+had disagreements with aquinas about the nature of the moral law scotus
+fundamentally agreed with the dominican in viewing synderesis and
+conscience a habit and an act of the practical reason respectively
+whose jobs were to apprehend the basic principles of morality in the
+case of synderesis and to apply them in the case of conscience john
+duns scotus ordinatio 2 d
+
+ 39 wolter trans
+
+ 1997 162–163
+
+ like
+scotus ockham also agrees with aquinas in several crucial respects
+
+
+where ockham departs from aquinas and indeed with the entire scholastic
+tradition which preceded him however is in his abandonment of the
+concept of synderesis and in his unique approach to the invincibly
+erroneous conscience
+
+
+
+it is difficult to know for certain why ockham abandoned the concept of
+synderesis
+
+ michael baylor however has suggested two possibilities
+
+
+the first is that as we have seen synderesis was regarded by ockham s
+predecessors like aquinas as an inborn habit
+
+ but for ockham rational
+agents only come to possess habits by acquiring them and they can only
+acquire them by doing the relevant acts repeatedly
+
+ the notion that a
+habit could be innate then would have seemed incoherent to ockham
+baylor 1977 78 fuchs 1952 5–6
+
+
+
+the second possible explanation—though baylor thinks this
+implausible—has to do with the way that ockham understands the
+foundations of morality as compared with aquinas
+
+ for ockham there is
+no essential connection between the moral order as it currently exists
+and the divine wisdom
+
+ the highest norm of morality is the divine will
+
+
+it just so happens that murder for example is wrong today
+
+ but there
+is no reason that god could not make murder right tomorrow if he so
+willed
+
+ the moral order in short is contingent
+
+ on the thomistic view
+however the natural law is a participation in the eternal law
+
+ it is
+the point of contact between god s plan for us as conceived in the
+divine mind on the one hand and the human intellect on the other
+
+
+synderesis as we saw above plays a key role in this connection insofar
+as it grasps the moral principles that lead human beings to their final
+destiny
+
+ moreover the moral principles that guide us in how to achieve
+our final end are as true today as they were yesterday and indeed will
+be for all time owing to the natures that god has bestowed upon us
+
+ as
+baylor writes
+
+ as the element of man s original nature which was substantially
+ undamaged after adam s fall the synteresis was the anthropological
+ point of connection between an abiding moral order which manifested
+ ideas in the divine intellect according to which creation was
+ necessarily ordered and man s certain knowledge of universal
+ principles of that moral order
+
+ ockham however stressed the absolute
+ contingency of creation for ockham god s will as manifested in
+ the moral precepts he has ordained constitutes the ultimate and
+ objective norm of morality
+
+ god is under no obligation rather it is
+ divine will which determines moral obligation
+
+ this awesome conception
+ of divine liberty and omnipotence and the contingency of the created
+ order has led many to the conclusion that the objective basis of
+ ockham s ethics is authoritarian or positivistic and inherently
+ unstable since it appears to depend only upon an alterable divine
+ fiat
+
+ if this were so then it would appear odd also to posit within
+ man an inborn and inalienable knowledge of moral principles in the
+ form of synteresis
+
+ baylor 1977 79–80
+
+a distinguished proponent of the interpretation baylor describes was
+servais pinckaers
+
+ because the foundations of morality are rooted in the
+divine will which can change there was no need for ockham to resort to
+a mechanism that discovers the eternal principles of morality as these
+emerge from human nature since for ockham no such principles exist
+
+
+rather according to pinckaers interpretation of ockham moral
+principles are known through revelation
+
+ pinckaers 1993 258
+
+ while
+pinckaers was correct in his assessment of ockham s metaethics—which is
+fundamentally authoritarian despite elements of rationalism—he was wrong
+in his characterization of ockham s moral epistemology
+
+ this is because
+while it is indeed possible to come to know the principles of morality
+via divine revelation on ockham s account it is also possible despite
+their grounding in god s will to come to know them via natural reason
+and experience see eardley 2013 82–87
+
+ examples of the former that
+is of principles that are selfevidently true are “every blameworthy
+evil is to be avoided” and “the will ought to conform itself to right
+reason”
+
+ an example of a moral proposition that is grounded in
+experience on the other hand is “an angry man should be calmed with
+soothing words” eardley 2013 86–87
+
+ god obviously wills that we
+should follow such injunctions
+
+ but how can we know his will if not
+through revelation
+
+ although the contemporary philosopher peter geach
+was not a particularly sympathetic reader of ockham he was willing to
+concede the possibility that a metaethics grounded in divine commands
+could nonetheless yield a naturalistic moral epistemology
+
+ as he put it
+
+ the rational recognition that a practice is generally undesirable and
+ that it is best for people on the whole not even to think of resorting
+ to it is thus in fact a promulgation to a man of the divine law
+ forbidding the practice even if he does not realise that this is a
+ promulgation of the divine law even if he does not believe there is a
+ god
+
+ geach 1981 170
+
+ockham would have agreed
+
+
+
+a second and related way in which pinckaers misinterpreted ockham s
+moral epistemology was pinckaers assumption that because ockham
+discarded the traditional notion of synderesis he must have done the
+same for its twin concept of conscience
+
+ pinckaers conceded that moral
+principles even if rooted in the divine will still need to be applied
+to particular situations on ockham s account
+
+ this role was of course
+reserved for conscience in the earlier tradition
+
+ in ockham according
+to pinckaers this role now became associated with practical reason and
+prudence pinckaers 1993 259
+
+
+
+a closer reading of the textual evidence suggests that ockham very much
+made use of the traditional concept of conscience
+
+ indeed much of how
+he employed the concept was consistent with the tradition especially as
+articulated by aquinas
+
+ ockham associates the dictates of practical
+reason for example with judgements of conscience
+
+ he is also emphatic
+in his belief that rational agents have an absolute obligation to follow
+their consciences which can be correct or erroneous quaestiones
+variae q
+
+ 8 a
+
+ 1 oth 8 411
+
+ a conscience is correct when it is in
+accord with right reason it is erroneous when it is not
+
+ finally an
+erroneous conscience for ockham as with aquinas is either in a state
+of vincible—voluntary and therefore culpable—ignorance or in a state of
+invincible—or involuntary—ignorance
+
+ where conscience is in a state of
+vincible ignorance we must do our best to set it aside
+
+ in all these
+cases ockham follows the tradition with one exception that of the
+invincibly erroneous conscience eardley 2013 94–98 the state in
+which the agent finds himself with the correct universal principles but
+nonculpably errs with respect to his grasp of the circumstances in
+which he finds himself
+
+
+
+in what sense does ockham depart from the tradition
+
+ for ockham the act
+of following an invincibly erroneous conscience is not merely excusable
+as it was for aquinas but “virtuous and meritorious”
+
+ consider the
+following example from ockham
+
+ while walking down the street one day you
+pass a homeless person who asks you for money
+
+ he appears to have a
+moral claim on you since you assent to the moral principle that “help is
+to be given to every needy person in extreme need lest he die”
+
+ does he
+appear needy and indeed desperate to you
+
+ yes
+
+ sizing him up you
+determine that although it is theoretically possible that he could be
+fraud this seems unlikely
+
+ for ockham you are obliged in this instance
+to follow your conscience and indeed you do
+
+ it turns out however
+that this apparent homeless person is in fact a very wealthy person who
+is impersonating a beggar
+
+ for ockham in following your conscience you
+are not merely excused or absolved of your error but your ignorant
+act is virtuous and indeed regarded by god as meritorious so long
+that is that your act of charity is done out of love for god
+
+ as
+ockham puts it
+
+ consequently in the above case a right act of the will and an error
+ of the intellect remain at the same time with respect to the same
+ object
+
+ and the whole reason is because that error is not in the power
+ of the one who is mistaken who took all due diligence to find out the
+ truth and therefore that error excuses from every sin
+
+ and
+ consequently the will that elicits the act in conformity to such
+ invincibly erroneous reason acts virtuously and meritoriously
+
+
+ indeed had he not while in such error willed to help that person
+ he would have performed a vicious and demeritorious act because such
+ an act would have been knowingly elicited against conscience and
+ against nonculpable reason because in the aforementioned case he
+ does not know that he is in error but believes that he possesses right
+ reason and consequently by despising reason in this way he sins
+ mortally
+
+ quaestiones varie q
+
+ 8 a
+
+ 2 oth 8 423–424
+
+what is motivating ockham s novel suggestion
+
+ even aquinas admitted that
+we have an obligation to follow our consciences whether right or
+erroneous
+
+ when we do not do so according to aquinas we sin
+
+ of
+course when our consciences are in a state of voluntary or vincible
+ignorance we also have a duty to put aside our error otherwise we sin
+
+
+it is obviously not possible however to put error aside in the case of
+invincible ignorance since such ignorance is by definition involuntary
+
+
+accordingly for aquinas we are obliged to follow such a conscience
+
+
+although we act wrongly in such cases we are for aquinas excused on
+the grounds that we could not have known better
+
+ to return to aquinas s
+example of inadvertently sleeping with someone who is not your spouse
+this might be excusable for aquinas but there is no possibility that
+such an act might be considered virtuous much less meritorious
+
+ but for
+ockham if it is vicious and therefore punishable not to follow an
+invincibly erroneous conscience then merely being excused for following
+it when we are under a moral obligation to do so would be an
+insufficient reward
+
+ rather it should logically follow that it is
+virtuous and therefore meritorious
+
+
+
+bibliography
+
+primary sources
+
+ augustine city of god translated by henry bettenson
+ harmondsworth penguin 1972
+
+
+ bonaventure “commentary on peter lombard s books of judgements 
+ 239” in potts1980 110–121
+
+ doi10
+
+1017cbo9780511609022
+
+013
+ ––– “conscience and synderesis” translated by a
+
+s
+
+ mcgrade in the
+ cambridge translations of medieval philosophical texts
+
+ volume 2
+ ethics and political philosophy arthur stephen mcgrade et al
+
+
+ eds
+
+ cambridge cambridge university press 2001 169–199
+
+
+ jerome “commentary on ezekiel” in potts 1980 79–80
+
+
+ doi10
+
+1017cbo9780511609022
+
+009
+ peter lombard “books of judgements 2
+
+39” in potts 1980 90–93
+
+
+ doi10
+
+1017cbo9780511609022
+
+011
+ philip the chancellor “summa de bono treatise on conscience” in
+ potts 1980 94–109
+
+ doi10
+
+1017cbo9780511609022
+
+012
+ stephen langton quaestiones disputatae odon lottin ed
+
+
+
+ in
+ psychologie et morale aux xii et xiii siècles
+
+ tome i
+
+ problèmes de
+ psychologie louvain abbaye du mont césar 1942 57–62
+
+
+ ––– quaestiones disputatae odon lottin ed
+
+
+
+ in psychologie et
+ morale aux xii et xiii siècles
+
+ tome ii
+
+ problèmes de morale
+ louvain abbaye du mont césar 1948 110–115
+
+
+ thomas aquinas “debated questions on truth de veritate 16–17” in
+ potts 1980 122–136
+
+ doi10
+
+1017cbo9780511609022
+
+014
+ ––– summa theologiæ translated by the fathers of the english
+ dominican province 1920
+
+ summa theologiæ translation available
+ online
+ william of ockham quaestiones variae opera theologica 8 st
+
+
+ bonaventure ny the franciscan institute 1984
+
+
+
+secondary sources
+
+ baylor michael g
+
+ 1977 action and person conscience in late
+ scholasticism and the young luther studies in medieval and
+ reformation thought volume xx leiden e
+
+ j
+
+ brill
+
+
+ bier william christian ed
+
+ 1971 conscience its freedom and
+ limitations the pastoral psychology series 6 new york fordham
+ university press
+
+
+ celano anthony j
+
+ 2015 aristotle s ethics and medieval
+ philosophy moral goodness and practical wisdom cambridge
+ cambridge university press
+
+ doi10
+
+1017cbo9781316471241
+ cross richard 2012 “natural law moral constructivism and duns
+ scotus s metaethics the centrality of aesthetic explanation” in
+ jacobs 2012 175–198
+
+ doi10
+
+1093acprofoso9780199767175
+
+003
+
+0007
+ d arcy eric 1961 conscience and its right to freedom new york
+ and london sheed and ward
+
+
+ dolan joseph v
+
+ 1971 “conscience in the catholic theological
+ tradition” in bier 1971 9–19
+
+
+ dougherty m
+
+ v
+
+ 2011 moral dilemmas in medieval thought from
+ gratian to aquinas cambridge cambridge university press
+
+
+ doi10
+
+1017cbo9780511977053
+ ––– 2018 “practical reasoning” in the cambridge companion to
+ medieval ethics thomas williams ed
+
+ cambridge cambridge
+ university press 217–237
+
+ doi10
+
+10179781316711859
+
+011
+ dumont stephen d
+
+ 2000 “did duns scotus change his mind on the
+ will
+
+” in nach der verurteilung von 1277 after the condemnation of
+ 1277 philosophy and theology at the university of paris in the last
+ quarter of the thirteenth century
+
+ studies and texts miscellanea
+ mediaevalia 28 jan a
+
+ aertsen kent emery and andreas speer
+ eds
+
+ berlin walter de gruyter pp
+
+ 719–794
+
+
+ doi10
+
+15159783110820577
+
+719
+ eardley peter s
+
+ 2003 “thomas aquinas and giles of rome on the
+ will” review of metaphysics 564 835–862
+
+
+ ––– 2006 “the foundations of freedom in later medeival philosophy
+ giles of rome and his contemporaries” journal of the history of
+ philosophy 44 353–376
+
+
+ ––– 2013 “conscience and the foundations of morality in ockham s
+ metaethics” recherches de théologie et philosophie médiévales
+ 801 77–108
+
+ doi10
+
+2143rtpm
+
+80
+
+1
+
+2988829
+ fuchs oswald 1952 the psychology of habit according to william
+ ockham st
+
+ bonaventure ny the franciscan institute
+
+
+ geach peter 1981 “the moral law and the law of god” in divine
+ commands and morality paul helm ed
+
+ oxford oxford university
+ press 165–174
+
+
+ greene robert a
+
+ 1997 “instinct of nature natural law
+ synderesis and the moral sense” journal of the history of ideas
+ 582 173–198
+
+ doi10
+
+1353jhi
+
+1997
+
+0014
+ hoffmann tobias 2007 “aquinas and intellectual determinism the
+ test case of angelic sin” archiv für geschichte der philosophie
+ 892 122–156
+
+ doi10
+
+1515agph
+
+2007
+
+007
+ ––– 2012 “conscience and synderesis” in the oxford handbook of
+ aquinas brian davies ed
+
+ oxford oxford university press
+ 327–336
+
+
+ holopainen taina m
+
+ 1991 william ockham s theory of the
+ foundations of ethics helsinki lutheragricolasociety
+
+
+ jacobs jonathan a
+
+ ed
+
+ 2012 reason religion and natural law
+ from plato to spinoza oxford oxford university press
+
+
+ doi10
+
+1093acprofoso9780199767175
+
+001
+
+0001
+ kent bonnie 1995 virtues of the will
+
+ the transformation of
+ ethics in the late thirteenth century washington dc catholic
+ university of america press
+
+
+ kries douglas 2002 “origen plato and conscience synderesis in
+ jerome s ezekiel commentary” traditio 57 67–83
+
+
+ doi10
+
+1017s0362152900002701
+ langston douglas c
+
+ 1993 “the spark of conscience bonaventure s
+ view of conscience and synderesis” franciscan studies 53 79–95
+
+
+ doi10
+
+1353frc
+
+1993
+
+0009
+ ––– 2001 conscience and other virtues
+
+ from bonaventure to
+ macintyre university park pa pennsylvania state university press
+
+
+ lewis c
+
+s
+
+ 1960 “conscience and conscious” in his studies in
+ words cambridge cambridge university press 181–213
+
+
+ lisska anthony j
+
+ 2012 “right reason in natural law moral theory
+ thomas aquinas and william of ockham” in jacobs 2012 155–174
+
+
+ doi10
+
+1093acprofoso9780199767175
+
+003
+
+0006
+ möhle hannes 2003 “scotus s theory of natural law” in the
+ cambridge companion to duns scotus thomas williams ed
+
+
+ cambridge cambridge university press 312–331
+
+
+ doi10
+
+1017ccol0521632056
+
+011
+ osborne jr thomas m
+
+ 2014 human action in thomas aquinas john
+ duns scotus and william of ockham washington dc the catholic
+ university of america press
+
+
+ ––– 2020 aquinas s ethics elements in ethics cambridge
+ cambridge university press
+
+ doi10
+
+10179781108581325
+ pierce c
+
+a
+
+ 1955 conscience in the new testament a study of
+ syneidesis in the new testament in the light of its sources and
+ with particular reference to st
+
+ paul with some observations
+ regarding its pastoral relevance today london scm press
+
+
+ pinckaers servais 1991 2005 “la conception chrétienne de la
+ conscience morale” nova et vetera 66 81–99
+
+ translated as
+ “conscience and christian tradition” mary thomas noble trans
+
+ in
+ the pinckaers reader renewing thomistic moral theology john
+ berkman and craig steven titus eds washington dc the catholic
+ university of america press 2005 321–341
+
+
+ ––– 1993 les sources de la morale chrétienne paris éditions du
+ cerf
+
+
+ porter jean 2005 nature as reason a thomistic theory of natural
+ law grand rapids mi eerdmans publishing
+
+
+ potts timothy c
+
+ 1980 conscience in medieval philosophy
+ cambridge cambridge university press
+
+ doi10
+
+1017cbo9780511609022
+ ––– 1982 “conscience” in the cambridge history of later medieval
+ philosophy norman kretzmann anthony kenny jan pinborg and
+ eleonore stump eds
+
+ cambridge cambridge university press
+ 687–704
+
+ doi10
+
+1017chol9780521226059
+
+039
+ quinn john f
+
+ 1974 “the moral philosophy of st
+
+ bonaventure”
+ southwestern journal of philosophy 52 39–70
+
+
+ doi10
+
+5840swjphil19745229
+ saarinen risto 1994 weakness of will in medieval thought
+ augustine to buridan leiden e
+
+j
+
+ brill
+
+
+ sorabji richard 2014 moral conscience throughout the ages fifth
+ century bce to the present chicago university of chicago press
+
+
+ stępień katarzyna 2010 2014 “syndereza a prawo naturalne” in a
+ polish translation by aleksander białek of s
+
+ thomae aquinatis
+ quaestiones disputatae de synderesi de conscientia – dysputy
+ problemowe o synderezie o sumieniu lublin wydawnictwo kul 2010
+
+
+ translated as “synderesis and the natural law” studia gilsoniana
+ 2014 3 377–398
+
+ stępień 2010 2014 available online
+ sweeney eileen c
+
+ 2012 “thomas aquinas on the natural law written
+ on our hearts” in jacobs 2012 133–154
+
+
+ doi10
+
+1093acprofoso9780199767175
+
+003
+
+0005
+ turro james c
+
+ 1971 “conscience in the bible” in bier 1971 3–8
+
+
+
+academic tools
+
+ 
+ sep man icon how to cite this entry
+
+
+ sep man icon preview the pdf version of this entry at the friends of the sep society
+
+
+ inpho icon look up topics and thinkers related to this entry at the internet philosophy ontology project inpho
+
+
+ phil papers icon enhanced bibliography for this entry at philpapers with links to its database
+
+
+ 
+
+other internet resources
+
+ langston douglas “medieval theories of conscience” stanford
+ encyclopedia of philosophy winter 2020 edition edward n
+
+ zalta
+ ed
+
+ url 
+ httpsplato
+
+stanford
+
+eduarchiveswin2020entriesconsciencemedieval
+
+
+ this was the previous entry on medieval theories of conscience in
+ the stanford encyclopedia of philosophy — see the version history
+
+
+ medieval theories of practical reason entry by christopher toner in
+ the internet encyclopedia of philosophy
+
+
+
+related entries
+
+aquinas thomas aquinas thomas moral political and legal
+philosophy aristotle general topics ethics augustine of hippo 
+bonaventure conscience duns scotus john ockham occam william 
+philip the chancellor plato practical reason medieval theories of 
+virtue medieval theories of
+
+copyright © 2021 by
+peter eardley peardleyuoguelph
+
+ca
+
+open access to the sep is made possible by a worldwide funding
+initiative
+
+
+the encyclopedia now needs your support
+please read how you can help keep the encyclopedia free
+
+ browse
+
+ table of contents
+ what s new
+ random entry
+ chronological
+ archives
+
+ about
+
+ editorial information
+ about the sep
+ editorial board
+ how to cite the sep
+ special characters
+ advanced tools
+ accessibility
+ contact
+
+ support sep
+
+ support the sep
+ pdfs for sep friends
+ make a donation
+ sepia for libraries
+
+ mirror sites
+
+view this site from another server
+
+usa main site philosophy stanford university
+
+ info about mirror sites
+
+the stanford encyclopedia of philosophy is copyright © 2023 by the
+metaphysics research lab department of philosophy stanford university
+
+library of congress catalog data issn 10955054

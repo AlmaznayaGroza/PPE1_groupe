@@ -1,0 +1,4816 @@
+skip to main content
+
+thank you for visiting nature
+
+com
+
+ you are using a browser version with
+limited support for css
+
+ to obtain the best experience we recommend you
+use a more up to date browser or turn off compatibility mode in
+internet explorer
+
+ in the meantime to ensure continued support we are
+displaying the site without styles and javascript
+
+
+
+advertisement
+
+advertisement
+
+nature communications
+
+ view all journals
+ search
+ log in
+
+ explore content
+ about the journal
+ publish with us
+
+ sign up for alerts
+ rss feed
+
+1
+
+ nature
+ 
+2
+
+ nature communications
+ 
+3
+
+ articles
+ 
+4
+
+ article
+
+quantifying arousal and awareness in altered states of consciousness
+using interpretable deep learning
+
+download pdf 
+
+download pdf 
+
+ article
+ open access
+ published 25 february 2022
+
+quantifying arousal and awareness in altered states of consciousness using interpretable deep learning
+
+ minji lee  orcid orcid
+
+org000000034261875x¹
+ leandro r
+
+ d
+
+ sanz  orcid orcid
+
+org000000015054247123
+ alice barra23
+ audrey wolff23
+ jaakko o
+
+ nieminen  orcid orcid
+
+org000000027826351945
+ melanie boly  orcid orcid
+
+org000000019584090746
+ mario rosanova  orcid orcid
+
+org000000017486761778
+ silvia casarotto  orcid orcid
+
+org000000027548766479
+ olivier bodart²
+ jitka annen  orcid orcid
+
+org000000027459434523
+ aurore thibaut23
+ rajanikant panda  orcid orcid
+
+org000000020960434023
+ vincent bonhomme  orcid orcid
+
+org000000016356547x101112
+ marcello massimini79
+ giulio tononi  orcid orcid
+
+org0000000238924087⁴
+ steven laureys23
+ olivia gosseries  orcid
+ orcid
+
+org000000019011749623413 na1 
+ 
+ seongwhan lee  orcid orcid
+
+org000000026249499614 na1 
+
+show authors
+
+nature communications volume 13 article number 1064 2022 cite this
+article
+
+ 24k accesses
+
+ 53 citations
+
+ 75 altmetric
+
+ metrics details
+
+subjects
+
+ disorders of consciousness
+ predictive markers
+ sleep
+
+abstract
+
+consciousness can be defined by two components arousal wakefulness
+and awareness subjective experience
+
+ however neurophysiological
+consciousness metrics able to disentangle between these components have
+not been reported
+
+ here we propose an explainable consciousness
+indicator eci using deep learning to disentangle the components of
+consciousness
+
+ we employ electroencephalographic eeg responses to
+transcranial magnetic stimulation under various conditions including
+sleep n 6 general anesthesia n 16 and severe brain injury
+n 34
+
+ we also test our framework using restingstate eeg under
+general anesthesia n 15 and severe brain injury n 34
+
+ eci
+simultaneously quantifies arousal and awareness under physiological
+pharmacological and pathological conditions
+
+ particularly
+ketamineinduced anesthesia and rapid eye movement sleep with low
+arousal and high awareness are clearly distinguished from other states
+
+
+in addition parietal regions appear most relevant for quantifying
+arousal and awareness
+
+ this indicator provides insights into the neural
+correlates of altered states of consciousness
+
+
+
+similar content being viewed by others
+
+
+
+analyzing brainactivation responses to auditory stimuli improves the diagnosis of a disorder of consciousness by nonlinear dynamic analysis of the eeg
+
+article open access 29 july 2024
+
+
+
+dynamical structurefunction correlations provide robust and generalizable signatures of consciousness in humans
+
+article open access 30 september 2024
+
+
+
+neural complexity is a common denominator of human consciousness across diverse regimes of cortical dynamics
+
+article open access 15 december 2022
+
+introduction
+
+responsiveness is often thought to reflect consciousness and for a long
+time unresponsiveness was considered as a surrogate of unconsciousness
+
+
+however consciousness and responsiveness are two different concepts¹
+
+
+consciousness is considered to be absent during sleep or anesthesia but
+in certain instances subjective experience can still occur e
+
+g
+
+
+dreaming23
+
+ similarly consciousness has been described as a result
+of both arousal and awareness components⁴
+
+ arousal refers to the overall
+state of alertness or wakefulness
+
+ in contrast awareness refers to
+the subjective experience such as perceiving a blue triangle versus a
+red circle⁵
+
+ typically at the clinical level arousal is indicated by
+the opening of the eyes and awareness is inferred by the ability to
+follow commands
+
+
+
+various levels of consciousness exist in physiological pharmacological
+and pathological modifications of consciousness table 1
+
+ in nonrapid
+eye movement nrem sleep with no subsequent reports of subjective
+experiences both arousal and awareness are low
+
+ however in rapid eye
+movement rem sleep with dreams arousal is low but awareness can reach
+high levels56
+
+ under general anesthesia propofol and xenon
+predominantly induce states similar to nrem sleep without subjective
+experiences whereas ketamine induces dreamlike experiences similar to
+rem sleep with subjective reports upon awakening37
+
+ additionally
+recent findings suggest that a minority of patients under anesthesia may
+also be conscious of their environment during a surgical procedure
+which is referred to as connected consciousness
+
+ these patients exhibit
+the ability to follow commands using the isolated forearm technique⁸
+without recollection upon awakening
+
+ unresponsive wakefulness syndrome
+uws describes patients who recover with their eyes open but only
+demonstrate reflex behaviors while patients in a minimally conscious
+state mcs present reproducible nonreflex movements⁹
+
+ in both uws and
+mcs patients arousal is high however unlike uws mcs patients also
+show signs of awareness that can be considered as a sign of volitional
+behavior1011
+
+ however certain uws patients assessed several times
+with the coma recovery scalerevised crsr¹² may present brain
+activity similar to mcs patients e
+
+g
+
+ high brain metabolism measured
+by positron emission tomography
+
+ this peculiar state has been termed
+nonbehavioral mcs or mcs131415
+
+
+
+full size table
+
+table 1 schematic representation of different states of consciousness
+according to low or high arousal and awareness the plus sign indicates
+high arousal or awareness whereas the minus sign indicates low arousal
+or awareness
+
+
+
+an effective measure of consciousness labeled perturbational complexity
+index pci was developed from electroencephalographic eeg responses
+to direct and noninvasive cortical perturbation with transcranial
+magnetic stimulation tms¹⁶
+
+ pci quantifies the complexity of
+deterministic patterns of significant cortical activation evoked by tms
+
+
+this index was validated in a large benchmark population to derive an
+empirical cutoff pci 0
+
+31 that reliably discriminates between
+unconsciousness pcimax ≤ pci nrem sleep midazolam propofol and
+xenoninduced anesthesia and consciousness pcimax pci rem
+sleep wakefulness ketamineinduced anesthesia and conscious
+braininjured patients¹⁷
+
+ however pci cannot discriminate rem sleep or
+ketamineinduced anesthesia from healthy wakefulness
+
+ in addition
+multiple trials are required to compute pci1617
+
+ a few studies have
+attempted to develop an objective measure of consciousness from
+restingstate eeg brain activity341819
+
+ interestingly the
+spectral exponent which quantifies the slope of power spectral density
+of restingstate eeg activity is another measure of consciousness that
+is highly correlated with pci and allows distinguishing between ketamine
+and propofol or xenoninduced anesthesia³
+
+ in addition when low
+1–20 hz and highband 20–40 hz spectral exponents are jointly
+considered ketamineinduced anesthesia can be distinguished from
+wakefulness and the xenon and propofolinduced anesthesia conditions
+are partially superimposed in the spectral exponent consequently these
+are difficult to distinguish³
+
+ recently a decrease in highfrequency
+oscillations and an increase in lowfrequency power in the primary
+sensory motor and visual cortices were observed during rem sleep when
+compared to healthy wakefulness²⁰
+
+ the quantification of the spectral
+slope between 30 and 50 hz was also proposed for discriminating rem
+sleep from healthy wakefulness⁴
+
+ however this measure did not
+differentiate rem from nrem sleep thus it distinguishes between
+different arousal levels but not awareness levels
+
+ therefore an
+alternative measure to simultaneously disentangle the two components of
+consciousness requiring fewer trials would be a valuable and necessary
+tool
+
+
+
+the classical neurophysiological approach for calculating pci power
+spectral density and spectral exponent relies on many epochs to improve
+the reliability of statistical estimates of these indices²¹
+
+ however
+these methods are only suitable for investigating the averaged brain
+states and they can only clarify general neurophysiological aspects
+
+
+machine learning ml allows decoding and identifying specific brain
+states and discriminating them from unrelated brain signals even in a
+single trial in realtime²²
+
+ this can potentially transform statistical
+results at the group level into individual predictions⁹
+
+ a deep neural
+network which is a popular approach in ml has been employed to
+classify or predict brain states using eeg data²³
+
+ particularly a
+convolutional neural network cnn is the most extensively used
+technique in deep learning and has proven to be effective in the
+classification of eeg data²⁴
+
+ however a cnn has the drawback that it
+cannot provide information on why it made a particular prediction²⁵
+
+
+recently layerwise relevance propagation lrp has successfully
+demonstrated why classifiers such as cnns have made a specific
+decision²⁶
+
+ specifically the relevance score resulting from the lrp
+indicates the contribution of each input variable to the classification
+or prediction decision
+
+ thus a high score in a particular area of an
+input variable implies that the classifier has made the classification
+or prediction using this feature
+
+ for example neurophysiological data
+suggest that the left motor region is activated during righthand motor
+imagery²⁷
+
+ the lrp indicates that the neural network classifies eeg data
+as righthand motor imagery because of the activity of the left motor
+region²⁸
+
+ therefore the relevance score was higher in the left motor
+region than in other regions
+
+ thus it is possible to interpret the
+neurophysiological phenomena underlying the decisions of cnns using lrp
+
+
+
+in this work we develop a metric called the explainable consciousness
+indicator eci to simultaneously quantify the two components of
+consciousness—arousal and awareness—using cnn
+
+ the processed timeseries
+eeg data were used as an input of the cnn
+
+ unlike pci which relies on
+source modeling and permutationbased statistical analysis eci used
+eventrelated potentials at the sensor level for spatiotemporal dynamics
+and ml approaches
+
+ for a generalized model we used the
+leaveoneparticipantout lopo approach for transfer learning which
+is a type of ml that transfers information to a new participant not
+included in the training phase2427
+
+ the proposed indicator is a 2d
+value consisting of indicators of arousal eciaro and awareness
+eciawa
+
+ first we used tms–eeg data collected from healthy
+participants during nrem sleep with no subjective experience rem sleep
+with subjective experience and healthy wakefulness to consider each
+component of consciousness i
+
+e
+
+ lowhigh arousal and lowhigh
+awareness with the aim to analyze correlations between the proposed eci
+and the three states namely nrem rem and wakefulness
+
+ next we
+measured eci using tms–eeg data collected under general anesthesia with
+ketamine propofol and xenon again with the aim to measure correlation
+with these three anesthetics
+
+ before anesthesia tms–eeg data were also
+recorded during healthy wakefulness
+
+ upon awakening healthy
+participants reported conscious experience during ketamineinduced
+anesthesia and no conscious experience during propofol and
+xenoninduced anesthesia
+
+ finally tms–eeg data were collected from
+patients with disorders of consciousness doc which includes patients
+diagnosed as uws and mcs patients
+
+ we hypothesized that our proposed eci
+can clearly distinguish between the two components of consciousness
+under physiological pharmacological and pathological conditions
+
+
+
+to verify the proposed indicator we next compared eciawa with pci
+which is a reliable index for consciousness
+
+ then we applied eci to
+additional restingstate eeg data acquired in the anesthetized
+participants and patients with doc
+
+ we hypothesize that if cnn can learn
+characteristics related to consciousness it could calculate eci
+accurately even without tms in the proposed framework
+
+ in terms of
+clinical applicability it is important to use the classifier from the
+previous lopo training of the old data to classify the new data without
+additional training
+
+ therefore we computed eci in patients with doc
+using a holdout approach²⁹ where training data and evaluation data are
+arbitrarily divided instead of crossvalidation
+
+ finally we
+investigated why the classifier generated these decisions using lrp to
+interpret eci³⁰
+
+ we show that proposed eci using interpretable deep
+learning distinguishes arousal and awareness between normal
+consciousness sleep anesthesia and patients with doc
+
+ furthermore we
+show that the parietal region is most closely related to quantifying
+arousal and awareness in altered states of consciousness
+
+
+
+results
+
+overview of the calculation of eci
+
+we used tms–eeg data in three conditions i sleep ii general
+anesthesia and iii severely braininjured patients fig
+
+ 1a
+
+
+figure 1b shows the framework for calculating eci to distinguish between
+low and high states in each arousal and awareness
+
+ to explore the
+optimal input and classifier we compared the singletrial
+classification performance in each component see supplementary
+notes 1–2 supplementary figs
+
+ 1–3 and supplementary tables 1–3
+
+ for
+an input in the classifier we converted timeseries eeg data to 3d data
+2d meshes according to the spatial information 1d vector according to
+temporal information
+
+ the cnn model was used to distinguish low from
+high state in each arousal and awareness
+
+ next the interclass
+probability in the new target participant was calculated using the
+trained model
+
+ finally eci was measured by averaging the probability of
+a high state in each arousal and awareness over a single session
+
+
+
+figure 1
+
+a data description
+
+ the same participants participated in transcranial
+magnetic stimulationinduced electroencephalography tms–eeg and
+restingstate electroencephalography eeg measurements
+
+ the sleep
+condition did not include restingstate eeg and one participant under
+ketaminemediated anesthesia was missing in restingstate eeg
+
+ b
+schematic framework for determining the explainable consciousness
+indicator eci
+
+ in step 1 raw eeg signals were converted into a
+spatiospectral or spatiotemporal 3d matrix
+
+ in step 2 the converted 3d
+feature was used on a convolutional neural network in the two components
+of consciousness arousal and awareness
+
+ in each arousal and awareness
+state the eeg data were trained as two classes low versus high
+
+ for
+example for awareness rapid eye movement rem sleep with subjective
+experience i
+
+e
+
+ dreaming and healthy wakefulness belong to the same
+class in terms of high awareness however for arousal nonrapid eye
+movement nrem with no subjective experience and rem sleep with
+subjective experience belong to the same class in terms of low arousal
+
+
+the output pi indicates the probability in the trial i of
+arousal and awareness
+
+ for the training and test phase we used the
+leaveone participantout approach as transfer learning
+
+ therefore the
+eeg data in the source pool were used for training and the data of
+target participants was predicted for arousal or awareness
+
+ the source
+pool contains data corresponding to the source domain except for the
+target participant
+
+ in step 3 the interclass probability for each
+arousal and awareness was averaged for calculating eci in each session
+j
+
+ the averaged probability cj is eciaro and eciawa on
+the x and yaxes respectively
+
+ therefore we represented the 2d
+consciousness indicator for the two components of consciousness
+
+ in the
+final step we checked which brain signals the model has learned and why
+it made such a decision using layerwise relevance propagation lrp
+
+
+through this step we could interpret the proposed indicator
+
+
+eciawa eci in awareness component eciaro eci in arousal
+component
+
+
+
+full size image
+
+fig
+
+ 1 overview of the study
+
+
+
+to improve the classification performance we trained the models with
+domain transfer learning which uses the knowledge learned in one domain
+to improve generalization based on similarity in the sense of pooling
+the training data across domains supplementary fig
+
+ 4
+
+ when referring
+to domain transfer learning using the eeg signals in this study the
+domain refers to the clinical condition in which the eeg signals were
+acquired
+
+ precisely three domains were considered here sleep
+anesthesia and patients with doc
+
+ in domain transfer learning the
+target domain indicates a state that contains a single session for
+calculating eci whereas the source domain indicates those sessions that
+are included in the training phase
+
+ therefore the information
+knowledge trained in the source domain is applied when testing the
+target domain and this is described as the transfer of learned
+information for domain transfer learning
+
+ in the lopo approach the data
+from all the participants in the source domain except for the target
+participant were used for training supplementary fig
+
+ 3b
+
+ note that
+the data for training and testing did not overlap
+
+ we used all three
+domains to classify high and low states in both arousal and awareness
+table 2
+
+ consequently the classification performance was higher when
+training with a closer domain see supplementary notes 3–4 and
+supplementary table 4
+
+ therefore we trained these domains together
+when calculating eci in sleep and anesthesia domains but trained the
+doc domain along with the anesthesia domain when calculating eci in
+patients with doc
+
+
+
+full size table
+
+table 2 averaged singletrial classification accuracy in
+physiological pharmacological and pathological conditions for tms–eeg
+this represents the accuracy ± standard deviation
+
+
+
+then we applied eci to restingstate eeg data in two conditions i
+general anesthesia and ii severely braininjured patients fig
+
+ 1a
+
+
+similarly we classified low and high states in restingstate eeg data
+for arousal and awareness using domain transfer learning table 3
+
+ this
+result was similar to the classification performance of tms–eeg data
+considering that there was no restingstate eeg during sleep in the same
+participants see supplementary note 4
+
+ based on the results of domain
+transfer learning we used only the anesthesia domain for calculating
+eci under anesthesia however the doc and anesthesia domains were used
+for calculating eci in patients with doc
+
+
+
+full size table
+
+table 3 averaged singletrial classification accuracy in
+pharmacological and pathological conditions for restingstate eeg this
+represents the accuracy ± standard deviation
+
+
+
+eci in tms combined with electroencephalography
+
+figure 2a shows eci for each tms session during sleep and wakefulness
+
+
+this is a 2d indicator ranging from 0 low to 1 high for both
+arousal and awareness
+
+ the cutoff was set to 0
+
+5 for both arousal and
+awareness as it is the mean probability for the twoclass
+classification low versus high
+
+ eci in nrem sleep showed low arousal
+and awareness whereas rem sleep had low arousal with high awareness
+
+
+eci in healthy wakefulness had both high arousal and awareness
+
+ we
+performed a receiver operating characteristic roc curve analysis and
+determined that the area under the curve auc sensitivity and
+specificity for low and high arousal when using eci were all equal to
+1
+
+0
+
+ the auc sensitivity and specificity for low awareness were 0
+
+995
+1
+
+0 and 0
+
+980 respectively whereas for high awareness values of
+0
+
+995 for auc 0
+
+980 for sensitivity and 1
+
+0 for specificity were
+obtained with eci fig
+
+ 2d
+
+
+
+figure 2
+
+in eci the symbols show the average eci value of each transcranial
+magnetic stimulation tms session and the gray dashed lines indicate
+the optimal cutoff 0
+
+5 dividing the space into high and low states of
+eci
+
+ a in sleep and normal wakefulness we depicted p01–p06 by circles
+diamonds squares plus signs asterisks and cross signs respectively
+
+
+orange indicates nrem sleep with no subjective experience copper
+indicates rem sleep with subjective experience i
+
+e
+
+ dreaming
+moreover purple indicates normal wakefulness
+
+ b in anesthesia and
+wakefulness before anesthesia the orange copper and purple dots
+indicate the use of ketamine propofol and xenon respectively
+
+ in
+addition cross markers indicate normal wakefulness before each
+anesthetic
+
+ c in patients with disorders of consciousness the orange
+and purple dots indicate patients in the minimally conscious state mcs
+and with unresponsive wakefulness syndrome uws respectively
+
+ d in
+each condition the classification performance for eciaro and
+eciawa was measured
+
+ w normal wakefulness w – k healthy
+wakefulness before ketamine w – p healthy wakefulness before
+propofol w – x healthy wakefulness before xenon
+
+
+
+full size image
+
+fig
+
+ 2 characteristics of eci in tms–eeg
+
+
+
+we measured eci using three anesthetic drugs ketamine propofol and
+xenon and wakefulness before anesthesia fig
+
+ 2b
+
+ eci in
+ketamineinduced anesthesia demonstrated low arousal and high awareness
+whereas propofol and xenoninduced anesthesia showed low arousal and
+awareness
+
+ also all periods of wakefulness showed high arousal and
+awareness
+
+ as a result of the roc analysis classification using eci
+achieved an auc sensitivity and specificity of 1
+
+0 for all parameters
+for both arousal and awareness fig
+
+ 2d
+
+
+
+in patients with doc eci indicated high arousal and awareness in mcs
+patients and high arousal and low awareness in uws patients fig
+
+ 2c
+
+
+auc sensitivity and specificity of eci were 1
+
+0 for both high and low
+states of awareness fig
+
+ 2d
+
+ roc analysis for arousal was not
+conducted because both uws and mcs patients were considered to have high
+arousal
+
+ we additionally applied eci to four mcs patients these cases
+were not included in the training phase
+
+ similar to patients with doc
+anesthesia and doc domains were selected as source domains in the
+training phase
+
+ for the mcs patients eci successfully predicted high
+arousal and awareness as expected supplementary fig
+
+ 5
+
+
+
+relationship with pci
+
+we calculated pci in tms–eeg sessions that had at least 80 trials with
+healthy participants under sleep anesthesia and braininjury
+conditions
+
+ pci in all three conditions was consistent with the optimal
+cutoff 0
+
+311617 that maximizes the accuracy of the distinction
+between consciousness and unconsciousness in a benchmark population
+
+ for
+eci the optimal cutoff of 0
+
+5 perfectly distinguished low or high
+states of arousal and awareness in the physiological pharmacological
+and pathological conditions see supplementary note 5
+
+
+
+we investigated the relationship between eciawa and pci fig
+
+ 3
+
+
+during sleep a positive correlation between eciawa and pci was
+observed r 0
+
+872 p 0
+
+001
+
+ similarly eciawa during anesthesia
+and in braininjured patients showed a strong correlation with pci
+anesthesia r 0
+
+885 p 0
+
+001 brain injury r 0
+
+770 p 0
+
+001
+
+
+eciawa and pci therefore matched for all states
+
+
+
+figure 3
+
+during sleep and healthy wakefulness left under anesthesia and
+wakefulness before anesthesia middle and in severely braininjured
+patients right eciawa was compared to pci
+
+ the gray horizontal and
+vertical dashed lines represent the optimal cutoff of eciawa and pci
+to discriminate between low and high awareness respectively
+
+ the solid
+lines represent linear fits to the data
+
+ w healthy wakefulness w – k
+healthy wakefulness before ketamine w – p healthy wakefulness before
+propofol w – x healthy wakefulness before xenon mcs patients in a
+minimally conscious state uws patients with unresponsive wakefulness
+syndrome mcs nonbehavioral mcs
+
+
+
+full size image
+
+fig
+
+ 3 correlation between eciawa and pci from tms–eeg
+
+
+
+eci in restingstate electroencephalography
+
+eci results using restingstate eeg data were similar to those when
+using tms–eeg results fig
+
+ 4
+
+ in anesthesia eci using restingstate
+eeg statistically correlated with eci using tms–eeg eciaro
+r 0
+
+848 p 0
+
+001 eciawa r 0
+
+938 p 0
+
+001
+
+ similarly in
+patients with doc there was a positive correlation eciaro
+r 0
+
+534 p 002 eciawa r 0
+
+832 p 0
+
+001
+
+ similarly we
+applied this method to four mcs patients to verify eci
+
+ as expected
+similar to tms–eeg results accurate predictions were obtained in four
+mcs patients supplementary fig
+
+ 5
+
+
+
+figure 4
+
+the xaxis represents eci using tms–eeg and the yaxis represents eci
+using restingstate eeg for arousal left and awareness right
+
+ the
+gray dashed lines indicate the optimal cutoff 0
+
+5 dividing the space
+into high and low states of eci
+
+ the solid lines represent linear fits
+to the data
+
+ a in anesthesia and wakefulness before anesthetics the
+orange copper and purple dots indicate the use of ketamine propofol
+and xenon respectively
+
+ in addition cross markers indicate normal
+wakefulness before each anesthetic
+
+ b in patients with disorders of
+consciousness the orange and purple dots indicate mcs and uws patients
+respectively
+
+
+
+full size image
+
+fig
+
+ 4 relationship between eci using tms–eeg and restingstate eeg
+
+
+
+the practicality of calculating eci
+
+we explored the possibility of calculating eci with a limited number of
+trials during sleep and wakefulness
+
+ the classification performance was
+compared through the calculation of eci from a single trial up to the
+standard number of trials i
+
+e
+
+ 80 trials similar to pci¹⁶ fig
+
+ 5
+
+
+in the sleep and healthy wakefulness conditions the performance reached
+a specificity of 0
+
+853 a sensitivity of 0
+
+884 and an auc of 0
+
+931 when
+using single trials based on one tms pulse but from 2 trials it was
+above 0
+
+9 for specificity sensitivity and auc
+
+ in the anesthesia and
+patients with doc conditions the detailed performance from 1 to 80
+trials is shown in supplementary note 6
+
+
+
+figure 5
+
+during sleep and healthy wakefulness left under anesthesia and
+wakefulness before anesthesia middle and in severely braininjured
+patients right
+
+ the area under the curve sensitivity and specificity
+were measured for calculating eciawa when going from single trials to
+80 trials
+
+
+
+full size image
+
+fig
+
+ 5 performance of eciawa according to the number of trials in
+the eci calculation
+
+
+
+figure 6 shows the possibility of awareness being high for the first
+participant in each of these conditions sleep anesthesia ketamine
+propofol and xenon and patients with doc uws and mcs
+
+ for instance
+as nrem sleep is considered to have low awareness in p01 it was
+correctly predicted when the probability in a single trial was less than
+0
+
+5
+
+ notably nrem sleep showed that 17 trials were incorrectly
+predicted with a probability higher than 0
+
+5
+
+ in addition 1 out of 80
+trials in both rem sleep and healthy wakefulness showed a value less
+than 0
+
+5 and were incorrectly predicted
+
+ this indicates that eci can be
+predicted as somewhat low or high even in a single trial
+
+ there was a
+clear spatiotemporal difference between correct and incorrect trials
+only in parietal regions supplementary fig
+
+ 6
+
+ no significant
+differences between both types of trials were observed over frontal and
+temporal regions
+
+ however in parietal regions tmsevoked potentials at
+350–400 ms were significantly higher in incorrect trials than in correct
+trials
+
+ in a single trial these different patterns resulted in
+misprediction
+
+ nevertheless the effect of the incorrect trials i
+
+e
+
+ a
+failure to predict was eliminated because eci was calculated by
+averaging the interclass probability in a single trial
+
+ the probability
+in a single trial is shown in supplementary figs
+
+ 7–9 for other
+participants in all conditions
+
+
+
+figure 6
+
+we depicted the probability of a representative participant p01 in all
+conditions sleep anesthesia doc
+
+ p01 was the first participant of
+each list randomly chosen
+
+ each colored box indicates the probability
+that the corresponding trial is considered as high awareness in each
+participant
+
+ if it was a perfect prediction in one trial during sleep
+and healthy wakefulness nrem sleep with no subjective experience low
+awareness has a probability of less than 0
+
+5 whereas rem sleep and
+normal wakefulness high awareness have probabilities of more than 0
+
+5
+
+
+under anesthesia and wakefulness ketamine and wakefulness before
+anesthesia are high awareness whereas propofol and xenon have low
+awareness
+
+ mcs and uws patients have high and low awareness
+respectively
+
+
+
+full size image
+
+fig
+
+ 6 interclass probability in the representative participant for
+eciawa
+
+
+
+to demonstrate that the method can be easily applied to a new set of
+patients without additional training to identify their state of
+consciousness in a clinical setting we computed eci using the holdout
+approach
+
+ the dataset in the patients with doc was split between the
+training and evaluation sets with respective ratios of 0
+
+75 and 0
+
+25
+
+ in
+other words two mcs patients and five uws patients were completely
+excluded from training and their eci was calculated
+
+ consequently ecis
+using conventional lopo and the holdout approaches showed high positive
+correlation eciaro r 0
+
+702 p 005 eciawa r 0
+
+886
+p 0
+
+001 supplementary figure 10
+
+ in both tms–eeg and restingstate
+eeg the eci using the holdout method indicated high arousal and
+awareness in mcs patients whereas high arousal and low awareness in uws
+patients
+
+ this was consistent with 0
+
+5 typical cutoffs
+
+ these results
+show that the proposed method generalizes to new data without retraining
+the classifier
+
+
+
+interpretation for calculating eci
+
+we further checked what the classifier learned through cnn and how it
+was able to derive those results using lrp
+
+ this algorithm describes the
+predictions of cnn in a given dataset using relevance scores³⁰
+
+ figure 7
+shows the relevance scores for arousal and awareness among the frontal
+temporal and parietal regions at the scalp level for calculating eci
+using tms–eeg
+
+ a high relevance score implies that the trained model
+recognized the brain region that determines whether it is low or high
+arousal and awareness
+
+ specifically brain regions with higher relevance
+scores indicate that brain signals over that region contributed more to
+the decision of the classifier on whether arousal and awareness were low
+or high
+
+ in the three conditions sleep anesthesia and patients with
+doc the relevance score over the parietal region was higher than those
+in the frontal and temporal regions at the group level for both arousal
+and awareness
+
+ the detailed statistical results are reported in
+supplementary table 5
+
+ however since most tms sites targeted the
+parietal cortex it can be argued that the relevance of parietal regions
+to correctly classify datasets may be biased
+
+ therefore we investigated
+the relevance scores with only nonparietal stimulations in patients
+with doc
+
+ as a result the parietal region had statistically higher
+relevance scores than the frontal and temporal regions in both arousal
+and awareness supplementary fig
+
+ 11 and table 6
+
+ similarly there was
+a higher relevance score over the parietal region in both arousal and
+awareness when calculating eci from restingstate eeg supplementary
+fig
+
+ 12 and table 7
+
+
+
+figure 7
+
+a sleep and normal wakefulness b anesthesia and wake and c patients
+with doc
+
+ the violin plots depict the average relevance scores over the
+frontal temporal and parietal regions in all participants
+
+ the exact
+pvalue corresponding to the significance level was shown using
+twosided multiple ttests with fisher s least significant differences
+method for multiple comparisons
+
+ arb
+
+ units denotes an arbitrary unit
+
+
+f frontal region t temporal region p parietal region
+
+
+
+full size image
+
+fig
+
+ 7 relevance scores from lrp in tms–eeg
+
+
+
+we additionally compared the classification performance of eciawa
+among patients with doc using tms–eeg data when we excluded electrodes
+in different brain regions from the input during classification
+
+
+consequently auc was 1
+
+0 when using all electrodes however auc values
+were 0
+
+867 and 0
+
+680 when removing frontal and parietal electrodes
+respectively supplementary fig
+
+ 13
+
+
+
+discussion
+
+we show that eci clearly distinguishes between low and high states of
+arousal and awareness in tms–eeg results under sleep anesthesia and
+patients with doc
+
+ our results suggest that this proposed indicator
+could similarly be used for restingstate eeg data without tms under
+anesthesia and patients with doc yielding the same degree of accuracy
+
+
+in addition a high correlation with pci which measures the integrated
+eeg response of the thalamocortical system to a direct perturbation
+induced by tms¹⁶ proves that eciawa is reliable using tms–eeg data
+
+
+it also shows that the two measures calculated entirely independently
+using different methods resulted in the same conclusion which is a sign
+that deep learning is indeed a valid and reliable approach
+
+ for an
+mlbased indicator eci can be calculated using very few trials
+
+
+furthermore because the classifier learned specific features of the
+data on its own our indicator can be computed regardless of whether tms
+is applied or its location
+
+ therefore eci is a significantly practical
+and reliable indicator to evaluate levels of consciousness under various
+conditions
+
+ our analyses using lrp highlighted the major role of the
+parietal region in determining consciousness as the classifier
+primarily uses brain activity in this lobe for predicting low and high
+states of arousal and awareness
+
+
+
+tms–eeg responses under sleep exhibited wellknown phenomena³¹
+
+ in
+wakefulness tms generates a series of lowamplitude highfrequency
+activities related to cortical flow in longrange connections³²
+
+ a
+similar longlasting response is evoked during rem sleep with subjective
+experience³³
+
+ during nrem sleep with no subjective experience tms
+triggers larger lowfrequency activity that quickly dissipates³² which
+is the hallmark of bistability in the thalamocortical system
+
+ cortical
+effective connectivity is also broken down during nrem sleep3334
+
+
+the brain response to tms perturbation was already used to distinguish
+the levels of awareness irrespective of sensory processing and motor
+responses under physiological pharmacological and pathological
+conditions343536
+
+ therefore this tmsevoked response was applied
+to our endtoend cnn framework
+
+ similar to several studies using ml we
+observed higher twoclass low or high classification accuracy using
+cnn when compared to linear discriminant analysis lda and support
+vector machine svm for both arousal and awareness
+
+ this suggests that
+our framework is especially relevant for eeg results which possess
+several nonlinear features
+
+ the classification performance of
+spatiotemporal information was higher than that of spatiospectral
+information
+
+ using our framework it was shown that temporal information
+discriminates different levels of consciousness more clearly than
+spectral information as the functional connectivity associated with
+consciousness changes in both space and time³⁷
+
+ however this does not
+imply that temporal information is more important than spectral
+information for distinguishing consciousness
+
+ temporal information has
+more distinct characteristics than spectral information for predicting
+the state of consciousness in the proposed framework
+
+ nevertheless pci
+also used spatiotemporal dynamics in tmsevoked responses¹⁶ which is
+significantly important for distinguishing consciousness
+
+
+
+we applied transfer learning to a single domain as well as multiple
+domains
+
+ in the sleep domain classification performance was high when
+trained on only the sleep domain or together with the anesthesia domain
+
+
+due to a large number of trials in the sleep domain training was
+performed satisfactorily using only sleep data
+
+ the distance of the
+averaged tmsevoked potentials under the domains of anesthesia and sleep
+was significantly close which indicated that the two domains were
+highly similar³⁸
+
+ thus a close distance implies that the two domains
+have similar patterns and the classification performance indeed
+increased when these domains were trained together
+
+ in the anesthesia
+and doc domains the trials of a single domain were not sufficient thus
+a higher classification performance was achieved when trained with
+similar domains
+
+ in addition brain signals change over time even when
+recorded with the same participants because of physiological and
+psychological differences over time²⁷
+
+ therefore
+participantindependent learning such as the lopo crossvalidation is
+considerably difficult as opposed to participantdependent learning²⁴
+
+
+we solved these problems via transfer learning utilizing multiple
+domains and participantindependent eci
+
+
+
+eci by averaging interclass probability distinguished whether each
+state was low or high in both arousal and awareness
+
+ because of its
+inherently high twoclass performance it was possible to calculate the
+discriminable eci using a few trials in a single session
+
+ the criteria
+used for determining eciaro and eciawa were different especially
+for rem sleep ketamineinduced anesthesia and uws patients
+
+ although
+the dataset was the same these states were trained by different labels
+depending on arousal and awareness
+
+ for instance rem sleep is high in
+awareness but low in arousal
+
+ the proposed classifier learns models for
+these different criteria by training itself based on the criteria of
+arousal and awareness
+
+ specifically because the learning ability of the
+cnn is derived from the automatic extraction of complicated
+representations from eeg signals³⁹ it can properly distinguish between
+both states even if the same state has different labels depending on
+the criteria
+
+ we further used data from mcs patients as verification
+samples
+
+ mcs patients were correctly predicted since data from uws and
+mcs patients were included during training and the classifier is
+independent of behavior
+
+
+
+according to the lrp we observed higher relevance scores in the
+parietal regions compared to other regions at the scalp level
+
+ this was
+observed for all data including tms–eeg and restingstate eeg results
+
+
+the brain regions that led to decisionmaking were similar in arousal
+and awareness
+
+ however this does not imply that arousal and awareness
+are supported by the same underlying neurophysiological mechanisms
+
+ the
+relevance scores simply explain the patterns of cortical eeg activity
+resulting in this classification
+
+
+
+in sleep and healthy wakefulness when arousal and awareness were high
+they were highly relevant in the parietal region
+
+ this eeg feature
+which distinguishes high and low states in arousal and awareness can be
+interpreted in line with the posterior hot zone of consciousness⁴⁰
+
+
+local changes in this parietal region are associated with the occurrence
+of dreaming and unconscious sleep4142 and our framework may learn
+from eeg pivotal features recorded in this area
+
+ the importance of the
+posterior hot zone has already been emphasized using the withinstate
+sleep paradigm4344
+
+ similar to sleep we observed high relevance
+scores for the parietal region in the domains of both anesthesia and
+patients with doc
+
+ this implies that eeg activity in this region had a
+decisive effect in determining the high and low states of arousal and
+awareness
+
+ the increased slowwave activity was observed under propofol
+and xenoninduced anesthesia when compared to healthy wakefulness before
+drug administration³⁶
+
+ in addition just as cortical neurons induced
+bistable changes during nrem sleep tms in propofolmediated
+anesthesiainduced lowamplitude lowfrequency positive–negative
+potentials and tms in xenonmediated anesthesia caused a significantly
+large amplitude but stereotyped positive–negative deflection³⁶
+
+
+moreover under ketamineinduced anesthesia tmsevoked response was
+determined to be similar to rem sleep which features dreaming during a
+low state of arousal³⁶
+
+ previous studies have shown that the change in
+slow waves induced by propofol is primarily observed in the posterior
+hot zone⁴⁵ and the posterior main hub is disrupted during
+anesthesiainduced alteration of consciousness⁷
+
+ in uws patients tms
+triggered a local and slow response similar to nrem sleep and general
+anesthesia whereas mcs patients showed complex tmsevoked responses³³
+
+
+similarly differences in alpha connectivity between the uws and mcs
+patients are apparent within the posterior hot zone⁴⁶
+
+ that is when
+determining whether arousal and awareness are low or high our
+classifiers used differences and changes in eeg activity over the
+parietal region to make decisions
+
+ particularly similar results were
+observed in patients with doc using several tms target sites and in
+sleep and anesthesia domains where the parietal region was primarily
+stimulated
+
+ this suggests that our findings regarding the parietal
+region are unrelated to the tms target site
+
+ thus our trained model
+used neurophysiological features to classify whether arousal and
+awareness are low or high
+
+ this indicates an appropriate design of our
+model as the classification decision was primarily based on eeg signals
+over the parietal region which is suggested to be a hot spot of
+consciousness compared to the frontal region⁴³
+
+ the difference in the
+parietal region could be clearly identified through correct trials
+during sleep and healthy wakefulness
+
+ it is meaningful that the frontal
+region contributed less than parietal regions in the context of the
+controversy regarding the spatial localization of the neural correlates
+of consciousness4045
+
+ considering the subcortical influences related
+to striatalthalamic circuits it has been recently observed that the
+parietal region contributes more to the levels of consciousness than the
+frontal region⁴⁷
+
+ the implication of the parietal cortex in
+consciousness has also been demonstrated in other neuroimaging
+modalities such as functional magnetic resonance imaging⁴⁸ and
+magnetoencephalography⁴⁹
+
+
+
+this study does have certain limitations
+
+ first our sample size was
+relatively small
+
+ in the future it will be necessary to further test
+the reliability of the proposed indicator with larger cohorts and
+validate it at the clinical level before implementing it in a clinical
+setting
+
+ sleep experiments would also have to be applied to more
+participants in the future
+
+ second we explored the possibility of
+calculating eci with a minimal amount of data up to a single trial
+
+
+however we did not attempt to measure eci in real time
+
+ thus in the
+future eci could be calculated in realtime for practical application
+
+
+third eci does not differentiate between physiological
+pharmacological and pathological conditions but distinguishes between
+high and low states of arousal and awareness
+
+ eci can thus distinguish
+between rem sleep or ketamine and wakefulness
+
+ it may also be
+difficult to select the model to use when calculating eci since the
+domain has to be known beforehand
+
+ nevertheless if a single domain has
+sufficient trials the lopo approach would be the most accurate
+
+ another
+limitation might be related to the possible contamination of tmseeg
+data by auditory and somatosensory components
+
+ as in previous
+studies173536 to avoid auditory and somatosensory costimulation
+participants wore earphones with noise masking and a thin foam between
+the scalp and the tms coil that was used
+
+ although it is difficult to
+systematically rule out the contribution of sensory costimulation in
+every measurement the application of effective noisemasking
+procedures⁵⁰ and the realtime monitoring of data quality during the
+acquisition⁵¹ may significantly mitigate this issue⁵²
+
+ finally eci
+indicates whether arousal and awareness are low or high and cannot be
+considered functional
+
+ it therefore should be developed into a
+functional index
+
+
+
+in conclusion we proposed eci as a neurophysiological indicator to
+simultaneously discriminate the levels of arousal and awareness in
+modified states of consciousness
+
+ this tool allows disentangling the
+levels of consciousness with a single measure in different clinical
+settings such as monitoring surgical interventions i
+
+e
+
+
+anesthesiainduced states and diagnosing patients with doc
+
+ this
+indicator was validated under different physiological pharmacological
+and pathological conditions and it reliably disentangled low levels
+from high levels of both arousal and awareness
+
+ besides the proposed
+eci is considerably accessible and practical as it can be applied to
+restingstate eeg without tms and requires fewer trials
+
+ therefore the
+proposed indicator can be a reliable discriminator and valuable tool as
+an objective measure of consciousness
+
+ as parietal regions appear to be
+the most relevant for classification an eeg configuration around that
+area could be sufficient if eci is used in clinical practice
+
+ these
+findings could be useful in diagnosing severely braininjured patients
+and monitoring their levels of consciousness in realtime especially in
+clinical settings where time constraints preclude longduration
+assessment
+
+ the proposed reliable eci can provide insights into the
+classification of conscious levels using deep learning and neural
+correlates of consciousness
+
+
+
+methods
+
+datasets
+
+the sleep dataset included six healthy participants five males aged
+23
+
+7 ± 3
+
+2 years as previously reported by nieminen et al
+
+⁴³ for nrem
+data and lee et al
+
+⁵³ for rem data
+
+ the inclusion criteria included i
+between 18 and 75 years of age and ii in good general health
+
+ the
+exclusion criteria were as follows i neurological psychiatric mood
+and sleep disorders ii contraindications for tms e
+
+g
+
+ history of
+seizures and iii psychotropic medication
+
+ all participants provided
+written consent and the experimental paradigm was approved by the
+institutional review board irb at the university of wisconsin–madison
+hsc20130019
+
+ sleep stages were manually scored every 30 s following
+the american academy of sleep medicine scoring manual
+
+ after 3 min or
+more when the participant entered a specific sleep stage tms was
+applied over the parietal cortex using a navigated brain stimulation
+system eximia navigated brain stimulation nexstim plc finland
+
+
+supplementary table 8 lists the tms target site and the number of
+sessions and trials
+
+ the participants were awoken by an alarm sound that
+lasted for 1
+
+5 s after each session
+
+ they were then asked if they had
+had conscious experience
+
+ the tms–eeg experiments were performed over a
+period of four or five nights per participant
+
+
+
+the anesthesia data were previously published by sarasso et al
+
+³⁶
+
+
+sixteen healthy participants eight males aged 18–28 years were
+included under ketamine n 6 propofol n 5 and xenoninduced
+n 5 anesthesia
+
+ the inclusion criteria included i older than 18
+years and ii stability of vital parameters
+
+ the exclusion criteria
+were as follows i neurological cardiovascular psychiatric and mood
+disorders ii contraindications for tms e
+
+g
+
+ history of seizures
+metal implants such as a pacemaker and iii medical conditions that
+were incompatible with the anesthesia andor the tms procedure
+
+ this
+experimental protocol was approved by irb at the university of liège
+2009153 ketamine 2007191 propofol and 2009242 xenon
+moreover all participants provided written informed consent
+
+ tms was
+applied over the left parietal or motor regions after participants
+reached deep unresponsiveness a score equal to 5 in the ramsay scale
+which corresponds to no response to external stimuli following standard
+anesthetic procedures³⁶
+
+ the stimuli target site and the number of
+trials are listed in supplementary table 9
+
+ in addition upon waking up
+from anesthesia reports about the conscious experience during
+anesthesia were collected
+
+ conclusively the participants reported
+little conscious experience during propofol and xenoninduced
+anesthesia but vivid dreams were experienced during ketamineinduced
+anesthesia
+
+
+
+for patients with severe brain injury the data of six uws patients 2
+males 4 traumatic brain injuries time since the injury of 10
+
+6 months
+1–47 age 36
+
+2 ± 28
+
+6 years and ten mcs patients 7 males 5
+traumatic brain injuries time since the injury of 65
+
+7 months 1–343
+age 44
+
+6 ± 20
+
+5 years were previously reported by bodart et
+al
+
+5455 and rosanova et al
+
+⁵⁶
+
+ this study was approved by the ethics
+committee of the medicine faculty of the university of liège ref
+200952 and written informed consent was obtained from legal
+representatives of all patients
+
+ all of them fell into a coma due to
+brain injury and presented a prolonged state of impaired consciousness
+
+
+the inclusion criteria included i older than 18 years and ii
+diagnosis of doc following a severe acquired brain injury
+
+ the exclusion
+criteria for patients were as follows i patients having significant
+neurological neurosurgical or psychiatric disorders prior to the brain
+injury that leads to doc ii patients having any contraindication to
+tms–eeg or magnetic resonance imaging electronic implanted devices
+active epilepsy external ventricular drain and iii patients who
+were not medically stable
+
+ accredited experts performed repeated crsr
+for each patient including on the day of the tms–eeg examination and
+before the fluorodeoxyglucosepositron emission tomography fdgpet
+scan
+
+ the fdgpet is a reliable and sensitive tool to detect mcs
+patients based on the previous literature¹⁵
+
+ mcs patients were the
+patients who were diagnosed with a uws with the crsr at the bedside but
+diagnosed as an mcs based on the fdgpet data that is patients showing
+relative metabolic preservation of the frontoparietal network based on a
+subjective visual assessment of the statistical parametric mapping
+analysis¹⁵
+
+ tms–eeg data were acquired similar to previous
+studies1635
+
+ moreover added data were newly included as follows 9
+uws patients 6 males 5 traumatic brain injuries time since the injury
+of 6
+
+2 months 1–13 age 41
+
+4 ± 21
+
+1 years 5 mcs patients 4 males
+2 traumatic brain injuries time since the injury of 63
+
+0 months
+2–169 age 32
+
+4 ± 14
+
+0 years and 4 mcs patients 2 males 3
+traumatic brain injuries time since injury 18
+
+5 months 3–52 age
+36
+
+3 ± 10
+
+5 years
+
+ this study was approved by the ethics committee of
+the medicine faculty of the university of liège ref 201255 and all
+legal representatives of patients provided written informed consent
+before the experiments moreover newly recorded data used exactly the
+same procedure as before
+
+ these added data were recently acquired by dr
+
+
+olivia gosseries pr
+
+ steven laureys team at the university of liège
+
+
+for the added data the inclusion and exclusion criteria for patients
+were exactly the same as the previously used data
+
+ these data are part
+of a bigger study conducted in the frame of the human brain project
+
+ the
+final dataset consisted of 15 uws patients 15 mcs patients and 4 mcs
+patients
+
+ the detailed demographic and clinical information of severely
+braininjured patients is listed in supplementary table 10
+
+ the tms
+target site was selected using a neuronavigation system over the
+parietal motor or premotor regions avoiding structural lesions using
+the magnetic resonance imaging data of the patient
+
+ the stimuli target
+sites for all participants are listed in supplementary table 11
+
+ the
+participants remained awake or were kept awake using the crsr arousal
+protocol in between tms stimulation¹²
+
+
+
+for the four datasets eeg data were recorded using a 60channel
+tmscompatible amplifier and a twochannel electrooculogram nexstim
+eximia nexstim plc finland with a 1450 hz sampling rate
+
+ during all
+the sessions earphones presenting white noise were used to reduce the
+noise of the tms pulses and we used a thin foam between the scalp and
+the tms coil to avoid somatosensory evoked potentials
+
+ these pulses were
+presented at random intervals of 2–2
+
+3 s using a figureofeight coil
+
+
+the maximum electric field was between 100 and 130 vm at the tms target
+site
+
+ in particular the tms stimulation was always performed in the
+medial half of one hemisphere to avoid any muscle artifacts
+
+
+
+finally we used restingstate eeg without tms for the domains of
+anesthesia and severely braininjured patients
+
+ these data were acquired
+using the same participants as in the tms–eeg experiments
+
+ we used the
+ketamine n 5 propofol n 5 and xenoninduced anesthesia data
+n 5 as previously reported by sarasso et al
+
+³⁶
+
+ for at least 3 min
+before the tms–eeg experiments restingstate eeg data were recorded
+during anesthesia and each state of wakefulness before the anesthesia
+
+
+with regard to the severely braininjured patients 5min restingstate
+eeg for mcs patients n 15 and uws patients n 15 was included
+
+ in
+addition four mcs patients were added along with the same participants
+for whom tms–eeg was recorded
+
+ the sampling rate was 1450 hz
+
+ finally
+among previously published data the data with a signaltonoise of 1
+
+4
+or less were excluded from the analysis¹⁶
+
+
+
+data preprocessing
+
+tms–eeg data were preprocessed using the sisyphus project matlab program
+university of milan italy and the eeglab toolbox⁵⁷
+
+ the signals were
+downsampled to 362
+
+5 hz and bandpass filtered between 0
+
+5 and 45 hz
+using a secondorder butterworth filter
+
+ the signals of −400 to 1000 ms
+were segmented and baselinecorrected using the 400 ms baseline before
+the tms pulses
+
+ bad channels were manually detected and interpolated
+using superfast spherical interpolation for artifact removal
+
+ we also
+discarded the components related to eye movements using independent
+component analysis and removed trials setting a threshold of ±100 μv
+affected by ocular artifacts other artifacts or noise
+
+ the data were
+rereferenced to an average reference5859
+
+
+
+restingstate eeg data were processed using the eeglab toolbox⁵⁷
+
+
+preprocessing was performed using a process similar to that used with
+tms–eeg data with segmentation being performed every 1 s
+
+ the number of
+trials for each session we used is listed for patients under anesthesia
+supplementary table 12 and severely braininjured patients
+supplementary table 13
+
+
+
+proposed framework for calculating an eci
+
+step 1—extraction of eeg features in all trials of all tms–eeg data we
+used the 200–400 ms time window of data after the tms regardless of the
+lateralization or target site of the tms in sleep anesthesia and for
+patients with severe brain injury
+
+ more details related to this
+deliberate choice are reported in supplementary note 2
+
+ in restingstate
+eeg only the first 200 ms of data were used from the segmented 1 s of
+data
+
+ in the first step eeg data were converted from 2d raw signals to
+3d input
+
+ to preserve the spatial information and characteristics of
+eeg we used spatiospectral and spatiotemporal 3d features
+
+ the raw eeg
+signals at time index t are measured in a 1d data vector
+rtleftst1st2sticdots
+stnrightt where sti is the acquisition
+data by the ith electrode channel at timestamp t
+
+ n indicates the
+number of electrode channels
+
+ however these simple signals do not
+capture all the spatial information characteristics in the brain
+
+
+therefore we converted 1d data vectors to 2d eeg data meshes using the
+spatial information of the electrode location
+
+ zero was inserted in the
+place of a null electrode in 2d matrices at time index t⁶⁰
+
+ finally we
+calculated 3d data by adding spectral or temporal information
+supplementary fig
+
+ 14
+
+ specifically spectral information was divided
+into 5 frequency bands delta 1
+
+5–4 hz theta 4–8 hz alpha
+8–13 hz beta 13–30 hz and gamma bands 30–40 hz⁴⁴
+
+ finally a
+10 × 11 × 5 matrix using spectral information and a 10 × 11 × 72 matrix
+using temporal information were used as the final cnn inputs here
+10 × 11 the converted matrix of spatial information 5 delta theta
+alpha beta and gamma bands of spectral information 72 200–400 ms of
+temporal information
+
+
+
+step 2—calculation of interclass probability using cnn the model was
+trained to distinguish both arousal and awareness in terms of whether
+they were low or high
+
+ we first calculated the domain similarity based
+on the cosine distance for domain transfer learning
+
+ the cosine distance
+d between domains a and b is defined as follows
+
+dleftabright1fracfarm tfbparallel
+faparallel parallel fbparallel
+
+1
+
+where parallel bullet parallel indicates the norm of a vector
+
+
+this similarity was used when selecting the source domain for domain
+transfer learning³⁸
+
+ in calculating the similarity according to the
+states of arousal and awareness the labels in each state are different
+
+
+during sleep nrem sleep with no subjective experience and rem sleep
+with subjective experience were learned as low arousal whereas healthy
+wakefulness was learned as high arousal
+
+ conversely in awareness rem
+sleep with subjective experience and healthy wakefulness indicated by
+open eyes were learned as high awareness while nrem sleep with no
+subjective experience was learned as low awareness
+
+ specifically we
+used stage 3 of nrem sleep for clear feature extraction of deep sleep
+
+
+under general anesthesia and in healthy wakefulness before anesthesia
+the arousal state was divided as follows i low when under ketamine
+propofol and xenoninduced anesthesia and ii high when in healthy
+wakefulness before anesthesia
+
+ conversely the awareness state was
+divided into low under propofol and xenoninduced anesthesia and high
+under ketamineinduced anesthesia and healthy wakefulness before
+anesthesia
+
+ finally in patients with doc uws and mcs patients were
+distinguished in terms of awareness low uws patients and high mcs
+patients
+
+ the uws and mcs patients corresponded to high arousal
+
+
+
+deep learning was conducted in a matlab environment powered by a titan v
+gpu
+
+ we used the lrp toolbox³⁰ for cnn classification and
+interpretation
+
+ the cnn was applied to the two components of
+consciousness arousal and awareness
+
+ in each architecture we inserted
+five convolutional layers with 2d filters for the deep neural network
+
+
+the first layer with 100 filters and the second layer with 80 filters
+featured kernel sizes of 3 × 3 and 2 × 2 with stride 1 × 1
+respectively
+
+ then a maxpooling layer with a pool size of 2 × 2 and
+stride 1 × 2 was added
+
+ similarly two convolutional layers with kernel
+sizes of 3 × 3 with stride 1 × 1 and 2 × 2 with stride 2 × 1 were
+subsequently used
+
+ after maxpooling with a pool size of 2 × 1 and
+stride 2 × 1 a final convolutional layer comprising two filters with a
+kernel size of 1 × 1 and stride 1 × 1 was incorporated
+
+ finally the
+generated feature maps were flattened into a 1d vector
+
+ a softmax layer
+was used for classification
+
+ in the softmax layer each element
+indicates the probability that the original input belongs to the
+corresponding class
+
+ in this training procedure the parameters in the
+deep neural network were learned through backpropagation
+
+ the
+activation function in each convolutional layer was a rectified linear
+unit
+
+ the detailed cnn architecture is presented in supplementary
+table 14
+
+ the adam optimizer was used with an initial learning rate of
+0
+
+005 and the learning rate was updated to sublinear for learning rate
+decay during an evaluation step of training
+
+ specifically we used
+hyperparameters as values of 0
+
+9 for β1 0
+
+999 for β2 for adam
+optimizer⁶¹
+
+ the batch size was 25 for training and the maximum number
+of training iterations was five times the number of training data
+
+
+consequently the output of this architecture was the probability of
+each class
+
+
+
+for a comparison with other classifiers we also considered an lda
+classifier⁶² and svm with polynomial kernel function⁶³ using the same
+input data as fair baseline methods
+
+ the classification performance was
+measured in loponested crossvalidation for the generalized neural
+network
+
+ this method is a special case of kfold crossvalidation
+
+
+specifically all participants except one the target participant were
+used for training and the target participant was then tested using the
+classifier
+
+ in the training phase 80 of the datasets were used to
+learn the classifier and the remaining 20 were reserved for
+validation
+
+ this process was repeated for each participant
+
+ further
+internal validation sets inner crossvalidation were performed to
+choose the hyperparameters of the model⁶⁴
+
+ thus the same
+hyperparameters were selected in the external validation sets⁶⁵
+
+ the
+lopo crossvalidation procedure uses data efficiently and can reduce
+overfitting
+
+ it also provides unbiased estimates of the averaged
+classification error for all possible training sets⁶⁶
+
+ the same
+loponested crossvalidation is applied in lda and svm using the berlin
+brain–computer interface toolbox⁶⁷
+
+ three possible values 0
+
+0001 0
+
+01
+and 1 were chosen as penalties for misclassification in the svm
+model⁶⁵
+
+ for spatiospectral input and spatiotemporal input 1 and 0
+
+0001
+were used respectively
+
+
+
+step 3—calculation of eci in a single session we obtained each
+interclass probability according to two components arousal and
+awareness at the previous step
+
+ in each tms session the interclass
+probability was averaged to calculate an eci
+
+ this approach has the
+advantage of being able to offset outliers
+
+
+
+cjfrac1nmathopsum limitsi1npi
+
+2
+
+here pi is the probability of high arousal or high awareness
+from each trial i among the probability values high versus low for
+the two classes from the softmax function in the cnn
+
+ n is the number of
+trials in a single session j
+
+ the averaged interclass probability
+cj from arousal is the value of the xaxis as eciaro and
+the averaged interclass probability cj from awareness becomes
+the value of the yaxis as eciawa
+
+ consequently eci is expressed as
+a 2d indicator representing both arousal and awareness simultaneously
+
+
+as mentioned earlier we used the lopo crossvalidation
+
+ it is to be
+noted that only data from one participant were used as the test and the
+data from the remaining participants were used for training
+
+ finally
+the test and training data did not demonstrate an overlap at all
+
+
+
+step 4—interpretation using lrp we used lrp based on a
+backwardpropagation mechanism for interpretability of the deep neural
+networks
+
+ this calculated the pixelbased decomposition process²⁸
+
+
+
+mathopsum limitsp1drpfrmx
+
+3
+
+here x x1ldots xd indicates an input vector and
+frmx is the model output
+
+ the relevance score
+rp is the decomposition of the prediction for the input
+xp
+
+ this score is calculated through the backward propagation
+of the model input
+
+ therefore relevance scores describe a single
+nonlinear decision for the output corresponding to each input⁶⁸
+
+ through
+this method we can observe not only the interpretation of
+classification decisions but also what features the model has learned²⁸
+
+
+to investigate which brain regions and signals caused these
+classification results we compared the relevance scores from the lrp by
+dividing them into the following three regions⁶⁹ the frontal fp1–2
+fpz af1–2 afz f1–8 and fz temporal ft9–10 t7–8 tp9–10 and
+parietal cp1–6 cpz p1–4 p7–8 and pz regions
+
+ we focused on the
+frontal temporal and parietal regions when comparing the relevance
+score resulting from the lrp as there is an ongoing debate regarding
+which brain area i
+
+e
+
+ the front versus the back is related to
+consciousness⁴⁰
+
+ we also included the temporal region as activation in
+the nrem sleep increases in this region⁷⁰
+
+
+
+additional eeg analyses are shown in supplementary methods as follows
+i performance according to the number of trials in the eci
+calculation ii comparison of the difference between correct and
+incorrect trials and iii classification performance using eeg signals
+excluding frontal or parietal electrodes
+
+
+
+comparison with pci
+
+we compared eciawa with the pci values computed following the same
+procedure described in¹⁶
+
+ pci measures the complexity of the
+spatiotemporal patterns of cortical activity significantly evoked by
+tms¹⁶
+
+ pci ranges between 0 minimum complexity and 1 maximum
+complexity
+
+ previous extensive validation of pci provided an empirical
+cutoff pci 0
+
+31 to discriminate between consciousness and
+unconsciousness¹⁷
+
+
+
+statistical analysis
+
+we used the kruskal–wallis test nonparametric oneway analysis of
+variance to analyze the differences in the classification accuracy
+moreover twosided multiple ttests were used for posthoc analysis
+using fisher s least significant differences method for multiple
+comparisons to compare the classification performance of the three
+classifiers lda svm and cnn of sleep data for each component
+arousal and awareness and at threetime ranges 0–200 200–400
+400–600 ms of spatiotemporal information
+
+ the kruskal–wallis test was
+also performed to compare the classification performance using transfer
+learning
+
+ similarly fisher s least significant differences method was
+applied after the twosided multiple ttests
+
+
+
+to investigate the discrimination of eci in each state of consciousness
+the feedforward network was trained with 20 hidden layers using the lopo
+approach
+
+ for each output class the auc sensitivity and specificity
+were calculated using roc analysis
+
+
+
+the kruskal–wallis test was employed to investigate if there were any
+differences in relevance scores among brain regions from lrp under
+sleep
+
+ we performed twosided multiple ttests using fisher s least
+significant differences method for multiple comparisons
+
+ in addition
+the kruskal–wallis test was performed to explore the differences in
+relevance scores from lrp under the condition of anesthesia and for
+severely braininjured patients
+
+ for posthoc analysis twosided
+multiple ttests were performed using fisher s least significant
+differences method for multiple comparisons
+
+
+
+finally we used pearson s correlation to investigate the relationship
+between eciawa and pci
+
+ in this study all significances were
+indicated by rmalpha 0
+
+05
+
+
+
+reporting summary
+
+further information on research design is available in the nature
+research reporting summary linked to this article
+
+
+
+data availability
+
+all data sleep dataset anesthesia dataset already published brain
+injury dataset and new added brain injury dataset generated and used
+in this study have been deposited in a local database and are available
+upon reasonable request to olivia gosseries
+
+ in addition restingstate
+eeg signals during anesthesia and wake are available online upon request
+at the repository zenodo httpsdoi
+
+org10
+
+5281zenodo
+
+806176
+
+ the
+tms–eeg data of some brain injury patients published and new datasets
+will also be freely available through ebrains within 2022 with no
+restriction to access httpsdoi
+
+org10
+
+25493g8e3dqe
+
+ the sleep
+dataset was previously reported by nieminen et al
+
+⁴³ for nrem data and
+lee et al
+
+⁵³ for rem data
+
+ the anesthesia data were also previously
+published by sarasso et al
+
+³⁶
+
+ the published brain injury dataset was
+previously reported by bodart et al
+
+5455 and rosanova et al
+
+⁵⁶
+
+
+however new added brain injury dataset has not yet been published
+
+ the
+raw eeg data are protected and are not made publically available owing
+to data privacy laws but are available from the corresponding author
+upon reasonable request
+
+ source data are provided with this paper
+
+
+
+code availability
+
+source code generated and used for this study is publicly available for
+download at httpsgithub
+
+comminjileekueci and
+httpsdoi
+
+org10
+
+5281zenodo
+
+5760787 ref
+
+⁷¹
+
+ source code for cnn and
+lrp is freely available at
+httpsgithub
+
+comsebastianlapuschkinlrptoolbox
+
+ source code for
+violin plot is available from
+httpswww
+
+mathworks
+
+commatlabcentralfileexchange45134violinplot
+
+
+source code for shaded error bar is available from
+httpsgithub
+
+comraacampbellshadederrorbar
+
+
+
+references
+
+1
+
+ sanders r
+
+ d
+
+ tononi g
+
+ laureys s
+
+ sleigh j
+
+ w
+
+
+ unresponsiveness unconsciousness
+
+ anesthesiology 116 946–959
+ 2012
+
+
+
+ article  pubmed  google scholar 
+
+2
+
+ darracq m
+
+ et al
+
+ evoked alpha power is reduced in disconnected
+ consciousness during sleep and anesthesia
+
+ sci
+
+ rep
+
+ 8 16664
+ 2018
+
+
+
+ article  ads  pubmed  pubmed central  google scholar 
+
+3
+
+ colombo m
+
+ a
+
+ et al
+
+ the spectral exponent of the resting eeg
+ indexes the presence of consciousness during unresponsiveness
+ induced by propofol xenon and ketamine
+
+ neuroimage 189 631–644
+ 2019
+
+
+
+ article  cas  pubmed  google scholar 
+
+4
+
+ lendner j
+
+ d
+
+ et al
+
+ an electrophysiological marker of arousal
+ level in humans
+
+ elife 9 e55092 2020
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+5
+
+ mashour g
+
+ a
+
+ hudetz a
+
+ g
+
+ neural correlates of unconsciousness
+ in largescale brain networks
+
+ trends neurosci
+
+ 41 150–160 2018
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+6
+
+ casarotto s
+
+ et al
+
+ exploring the neurophysiological correlates of
+ loss and recovery of consciousness perturbational complexity in
+ brain function and responsiveness in disorders of consciousness ed
+ monti m
+
+ m
+
+ 93–104 springer 2016
+
+
+
+7
+
+ bonhomme v
+
+ et al
+
+ general anesthesia a probe to explore
+ consciousness
+
+ front
+
+ syst
+
+ neurosci
+
+ 13 36 2019
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+8
+
+ sanders r
+
+ d
+
+ et al
+
+ incidence of connected consciousness after
+ tracheal intubation a prospective international multicenter
+ cohort study of the isolated forearm technique
+
+ anesthesiology 126
+ 214–222 2017
+
+
+
+ article  pubmed  google scholar 
+
+9
+
+ noirhomme q
+
+ brecheisen r
+
+ lesenfants d
+
+ antonopoulos g
+
+ 
+ laureys s
+
+ “look at my classifier s result” disentangling
+ unresponsive from minimally conscious patients
+
+ neuroimage 145
+ 288–303 2017
+
+
+
+ article  pubmed  google scholar 
+
+10
+
+ giacino j
+
+ t
+
+ et al
+
+ the minimally conscious state definition and
+ diagnostic criteria
+
+ j
+
+ neurol
+
+ 58 349–353 2002
+
+
+
+ google scholar 
+
+11
+
+ gosseries o
+
+ di h
+
+ laureys s
+
+ boly m
+
+ measuring
+ consciousness in severely damaged brains
+
+ annu
+
+ rev
+
+ neurosci
+
+ 37
+ 457–478 2014
+
+
+
+ article  cas  pubmed  google scholar 
+
+12
+
+ giacino j
+
+ t
+
+ kalmar k
+
+ whyte j
+
+ the jfk coma recovery
+ scalerevised measurement characteristics and diagnostic utility
+
+
+ arch
+
+ phys
+
+ med
+
+ rehabil
+
+ 85 2020–2029 2004
+
+
+
+ article  pubmed  google scholar 
+
+13
+
+ thibaut a
+
+ et al
+
+ preservation of brain activity in unresponsive
+ patients identifies mcs star
+
+ ann neurol 90
+ 89–100 httpsdoi
+
+org10
+
+1002ana
+
+26095 2021
+
+
+
+14
+
+ gosseries o
+
+ zasler n
+
+ d
+
+ laureys s
+
+ recent advances in
+ disorders of consciousness focus on the diagnosis
+
+ brain inj
+
+ 28
+ 1141–1150 2014
+
+
+
+ article  pubmed  google scholar 
+
+15
+
+ stender j
+
+ et al
+
+ diagnostic precision of pet imaging and
+ functional mri in disorders of consciousness a clinical validation
+ study
+
+ lancet 384 514–522 2014
+
+
+
+ article  pubmed  google scholar 
+
+16
+
+ casali a
+
+ g
+
+ et al
+
+ a theoretically based index of consciousness
+ independent of sensory processing and behavior
+
+ sci
+
+ transl
+
+ med
+
+ 5
+ 198ra105–198ra105 2013
+
+
+
+ article  pubmed  google scholar 
+
+17
+
+ casarotto s
+
+ et al
+
+ stratification of unresponsive patients by an
+ independently validated index of brain complexity
+
+ ann
+
+ neurol
+
+ 80
+ 718–729 2016
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+18
+
+ gosseries o
+
+ et al
+
+ automated eeg entropy measurements in coma
+ vegetative stateunresponsive wakefulness syndrome and minimally
+ conscious state
+
+ funct
+
+ neurol
+
+ 26 25 2011
+
+
+
+ pubmed  pubmed central  google scholar 
+
+19
+
+ engemann d
+
+ a
+
+ et al
+
+ robust eegbased crosssite and
+ crossprotocol classification of states of consciousness
+
+ brain 141
+ 3179–3192 2018
+
+
+
+ article  pubmed  google scholar 
+
+20
+
+ baird b
+
+ et al
+
+ human rapid eye movement sleep shows local
+ increases in lowfrequency oscillations and global decreases in
+ highfrequency oscillations compared to resting wakefulness
+
+ eneuro
+ 5 4 2018
+
+
+
+ article  google scholar 
+
+21
+
+ müller k
+
+r
+
+ et al
+
+ machine learning for realtime singletrial
+ eeganalysis from brain–computer interfacing to mental state
+ monitoring
+
+ j
+
+ neurosci
+
+ methods 167 82–90 2008
+
+
+
+ article  pubmed  google scholar 
+
+22
+
+ lemm s
+
+ blankertz b
+
+ dickhaus t
+
+ müller k
+
+r
+
+ introduction
+ to machine learning for brain imaging
+
+ neuroimage 56 387–399
+ 2011
+
+
+
+ article  pubmed  google scholar 
+
+23
+
+ liu q
+
+ et al
+
+ spectrum analysis of eeg signals using cnn to model
+ patient s consciousness level based on anesthesiologists 
+ experience
+
+ ieee access 7 53731–53742 2019
+
+
+
+ article  google scholar 
+
+24
+
+ fahimi f
+
+ et al
+
+ intersubject transfer learning with endtoend
+ deep convolutional neural network for eegbased bci
+
+ j
+
+ neural eng
+
+
+ 16 026007 2019
+
+
+
+ article  ads  pubmed  google scholar 
+
+25
+
+ webb s
+
+ deep learning for biology
+
+ nature 554 555–557 2018
+
+
+
+26
+
+ montavon g
+
+ binder a
+
+ lapuschkin s
+
+ samek w
+
+ müller k
+
+r
+
+
+ layerwise relevance propagation an overview in explainable ai
+ interpreting explaining and visualizing deep learning eds samek
+ w
+
+ montavon g
+
+ vedaldi a
+
+ hansen l
+
+ k
+
+ müller k
+
+r
+
+ 193–209
+ springer 2019
+
+
+
+27
+
+ kwon o
+
+y
+
+ lee m
+
+h
+
+ guan c
+
+ lee s
+
+w
+
+ subjectindependent
+ braincomputer interfaces based on deep convolutional neural
+ networks
+
+ ieee trans
+
+ neural netw
+
+ learn
+
+ syst
+
+ 31 3839–3852
+ 2020
+
+
+
+ article  pubmed  google scholar 
+
+28
+
+ sturm i
+
+ lapuschkin s
+
+ samek w
+
+ müller k
+
+r
+
+ interpretable
+ deep neural networks for singletrial eeg classification
+
+ j
+
+
+ neurosci
+
+ methods 274 141–145 2016
+
+
+
+ article  pubmed  google scholar 
+
+29
+
+ lotte f
+
+ et al
+
+ a review of classification algorithms for eegbased
+ brain–computer interfaces a 10 year update
+
+ j
+
+ neural eng
+
+ 15
+ 031005 2018
+
+
+
+ article  ads  cas  pubmed  google scholar 
+
+30
+
+ lapuschkin s
+
+ binder a
+
+ montavon g
+
+ müller k
+
+r
+
+ samek w
+
+
+ the lrp toolbox for artificial neural networks
+
+ j
+
+ mach
+
+ learn
+
+ res
+
+
+ 17 3938–3942 2016
+
+
+
+ mathscinet  math  google scholar 
+
+31
+
+ massimini m
+
+ et al
+
+ triggering sleep slow waves by transcranial
+ magnetic stimulation
+
+ proc
+
+ natl
+
+ acad
+
+ sci
+
+ usa 104 8496–8501
+ 2007
+
+
+
+ article  ads  cas  pubmed  pubmed central  google scholar 
+
+32
+
+ massimini m
+
+ tononi g
+
+ huber r
+
+ slow waves synaptic
+ plasticity and information processing insights from transcranial
+ magnetic stimulation and highdensity eeg experiments
+
+ eur
+
+ j
+
+
+ neurosci
+
+ 29 1761–1770 2009
+
+
+
+ article  cas  pubmed  google scholar 
+
+33
+
+ napolitani m
+
+ et al
+
+ transcranial magnetic stimulation combined
+ with highdensity eeg in altered states of consciousness
+
+ brain inj
+
+
+ 28 1180–1189 2014
+
+
+
+ article  pubmed  google scholar 
+
+34
+
+ massimini m
+
+ et al
+
+ breakdown of cortical effective connectivity
+ during sleep
+
+ science 309 2228–2232 2005
+
+
+
+ article  ads  cas  pubmed  google scholar 
+
+35
+
+ rosanova m
+
+ et al
+
+ recovery of cortical effective connectivity and
+ recovery of consciousness in vegetative patients
+
+ brain 135
+ 1308–1320 2012
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+36
+
+ sarasso s
+
+ et al
+
+ consciousness and complexity during
+ unresponsiveness induced by propofol xenon and ketamine
+
+ curr
+
+
+ biol
+
+ 25 3099–3105 2015
+
+
+
+ article  cas  pubmed  google scholar 
+
+37
+
+ luppi a
+
+ i
+
+ et al
+
+ consciousnessspecific dynamic interactions of
+ brain integration and functional diversity
+
+ nat
+
+ commun
+
+ 10 4616
+ 2019
+
+
+
+ article  ads  pubmed  pubmed central  google scholar 
+
+38
+
+ jeon e
+
+ ko w
+
+ suk h
+
+i
+
+ domain adaptation with source
+ selection for motorimagery based bci
+
+ in 2019 7th international
+ winter conference on braincomputer interface bci
+
+ 1–4 ieee
+
+
+
+39
+
+ lawhern v
+
+ j
+
+ et al
+
+ eegnet a compact convolutional neural network
+ for eegbased brain–computer interfaces
+
+ j
+
+ neural eng
+
+ 15 056013
+ 2018
+
+
+
+ article  ads  pubmed  google scholar 
+
+40
+
+ koch c
+
+ massimini m
+
+ boly m
+
+ tononi g
+
+ posterior and
+ anterior cortex—where is the difference that makes the difference
+
+
+ nat
+
+ rev
+
+ neurosci
+
+ 17 666 2016
+
+
+
+ article  pubmed  google scholar 
+
+41
+
+ siclari f
+
+ tononi g
+
+ local aspects of sleep and wakefulness
+
+
+ curr
+
+ opin
+
+ neurobiol
+
+ 44 222–227 2017
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+42
+
+ siclari f
+
+ bernardi g
+
+ cataldi j
+
+ tononi g
+
+ dreaming in nrem
+ sleep a highdensity eeg study of slow waves and spindles
+
+ j
+
+
+ neurosci
+
+ 38 9175–9185 2018
+
+
+
+ article  cas  pubmed  pubmed central  google scholar 
+
+43
+
+ nieminen j
+
+ o
+
+ et al
+
+ consciousness and cortical responsiveness a
+ withinstate study during nonrapid eye movement sleep
+
+ sci
+
+ rep
+
+ 6
+ 30932 2016
+
+
+
+ article  ads  cas  pubmed  pubmed central  google scholar 
+
+44
+
+ lee m
+
+ et al
+
+ connectivity differences between consciousness and
+ unconsciousness in nonrapid eye movement sleep a tms–eeg study
+
+
+ sci
+
+ rep
+
+ 9 5175 2019
+
+
+
+ article  ads  pubmed  pubmed central  google scholar 
+
+45
+
+ lee m
+
+ et al
+
+ network properties in transitions of consciousness
+ during propofolinduced sedation
+
+ sci
+
+ rep
+
+ 7 16791 2017
+
+
+
+ article  ads  pubmed  pubmed central  google scholar 
+
+46
+
+ chennu s
+
+ et al
+
+ brain networks predict metabolism diagnosis and
+ prognosis at the bedside in disorders of consciousness
+
+ brain 140
+ 2120–2132 2017
+
+
+
+ article  pubmed  google scholar 
+
+47
+
+ afrasiabi m
+
+ et al
+
+ consciousness depends on integration between
+ parietal cortex striatum and thalamus
+
+ cell syst
+
+ 12 363–373
+ 2021
+
+
+
+48
+
+ vanhaudenhuyse a
+
+ et al
+
+ default network connectivity reflects the
+ level of consciousness in noncommunicative braindamaged patients
+
+
+ brain 133 161–171 2010
+
+
+
+ article  pubmed  google scholar 
+
+49
+
+ andersen l
+
+ m
+
+ pedersen m
+
+ n
+
+ sandberg k
+
+ overgaard m
+
+
+ occipital meg activity in the early time range 300 ms predicts
+ graded changes in perceptual consciousness
+
+ cereb
+
+ cortex 26
+ 2677–2688 2016
+
+
+
+ article  pubmed  google scholar 
+
+50
+
+ russo s
+
+ et al
+
+ taac–tms adaptable auditory control a universal
+ tool to mask tms clicks
+
+ j
+
+ neurosci
+
+ meth
+
+
+ httpsdoi
+
+org10
+
+1016j
+
+jneumeth
+
+2022
+
+109491 2022
+
+
+
+51
+
+ casarotto s
+
+ et al
+
+ the rttep tool realtime visualization of
+ tmsevoked potentials to maximize cortical activation and minimize
+ artifacts
+
+ j
+
+ neurosci
+
+ meth
+
+ 370 109486 2022
+
+
+
+52
+
+ belardinelli p
+
+ et al
+
+ reproducibility in tms–eeg studies a call
+ for data sharing standard procedures and effective experimental
+ control
+
+ brain stimul
+
+ 12 787–790 2019
+
+
+
+ article  pubmed  google scholar 
+
+53
+
+ lee m
+
+ et al
+
+ graph theoretical analysis of cortical networks based
+ on conscious experience
+
+ in 2019 41st annual international
+ conference of the ieee engineering in medicine and biology society
+ embc
+
+ 3373–3376 ieee
+
+
+
+54
+
+ bodart o
+
+ et al
+
+ measures of metabolism and complexity in the brain
+ of patients with disorders of consciousness
+
+ neuroimage clin
+
+ 14
+ 354–362 2017
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+55
+
+ bodart o
+
+ et al
+
+ global structural integrity and effective
+ connectivity in patients with disorders of consciousness
+
+ brain
+ stimul
+
+ 11 358–365 2018
+
+
+
+ article  pubmed  google scholar 
+
+56
+
+ rosanova m
+
+ et al
+
+ sleeplike cortical offperiods disrupt
+ causality and complexity in the brain of unresponsive wakefulness
+ syndrome patients
+
+ nat
+
+ commun
+
+ 9 4427 2018
+
+
+
+ article  ads  cas  pubmed  pubmed central  google scholar 
+
+57
+
+ delorme a
+
+ makeig s
+
+ eeglab an open source toolbox for analysis
+ of singletrial eeg dynamics including independent component
+ analysis
+
+ j
+
+ neurosci
+
+ methods 134 9–21 2004
+
+
+
+ article  pubmed  google scholar 
+
+58
+
+ bertrand o
+
+ perrin f
+
+ pernier j
+
+ a theoretical justification
+ of the average reference in topographic evoked potential studies
+
+
+ electroencephalogr
+
+ clin
+
+ neurophysiol
+
+ 62 462–464 1985
+
+
+
+ article  cas  pubmed  google scholar 
+
+59
+
+ ludwig k
+
+ a
+
+ et al
+
+ using a common average reference to improve
+ cortical neuron recordings from microelectrode arrays
+
+ j
+
+
+ neurophysiol
+
+ 101 1679–1689 2009
+
+
+
+ article  pubmed  google scholar 
+
+60
+
+ zhang d
+
+ et al
+
+ cascade and parallel convolutional recurrent neural
+ networks on eegbased intention recognition for brain computer
+ interface
+
+ in 32nd aaai conference on artificial intelligence aaai
+ 2018
+
+ 1703–1710
+
+
+
+61
+
+ kingma d
+
+ p
+
+ ba j
+
+ adam a method for stochastic optimization
+
+
+ preprint at arxiv httpsarxiv
+
+orgabs1412
+
+6980 2014
+
+
+
+62
+
+ blankertz b
+
+ lemm s
+
+ treder m
+
+ haufe s
+
+ müller k
+
+r
+
+
+ singletrial analysis and classification of erp components—a
+ tutorial
+
+ neuroimage 56 814–825 2011
+
+
+
+ article  pubmed  google scholar 
+
+63
+
+ smits g
+
+ f
+
+ jordaan e
+
+ m
+
+ improved svm regression using mixtures
+ of kernels
+
+ in 2002 international joint conference on neural
+ networks
+
+ ijcnn 02 cat
+
+ no
+
+ 02ch37290
+
+ 2785–2790 ieee
+
+
+
+64
+
+ ruedadelgado l
+
+ et al
+
+ brain eventrelated potentials predict
+ individual differences in inhibitory control
+
+ int
+
+ j
+
+ psychophysiol
+
+
+ 18 30870–30875 2019
+
+
+
+ google scholar 
+
+65
+
+ korjus k
+
+ hebart m
+
+ n
+
+ vicente r
+
+ an efficient data
+ partitioning to improve classification performance while keeping
+ parameters interpretable
+
+ plos one 11 e0161788 2016
+
+
+
+ article  pubmed  pubmed central  google scholar 
+
+66
+
+ thiery t
+
+ et al
+
+ longrange temporal correlations in the brain
+ distinguish conscious wakefulness from induced unconsciousness
+
+
+ neuroimage 179 30–39 2018
+
+
+
+ article  pubmed  google scholar 
+
+67
+
+ krepki r
+
+ blankertz b
+
+ curio g
+
+ müller k
+
+r
+
+ the berlin
+ braincomputer interface bbci—towards a new communication channel
+ for online control in gaming applications
+
+ multimed
+
+ tools appl
+
+ 33
+ 73–90 2007
+
+
+
+ article  google scholar 
+
+68
+
+ lapuschkin s
+
+ et al
+
+ unmasking clever hans predictors and assessing
+ what machines really learn
+
+ nat
+
+ commun
+
+ 10 1096 2019
+
+
+
+ article  ads  pubmed  pubmed central  google scholar 
+
+69
+
+ tóth b
+
+ et al
+
+ eeg network connectivity changes in mild cognitive
+ impairment—preliminary results
+
+ int
+
+ j
+
+ psychophysiol
+
+ 92 1–7
+ 2014
+
+
+
+ article  pubmed  google scholar 
+
+70
+
+ nir y
+
+ massimini m
+
+ boly m
+
+ tononi g
+
+ sleep and
+ consciousness in sleep and consciousness ed cavanna a
+
+ e
+
+ nani
+ a
+
+ blumenfeld h
+
+ laureys s
+
+ chapter 9 133–182 springer
+ berlin heidelberg 2013
+
+
+
+71
+
+ lee m
+
+ et al
+
+ quantifying arousal and awareness in altered states
+ of consciousness using interpretable deep learning
+
+ minjileekueci
+ first release of eciupdate
+
+ httpsdoi
+
+org10
+
+5281zenodo
+
+5760787
+ 2021
+
+
+
+download references
+
+acknowledgements
+
+this work was supported by the institute for information and
+communications technology planning and evaluation iitp funded by the
+korean government nos
+
+ 2017000451 2017001779
+2019000079 2019001371 and 2021002068 the university and
+university hospital of liège belgian national fund for scientific
+research f
+
+r
+
+sfnrs the italian ministry of health gr2016–02361494
+to s
+
+c
+
+ the canadian institute for advanced research cifar to
+m
+
+m
+
+ european union s horizon 2020 framework program for research and
+innovation under the specific grant agreement no
+
+ 945539 human brain
+project sga3 to m
+
+m
+
+ and s
+
+l
+
+ bial foundation astrazeneca
+foundation fund generate king baudouin foundation docma project
+euh2020mscarise–778234 james mcdonnell foundation mind science
+foundation fondazione europea di ricerca biomedica national institutes
+of health no
+
+ r01mh064498 academy of finland nos
+
+ 265680 and
+294625 tiny blue dot foundation to m
+
+m
+
+ and grant erapermed jtc
+2019 “perbrain” to m
+
+r
+
+
+
+ l
+
+r
+
+d
+
+s
+
+ and r
+
+p
+
+ are phd fellows o
+
+g
+
+ and
+a
+
+ t
+
+ are research associates and s
+
+l
+
+ is research director at the
+f
+
+r
+
+s
+
+–fnrs
+
+ we thank s
+
+ lapuschkin for sharing the code further we
+thank all the healthy participants patients and their families who
+participated in this study
+
+
+
+author information
+
+author notes
+
+1
+
+ these authors contributed equally olivia gosseries seongwhan lee
+
+
+
+authors and affiliations
+
+1
+
+ department of brain and cognitive engineering korea university
+ seoul republic of korea
+
+ minji lee
+
+2
+
+ coma science group gigaconsciousness giga research center
+ university of liège liège belgium
+
+ leandro r
+
+ d
+
+ sanz alice barra audrey wolff olivier bodart jitka
+ annen aurore thibaut rajanikant panda steven laureys  olivia
+ gosseries
+
+3
+
+ centre du cerveau² university hospital of liège liège belgium
+
+ leandro r
+
+ d
+
+ sanz alice barra audrey wolff jitka annen aurore
+ thibaut rajanikant panda steven laureys  olivia gosseries
+
+4
+
+ wisconsin institute for sleep and consciousness department of
+ psychiatry university of wisconsin madison usa
+
+ jaakko o
+
+ nieminen melanie boly giulio tononi  olivia gosseries
+
+5
+
+ department of neuroscience and biomedical engineering aalto
+ university school of science espoo finland
+
+ jaakko o
+
+ nieminen
+
+6
+
+ department of neurology university of wisconsin madison wi usa
+
+ melanie boly
+
+7
+
+ department of biomedical and clinical sciences “l
+
+ sacco”
+ university of milan milan italy
+
+ mario rosanova silvia casarotto  marcello massimini
+
+8
+
+ fondazione europea di ricerca biomedica ferb onlus milan italy
+
+ mario rosanova
+
+9
+
+ irccs fondazione don carlo gnocchi onlus milan italy
+
+ silvia casarotto  marcello massimini
+
+10
+
+ department of anesthesia and intensive care medicine university
+ hospital of liège liège belgium
+
+ vincent bonhomme
+
+11
+
+ university department of anesthesia and intensive care medicine chr
+ citadelle liège belgium
+
+ vincent bonhomme
+
+12
+
+ anesthesia and intensive care laboratory gigaconsciousness giga
+ research center university of liège liège belgium
+
+ vincent bonhomme
+
+13
+
+ department of psychology university of wisconsin madison wi usa
+
+ olivia gosseries
+
+14
+
+ department of artificial intelligence korea university seoul
+ republic of korea
+
+ seongwhan lee
+
+authors
+
+1
+
+ minji lee
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+2
+
+ leandro r
+
+ d
+
+ sanz
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+3
+
+ alice barra
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+4
+
+ audrey wolff
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+5
+
+ jaakko o
+
+ nieminen
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+6
+
+ melanie boly
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+7
+
+ mario rosanova
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+8
+
+ silvia casarotto
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+9
+
+ olivier bodart
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+10
+
+ jitka annen
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+11
+
+ aurore thibaut
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+12
+
+ rajanikant panda
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+13
+
+ vincent bonhomme
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+14
+
+ marcello massimini
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+15
+
+ giulio tononi
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+16
+
+ steven laureys
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+17
+
+ olivia gosseries
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+18
+
+ seongwhan lee
+ view author publications
+
+ you can also search for this author in pubmed google scholar
+
+contributions
+
+o
+
+g
+
+ j
+
+o
+
+n
+
+ m
+
+b
+
+ s
+
+l
+
+ m
+
+m
+
+ and g
+
+t
+
+ designed the experiments
+
+ o
+
+g
+
+
+a
+
+w
+
+ a
+
+b
+
+ l
+
+r
+
+d
+
+s
+
+ j
+
+o
+
+n
+
+ r
+
+p
+
+ v
+
+b
+
+ m
+
+b
+
+ o
+
+b
+
+ j
+
+a
+
+ a
+
+t
+
+ m
+
+r
+
+
+s
+
+c
+
+ and m
+
+m
+
+ performed the experiments
+
+ m
+
+l
+
+ and s
+
+w
+
+l
+
+ designed the
+methodology and analyzed the data
+
+ m
+
+l
+
+ drafted the manuscript with the
+help of o
+
+g
+
+ all authors revised the manuscript critically and
+contributed to the important intellectual content
+
+
+
+corresponding authors
+
+correspondence to olivia gosseries or seongwhan lee
+
+
+
+ethics declarations
+
+competing interests
+
+the authors declare no competing interests
+
+
+
+peer review
+
+peer review information
+
+nature communications thanks christof koch and the other anonymous
+reviewers for their contribution to the peer review of this work
+
+
+
+additional information
+
+publisher s note springer nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations
+
+
+
+supplementary information
+
+supplementary information
+
+reporting summary
+
+source data
+
+source data
+
+rights and permissions
+
+open access this article is licensed under a creative commons
+attribution 4
+
+0 international license which permits use sharing
+adaptation distribution and reproduction in any medium or format as
+long as you give appropriate credit to the original authors and the
+source provide a link to the creative commons license and indicate if
+changes were made
+
+ the images or other third party material in this
+article are included in the article s creative commons license unless
+indicated otherwise in a credit line to the material
+
+ if material is not
+included in the article s creative commons license and your intended use
+is not permitted by statutory regulation or exceeds the permitted use
+you will need to obtain permission directly from the copyright holder
+
+
+to view a copy of this license visit
+httpcreativecommons
+
+orglicensesby4
+
+0
+
+
+
+reprints and permissions
+
+about this article
+
+check for updates
+
+ verify currency and authenticity via crossmark
+
+cite this article
+
+lee m
+
+ sanz l
+
+r
+
+d
+
+ barra a
+
+ et al
+
+ quantifying arousal and
+awareness in altered states of consciousness using interpretable deep
+learning
+
+ nat commun 13 1064 2022
+
+
+httpsdoi
+
+org10
+
+1038s41467022284510
+
+download citation
+
+ received 08 august 2020
+
+ accepted 25 january 2022
+
+ published 25 february 2022
+
+ doi httpsdoi
+
+org10
+
+1038s41467022284510
+
+share this article
+
+anyone you share the following link with will be able to read this
+content
+
+get shareable link
+
+sorry a shareable link is not currently available for this article
+
+
+
+copy to clipboard
+
+provided by the springer nature sharedit contentsharing initiative
+
+download pdf 
+
+advertisement
+
+advertisement
+
+explore content
+
+ research articles
+ reviews analysis
+ news comment
+ videos
+ collections
+ subjects
+
+ follow us on facebook
+ follow us on twitter
+ sign up for alerts
+ rss feed
+
+about the journal
+
+ aims scope
+ editors
+ journal information
+ open access fees and funding
+ calls for papers
+ editorial values statement
+ journal metrics
+ editors highlights
+ contact
+ editorial policies
+ top articles
+
+publish with us
+
+ for authors
+ for reviewers
+ language editing services
+ submit manuscript
+
+search
+
+search articles by subject keyword or author
+
+show results from all journals this journal
+
+search
+
+advanced search
+
+quick links
+
+ explore articles by subject
+ find a job
+ guide to authors
+ editorial policies
+
+nature communications nat commun issn 20411723 online
+
+nature
+
+com sitemap
+
+about nature portfolio
+
+ about us
+ press releases
+ press office
+ contact us
+
+discover content
+
+ journals az
+ articles by subject
+ protocols
+
+io
+ nature index
+
+publishing policies
+
+ nature portfolio policies
+ open access
+
+author researcher services
+
+ reprints permissions
+ research data
+ language editing
+ scientific editing
+ nature masterclasses
+ research solutions
+
+libraries institutions
+
+ librarian service tools
+ librarian portal
+ open research
+ recommend to library
+
+advertising partnerships
+
+ advertising
+ partnerships services
+ media kits
+ branded content
+
+professional development
+
+ nature careers
+ nature conferences
+
+regional websites
+
+ nature africa
+ nature china
+ nature india
+ nature italy
+ nature japan
+ nature middle east
+
+ privacy policy
+ use of cookies
+ your privacy choicesmanage cookies
+ legal notice
+ accessibility statement
+ terms conditions
+ your us state privacy rights
+
+springer nature
+
+© 2025 springer nature limited
+
+
+
+ close
+
+nature briefing
+
+sign up for the nature briefing newsletter — what matters in science
+free to your inbox daily
+
+
+
+email address
+
+sign up
+
+i agree my information will be processed in accordance with the nature
+and springer nature limited privacy policy
+
+
+
+ close
+
+get the most important science stories of the day free in your inbox
+
+
+sign up for nature briefing
+
+
