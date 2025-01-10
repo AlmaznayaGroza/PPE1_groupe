@@ -353,8 +353,6 @@ Derived terms
 -   speak one's conscience
 -   unconscienced
 
- 
-
 Related terms
 
 [edit]
@@ -741,8 +739,6 @@ Derived terms
 -   prendre conscience
 -   prise de conscience
 
- 
-
 Related terms
 
 [edit]
@@ -837,7 +833,7 @@ Descendants
 []
 
 Retrieved from
-"https://en.wiktionary.org/w/index.php?title=conscience&oldid=83467561"
+"https://en.wiktionary.org/w/index.php?title=conscience&oldid=83513567"
 
 Categories:
 
@@ -860,7 +856,6 @@ Categories:
 -   en:Narratology
 -   English terms with obsolete senses
 -   English terms with collocations
--   en:Directives
 -   en:Fictional characters
 -   en:Personifications
 -   en:Ethics
@@ -990,7 +985,7 @@ Hidden categories:
 -   Terms with West Frisian translations
 -   Terms with Yiddish translations
 
--   This page was last edited on 4 January 2025, at 22:06.
+-   This page was last edited on 8 January 2025, at 02:17.
 -   Definitions and other text are available under the Creative Commons
     Attribution-ShareAlike License; additional terms may apply. By using
     this site, you agree to the Terms of Use and Privacy Policy.

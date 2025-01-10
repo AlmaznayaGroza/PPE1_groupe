@@ -1,147 +1,148 @@
-     * YouTube
+-   Tutoring & essay marking
 
-What Is Freedom of Conscience, and Why Does It Matter?
+Conscience
 
-   The freedom of conscience is fundamental to America’s founding
-   principles, and ADF is committed to protecting that freedom.
-   Bryan Neihart
---
-     *
+OCR
+Ethics
 
-   What Is Freedom of Conscience, and Why Does It Matter?
+Religious views on conscience
 
-   What is “conscience”? It’s a word we’re all familiar with—a clear
-   conscience, a guilty conscience—even if we can’t pinpoint an exact
-   definition.
+Aquinas’ Natural moral law
+---------------
+secondary precept that euthanasia is wrong.
 
-   The concept pops up in all kinds of places. In Saturday morning
-   cartoons where good guys consult an angel on their right shoulder
-   (conscience) and a devil on their left shoulder (temptation) before
-   making a decision. In literary masterpieces like Crime and Punishment,
-   where the main character suffers from overwhelming guilt after
---
-   Vader chooses to do one final good act after a lifetime of evil.
+Aquinas’ view of the conscience
 
-   But none of these examples capture the full concept of conscience. As
-   Americans, we should consider the true meaning of “conscience.” We
-   should also recognize the importance—and privilege—of having the
-   freedom of conscience. America was founded on this freedom. And it’s
-   worth preserving today.
+Natural law is Aquinas’ theory on how God is the grounding and source of
+morality. Conscience is about the human psychology involved in
+understanding and applying natural moral law. Conscience is ratio
+(reason) used to understand and apply God’s natural law.
 
-   Read on to find out why.
+Aquinas claims that the classic features of conscience follow from the
+application of our knowledge of the natural moral law to our moral
+actions, in three ways:
 
-What is freedom of conscience?
+1.  Witness – by knowing whether we have done or not done something.
+2.  Bind & incite – “through the conscience we judge that something
+    should be done or not done”
+3.  Accuse, torment & rebuke – “by conscience we judge that something
+    done is well done or ill done”
 
-   Conscience is our God-given ability to discern right from wrong, good
-   from evil. But it’s more than that. For knowing right from wrong
-   wouldn’t do much good if we didn’t (or couldn’t) act on what’s right.
-   So conscience also includes the ability to apply laws, rules, and
-   intuitions in the right way. In other words, to act on what we believe.
-   A rural church is seen in a field The First Amendment protects our
-   public witness. We can put our faith in action by serving others.
+This is how the conscience causes guilt. Conscience is our ability to
+know whether we have done something, whether we should have done it, and
+whether it was done well. If we have done something wrong, our
+conscience will accuse, torment and rebuke us – causing feelings of
+guilt.
 
-Where is freedom of conscience found in the Constitution?
+Because human reason is fallible, the conscience thereby becomes
+fallible. We could be mistaken for example when we don’t know how a
+general rule applies to a certain situation (mistake in conscientia).
+---------------
+called apparent goods because they only appear good to someone engaged
+in faulty reasoning. They are not real goods. Despite this potential for
+our conscience judging something bad to be good, Aquinas still insists
+we must follow it:
 
-   America’s Founders understood the gravity of protecting the freedom of
-   conscience.
+“Every judgment of conscience, be it right or wrong … is obligatory … he
+who acts against his conscience always sins”
 
-   James Madison called conscience “the most sacred of all property.”
-   Thomas Jefferson said that no “provision in our constitution ought to
-   be dearer to man, than that which protects the rights of conscience
-   against” the government. And during the debate over what would become
-   the First Amendment, many lawmakers proposed protecting the rights of
-   conscience.
+This is because if you choose to act against your conscience, then you
+are choosing to do something you believe to be evil. Conscience is thus
+always ‘binding’.
 
-   This understanding shaped the First Amendment. Although the amendment
-   doesn’t explicitly mention “conscience,” it protects its animating
-   features: religious freedom and free speech. The First Amendment says,
-   “Congress shall make no law respecting an establishment of religion, or
---
-   speech, or of the press.”
+Vincible vs invincible ignorance
 
-Why is freedom of conscience important?
+Whether errors in conscience that lead to sinful acts will be forgiven
+or pardoned depends on the type of ignorance that caused the error.
 
-   These 26 words protect the freedom of conscience—the freedom to believe
-   without coercion and to speak and act consistently with those beliefs.
+---------------
+very statement that man is estranged from his created nature presupposes
+an experience of the abyss between what he essentially is and what is
+existentially is. Even a weak or misled conscience is still a
+conscience, namely, the silent voice of man’s own essential nature,
+judging his actual being” – Tillich.
 
---
-   things to which we object. So we have the freedom to think, reason,
-   speak, stay silent about, and hold certain beliefs without fearing
-   government punishment. That protects our private conscience.
+To deny that our conscience can discover the natural law is to claim
+that there is a gap between what we currently are and what we could be.
+Yet, to have an awareness of that gap is to have a conscience that is
+aware of its fallen state. So it is contradictory to deny the natural
+law. Even it now involves a weakened conscience, that still tells us at
+least something of the direction we have fallen in and the direction
+back towards righteousness.
 
-   But our internal beliefs often move us to act publicly. So the First
---
+However, whatever a weak and misled conscience discovers is surely not
+God’s morality. Humanity believing it has the ability to know anything
+of God is the same arrogance that caused Adam and Eve to disobey God.
+---------------
+inability to be humble enough to simply have faith.
 
-   The freedom to act on our beliefs is important because community
-   standards—or lack thereof—reflect individuals’ conscience. The more we
-   train our conscience to do what is right, the better off we will be.
-   But we lose our ability to discern right from wrong the more we
-   consistently ignore our conscience.
+Psychological views on the conscience
 
-   The freedom of conscience has also benefitted America’s common good.
-   Because of this freedom, religious organizations have founded and
-   currently operate countless hospitals, homeless shelters, adoption
---
-   artist and website designer Lorie Smith at the Supreme Court.
+Sigmund Freud
 
-What are some court cases dealing with freedom of conscience?
+Freud thought the conscience was just the result of psychological forces
+that science could understand. Freud believed the mind was divided into
+the Id (our unconscious animalistic desires), Ego (Our conscious
+---------------
+thought responsible for many mental problems.
 
-   The freedom of conscience is worth preserving. Several court cases seek
-   to do (and have done) just that. Consider three contexts:
+The ethical implications is that conscience is not the voice of God in
+us, it is just what our society wants from us. Our society might be good
+or bad, therefore our conscience is not the best guide if Freud is
+right. Furthermore there might not even be a ‘good or bad’, if morality
+is merely the conditioning of societies on its members.
+---------------
+Mature genital stage: lasts until death. Controlled sexual desires
+result in a desire for love and marriage. A person now has a fully
+developed conscience where the ego controls the Id with reference to the
+superego.
 
---
+---------------
+thus be seen to defend Freud to some degree from the accusation of being
+unscientific. He studied the development of children and argued that
+there occurs a fundamental shift in the nature of ‘conscience’. Before
+the age of 11 children have what he called heteronomous morality. This
+means they merely associate actions as bad because of the influence of
+---------------
+abstract cognitive moral beliefs about how one ought to act and why.
 
-   2. The freedom of medical providers to decline to provide medical
-   procedures that violate their conscience.
+Freud’s critique of religion’s approach to developing the conscience
 
-   3. The freedom of faith-based public-service ministries to operate in
-   line with their religious purpose.
+Maintaining social order depends on people repressing their anti-social
+---------------
+After millennia of religious rule, too many people are still unhappy
+being controlled by social rules. Freud claims this is because the
+religious approach to conscience is external imposition by authority,
+similar to how children are treated, the result being comparable to a
+‘childhood neurosis’. Although rules are in place to reduce suffering,
+---------------
 
-Freedom of conscience for artists
+Perhaps Freud’s critique only really works against approaches to the
+conscience like Augustine’s where it simply involves an external
+imposition of God’s law.
 
-   For almost eighty years, the U.S. Supreme Court has recognized that
---
-   its laws to force her to create websites promoting messages that
-   contradict her beliefs about marriage. Unwilling to violate the law or
-   her conscience, Lorie challenged the law to protect the cherished
-   freedom to speak consistently with her religious views on marriage.
+Possible exam questions for Conscience
 
---
-   consistent with his belief about the immutability of sex. Lorie’s
-   victory reaffirms that the Supreme Court still believes in the
-   importance of a free conscience. That’s how it should be. Every
-   American has the right to speak freely. That’s why Lorie found support
-   from a diverse group of artists—from a world-renowned graphic designer
---
-   artist who hold different views about marriage.
+Easy
+Critically compare Aquinas and Freud’s view of the conscience
+Are the workings of God present in the conscience?
 
-Freedom of conscience for health-care professionals
+Medium
+‘Freud makes more sense of the concept of guilt than Aquinas’ – Discuss.
+Does a theological approach to conscience work better than a
+psychological approach?
+Critically compare Aquinas and Freud’s views on the process of moral
+---------------
 
-   Beyond speech, the freedom of conscience is imperative in the medical
-   field. Since ancient times, physicians have sworn to “do no harm” to
-   their patients. Fast forward to present day, and professional medical
-   ethics acknowledge the rights of professionals to decline to provide
-   medical treatment that violates their conscience.
+Hard
+Does conscience exist at all or is it an umbrella term for culture,
+environment, genetics and education?
+Is conscience merely an umbrella term for the psychological factors
+involved in moral decision making?
+Critically assess Freud’s psychosexual approach.
+---------------
 
-   The justification echoes the First Amendment—to preserve the personal
---
-   that the case must proceed.
+Year 13 ethics topics:
+Meta-ethics. Conscience. Sexual ethics. 
 
-Freedom of conscience for faith-based ministries
-
-   The freedom of conscience allows faith-based ministries to provide
-   other public services to care for the most vulnerable among us. For
-   example, ADF has twice defended Downtown Hope Center, a Christian
---
-   These ministries provide critical services to their communities. And
-   they do so because of their religious beliefs. This is a common feature
-   of American history made possible by the freedom of conscience. In that
-   way, protecting the ability of these ministries to live out their faith
-   ensures that other religious organizations can do the same while
---
-Conclusion
-
-   By now, we’ve answered the original question—what is conscience? And
-   we’ve answered another— why is freedom of conscience worth preserving?
-
-   In the end, this freedom recognizes the inherent dignity of each person
+OCR Philosophy

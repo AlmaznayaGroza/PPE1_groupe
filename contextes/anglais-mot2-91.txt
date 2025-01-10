@@ -1,123 +1,69 @@
-     * Key Concepts ›
+    1
 
-Understanding Karl Marx's Class Consciousness and False Consciousness
+    Pre-Cartesian uses of ‘consciousness’
 
-   Two of Marx's Key Social Precepts Defined
---
-   Updated on July 25, 2019
+-   content locked
+---------------
+    2
 
-   Class consciousness and false consciousness are concepts introduced by
-   Karl Marx that were later expanded by social theorists who came after
-   him. Marx wrote about the theory in his book "Capital, Volume 1," and
-   again with his frequent collaborator, Friedrich Engels, in the
-   impassioned treatise, "Manifesto of the Communist Party." Class
-   consciousness refers to the awareness by a social or economic class of
-   their position and interests within the structure of the economic order
-   and social system in which they live. In contrast, false consciousness
-   is a perception of one's relationships to social and economic systems
-   of an individual nature, and a failure to see oneself as a part of a
---
-   and social system.
+    Post-Cartesian uses of ‘consciousness’
 
-Marx's Theory of Class Consciousness
+-   content locked
+---------------
+Thematic
 
-   According to Marxist theory, class consciousness is an awareness of
-   one's social and/or economic class relative to others, as well as an
-   understanding of the economic rank of the class to which you belong in
-   the context of the larger society. In addition, class consciousness
-   involves an understanding of the defining social and economic
-   characteristics and collective interests of your own class within the
-   constructs of the given socio-economic and political order.
+Consciousness
 
-   Class consciousness is a core facet of Marx's theory of class conflict,
-   which focuses on the social, economic, and political relationships
-   between workers and owners within a capitalist economy. The precept was
---
-   shared economic and political interests, and the power inherent in
-   their numbers. Marx argued that when workers came to understand the
-   totality of these factors, they would achieve class consciousness, and
-   this, in turn, would lead to a workers' revolution that would overthrow
-   the exploitative system of capitalism.
---
-   Hungarian social theorist Georg Lukács, who followed in the tradition
-   of Marxist theory, expanded the concept by saying that class
-   consciousness is an achievement that opposes individual consciousness
-   and results from the group struggle to see the "totality" of social and
-   economic systems.
+-    By
+---------------
+Version: v1,  Published online: 1998
+Retrieved January 10, 2025, from
+https://www.rep.routledge.com/articles/thematic/consciousness/v-1
 
-The Problem of False Consciousness
+------------------------------------------------------------------------
+---------------
+Article Summary
 
-   According to Marx, before workers developed a class consciousness they
-   were actually living with a false consciousness. (Though Marx never
-   used the actual term, he did develop the ideas that it encompasses.) In
-   essence, false consciousness is the opposite of class consciousness.
-   Individualistic rather than collective in nature, it produces a view of
-   oneself as a single entity engaged in competition with others of one's
-   social and economic standing, rather than as part of a group with
-   unified experiences, struggles, and interests. According to Marx and
-   other social theorists who followed, false consciousness was dangerous
-   because it encouraged people to think and act in ways that were
-   counterintuitive to their economic, social, and political
-   self-interests.
+Philosophers have used the term ‘consciousness’ for four main topics:
+knowledge in general, intentionality, introspection (and the knowledge
+it specifically generates) and phenomenal experience. This entry
+---------------
+like to have a particular experience and failing to explain why there
+are phenomenal experiences at all. From this, some philosophers infer
+‘dualism’ rather than ‘physicalism’ about consciousness, concluding that
+some facts about consciousness are not wholly constituted by physical
+facts. This dualist conclusion threatens claims that phenomenal
+consciousness has causal power, and that it is knowable in others and in
+oneself.
 
-   Marx saw false consciousness as a product of an unequal social system
-   controlled by a powerful minority of elites. The false consciousness
-   among workers, which prevented them from seeing their collective
-   interests and power, was created by the material relations and
---
-   production frames relationships between people (workers and owners) as
-   relationships between things (money and products)—with playing a key
-   role in producing false consciousness among workers. He believed that
-   commodity fetishism served to obscure the fact that relations with
-   regard to production within a capitalist system are actually
---
-   Building on Marx's theory, Italian scholar, writer, and activist
-   Antonio Gramsci expanded the ideological component of false
-   consciousness by arguing that a process of cultural hegemony guided by
-   those holding economic, social, and cultural power in society produced
-   a "common sense" way of thinking that embued the status quo with
---
-   one's age, a person actually consents to the conditions of exploitation
-   and domination that one experiences. This "common sense"—the ideology
-   that produces false consciousness—is actually a misrepresentation and
-   misunderstanding of the social relationships that define the economic,
-   social, and political systems.
+In reaction, surprisingly much can be said in favour of ‘eliminativism’
+about phenomenal consciousness; the denial of any realm of phenomenal
+objects and properties of experience. Most (but not all) philosophers
+deny that there are phenomenal objects – mental images with colour and
+---------------
+dualism about boldly conceived qualia.
 
-False Consciousness in a Stratified Society
+Introspective consciousness has seemed less puzzling than phenomenal
+consciousness. Most thinkers agree that introspection is far from
+complete about the mind and far from infallible. Perhaps the most
+familiar account of introspection is that, in addition to ‘outwardly
+---------------
+‘inwardly perceives’ one’s mental entities, as when one seems to see
+visual images with one’s ‘mind’s eye’. This view faces several serious
+objections. Rival views of introspective consciousness fall into three
+categories, according to whether they treat introspective access (1) as
+epistemically looser or less direct than inner perception, (2) as
+---------------
 
-   An example of how cultural hegemony works to produce false
-   consciousness—that is true both historically and today—is the belief
-   that upward mobility is possible for all people, regardless of the
-   circumstances of their birth, as long as they choose to dedicate
---
-   systems that shape our lives.
+Citing this article:
+Lormand, Eric. Consciousness, 1998, doi:10.4324/9780415249126-W011-1.
+Routledge Encyclopedia of Philosophy, Taylor and Francis,
+https://www.rep.routledge.com/articles/thematic/consciousness/v-1.
+Copyright © 1998-2025 Routledge.
 
-   At the time Marx was writing about class consciousness, he perceived
-   class as the relationship of people to the means of production—the
-   owners versus the workers. While the model is still useful, we can also
---
-   fair economically as an adult. However, as long as a person believes
-   the myth, he or she will continue to live and operate with a false
-   consciousness. Without a class consciousness, they will fail to
-   recognize that the stratified economic system in which they're
-   operating was designed to afford only the bare minimum of money to
---
-   mla apa chicago
-   Your Citation
-   Crossman, Ashley. "Understanding Karl Marx's Class Consciousness and
-   False Consciousness." ThoughtCo, Jun. 25, 2024,
-   thoughtco.com/class-consciousness-3026135. Crossman, Ashley. (2024,
-   June 25). Understanding Karl Marx's Class Consciousness and False
-   Consciousness. Retrieved from
-   https://www.thoughtco.com/class-consciousness-3026135 Crossman, Ashley.
-   "Understanding Karl Marx's Class Consciousness and False
-   Consciousness." ThoughtCo.
-   https://www.thoughtco.com/class-consciousness-3026135 (accessed
-   December 18, 2024).
-   (BUTTON)
---
-       Understanding Conflict Theory
-     * Crowd reaching for globe Crowd reaching for globe
-       The Concept of Collective Consciousness
-     * Statue of Karl Marx and Friedrich Engels, Berlin, Germany Statue of
-       Karl Marx and Friedrich Engels, Berlin, Germany
+---------------
+-    Awareness in Indian thought By Phillips, Stephen H.
+-    Colour and qualia By Levine, Joseph
+-    Consciousness, phenomenology of By Jacobs, Hanne
+-    Dualism By Rosenthal, David M.
+-    Materialism in the philosophy of mind By Robinson, Howard

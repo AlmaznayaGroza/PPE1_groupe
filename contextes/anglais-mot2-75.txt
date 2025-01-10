@@ -1,110 +1,95 @@
-   (BUTTON) (BUTTON)
+End of Life Concerns
 
-   consciousness
-   (BUTTON)
-   Table of Contents
---
-   References & Edit History Related Topics
-   Videos
-   Exploring different states of consciousness
-   (BUTTON) (BUTTON)
-   Discover
---
-   Health & Medicine Psychology & Mental Health
+An Overview of Level of Consciousness (LOC)
 
-consciousness
+Patient Awareness, Alertness, and Wakefulness
+---------------
+-   Coma Classifications
 
-   (BUTTON) Ask the Chatbot a Question
---
-   Facebook X
-   URL
-   https://www.britannica.com/topic/consciousness
-   (BUTTON) Feedback
-   (BUTTON) External Websites
---
-   External Websites
-     * Rebus Community - Introduction to Philosophy: Philosophy of Mind -
-       Consciousness
-     * Frontiers - Human Consciousness: Where is it from and what is it
-       for
-     * National Center for Biotechnology Information - PubMed Central -
-       Conscience and Consciousness: a definition
-     * Internet Encyclopedia of Philosophy - Consciousness
-     * Social Sciences Libretexts - Consciousness
-     * Stanford Encyclopedia of Philosophy - Consciousness
-     * LOUIS Pressbooks - Introduction to Psychology - What Is
-       Consciousness?
-     * University of Saskatchewan Pressbooks - States of Consciousness
-     * Verywell Mind - Consciousness in Psychology
+"Level of consciousness" (LOC) is a medical term used to describe how
+awake, alert, and aware you are. It also refers to how well you respond
+to attempts to get your attention. A person with an altered level of
+consciousness may have decreased cognitive function or be difficult to
+arouse.
 
-   (BUTTON) Ask the Chatbot a Question
---
-          introspection
-          sensation
-          stream of consciousness
-          reflection
+A variety of medical conditions and drugs can affect your level of
+consciousness, from having dementia or lethargy to being in a coma.
+Sometimes impaired consciousness is reversible, while other times it is
+not.
 
---
-   See all related content
+This article covers normal and altered states of consciousness as well
+as coma classifications.
 
-   consciousness, a psychological condition defined by the English
-   philosopher John Locke as “the perception of what passes in a man’s own
-   mind.”
---
-   life and also described the difference between the normal waking state
-   of animals and men and their condition when asleep, in a coma, or under
-   anesthesia (the latter condition was described as unconsciousness).
-   Other descriptions included an analysis of consciousness as a form of
-   relationship or act of the mind toward objects in nature, and a view
-   that consciousness was a continuous field or stream of essentially
-   mental “sense data,” roughly similar to the “ideas” of earlier
-   empirical philosophers.
-   epilepsy
-   More From Britannica
-   nervous system disease: Altered consciousness
+---------------
+Caiaimage / Sam Edwards OJO+ / Getty Images
 
-   The method employed by most early writers in observing consciousness
-   was introspection—looking within one’s own mind to discover the laws of
-   its operation. The limitations of the method became apparent when it
---
-   In behaviourist psychology, derived primarily from work of the American
-   psychologist John B. Watson in the early 1900s, the concept of
-   consciousness was irrelevant to the objective investigation of human
-   behaviour and was doctrinally ignored in research. Neobehaviourists,
-   however, adopted a more liberal posture toward mentalistic states such
-   as consciousness.
+ What Is Consciousness? 
 
-Neurophysiological mechanisms
+Medical definitions say a normal LOC means a person is either awake or
+can be readily awakened from normal sleep. Terms include:
 
-   That consciousness depends on the function of the brain has been known
-   from ancient times. Although detailed understanding of the neural
-   mechanisms of consciousness has not been achieved, correlations between
-   states of consciousness and functions of the brain are possible. Levels
-   of consciousness in terms of levels of alertness or responsiveness are
-   correlated with patterns of electrical activity of the brain (brain
-   waves) recorded by an electroencephalograph. During wide-awake
-   consciousness the pattern of brain waves consists of rapid irregular
-   waves of low amplitude or voltage. In contrast, during sleep, when
-   consciousness can be said to be minimal, the brain waves are much
-   slower and of greater amplitude, often coming in periodic bursts of
-   slow waxing and waning amplitude.
+-   Consciousness: A state in which a person is awake, aware, alert, and
+    responsive to stimuli
+-   Decreased consciousness: A person appears awake and aware of their
+    surroundings (conscious) but is not responding normally (acts
+    confused, odd, or sleepy).
+-   Unconsciousness: A person has a deficit in awareness and
+    responsiveness to stimuli (touch, light, sound)
 
-   Both behavioral levels of consciousness and the correlated patterns of
-   electrical activity are related to the function of a part of the
-   brainstem called the reticular formation. Electrical stimulation of the
-   ascending reticular systems arouses a sleeping cat to alert
-   consciousness and simultaneously activates its brain waves to the
-   waking pattern.
-   [BlueThistle.webp]
---
+Sleeping is not considered unconsciousness if waking up would result in
+normal consciousness Between consciousness and unconsciousness there are
+several altered levels, each with its own definition.
 
-   It was once supposed that the neurophysiological mechanisms subserving
-   consciousness and the higher mental processes must reside in the
-   cortex. It is more likely, however, that the cortex serves the more
-   specialized functions of integrating patterns of sensory experience and
-   organizing motor patterns and that the ascending reticular system
-   represents the neural structures most critically related to
-   consciousness. The brainstem reticular formation should not, however,
-   be called the seat of consciousness. It represents an integrative
-   focus, functioning through its widespread interconnections with the
-   cortex and other regions of the brain. See also introspection;
+ Altered Level of Consciousness 
+
+Altered or abnormal levels of consciousness are states in which you
+either have decreased cognitive function or cannot be easily aroused.
+
+Most medical conditions affect the brain and impair consciousness when
+they become serious or life-threatening. An altered LOC usually signals
+a serious medical problem.
+
+Are You at Risk of Altered Level of Consciousness?
+
+If you are at risk for altered LOC, be sure to have the proper medical
+---------------
+rapidly through lethargy, obtundation, stupor, and coma.
+
+ Levels of Consciousness Assessment Scale 
+
+Levels of consciousness can be subdivided into levels that further
+clarify your degree of unresponsiveness. That helps improve
+communication among healthcare providers as well as aiding in research.
+---------------
+    light pain, deep pain). Grade I indicates confusion, while V
+    indicates coma (no response to stimuli).
+-   Glasgow Coma Scale: Scores the level of consciousness from 1 to 15,
+    with 15 being normal LOC. This scale takes into account verbal,
+    motor, and eye responses to stimuli.
+---------------
+ Summary 
+
+Levels of consciousness range from normal alertness and attention to
+gradations of altered states, including confusion, delirium, stupor, and
+coma.
+---------------
+Sometimes, there may be a rapid progression from a mild to a high stage.
+
+Coma scales can help describe the exact level of consciousness.
+
+Best Medical Alert Systems
+---------------
+
+1.  Edlow BL, Claassen J, Schiff ND, Greer DM. Recovery from disorders
+    of consciousness: mechanisms, prognosis and emerging therapies. Nat
+    Rev Neurol. 2021;17(3):135-156. doi:10.1038/s41582-020-00428-x
+
+2.  New York Presbyterian. Level Of Consciousness.
+
+3.  National Cancer Institute. Confusion.
+---------------
+    doi:10.1016/j.injury.2017.05.038
+
+14. Lippincott Nursing Center. Assessing Level of Consciousness.
+
+Additional Reading

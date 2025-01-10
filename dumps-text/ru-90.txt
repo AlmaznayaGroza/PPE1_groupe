@@ -54,7 +54,7 @@ LiveJournal
 -   < no suspend reason >
     []
 
--   ☐ Readability
+-   Readability
 
 -   []
 
@@ -69,7 +69,7 @@ LiveJournal
 
     Video
 
-    ☐ Readability
+    Readability
 
 [LiveJournal]
 

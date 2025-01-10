@@ -3633,7 +3633,7 @@ Portals:
 []
 
 Retrieved from
-"https://en.wikipedia.org/w/index.php?title=Consciousness&oldid=1266662047"
+"https://en.wikipedia.org/w/index.php?title=Consciousness&oldid=1267759625"
 
 Categories:
 
@@ -3682,7 +3682,7 @@ Hidden categories:
 -   Spoken articles
 -   Commons category link from Wikidata
 
--   This page was last edited on 1 January 2025, at 17:50 (UTC).
+-   This page was last edited on 6 January 2025, at 15:05 (UTC).
 -   Text is available under the Creative Commons Attribution-ShareAlike
     4.0 License; additional terms may apply. By using this site, you
     agree to the Terms of Use and Privacy Policy. Wikipedia® is a

@@ -1,142 +1,210 @@
-   (BUTTON) move to sidebar (BUTTON) hide
-     * (Top)
-     * 1 The intent behind group consciousness
-     * 2 Current debate regarding group consciousness qualifications
-     * 3 Group consciousness within feminism
-     * 4 See also
-     * 5 References
---
-   [ ] Toggle the table of contents
+        2.2 Frantz Fanon
+    -   
+        2.3 Triple consciousness
+    -   
+        2.4 Experiences of women of color
+---------------
+Toggle the table of contents
 
-Group consciousness (political science)
+Double consciousness
 
-   [ ] Add languages
---
-   Phenomenon of group members advocating shared interests
+3 languages
+---------------
+Internal conflict of society's oppressed
 
-   Group consciousness in political science refers to the phenomenon in
-   which members within a social identity group become aware of how their
-   group identification impacts their position in society, and therefore
-   come together to pursue collective action to advocate for their shared
-   interests.^[1]^[2] Group consciousness requires two necessary
-   preconditions: group membership, and group identification.^[1] Group
-   membership is the 'objective' belonging within the group, while
-   identification refers to the subjective psychological importance of the
-   group to the member.^[1] Group consciousness has been studied, for
-   example, among women,^[3] Hispanic and Latino Americans,^[4] and Muslim
-   Americans.^[5]
+Not to be confused with Dual consciousness.
 
-The intent behind group consciousness
+Double consciousness is the dual self-perception^([1]) experienced by
+subordinated or colonized groups in an oppressive society. The term and
+the idea were first published in W. E. B. Du Bois's autoethnographic
+work, The Souls of Black Folk in 1903, in which he described the African
+American experience of double consciousness, including his own.^([2])
 
-   [edit]
+Originally, double consciousness was specifically the psychological
+challenge African Americans experienced of "always looking at one's self
+through the eyes" of a racist white society and "measuring oneself by
+---------------
 
-   Group consciousness is not automatically assumed to exist with any
-   organization of people. However, group consciousness often stems from
-   the existence of group agents. These organizations bring people
-   together through common purposes and intentions that they act upon.
-   Some examples of group agents include courts, corporations, NGOs, and
-   other collectives of individuals.^[6] Group consciousness requires
-   unity through the group's belief in a set of "ideological beliefs about
-   one's group's social standing." Groups also take on the view that to
---
+Title page of a 1903 book in which Du Bois' essay about
+double-consciousness was re-published
 
-   Beyond formal organizations like corporations and nonprofits, group
-   consciousness is often linked to socially stratified groups, including
-   class, gender, race, etc. When discussing racial consciousness
-   specifically, group consciousness emerges from the notion that people's
-   identities are inseparable from their race. As a result, minority
-   groups, particularly oppressed minority groups, band together to find a
---
-   therefore connected this idea of "linked fate," meaning the viewpoint
-   that one's fate is "inextricably linked to the fate of their racial
-   group" to a heightened sense of group consciousness.^[7]
+The term was introduced by Ralph Waldo Emerson in his 1842 essay "The
+---------------
+the Atlantic Monthly.^([4]) It was later republished and slightly edited
+under the title "Of Our Spiritual Strivings" in his book, The Souls of
+Black Folk. Du Bois describes double consciousness as follows:
 
-Current debate regarding group consciousness qualifications
+  It is a peculiar sensation, this double-consciousness, this sense of
+  always looking at one's self through the eyes of others, of measuring
+  one's soul by the tape of a world that looks on in amused contempt and
+---------------
+[edit]
 
-   [edit]
+The concept of double consciousness has been expanded on by many
+different scholars in the 20th and early 21st centuries. Commentators
+have examined how the concept can be expanded to other aspects of the
+---------------
+especially for marking a turning point in the study of the African
+diasporas.^([6]) His book The Black Atlantic: Modernity and Double
+Consciousness (1993) introduces the "Black Atlantic" as a source for
+cultural construction.^([7]) Gilroy pioneers a shift in contemporary
+black studies by arguing for a rejection of the notion of a homogeneous
+---------------
+trade and marked it as the foundation for the diaspora. He recognized
+the significance of European and African transnational travel as a
+foundation for double consciousness. Gilroy used Du Bois's theory of
+double consciousness to suggest there exists an internal struggle to
+reconcile being both European and Black, which was his main focus in his
+book.^([7]) He even characterized the Black Atlantic by the influence of
+---------------
 
-   One key point of contention within the philosophy is whether or not the
-   “consciousness” of a group can be phenomenal, meaning experiential, or
-   if it is purely a sense of awareness.^[6]^[8] The argument has been
-   made that entire states can be “phenomenally conscious,” meaning they
---
-   In his paper “If Materialism is True, the United States is Probably
-   Conscious,” philosopher Eric Schwitzgebel argues that the United States
-   experiences a consciousness that overrides individual citizens.
-   Schwitzgebel posits that through using materialist philosophy, it may
-   be argued that the United States has the characteristics also present
---
-   we can take materialism to mean the belief that solely matter, rather
-   than the mind or ideas, can be treated as real objects. In the context
-   of group consciousness, this refers to the controversial debate over
-   whether a group can function as its own being, or if group
-   consciousness is primarily a metaphor. Schwitzgebel believes in the
-   former. He states that the US is self-preserving, goal-oriented, and
-   can respond intelligently to threats and opportunities. The US
-   functions as an individual entity. Thus, the United States can be said
-   to have a concrete identity through Schwitzgebel's interpretation of
-   group consciousness.^[8]
+Very similarly to Du Bois, Frantz Fanon touched upon the term of double
+consciousness in his life. In his first book, Black Skin, White Masks,
+where he expressed his hopelessness at being neither white nor black.
+Fanon identifies the double consciousness that African Americans face
+and its source; he claimed the cultural and social confusions of African
+Americans were caused by European culture.^([10]) He gave examples of
+things that he has encountered that demonstrate the double
+consciousness. He talks about people who preach about completely
+conforming to being white and says that they are wrong. He also says
+that the people who believe that complete rejection of whites are also
+---------------
+In addition to this he talks about the way white men talk to African
+Americans and how it contributes to this problem of double
+consciousness. He says that when a white man talks to an African
+American man he is changing his language to a way in which a
+stereotypical black man would talk, similarly to how one would talk to a
+---------------
 
-   However, philosophers like Christian List also posit that group agents
-   are not necessarily phenomenally conscious. Within his paper, "What Is
-   It Like to Be a Group Agent?" he argues that there is an important
-   distinction that must be made between consciousness as awareness and as
-   experience. List posits that group agents are able to have
-   consciousness as awareness. A group agent may share beliefs and act on
-   then, but it is the individuals in this group, who are aware of their
-   shared identity, who are performing the action. Group consciousness
-   thus doesn't mean that a group can act as a true collective singular;
-   it only facilitates collective action.^[6]
+Stephen Greenblatt also uses it to describe the peculiar quality of
+Shakespeare's consciousness in his biography of the bard, Will in the
+World (2004).^([13])
 
-Group consciousness within feminism
+Triple consciousness
 
-   [edit]
+[edit]
 
-   Feminist consciousness is defined as "politicized gender
-   identification," which is when women link their gender identity and the
-   societal issues that arise alongside it with a set of political
-   beliefs. Based on research regarding women's rights activism,
-   personality and life experiences can be seen as factors that lead to
-   feminist consciousness. For instance, women who are more politically
-   engaged tend to embrace feminism and feminist activism than women who
-   are not. In addition, women with intersectional identities, meaning
-   women who identify with more than one marginalized female identity, are
-   also more likely to be very aware of their group membership and thus
-   develop group consciousness. For example, lesbians experience
-   discrimination on the basis of sexual orientation and gender; they are
-   therefore more likely to be aware of their oppression and seek solace
-   in group solidarity.^[9] Viewing feminism as a case study for group
-   consciousness demonstrates how even within collective action entities,
-   there are outside factors that influence the extent to which members
-   are willing to participate.
---
-       ISSN 0007-1234. JSTOR 193688. S2CID 154619461.
-    2. ^ Miller, Arthur H.; Gurin, Patricia; Gurin, Gerald; Malanchuk,
-       Oksana (1981). "Group Consciousness and Political Participation".
-       American Journal of Political Science. 25 (3): 494–511.
-       doi:10.2307/2110816. ISSN 0092-5853. JSTOR 2110816.
-    3. ^ Henderson-King, Donna H.; Stewart, Abigail J. (1994). "Women or
-       feminists? Assessing women's group consciousness". Sex Roles. 31
-       (9–10): 505–516. doi:10.1007/bf01544276. hdl:2027.42/45607.
-       ISSN 0360-0025. S2CID 12961231.
-    4. ^ Stokes, Atiya Kai (July 2003). "Latino Group Consciousness and
-       Political Participation". American Politics Research. 31 (4):
-       361–378. doi:10.1177/1532673x03031004002. ISSN 1532-673X.
---
-    7. ^ ^a ^b McClain, Paula D.; Johnson Carew, Jessica D.; Walton,
-       Eugene; Watts, Candis S. (June 2009). "Group Membership, Group
-       Identity, and Group Consciousness: Measures of Racial Identity in
-       American Politics?". Annual Review of Political Science. 12 (1):
-       471–485. doi:10.1146/annurev.polisci.10.072805.102452.
---
-       S2CID 254933849.
-    9. ^ Duncan, Lauren E. (1999). "Motivation for Collective Action:
-       Group Consciousness as Mediator of Personality, Life Experiences,
-       and Women's Rights Activism". Political Psychology. 20 (3):
-       611–635. doi:10.1111/0162-895X.00159. ISSN 0162-895X.
---
+In the 21st century, Du Bois's theory of double consciousness has been
+revisited to develop a more inclusive concept of triple consciousness.
+This triple consciousness may include another intersecting identity that
+impacts a person's social experiences. Additional identities that may
+affect the already present double consciousness experience might include
+ethnicity, gender, sexual orientation, etc. For example, Juan Flores
+identified ethnicity as a potential aspect that influences double
+consciousness by speculating Afro-Latinos in the U.S. experienced an
+added layer of discrimination that combined skin color with ethnicity
+and nationality.^([14]) Anna Julia Cooper similarly references the
+---------------
+violence and without suing or special patronage, then and there the
+whole ... race enters with me".^([15]) Finally, Jossianna Arroyo
+explains that triple consciousness brings "spaces, culture, and skin ...
+[to] re-contextualize blackness"^([16]) in the case of black Puerto
+Ricans.
+---------------
 
-   Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Group_consciousness_(politi
-   cal_science)&oldid=1244208224"
-   Categories:
+Just like any other thought in critical race analysis, double
+consciousness theory cannot be divorced from gender. This is where black
+feminists have introduced their concept of the triple
+consciousness.^([17]) Black women not only have to see themselves
+through the lens of blackness and whiteness, but also through the lens
+of patriarchy. Whenever they are in black spaces, women still have to
+---------------
+primarily served the interests of racist white women."
+
+The theory of double consciousness is also heavily present for female
+diasporic artists. These artists are faced with the task of remaining
+authentic to their roots while still branding themselves in a way to
+---------------
+"White Power", by Kwame Ture (formerly known as Stokely Carmichael) and
+Charles V. Hamilton, provides evidence backing up the ideology of double
+consciousness in regards to black people in the United States. The book
+opens up by defining racism as "the predication of decisions and
+policies on considerations of race for the purpose of subordinating a
+---------------
+3). Therefore, the subordinate group, black people, must think of
+themselves in terms of the oppressive population, white. Individual
+racism and institutional racism both contribute to double consciousness.
+On an individual level, double consciousness is practiced within every
+day interactions, and on an institutional level, it impacts how black
+people function throughout society. "Black People are legal citizens of
+---------------
+United States are essentially equal to whites under written law, there
+remain deeply rooted inequities between the races that reinforce double
+consciousness. Because these differences are not evident under the U.S.
+Constitution and the Bill of Rights, they are an experience.
+
+---------------
+[edit]
+
+Even though the framework of double consciousness can be applied to an
+African Diaspora and Transnationality, the nuances of racial dynamics
+differ from nation to nation. In Germany, for example, the political
+---------------
+Germanness".^([21]) This means that for Black Germans during the Third
+Reich, the psychological dilemmas of "two-ness" did not necessarily map
+onto the double consciousness dynamic W. E. B. Du Bois first identified
+in 1897. For Black Germans in the early 20th century, there was no
+stable idea or community of blackness with which they could fully, or
+---------------
+
+-   Cognitive dissonance
+-   Dual consciousness
+-   False consciousness
+-   Frances Beale
+-   Frantz Fanon
+---------------
+    The Atlantic.
+5.  ^ Pittman, John P. (2024), Zalta, Edward N.; Nodelman, Uri (eds.),
+    "Double Consciousness", The Stanford Encyclopedia of Philosophy
+    (Summer 2024 ed.), Metaphysics Research Lab, Stanford University,
+    retrieved 2024-10-30
+---------------
+    Diaspora. Malden, MA: Blackwell Publishing, 2006, p. 49.
+8.  ^ ^(a) ^(b) Gilroy, Paul (1993). The black Atlantic: modernity and
+    double consciousness. Cambridge, Massachusetts. ISBN 9780860914013.
+    OCLC 28112279.{{cite book}}: CS1 maint: location missing publisher
+    (link)
+---------------
+    Community Development Journal, Vol. 32, No. 3 (July 1997): p. 233.
+10. ^ Moore, T. Owens (2005). "A Fanonian Perspective on Double
+    Consciousness". Journal of Black Studies. 35 (6): 751–762.
+11. ^ ^(a) ^(b) 1925-1961., Fanon, Frantz, (2008). Black skin, white
+    masks (1st ed., New ed.). New York: Grove Press. ISBN 0802143008.
+---------------
+13. ^ Nehring, Cristina. "Shakespeare in Love, or in Context". The
+    Atlantic. Retrieved 30 April 2017.
+14. ^ Flores, Juan (Winter 2005). "Triple Consciousness? Afro-Latinos on
+    the Color Line". Wadabagei. 8 (1): 80–85 – via ProQuest.
+15. ^ "Anna J. Cooper (Anna Julia), 1858-1964. A Voice from the South".
+---------------
+    imaginaries in Puerto Rico and the diaspora". Latino Studies. 8 (2):
+    195–219. doi:10.1057/lst.2010.17. S2CID 148441911.
+17. ^ "Triple Consciousness and the Black Woman - Beyond Black & White".
+    Beyond Black & White. 2013-02-11. Retrieved 2018-03-24.
+18. ^ "The Double Consciousness of a Black Woman". Her Campus. Retrieved
+    2018-03-24.
+19. ^ Beale, Francis M. Double Jeopardy: To Be Black and Female. Double
+---------------
+[edit]
+
+-   Gilroy, Paul. The Black Atlantic: Modernity and Double Consciousness
+    Cambridge, Mass.: Harvard UP, 1993. Print.
+-   Ture, Kwame. "Black Power The Politics of Liberation." New York, New
+---------------
+
+-   Ernest Allen Jr.'s "On the Reading of Riddles: Rethinking DuBoisian
+    Double Consciousness from Existence in Black" at the Wayback Machine
+    (archived October 11, 2012)
+-   "The Two Nations of Black America" with Henry Louis Gates Jr. – PBS
+---------------
+| Concepts                          | -   Talented Tenth                |
+|                                   | -   Color line                    |
+|                                   | -   Double consciousness          |
++-----------------------------------+-----------------------------------+
+| Non-fiction                       | -   The Suppression of the        |
+---------------
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Double_consciousness&oldid=1261494784"
+
+Categories:

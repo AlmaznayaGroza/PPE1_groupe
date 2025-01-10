@@ -5,6 +5,7 @@
 
 #!/bin/bash
 
+
 FICHIER=$1
 OUTPUT=$2
 LANGUE=$3
@@ -70,26 +71,32 @@ done
 
 # Supprimer tous les fichiers dans le dossier ./aspirations/
 if [[ -d "./aspirations" ]]; then
-    rm -rf ./aspirations/*
+    rm -rf ./aspirations/$LANGUE-*
     echo "Tous les fichiers dans ./aspirations/ ont été supprimés."
 fi
 
 # Supprimer tous les fichiers dans le dossier ./dumps-text/
 if [[ -d "./dumps-text" ]]; then
-    rm -rf ./dumps-text/*
+    rm -rf ./dumps-text/$LANGUE-*
     echo "Tous les fichiers dans ./dumps-text/ ont été supprimés."
 fi
 
 # Supprimer tous les fichiers dans le dossier ./tableaux/
 if [[ -d "./tableaux" ]]; then
-    rm -rf ./tableaux/*
+    rm -rf ./tableaux/$LANGUE-*
     echo "Tous les fichiers dans ./tableaux/ ont été supprimés."
 fi
 
 # Supprimer tous les fichiers dans le dossier ./contextes/
 if [[ -d "./contextes" ]]; then
-    rm -rf ./contextes/*
+    rm -rf ./contextes/$LANGUE-*
     echo "Tous les fichiers dans ./contextes/ ont été supprimés."
+fi
+
+# Supprimer tous les fichiers dans le dossier ./concordances/
+if [[ -d "./concordances" ]]; then
+    rm -rf ./concordances/$LANGUE-*
+    echo "Tous les fichiers dans ./concordances/ ont été supprimés."
 fi
 
 # Vérification des arguments
@@ -147,6 +154,8 @@ echo "<!DOCTYPE html>
                             <th>Occurrences du mot ${HEADER2}</th>
                             <th>Contextes du mot ${HEADER1}</th>
                             <th>Contextes du mot ${HEADER2}</th>
+                            <th>Concordances du mot ${HEADER1}</th>
+                            <th>Concordances du mot ${HEADER2}</th>
                         </tr>
                     </thead>
                     <tbody>"
@@ -236,15 +245,32 @@ while read -r URL; do
                         grep -i -A 2 -B 2 "$MOT2" ./dumps-text/$LANGUE-$lineno.txt | sed 's/^--$/---------------/' > ./contextes/$LANGUE-mot2-$lineno.txt
                     fi
 
+                    # Execution du script concordancier
+
+                    if [[ -n "$VARIANTES_FILE1" || -n "$VARIANTES_FILE2" ]]; then
+                        bash ./programmes/concordancier.sh $LANGUE $VARIANTES_FILE1 $VARIANTES_FILE2 ./dumps-text/$LANGUE-$lineno.txt
+                    else
+                        bash ./programmes/concordancier.sh $LANGUE $MOT1 $MOT2 ./dumps-text/$LANGUE-$lineno.txt
+                    fi
+
+
+
                     # Liens vers les fichiers de contexte
                     contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
                     contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
+
+                    # Liens vers les fichiers de concordances
+
+                    concordance1_link="<a href='../concordances/$LANGUE-$lineno-group1-concordance.html'>concordances</a>"
+                    concordance2_link="<a href='../concordances/$LANGUE-$lineno-group2-concordance.html'>concordances</a>"
 
                 else
                     compte1=""
                     compte2=""
                     contexte1_link=""
                     contexte2_link=""
+                    concordance1_link=""
+                    concordance2_link=""
                     echo "Le fichier dump pour $URL est vide. Aucun comptage ni contexte extrait."
                 fi
 
@@ -258,6 +284,8 @@ while read -r URL; do
                 compte2=""
                 contexte1_link=""
                 contexte2_link=""
+                concordance1_link=""
+                concordance2_link=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             fi
 
@@ -272,6 +300,8 @@ while read -r URL; do
                 compte2=""
                 contexte1_link=""
                 contexte2_link=""
+                concordance1_link=""
+                concordance2_link=""
                 rm -f "./aspirations/$LANGUE-$lineno.html" "./dumps-text/$LANGUE-$lineno.txt"
             # Sinon, afficher les liens vers le fichier aspiré et le dump text
             else
@@ -279,6 +309,8 @@ while read -r URL; do
                 dumplink="<a href='../dumps-text/$LANGUE-$lineno.txt'>dump</a>"
                 contexte1_link="<a href='../contextes/$LANGUE-mot1-$lineno.txt'>contextes</a>"
                 contexte2_link="<a href='../contextes/$LANGUE-mot2-$lineno.txt'>contextes</a>"
+                concordance1_link="<a href='../concordances/$LANGUE-$lineno-group1-concordance.html'>concordances</a>"
+                concordance2_link="<a href='../concordances/$LANGUE-$lineno-group2-concordance.html'>concordances</a>"
             fi
             # Si le fichier a été converti, ajouter "(UTF-8)" dans la colonne dump
             if [[ -n "$converted_flag" && -f "./dumps-text/$LANGUE-$lineno.txt" ]]; then
@@ -295,6 +327,8 @@ while read -r URL; do
             compte2=""
             contexte1_link=""
             contexte2_link=""
+            concordance1_link=""
+            concordance2_link=""
         fi
     # Sinon, si le code HTTP est différent de 200, afficher un message d'erreur et initialiser les valeurs à vide
     else
@@ -307,6 +341,8 @@ while read -r URL; do
         compte2=""
         contexte1_link=""
         contexte2_link=""
+        concordance1_link=""
+        concordance2_link=""
     fi
 
     # Préparer les valeurs d'affichage
@@ -318,6 +354,11 @@ while read -r URL; do
     header2_display="${compte2:-/}"
     header3_display="${contexte1_link:-/}"
     header4_display="${contexte2_link:-/}"
+    header5_display="${concordance1_link:-/}"
+    header6_display="${concordance2_link:-/}"
+
+
+
 
     echo "<tr>
         <td>$lineno</td>
@@ -331,6 +372,8 @@ while read -r URL; do
         <td>$header2_display</td>
         <td>$header3_display</td>
         <td>$header4_display</td>
+        <td>$header5_display</td>
+        <td>$header6_display</td>
     </tr>"
 
     ((lineno++))

@@ -1,60 +1,119 @@
-          + Emotions, moods, and traits
-     * (BUTTON) Main problematic phenomena
-          + Consciousness
-          + Rationality
-               o Deduction
---
-               o Block’s “nation of China”
-     * (BUTTON) Further issues
-          + Consciousness reconsidered
-               o Executives, buffers, and HOTs
-               o “What it’s like”
---
-   Philosophy & Religion Philosophical Issues
+Money Videos
 
-Consciousness
+consciousness
 
-   inphilosophy of mind inMain problematic phenomena
---
-   See all related content
+Table of Contents
+---------------
+Videos
 
-   The word consciousness is used in a variety of ways that need to be
-   distinguished. Sometimes the word means merely any human mental
-   activity at all (as when one talks about the “history of
-   consciousness”), and sometimes it means merely being awake (as in As
-   the anesthetic wore off, the animal regained consciousness). The most
-   philosophically troublesome usage concerns phenomena with which people
-   seem to be “directly acquainted”—as the British philosopher Bertrand
---
+[Exploring different states of consciousness]
 
-   It turns out to be surprisingly difficult to say much about
-   consciousness that is not highly controversial. Initial efforts in the
-   19th century to approach psychology with the rigour of other
-   experimental sciences led researchers to engage in careful
---
-   the consequent pitfalls of thinking of conscious processes as the
-   central subject matter of psychology. While it can seem natural to
-   think that all mental phenomena are accessible to consciousness, close
-   attention to the full range of cases suggests otherwise. The
-   Austrian-born British philosopher Ludwig Wittgenstein (1889–1951) was
---
-   In a related vein, the American linguist Ray Jackendoff proposed that
-   one is never directly conscious of abstract ideas, such as goodness and
-   justice—they are not items in the stream of consciousness. At best, one
-   is aware of the perceptual qualities one might associate with such
-   ideas—for example, an image of someone acting in a kindly way. While it
---
+Discover
+---------------
+Health & Medicine Psychology & Mental Health
 
-   Partly out of frustration with introspectionism, psychologists during
-   the first half of the 20th century tended to ignore consciousness
-   entirely and instead study only “objective behaviour” (see below
-   Radical behaviourism). In the last decades of the century,
-   psychologists began to turn their attention once again to consciousness
-   and introspection, but their methods differed radically from those of
-   early introspectionists, in ways that can be understood against the
---
-   all. If a person does not have immediate knowledge of it, why is it not
-   merely part of the purely physical machinery of the brain? Why bring in
-   mentality at all? Accessibility to consciousness, however, is not the
-   only criterion for determining whether a given state or process is
-   mental. One alternative criterion is that mental states and processes
+consciousness
+
+Ask the Chatbot a Question
+---------------
+URL
+
+https://www.britannica.com/topic/consciousness
+
+Feedback
+---------------
+External Websites
+
+-   University of Virginia - School of Medicine - Consciousness -- What
+    Is It? (PDF)
+-   Rebus Community - Introduction to Philosophy: Philosophy of Mind -
+    Consciousness
+-   Frontiers - Human Consciousness: Where is it from and what is it for
+-   National Center for Biotechnology Information - PubMed Central -
+    Conscience and Consciousness: a definition
+-   Internet Encyclopedia of Philosophy - Consciousness
+-   Social Sciences Libretexts - Consciousness
+-   Stanford Encyclopedia of Philosophy - Consciousness
+-   LOUIS Pressbooks - Introduction to Psychology - What Is
+    Consciousness?
+-   University of Saskatchewan Pressbooks - States of Consciousness
+-   Verywell Mind - Consciousness in Psychology
+
+Ask the Chatbot a Question
+---------------
+    introspection
+    sensation
+    stream of consciousness
+    reflection
+
+---------------
+
+On the Web:
+    University of Virginia - School of Medicine - Consciousness -- What
+    Is It? (PDF) (Dec. 19, 2024)
+
+---------------
+See all related content
+
+consciousness, a psychological condition defined by the English
+philosopher John Locke as “the perception of what passes in a man’s own
+mind.”
+---------------
+life and also described the difference between the normal waking state
+of animals and men and their condition when asleep, in a coma, or under
+anesthesia (the latter condition was described as unconsciousness).
+Other descriptions included an analysis of consciousness as a form of
+relationship or act of the mind toward objects in nature, and a view
+that consciousness was a continuous field or stream of essentially
+mental “sense data,” roughly similar to the “ideas” of earlier empirical
+philosophers.
+---------------
+More From Britannica
+
+nervous system disease: Altered consciousness
+
+The method employed by most early writers in observing consciousness was
+introspection—looking within one’s own mind to discover the laws of its
+operation. The limitations of the method became apparent when it was
+---------------
+In behaviourist psychology, derived primarily from work of the American
+psychologist John B. Watson in the early 1900s, the concept of
+consciousness was irrelevant to the objective investigation of human
+behaviour and was doctrinally ignored in research. Neobehaviourists,
+however, adopted a more liberal posture toward mentalistic states such
+as consciousness.
+
+Neurophysiological mechanisms
+
+That consciousness depends on the function of the brain has been known
+from ancient times. Although detailed understanding of the neural
+mechanisms of consciousness has not been achieved, correlations between
+states of consciousness and functions of the brain are possible. Levels
+of consciousness in terms of levels of alertness or responsiveness are
+correlated with patterns of electrical activity of the brain (brain
+waves) recorded by an electroencephalograph. During wide-awake
+consciousness the pattern of brain waves consists of rapid irregular
+waves of low amplitude or voltage. In contrast, during sleep, when
+consciousness can be said to be minimal, the brain waves are much slower
+and of greater amplitude, often coming in periodic bursts of slow waxing
+and waning amplitude.
+
+Both behavioral levels of consciousness and the correlated patterns of
+electrical activity are related to the function of a part of the
+brainstem called the reticular formation. Electrical stimulation of the
+ascending reticular systems arouses a sleeping cat to alert
+consciousness and simultaneously activates its brain waves to the waking
+pattern.
+
+---------------
+
+It was once supposed that the neurophysiological mechanisms subserving
+consciousness and the higher mental processes must reside in the cortex.
+It is more likely, however, that the cortex serves the more specialized
+functions of integrating patterns of sensory experience and organizing
+motor patterns and that the ascending reticular system represents the
+neural structures most critically related to consciousness. The
+brainstem reticular formation should not, however, be called the seat of
+consciousness. It represents an integrative focus, functioning through
+its widespread interconnections with the cortex and other regions of the
+brain. See also introspection; unconscious.

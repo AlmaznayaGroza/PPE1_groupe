@@ -1,91 +1,616 @@
-   Subscribe now
+-   Published: 03 May 2022
 
-What are the four main theories of consciousness?
+Theories of consciousness
 
-   By Anil Seth
+-   Anil K. Seth[]  ORCID: orcid.org/0000-0002-1421-6051^(1,2) &
+---------------
+Subjects
 
-   What are the four main theories of consciousness?
+-   Consciousness
+-   Neuroscience
 
-   Shutterstock / agsandrew
+---------------
 
-   In the early days of modern consciousness science, back in the 1990s,
-   researchers focused on identifying empirical correlations between
-   aspects of conscious experience and properties of brain activity. This
-   search for the “neural correlates of consciousness” was motivated in
-   part as a response to concerns, pervasive through much of the 20th
-   century, that consciousness lay beyond the remit of science altogether.
-   But despite its many successes, this approach is limited because
-   correlations aren’t explanations, no matter how many you identify.
+Recent years have seen a blossoming of theories about the biological and
+physical basis of consciousness. Good theories guide empirical research,
+allowing us to interpret data, develop new experimental techniques and
+expand our capacity to manipulate the phenomenon of interest. Indeed, it
+is only when couched in terms of a theory that empirical discoveries can
+ultimately deliver a satisfying understanding of a phenomenon. However,
+in the case of consciousness, it is unclear how current theories relate
+to each other, or whether they can be empirically distinguished. To
+clarify this complicated landscape, we review four prominent theoretical
+approaches to consciousness: higher-order theories, global workspace
+theories, re-entry and predictive processing theories and integrated
+information theory. We describe the key characteristics of each approach
+by identifying which aspects of consciousness they propose to explain,
+what their neurobiological commitments are and what empirical data are
+adduced in their support. We consider how some prominent empirical
+debates might distinguish among these theories, and we outline three
+ways in which theories need to be developed to deliver a mature regimen
+of theory-testing in the neuroscience of consciousness. There are good
+reasons to think that the iterative development, testing and comparison
+of theories of consciousness will lead to a deeper understanding of this
+most profound of mysteries.
 
-   In recent years, however, there has been a blossoming of
-   neurobiological theories of consciousness. This is a sign of the
-   field’s growing maturity, because it is only when couched in terms of a
-   theory that experimental findings can deliver a satisfactory
-   understanding of consciousness.
+---------------
+[]
 
-   There are currently four main theoretical approaches in consciousness
-   science. According to higher-order theories, a mental state is
-   conscious when another mental state – higher up in a hierarchy – says
-   that it is. For these theories, the devil is in the detail about what
-   kinds of “higher-order” representations count for consciousness.
+Two conceptions of consciousness and why only the neo-Aristotelian one enables us to construct evolutionary explanations
 
-   Global workspace theories propose that mental states are conscious when
-   they are broadcast widely throughout the brain, so that they can be
-   used to flexibly guide behaviour. A good way to think about global
-   workspace theory is that consciousness depends on “fame in the brain” –
-   conscious mental states have access to a wide range of cognitive
-   processes in ways that unconscious mental states don’t.
---
-   Advertisement
+Article Open access 15 September 2020
+---------------
+[]
 
-Take our online consciousness course, where experts Anil Seth, Nicola Clayton
-and Christof Koch reveal neuroscience’s deepest mystery
+The ConTraSt database for analysing and comparing empirical studies of consciousness theories
 
-   These two theories focus on functional aspects of consciousness and
-   emphasise frontal (at the front) and parietal (towards the back and off
-   to the sides) brain regions. By contrast, integrated information theory
-   focuses on phenomenological aspects of consciousness – what it is like,
-   experientially – and proposes that consciousness is associated with a
-   posterior cortical “hot zone”, located towards the back of the brain
-   and including parts of the parietal, temporal and occipital lobes.
-   According to this theory, consciousness depends on the ability of a
-   system to generate integrated information.
+Article 21 February 2022
+---------------
+[]
 
-   The fourth approach, known as predictive processing, is more indirect,
-   being used primarily to build explanatory bridges between aspects of
-   consciousness and their underlying neural mechanisms. There are several
-   examples of this approach, ranging from those which associate
-   consciousness with top-down signalling in the brain to my own “beast
-   machine” theory. For these theories, the idea is that by progressively
-   accounting for diverse aspects of consciousness, they can ultimately
-   shift from being theories for consciousness science towards being
-   theories of consciousness itself.
+The complexity of the stream of consciousness
 
-   Anil Seth is a Professor at the University of Sussex and author of the
-   new book Being You – A New Science of Consciousness (Faber/Dutton,
-   2021).
+Article Open access 03 November 2022
+---------------
 
-Read more on consciousness
+1.  Crick, F. & Koch, C. Towards a neurobiological theory of
+    consciousness. Semin. Neurosci. 2, 263–275 (1990).
 
-     * Inside the strange truth of reality
-     * Is the universe conscious? It seems impossible until you do the
-       maths
-     * Consciousness isn’t just the brain: The body shapes your sense of
-       self
+    Google Scholar 
 
---
-   Sign up
+2.  Metzinger, T. (ed.) Neural Correlates of Consciousness: Empirical
+    and Conceptual Questions (MIT Press, 2000).
 
-More on What are the four main theories of consciousness?
+3.  Koch, C., Massimini, M., Boly, M. & Tononi, G. Neural correlates of
+    consciousness: progress and problems. Nat. Rev. Neurosci. 17,
+    307–321 (2016).
 
-Technology
---
-Related articles
+---------------
 
-   Consciousness
+4.  de Graaf, T. A., Hsieh, P. J. & Sack, A. T. The ‘correlates’ in
+    neural correlates of consciousness. Neurosci. Biobehav. Rev. 36,
+    191–197 (2012).
 
-Definition
+---------------
 
-Consciousness
+5.  Aru, J., Bachmann, T., Singer, W. & Melloni, L. Distilling the
+    neural correlates of consciousness. Neurosci. Biobehav. Rev. 36,
+    737–746 (2012).
 
-   Free
+---------------
+
+6.  Tsuchiya, N., Wilke, M., Frassle, S. & Lamme, V. A. No-report
+    paradigms: extracting the true neural correlates of consciousness.
+    Trends Cogn. Sci. 19, 757–770 (2015).
+
+---------------
+
+7.  Klein, C., Hohwy, J. & Bayne, T. Explanation in the science of
+    consciousness: from the neural correlates of consciousness (NCCs) to
+    the difference-makers of consciousness (DMCs). Philos. Mind Sci.
+    https://doi.org/10.33735/phimisci.2020.II.60 (2020).
+
+---------------
+
+8.  Michel, M. et al. Opportunities and challenges for a maturing
+    science of consciousness. Nat. Hum. Behav. 3, 104–107 (2019).
+
+    Article  PubMed  PubMed Central  Google Scholar 
+
+9.  Seth, A. K. Consciousness: the last 50 years (and the next). Brain
+    Neurosci. Adv. 2, 2398212818816019 (2018).
+
+    Article  PubMed  PubMed Central  Google Scholar 
+
+10. Seth, A. K. Explanatory correlates of consciousness: theoretical and
+    computational challenges. Cogn. Comput. 1, 50–63 (2009).
+
+---------------
+    Google Scholar 
+
+13. Seth, A. K. Being You: A New Science of Consciousness (Faber &
+    Faber, 2021).
+
+---------------
+    Google Scholar 
+
+15. Frankish, K. Illusionism as a Theory of Consciousness (Imprint
+    Academic, 2017).
+
+16. Wiese, W. The science of consciousness does not need another theory,
+    it needs a minimal unifying model. Neurosci. Conscious. 2020,
+    niaa013 (2020).
+---------------
+
+17. Melloni, L., Mudrik, L., Pitts, M. & Koch, C. Making the hard
+    problem of consciousness easier. Science 372, 911–912 (2021). This
+    work sets out how an adversarial collaboration is planning to
+    arbitrate between integrated information and global workspace ToCs.
+---------------
+    Article  CAS  PubMed  Google Scholar 
+
+18. Hameroff, S. & Penrose, R. Consciousness in the universe: a review
+    of the ‘Orch OR’ theory. Phys. Life Rev. 11, 39–78 (2014).
+
+    Article  PubMed  Google Scholar 
+
+19. Chalmers, D. J. & McQueen, K. in Quantum Mechanics and Consciousness
+    (ed Gao, S.) (Oxford Univ. Press, 2022).
+
+---------------
+
+21. Bayne, T., Hohwy, J. & Owen, A. M. Are there levels of
+    consciousness? Trends Cogn. Sci. 20, 405–413 (2016). This work
+    challenges the common unidimensional notion of ‘level of
+    consciousness’, outlining an alternative, richer, multidimensional
+    account.
+
+---------------
+
+24. Park, H. D. & Tallon-Baudry, C. The neural subjective frame: from
+    bodily signals to perceptual consciousness. Philos. Trans. R. Soc.
+    Lond. B Biol. Sci. 369, 20130208 (2014).
+
+    Article  PubMed  PubMed Central  Google Scholar 
+
+25. Bayne, T. The Unity of Consciousness (Oxford Univ. Press, 2010).
+
+26. Bayne, T. & Chalmers, D. J. in The Unity of Consciousness: Binding,
+    Integration, and Dissociation (ed Cleeremans, A.) 23–58 (Oxford
+    Univ. Press, 2003).
+---------------
+
+28. Blake, R., Brascamp, J. & Heeger, D. J. Can binocular rivalry reveal
+    neural correlates of consciousness? Philos. Trans. R. Soc. Lond. B
+    Biol. Sci. 369, 20130211 (2014).
+
+---------------
+
+29. Signorelli, C. M., Szczotka, J. & Prentner, R. Explanatory profiles
+    of models of consciousness — towards a systematic classification.
+    Neurosci. Conscious. 2021, niab021 (2021).
+
+---------------
+    Article  PubMed  Google Scholar 
+
+31. Rosenthal, D. Consciousness and Mind (Clarendon, 2005).
+
+32. Brown, R. The HOROR theory of phenomenal consciousness. Philos.
+    Stud. 172, 1783–1794 (2015).
+
+    Article  Google Scholar 
+
+33. Cleeremans, A. Consciousness: the radical plasticity thesis. Prog.
+    Brain Res. 168, 19–33 (2008).
+
+---------------
+    Article  PubMed  PubMed Central  Google Scholar 
+
+36. Lau, H. Consciousness, metacognition, and perceptual reality
+    monitoring. Preprint at ArXiv https://doi.org/10.31234/osf.io/ckbyf
+    (2020).
+---------------
+
+41. LeDoux, J. E. & Brown, R. A higher-order theory of emotional
+    consciousness. Proc. Natl Acad. Sci. USA 114, E2016–E2025 (2017).
+
+    Article  CAS  PubMed  PubMed Central  Google Scholar 
+---------------
+    Article  Google Scholar 
+
+44. Rosenthal, D. Consciousness and its function. Neuropsychologia 46,
+    829–840 (2008).
+
+---------------
+
+46. Brown, R., Lau, H. & LeDoux, J. E. Understanding the higher-order
+    approach to consciousness. Trends Cogn. Sci. 23, 754–768 (2019).
+
+    Article  PubMed  Google Scholar 
+
+47. Baars, B. J. A Cognitive Theory of Consciousness (Cambridge Univ.
+    Press, 1988).
+
+---------------
+    Article  CAS  PubMed  PubMed Central  Google Scholar 
+
+51. Naccache, L. Why and how access consciousness can account for
+    phenomenal consciousness. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+    https://doi.org/10.1098/rstb.2017.0357 (2018).
+
+---------------
+
+52. Mashour, G. A. Cognitive unbinding: a neuroscientific paradigm of
+    general anesthesia and related states of unconsciousness. Neurosci.
+    Biobehav. Rev. 37, 2751–2759 (2013).
+
+    Article  PubMed  Google Scholar 
+
+53. Demertzi, A. et al. Human consciousness is supported by dynamic
+    complex patterns of brain signal coordination. Sci. Adv. 5, eaat7603
+    (2019). This large empirical study of functional connectivity
+    patterns across different global states of consciousness focuses on
+    how these patterns relate to underlying structural connectivity.
+
+    Article  CAS  PubMed  PubMed Central  Google Scholar 
+
+54. Barttfeld, P. et al. Signature of consciousness in the dynamics of
+    resting-state brain activity. Proc. Natl Acad. Sci. USA 112, 887–892
+    (2015).
+---------------
+    Article  PubMed  Google Scholar 
+
+56. Carruthers, P. Human and Animal Minds: The Consciousness Questions
+    Laid to Rest (Oxford Univ. Press, 2019).
+
+57. Tononi, G. Consciousness as integrated information: a provisional
+    manifesto. Biol. Bull. 215, 216–242 (2008).
+
+    Article  PubMed  Google Scholar 
+
+58. Tononi, G. Integrated information theory of consciousness: an
+    updated account. Arch. Ital. Biol. 150, 293–329 (2012).
+
+---------------
+
+59. Tononi, G., Boly, M., Massimini, M. & Koch, C. Integrated
+    information theory: from consciousness to its physical substrate.
+    Nat. Rev. Neurosci. 17, 450–461 (2016). This work presents an
+    account of the core claims and concepts of the integrated
+---------------
+
+60. Oizumi, M., Albantakis, L. & Tononi, G. From the phenomenology to
+    the mechanisms of consciousness: integrated information theory 3.0.
+    PLoS Comput. Biol. 10, e1003588 (2014).
+
+    Article  PubMed  PubMed Central  CAS  Google Scholar 
+
+61. Tononi, G. & Koch, C. Consciousness: here, there and everywhere?
+    Philos. Trans. R. Soc. Lond. B Biol. Sci.
+    https://doi.org/10.1098/rstb.2014.0167 (2015).
+---------------
+    Article  PubMed  PubMed Central  Google Scholar 
+
+65. Lamme, V. A. Towards a true neural stance on consciousness. Trends
+    Cogn. Sci. 10, 494–501 (2006).
+
+---------------
+
+67. Hohwy, J. & Seth, A. K. Predictive processing as a systematic basis
+    for identifying the neural correlates of consciousness. Philos. Mind
+    Sci. 1, 3 (2020).
+
+---------------
+    Article  CAS  PubMed  PubMed Central  Google Scholar 
+
+71. Lamme, V. A. How neuroscience will change our view on consciousness.
+    Cogn. Neurosci. 1, 204–220 (2010).
+
+---------------
+
+76. Friston, K. J. Am I self-conscious? (Or does self-organization
+    entail self-consciousness?). Front. Psychol. 9, 579 (2018).
+
+    Article  PubMed  PubMed Central  Google Scholar 
+---------------
+    Article  PubMed  PubMed Central  Google Scholar 
+
+84. Pennartz, C. M. A. Consciousness, representation, action: the
+    importance of being goal-directed. Trends Cogn. Sci. 22, 137–153
+    (2018).
+---------------
+
+85. Williford, K., Bennequin, D., Friston, K. & Rudrauf, D. The
+    projective consciousness model and phenomenal selfhood. Front.
+    Psychol. 9, 2571 (2018).
+
+---------------
+
+88. O’Regan, J. K. & Noë, A. A sensorimotor account of vision and visual
+    consciousness. Behav. Brain Sci. 24, 939–973; discussion 973–1031
+    (2001). This primary description of the sensorimotor ToC argues that
+    conscious perception is intimately related to action.
+---------------
+    Article  PubMed  PubMed Central  Google Scholar 
+
+91. Solms, M. The hard problem of consciousness and the free energy
+    principle. Front. Psychol. 9, 2714 (2018).
+
+---------------
+    processes in the vegetative state. Science 332, 858–862 (2011). This
+    neuroimaging study uses dynamic causal modelling to show that loss
+    of consciousness in the vegetative state is associated with impaired
+    top-down connectivity from frontal to temporal cortices.
+
+---------------
+
+100. Lau, H. & Passingham, R. E. Relative blindsight in normal observers
+     and the neural correlate of visual consciousness. Proc. Natl Acad.
+     Sci. USA 103, 18763–18768 (2006). This empirical study compares
+     conscious and unconscious visual perception in humans, controlling
+---------------
+103. Panagiotaropoulos, T. I., Deco, G., Kapoor, V. & Logothetis, N. K.
+     Neuronal discharges and gamma oscillations explicitly reflect
+     visual consciousness in the lateral prefrontal cortex. Neuron 74,
+     924–935 (2012).
+
+---------------
+     Article  CAS  PubMed  PubMed Central  Google Scholar 
+
+107. Boly, M. et al. Are the neural correlates of consciousness in the
+     front or in the back of the cerebral cortex? Clinical and
+     neuroimaging evidence. J. Neurosci. 37, 9603–9613 (2017).
+---------------
+
+108. Raccah, O., Block, N. & Fox, K. C. R. Does the prefrontal cortex
+     play an essential role in consciousness? Insights from intracranial
+     electrical stimulation of the human brain. J. Neurosci. 41,
+     2076–2087 (2021).
+---------------
+
+113. Wong, W. et al. The Dream Catcher experiment: blinded analyses
+     failed to detect markers of dreaming consciousness in EEG spectral
+     power. Neurosci. Conscious. 2020, niaa006 (2020).
+
+     Article  PubMed  PubMed Central  Google Scholar 
+
+114. Block, N. Consciousness, accessibility, and the mesh between
+     psychology and neuroscience. Behav. Brain Sci. 30, 481–548 (2007).
+     This work argues that research in psychology and neuroscience shows
+     that there is a real and not merely conceptual distinction between
+     phenomenal consciousness (that is, experience) and cognitive access
+     to phenomenal consciousness.
+
+     Article  PubMed  Google Scholar 
+---------------
+
+118. Dembski, C., Koch, C. & Pitts, M. Perceptual awareness negativity:
+     a physiological correlate of sensory consciousness. Trends Cogn.
+     Sci. 25, 660–670 (2021).
+
+---------------
+
+121. Michel, M. & Doerig, A. A new empirical challenge for local
+     theories of consciousness. Mind Lang.
+     https://doi.org/10.1111/mila.12319 (2021).
+
+---------------
+     Article  PubMed  PubMed Central  CAS  Google Scholar 
+
+124. Kent, L. & Wittmann, M. Special Issue: Consciousness science and
+     its theories. Time consciousness: the missing link in theories of
+     consciousness. Neurosci. Conscious. 2021, niab011 (2021).
+
+     Article  PubMed  PubMed Central  Google Scholar 
+---------------
+126. Yaron, I., Melloni, L., Pitts, M. & Mudrik, L. The ConTraSt
+     database for analyzing and comparing empirical studies of
+     consciousness theories. Nat. Hum. Behav.
+     https://doi.org/10.1038/s41562-021-01284-5 (2022). This work
+     presents an online resource of empirical studies of consciousness,
+     organized with respect to different ToCs.
+
+---------------
+
+131. Vilas, M. G., Auksztulewicz, R. & Melloni, L. Active inference as a
+     computational framework for consciousness. Rev. Philos. Psychol.
+     https://doi.org/10.1007/s13164-021-00579-w (2021).
+
+     Article  Google Scholar 
+
+132. Browning, H. & Veit, W. The measurement problem in consciousness.
+     Philos. Top. 48, 85–108 (2020).
+
+---------------
+
+133. Seth, A. K., Dienes, Z., Cleeremans, A., Overgaard, M. & Pessoa, L.
+     Measuring consciousness: relating behavioural and
+     neurophysiological approaches. Trends Cogn. Sci. 12, 314–321
+     (2008).
+---------------
+     Article  PubMed  PubMed Central  Google Scholar 
+
+134. Michel, M. Calibration in consciousness science. Erkenntnis
+     https://doi.org/10.1007/s10670-021-00383-z (2021).
+
+---------------
+
+135. Birch, J., Schnell, A. K. & Clayton, N. S. Dimensions of animal
+     consciousness. Trends Cogn. Sci. 24, 789–801 (2020).
+
+     Article  PubMed  PubMed Central  Google Scholar 
+---------------
+136. Bayne, T., Seth, A. K. & Massimini, M. Are there islands of
+     awareness? Trends Neurosci. 43, 6–16 (2020). This work presents an
+     examination of the possibility of consciousness in isolated neural
+     systems such as brain organoids, disconnected cortical hemispheres
+     and ex cranio brains.
+---------------
+     Article  CAS  PubMed  Google Scholar 
+
+137. Dehaene, S., Lau, H. & Kouider, S. What is consciousness, and could
+     machines have it? Science 358, 486–492 (2017).
+
+---------------
+     Article  PubMed  PubMed Central  Google Scholar 
+
+141. Jackendoff, R. Consciousness and the Computational Mind (MIT Press,
+     1987).
+
+---------------
+
+143. Chang, A. Y. C., Biehl, M., Yu, Y. & Kanai, R. Information closure
+     theory of consciousness. Front. Psychol. 11, 1504 (2020).
+
+     Article  PubMed  PubMed Central  Google Scholar 
+
+144. Tononi, G. & Edelman, G. M. Consciousness and complexity. Science
+     282, 1846–1851 (1998). This work presents an early proposal of how
+     measures of neural complexity might relate to phenomenological
+---------------
+
+147. Damasio, A. The Feeling of What Happens: Body and Emotion in the
+     Making of Consciousness (Harvest Books, 2000).
+
+148. Graziano, M. S. A. The attention schema theory: a foundation for
+     engineering artificial consciousness. Front. Robot. AI 4, 60
+     (2017).
+
+     Article  Google Scholar 
+
+149. Dennett, D. C. Consciousness Explained (Little, Brown, 1991).
+
+150. Ginsburg, S. & Jablonka, E. The Evolution of the Sensitive Soul:
+     Learning and the Origins of Consciousness (MIT Press, 2019).
+
+151. Aru, J., Suzuki, M. & Larkum, M. E. Cellular mechanisms of
+---------------
+
+152. McFadden, J. Integrating information in the brain’s EM field: the
+     cemi field theory of consciousness. Neurosci. Conscious. 2020,
+     niaa016 (2020).
+
+---------------
+
+155. Dehaene, S. & Naccache, L. Towards a cognitive neuroscience of
+     consciousness: basic evidence and a workspace framework. Cognition
+     79, 1–37 (2001).
+
+---------------
+
+156. Sergent, C., Baillet, S. & Dehaene, S. Timing of the brain events
+     underlying access to consciousness during the attentional blink.
+     Nat. Neurosci. 8, 1391–1400 (2005).
+
+---------------
+     Article  Google Scholar 
+
+158. Casali, A. G. et al. A theoretically based index of consciousness
+     independent of sensory processing and behavior. Sci. Transl. Med.
+     5, 198ra105 (2013). This empirical study shows that a measure of
+     the complexity of the cortical response to transcranial magnetic
+     stimulation distinguishes between a range of global conscious
+     states, including disorders of consciousness.
+
+     Article  PubMed  Google Scholar 
+
+159. Luppi, A. I. et al. Consciousness-specific dynamic interactions of
+     brain integration and functional diversity. Nat. Commun. 10, 4616
+     (2019).
+---------------
+     Article  PubMed  Google Scholar 
+
+164. Chalmers, D. J. Facing up to the problem of consciousness. J.
+     Conscious. Stud. 23, 200–219 (1995). This work presents the classic
+     statement of the philosophical distinction between the ‘hard’ and
+     ‘easy’ problems of consciousness.
+
+     Google Scholar 
+---------------
+     Univ. Press, 2009).
+
+168. Perry, J. Knowledge, Possibility, and Consciousness (MIT Press,
+     2001).
+
+---------------
+
+171. Solms, M. The Hidden Spring: A Journey to the Source of
+     Consciousness (Profile Books, 2021).
+
+172. Merker, B. Consciousness without a cerebral cortex: a challenge for
+     neuroscience and medicine. Behav. Brain Sci. 30, 63–81; discussion
+     81–134 (2007).
+---------------
+     Article  PubMed  Google Scholar 
+
+173. Parvizi, J. & Damasio, A. Consciousness and the brainstem.
+     Cognition 79, 135–160 (2001).
+
+---------------
+
+176. Shea, N. & Bayne, T. The vegetative state and the science of
+     consciousness. Br. J. Philos. Sci. 61, 459–484 (2010).
+
+     Article  PubMed  Google Scholar 
+
+177. Birch, J. The search for invertebrate consciousness. Noûs 56,
+     133–153 (2020).
+
+     Article  PubMed  PubMed Central  Google Scholar 
+
+178. Phillips, I. The methodological puzzle of phenomenal consciousness.
+     Philos. Trans. R. Soc. Lond. B Biol. Sci.
+     https://doi.org/10.1098/rstb.2017.0347 (2018).
+---------------
+
+A.K.S. is Co-Director of, and T.B. is a Fellow in, the CIFAR Program on
+Brain, Mind, and Consciousness. A.K.S. is additionally grateful to the
+European Research Council (Advanced Investigator Grant 101019254) and
+the Dr. Mortimer and Theresa Sackler Foundation.
+---------------
+Authors and Affiliations
+
+1.  Department of Informatics and Sackler Centre for Consciousness
+    Science, University of Sussex, Brighton, UK
+
+    Anil K. Seth
+
+2.  Program on Brain, Mind, and Consciousness, Canadian Institute for
+    Advanced Research (CIFAR), Toronto, Ontario, Canada
+
+---------------
+    Tim Bayne
+
+4.  Monash Centre for Consciousness and Contemplative Studies, Monash
+    University, Melbourne, Victoria, Australia
+
+---------------
+Glossary
+
+Neural correlates of consciousness
+
+    (NCCs). The minimal set of neural events that is jointly sufficient
+---------------
+
+    Intuitions that there is no prospect of a fully satisfying
+    explanation of consciousness in physical, mechanistic terms.
+
+Adversarial collaborations
+---------------
+Global states
+
+    Relating to an organism’s overall state of consciousness, usually
+    linked to arousal and behavioural responsiveness, and associated
+    with the ‘level’ of consciousness.
+
+Local states
+---------------
+    ‘from within’).
+
+Unity of consciousness
+
+    The fact that that the experiences that a single agent has at a time
+---------------
+Cite this article
+
+Seth, A.K., Bayne, T. Theories of consciousness. Nat Rev Neurosci 23,
+439–452 (2022). https://doi.org/10.1038/s41583-022-00587-4
+
+---------------
+This article is cited by
+
+-   Revolutionizing treatment for disorders of consciousness: a multidisciplinary review of advancements in deep brain stimulation
+
+    -   Yi Yang
+---------------
+    Military Medical Research (2024)
+
+-   Measuring the dynamic balance of integration and segregation underlying consciousness, anesthesia, and sleep in humans
+
+    -   Hyunwoo Jang
+---------------
+    Nature Communications (2024)
+
+-   Local orchestration of distributed functional patterns supporting loss and restoration of consciousness in the primate brain
+
+    -   Andrea I. Luppi
