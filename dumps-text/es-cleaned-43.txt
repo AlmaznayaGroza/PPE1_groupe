@@ -1,0 +1,3701 @@
+
+
+npunto
+
+ inicio
+ la revista
+ envío de articulos
+ información
+ calidad e indexación
+ información para lectores
+ información para autores
+ políticas de preservación digital
+ normas de publicación
+ consejo editorial
+ antiplagio y criterios
+ directrices para el revisora
+ proceso de evaluación por pares
+ contacto
+ entrar
+
+revistas npunto volumen vi
+
+ número 63
+
+ junio 2023 causas metabÓlicas que originan disminuciÓn de consciencia
+
+logo npunto
+
+npunto volumen vi
+
+ número 63
+
+ junio 2023
+
+orcid id iconhttpsorcid
+
+org0000000254086263 pdf versión
+versiÓn pdf citation to bibtex
+
+portada de npunto volumen vi
+
+ número 63
+
+ junio 2023
+
+causas metabÓlicas que originan disminuciÓn de consciencia npunto
+volumen vi
+
+ número 63
+
+ junio 2023
+
+
+
+anterior artículo
+
+siguiente artículo
+
+
+
+causas metabÓlicas que originan disminuciÓn de consciencia
+
+menéndez argüelles maría médico eventual de atención primaria en el Área v del sespa
+
+
+
+
+
+metabolic causes that cause decreased consciousness
+
+ 
+
+resumen
+
+el estupor y el coma son una causa frecuente de consulta en emergencias
+
+
+
+hay muchos elementos que pueden causar coma algunos de los cuales son
+tratables y es por eso por lo que es realmente útil tenerlos en cuenta
+en base al diagnóstico para optimizar el tratamiento
+
+
+
+los términos letargo estupor y obnubilación se refieren a estados entre
+coma y alerta pero es mejor describir el nivel de conciencia basado en
+escalas clínicas como gcs glasgow coma scale
+
+
+
+es relevante para la historia obtener las declaraciones de los testigos
+del proceso
+
+ información como la posibilidad de un traumatismo craneal
+los efectos personales y las recetas del paciente y también su historia
+clínica pueden ser decisivos
+
+
+
+el coma es una emergencia por lo que aparte de los tratamientos
+específicos basados en la causa el manejo debe priorizar las vías
+respiratorias la respiración y la circulación como en cualquier otra
+emergencia
+
+
+
+en el manejo la prioridad es distinguir las etiologías estructurales y
+tóxicometabólicas
+
+ los segundos suelen tener un desarrollo progresivo
+curso fluctuante y ausencia de signos focales
+
+ la aparición abrupta
+profunda y la presencia de signos focales sugeriría una causa
+estructural
+
+
+
+alrededor del 70 del estupor y el coma son causados por etiologías
+tóxicas y metabólicas
+
+
+
+hay muchas causas metabólicas tales como alteraciones de la glucosa
+hipoglucemia e hiperglucemia calcio sodio oxígeno
+
+
+
+ también otras
+patologías como insuficiencia hepática e insuficiencia renal o
+enfermedades específicas como porfiria y encefalopatía de wernicke
+podrían ser una causa
+
+
+
+cada una de estas causas tiene sus peculiaridades de tratamiento que
+son importantes conocer para tener un mayor enfoque del manejo del coma
+
+
+
+palabras clave metabolismo consciencia etiopatogenia evaluación
+diagnóstico tratamiento
+
+
+
+ 
+
+abstract
+
+stupor and coma are a frecuent cause of consultation in emergencies
+
+
+
+there are many elements that can cause coma some of which are
+treatable and that is why it is really useful to take them into account
+based on the dyagnosis to optimize the treatment
+
+
+
+the terms lethargy stupor and obtundation refer to states between coma
+and alertness but it is better to describe the level of consciousness
+based on clinical scales such as gcs – glasgow coma scale
+
+
+
+it is relevant to the history to obtain the statements of the ones who
+witness the process
+
+
+
+information such as the possibility of a head trauma the patient s
+personal effects and prescriptions and also their medical history can be
+decisive
+
+
+
+coma is an emergency so appart from  the specific treatments based on
+the cause the
+
+management should be prioritizing the abcs airway breathing and
+circulation like in any other emergency
+
+
+
+in the management the priority is to distinguish structural and
+toxicmetabolic etiologies
+
+ the second ones usually have a progressive
+development fluctuating course and abscence of focal signs
+
+ the abrupt
+appearance deep and the presence of focal signs would suggest an
+structural cause
+
+
+
+about the 70 of the stupor and coma are caused by toxic and metabolic
+etiologies
+
+
+
+there are many metabolic causes such as glucose alterations
+hypoglycemia and hyperglycemia  calcium sodium oxygen
+
+
+
+
+
+also other patologies like liver failure and renal insufficiency or
+specific diseases like porphyria and wernicke encephalopathy might be a
+cause
+
+
+
+each one of these causes has its treatment peculiarities which are
+important to be known in order to have a greater focus of the management
+of coma
+
+
+
+keywords metabolism consciousness etiopathogenesis evaluation
+diagnosis treatment
+
+
+
+ 
+
+introducciÓn
+
+la disminución del nivel de conciencia se trata de una causa muy
+frecuente de consulta en los servicios de urgencia tanto a nivel
+hospitalario como extrahospitalario
+
+
+
+existen multitud de causas que pueden dar lugar a disminución del nivel
+de conciencia algunas de ellas tratables por lo que resulta muy útil
+saber realizar la sospecha diagnóstica para optimizar el tratamiento
+inicial
+
+
+
+el estado de conciencia normal incluye estado de alerta conservado y
+respuesta a estímulos conciencia de sí mísmo y del entorno alternancia
+sueñovigilia
+
+
+
+el concepto coma es una situación clínica en la que hay disminución del
+nivel de conciencia de intensidad variable desde la somnolencia al coma
+profundo
+
+
+
+podemos encontrar los siguientes estados
+
+ somnolencia
+  tendencia al sueño con respuesta a órdenes y estímulos
+ obnubilaciÓn
+ respuesta a órdenes simples pero no órdenes complejas
+ estupor
+ falta de respuesta a las órdenes pero sí a estímulos dolorosos
+ coma profundo
+ ausencia total a las órdenes y estímulos dolorosos
+
+la escala más empleada para valorar la disminución del nivel de
+conciencia es la escala de coma de glasgow “gcs – glasgow coma scale“
+
+dentro de la valoración cobra gran importancia la anamnesis de los
+testigos que lo hayan presenciado si ha habido un traumatismo
+craneoencefálico previo y los antecedentes médicos y el tratamiento del
+paciente
+
+
+
+aunque cuando tengamos una sospecha de la causa del coma instauremos
+tratamientos de forma específica se trata de una situación de
+emergencia vital por lo que debemos realizar las medidas inmediatas y
+de soporte adecuadas asegurando vía aérea y estabilidad respiratoria y
+hemodinámica
+
+
+
+dentro de la valoración lo prioritario es determinar el origen
+estructural o tóxicometabólico del coma
+
+
+
+los del segundo grupo suelen tener un inicio progresivo un curso
+fluctuante y ausencia de focalidad
+
+ la aparición súbita profunda y con
+focalidad neurológica nos orientaría a una causa estructural
+
+
+
+se calcula que las causas toxicometabólicas comprenden el 70 de los
+casos de disminución del nivel de conciencia
+
+
+
+hay multitud de causas metabólicas desde alteraciones de la glucemia
+del calcio de la hipoxia o hipercapnia y secundaria a otras patologías
+como la insuficiencia hepática y renal avanzada así como patologías
+específicas como la porfiria y la encefalopatía de wernicke
+
+
+
+cada una de estas causas tiene sus peculiaridades de tratamiento por lo
+que es importante conocerlas para tener un enfoque más amplio de manejo
+del coma
+
+
+
+ 
+
+objetivos
+
+el objetivo de esta revisión bibliográfica es el desarrollo de
+
+ la revisión del abordaje diagnóstico y tratamiento ante un paciente
+ con disminución del nivel de conciencia
+ la revisión de  las principales causas de disminución  del nivel de
+ conciencia de origen metabólico y su abordaje y tratamiento
+
+ 
+
+metodologÍa
+
+búsqueda bibliográfica de artículos científicos de los últimos cinco
+años a través de los buscadores médicos de clinical key uptodate y
+diferentes manuales de medicina de urgencias y emergencias
+
+
+
+esta búsqueda ha sido tanto del abordaje diagnóstico como tratamiento
+ante un paciente en coma o con disminución del nivel de conciencia así
+como para conocer y describir las causas metabólicas que lo causan y sus
+peculiaridades en el manejo
+
+
+
+ 
+
+desarrollo
+
+etiopatogenia de disminuciÓn del nivel de conciencia
+
+el estado normal de conciencia se mantiene por el sistema reticular
+activador ascendente que manda estímulos desde el troncoencéfalo a la
+corteza cerebral pasando por el tálamo
+
+
+
+por tanto la situación de coma es secundaria a una lesión directa de
+este sistema ya sea a nivel del troncoencéfalo como lesiones difusas
+de ambos hemisferios cerebrales o bien unilateral que produzca efecto
+masa sobre el contralateral 1
+
+
+
+el resto de lesiones cerebrales no van a disminuir el nivel de
+conciencia salvo que compriman estas estructuras
+
+
+
+los procesos pueden ser tanto alteraciones estructurales del sistema
+nervioso central como bien ser secundarios a causas tóxicas y
+metabólicas que afectan de forma difusa a la corteza cerebral o al
+sistema reticular activador ascendente
+
+ 2
+
+dentro de las etiologías podemos englobarlas en
+
+ lesiones estructurales supratentoriales
+ lesiones estructurales infratentoriales
+ trastornos difusos que incluye desde causas tóxicas infecciosas
+ metabólicas y de otras etiologías
+
+anexo 1
+
+ causas de disminución del nivel de conciencia
+
+de forma habitual existen diferencias entre la presentación del coma
+estructural y el de origen metabólico 3 que radican en
+
+ la forma de inicio el inicio súbito y gradual sugieren causa
+ estructural mientras que el curso fluctuante de origen
+ tóxicometabólico
+ la profundidad del estado de conciencia
+
+ estados más profundos
+ suelen asociarse con origen estructural
+ la presencia de signos focales
+
+ éstos suelen indicar un origen
+ estructural
+ asimetrías motoras o en el tono muscular suelen indicar una causa
+ estructural
+
+ 
+
+evaluaciÓn del paciente con disminuciÓn de nivel de conciencia
+
+dentro de los estados de disminución del nivel de conciencia hay un
+abanico entre la insconsciencia profunda o coma y la somnolencia
+
+
+
+la forma de valoración más utilizada es la escala de coma de glasgow
+que gradúa en función de la apertura ocular respuesta verbal y motora
+
+
+
+consideramos coma como si puntúa menos de 8 puntos
+
+
+
+
+
+tabla 1
+
+ elaboración propia
+
+
+
+dentro de la anamnesis ya que el paciente habitualmente no va a poder
+darnos información es importante la que nos den los testigos de lo
+sucedido ya sean familiares espectadores y técnicos de ambulancias
+
+
+
+debe de ir encaminado sobre todo a diferenciar entre una causa
+estructural y una tóxicometabólica
+
+ 4
+
+ hemos de preguntar por
+
+ forma de inicio y duración
+ inicio brusco nos hace sospechar de causa estructural como
+ accidente cerebrovascular o hemorragia subaracnoidea
+ inicio gradual nos hace sospechar de causa metabólica tóxica
+ infecciosa hemorragia subdural
+
+
+ curso fluctuante sospechar hemorragia subdural
+
+
+
+ factores desencadenantes o agravantes
+ sospecha de traumatismo craneoencefálico nos orienta a hematoma
+ epidural o subdural fractura craneal
+
+
+
+
+
+ no hemos de olvidar que
+ el traumatismo puede ser causa o consecuencia
+
+
+ tener en cuenta el entorno
+ podemos encontrar medicamentos alcohol productos
+ domésticos que se hayan podido ingerior
+ en una habitación cerrada valorar posibilidad de
+ intoxicación por monóxido de carbono
+
+
+ en ambientes industriales valorar la influencia de
+ exposición a tóxicos industriales
+
+
+
+ síntomas relacionados
+ convulsiones sospechar epilepsia hipoglucemia
+
+
+ síntomas recientes   
+ cefalea
+ inmediatamente antes hemorragia subaracnoidea hsa
+ días o semanas previas meningitis hematoma subdural
+ crónico hipertensión intracraneal
+
+
+ vómitos de repetición hipertensión intracraneal
+
+
+ debilidad muscular dificultad para hablar lesión
+ intracraneal
+
+
+ fiebre infección ya sea del sistema nervioso central o
+ infección sistémica lesión de los centros termorreguladores
+ por lesión cerebral
+
+
+ alteraciones del comportamiento
+ inmediatamente antes hipoglucemia
+ gradual proceso intracraneal
+
+ manifestación sistémica
+ de proceso infeccioso especialmente en el anciano
+
+
+  
+ fármacos
+ antidepresivos benzodiazepinas anticonvulsivos anfetaminas
+ atropina escopolamina antiparkinsonianos insulina
+ hipoglucemiantes orales salicilatos vitamina d
+ interrupción de corticoides insulina hormona tiroidea
+ alcohol
+
+
+  
+ antecedentes personales
+
+hemos de tener en cuenta que hay varios síndromes que pueden plantearnos
+dudas diagnósticas
+
+ síncope
+
+ se trata de una pérdida brusca del conocimiento y tono
+ muscular con recuperación espontánea posterior se debe a
+ hipoperfusión transitoria
+
+
+ simulación
+
+
+ pacientes psiquiátricos con crisis histéricas
+
+
+
+diagnÓstico
+
+una vez en el medio hospitalario habrá que llevar a cabo una serie de
+pruebas complementarias
+
+ electrocardiograma aunque si ha sido posible conviene haberlo
+ realizado también a nivel extrahospitalario
+
+ analítica
+ hemograma
+
+
+ bioquímica incluyendo glucemia iones calcio función hepática
+ y renal calcio cpk
+
+ valorar si pedir tsh cortisol
+
+
+ coagulación
+
+
+ gasometría arterial si hipoxemia o venosa
+
+
+ tóxicos y niveles de fármacos si precisa
+
+
+
+ prueba de imagen
+
+ habitualmente por su facilidad de acceso tac
+ craneal en todos los casos de etiología desconocida antecedente de
+ traumatismo craneoencefálico o si sospechamos patología estructural
+
+
+ la resonancia magnética se suele realizar si se precisa durante el
+ ingreso si aún no sabemos la etiología
+
+ con la resonancia se
+ visualiza mejor la fosa posterior el troncoencéfalo la isquemia de
+ forma más precoz y otras entidades
+
+
+
+ punción lumbar
+
+ si nuestra sospecha es una causa infecciosa del
+ sistema nervioso central siempre y cuando hayamos realizado
+ previamente tac craneal para descartar hipertensión intracraneal
+
+
+
+ recordar que si nuestra sospecha es una infección del sistema
+ nervioso central la realización de pruebas no puede retrasar el
+ inicio del tratamiento antibiótico que iniciaremos ante la sospecha
+ de dicho cuadro así como toma de hemocultivos
+
+
+
+ electroencefalograma eeg
+
+tratamiento general
+
+todas las alteraciones del nivel de conciencia son emergencias hasta que
+las funciones vitales estén estabilizadas para lo que es preciso
+asegurar un soporte vital básico
+
+ asegurar la permeabilidad de la vía aérea
+
+
+ asegurar una ventilación correcta colocando cánula orofaríngea
+
+
+ si la frecuencia respiratoria es menor de 6 o gcs menor de 8
+ valorar necesidad de intubación orotraqueal o mecanismos
+ alternativos según disponibilidad como mascarilla laríngea
+ si hay sospecha de traumatismo cervical colocar collarín
+ cervical antes de movilización
+
+
+ si no hay sospecha de lesión cervical y respira espontáneamente
+ colocar en decúbito lateral izquierdo
+
+
+
+ estabilización hemodinámica
+
+
+ si parada cardiorrespiratoria iniciar maniobras de reanimación
+ cardiopulmonar
+
+
+ si hemorragia externa abundante realizar compresión
+ valorar constantes presión arterial frecuencia y ritmo
+ cardiacos
+ si es posible realizar electrocardiograma
+ canalizar vía venosa periférica
+ si hubiera hipotensión tratamiento inicial con sueroterapia y
+ fármacos vasoactivos si precisara
+
+
+ si hipoglucemia glucosa 20 g
+
+ si no consiguiéramos acceso
+ venoso o disponibilidad inmediata glucagón im
+
+ 
+ si el paciente tuviera hábito enólico vómitos de repetición o
+ estuviera malnutrido valorar si administrar 100 mg de tiamina
+
+
+
+ tratamiento según sospecha diagnóstica
+
+
+ si la sospecha es intoxicación por opiáceos administrar
+ naloxona 0
+
+4 mg 1 ampolla cada 2 minutos hasta un máximo de 5
+ ampollas
+
+ si mejoría naloxona 2 mg en 500 ml de suero
+ glucosado
+
+
+ si la sospecha es intoxicación por benzodiazepinas flumazenilo
+ 0
+
+5 mg cada minuto hasta un total de 2 mg
+
+ si mejoría
+ flumazenilo  2
+
+5 mg en 500 ml de suero glucosado
+ si es de origen desconocido podría valorarse la administración
+ conjunta de estos dos antídotos aunque actualmente es una
+ cuestión debatida sin claras evidencias a favor
+
+
+ ante convulsiones o estatus no convulsivo iniciar empíricamente
+ benzodiazepinas intravenosas y ver evolución clínica
+
+
+ si la sospecha clínica es infecciosa no demorar el iniciar
+ tratamiento antibiótico intravenoso
+
+
+ si sospecha de hipertensión intracraneal elevar el cabecero
+ 3045º e iniciar manitol al 20 
+
+
+
+ todo paciente con alteración inexplicable del nivel de conciencia
+ debe ser derivado a urgencias hospitalarias para valoración aunque
+ ésta se haya recuperado
+
+
+
+ 
+
+condiciones que causan disminuciÓn del nivel de conciencia de origen metabÓlico
+
+hipoxia e hipercapnia
+
+para que la función del aparato respiratorio sea correcta es necesaria
+una mecánica ventilatoria correcta correcto intercambio pulmonar de
+gases y el transporte de oxígeno a los tejidos por el sistema
+cardiovascular y la hemoglobina
+
+
+
+los niveles normales de la presión de oxígeno están entre 9095 y de
+dióxido de carbono por debajo de 45
+
+ estos conceptos no implican
+necesariamente una insuficiencia respiratoria que se determina por una
+gasometría arterial en la que encontramos o bien una po2 disminuida o
+bien una pco2 elevadas
+
+
+
+existen 4 mecanismos clínicamente importantes
+
+hipoventilación alveolar
+
+ se asocia a hipercapnia y a disminución de la
+ventilación por minuto
+
+ se corrige con oxígeno a altas concentraciones
+
+
+puede estar causado por enfermedades neuromuscular del sistema nervioso
+central o por intoxicación por opioides benzodiazepinas u otras
+
+
+
+shunt
+
+ los alveolos no ventilan pero sí mantienen la perfusión
+
+ las
+causas más frecuentes son el edema agudo de pulmón neumonía o
+atelectasias o el sdra síndrome de distress respiratorio agudo
+
+
+también puede haber causas extrapulmonares como pueden ser las
+malformaciones cardiacas así como comunicaciones intracardiacas
+
+ todas
+cursan con hipoxemia e hipocapnia se caracterizan porque no mejoran con
+la administración de oxígeno a altas concentraciones
+
+
+
+desequilibrio en las relaciones ventilaciónperfusión
+
+ la causa más
+frecuente con áreas tanto mal ventiladas como mal perfundidas
+
+ está en
+todas las patologías que afectan a las vías de pequeño calibre y
+parénquima
+
+ por ejemplo en epoc y bronquiectasias
+
+ mejora con oxígeno a
+altas concentraciones
+
+
+
+trastornos de la difusión
+
+ se da en pacientes con neumopatías como la
+fibrosis pulmonar
+
+ suele acompañarse de hipocapnia
+
+ 5
+
+pudiendo darse varios en el mismo proceso
+
+ dentro de la hipercapnia las
+dos causas son hipoventilación alveolar y desequilibrio en las
+relaciones ventilaciónperfusión
+
+
+
+podemos definir hipoxia como la situación en la que el aporte de
+oxígenos a los tejidos es insuficiente
+
+ no necesariamente es lo mismo
+que hipoxemia ya que no sólo se da por la disminución de la presión
+arterial de oxígeno pao2
+
+
+
+tipos de insuficiencia respiratoria según criterios gasométricos
+
+tipo i o hipoxémica cuando la pao2 es menor a 60 mmhg sin hipercapnia
+
+
+
+tipo ii o global si la hipoxemia se acompaña de hipercapnia con paco2
+mayor a 50 mm hg
+
+
+
+causas de insuficiencia respiratoria6
+
+ causas de insuficiencia respiratoria hipoxémica
+ exacerbación de enfermedad obstructiva crónica
+ síndrome de distress respiratorio agudo
+ insuficiencia cardiaca congestia
+ atelectasias
+ neumonía
+ neumotórax
+ tromboembolismo pulmonar
+ asma
+
+ causas de insuficiencia respiratoria hipercÁpnica
+ exacerbación de enfermedad obstructiva crónica
+ secundaria a debilidad muscular en las enfermedades
+ neuromusculares
+ intoxicación por drogas
+ síndrome de guillainbarré
+ daño a nivel de la médula espinal
+ asma
+ toxinas como la toxina botulínica
+
+clÍnica
+
+cuando los tejidos no reciben suficiente oxígeno se ponen en marcha
+mecanismos compensatorios
+
+
+
+lo primero aumenta la frecuencia respiratoria para aumentar el
+volumenminuto así como el gasto cardiaco aumentando la frecuencia
+cardiaca
+
+ en segundo lugar los tejidos extraen mayor cantidad de
+oxígeno también mecanismos anaerobios para obtener energía
+
+
+
+
+
+tabla 2
+
+ elaboración propia
+
+
+
+tratamiento
+
+la base es la oxigenoterapia como medida básica de soporte
+
+ el objetivo
+es aumentar la fio2 de los pacientes
+
+
+
+esto puede llevarse a cabo principalmente con gafas nasales
+mascarillas tipo venturi o mascarillas reservorio
+
+ también con
+ventilación mecánica no invasiva vmni o ventilación mecánica
+
+
+
+el problema va a ser el tratamiento en las insuficiencias respiratorias
+hipercápnica poniendo como ejemplo una exacerbación epoc comenzando
+oxigenoterapia con concentraciones bajas de oxígeno ya que tenemos que
+vigilar en todo momento el posible incremento de la hipercapnia y
+acidosis respiratoria secundaria
+
+
+
+si no conseguimos estabilizar con aporte de oxígeno valoraremos
+ventilación mecánica ya sea no invasiva o invasiva dependiendo de la
+situación
+
+
+
+ 
+
+hipernatremia
+
+consideramos hipernatremia cuando la concentración de sodio en sangre
+supera los 145 meql que conlleva un aumento de la osmolaridad
+plasmática que estimula a receptores del hipotálamo produciendo sed
+
+
+
+las personas con edad avanzada con trastornos mentales o con deterioro
+cognitivo en las que el mecanismo de la sed está alterado tienen mayor
+riesgo de sufrir hipernatremias
+
+
+
+
+
+tabla 5 clasificación de causas de hipernatremia
+
+
+
+la clínica y presentación depende sobre todo de la intensidad y
+velocidad de instauración
+
+
+
+sobre todo el mecanismo que causa la clínica es la deshidratación
+celular sobre todo a nivel neuronal de ahí que la clínica principal
+sea ésta
+
+
+
+predomina la sed que puede acompañarse de poliuria diarrea y
+sudoración
+
+ en ancianos al estar abolida la sed este síntoma suele estar
+ausente 7
+
+en hipernatremias más severas con valores por encima de 160 meql
+suele verse irritabilidad hipertonicidad asterixis ataxia y puede
+acompañarse de disminución del nivel de conciencia y coma e incluso
+convulsiones
+
+ si es muy marcada y muy aguda puede dar hemorragias
+intracraneales
+
+
+
+dentro de las pruebas complementarias debe solicitarse
+
+ hemograma
+ bioquÍmica
+ incluyendo iones glucosa urea creatinina calcio proteínas
+ totales y osmolaridad
+ orina
+ sedimento de orina así como la determinación de sodio en orina
+
+el tratamiento de la hipernatremia se basa sobre todo en el
+tratamiento de la causa detener las pérdidas controlar la fiebre
+hiperglucemia suspender los diuréticos y laxantes así como los aportes
+de sodio 8
+
+los objetivos del tratamiento van a ser
+
+ corregir la osmolaridad
+ normalizar el volumen extracelular
+ corregir la causa desencadenante
+
+la corrección debe realizarse despacio a un ritmo de 0
+
+51 meqlh
+reponiendo en las primeras 24h menos de la mitad del déficit de agua y
+el resto en los próximos 12 días
+
+
+
+para ello habrá que calcular el déficit de agua libre con la siguiente
+fórmula
+
+litros que reponer act x na actual – na deseado 1
+act agua corporal total 0
+
+6 x peso corporal kg
+na deseado 145 meql
+
+al déficit calculado hay que añadirle las pérdidas mínimas de agua 1
+
+5
+– 2 litros diarios
+
+ se inicia la reposición con suero glucosado al 5 
+aunque si hay gran hiperosmolaridad mejor comenzar con suero salino 0
+
+45
+ 9
+
+ 
+
+hipoglucemia
+
+podemos definir la hipoglucemia como
+
+ glucemia en sangre venosa o capilar 70 mgdl
+ signos y síntomas vegetativos yo neuroglucopénicos
+ desaparición de la clínica al normalizar la glucemia
+ todo episodio con clínica típica que revierte con tratamiento
+ específico aunque no hayamos podido objetivar la cifra de glucemia
+
+la clínica de la hipoglucemia va a depender de la velocidad de
+instauración intensidad y nivel previo de glucemia
+
+
+
+suele cursar de dos fases10
+
+fase autonómica o neurógena puede no aparecer síntomas adrenérgicos –
+temblor ansiedad excitación debilidad palidez taquicardia y
+síntomas colinérgicos – diaforesis salivación hambre parestesias
+naúseas vómitos
+
+
+
+
+
+
+
+fase neuroglucopénica sensación distérmica cefalea hipotensión
+dificultad concentración agresividad déficit neurológicos focales y
+disminución del nivel de conciencia de intensidad variable llegando
+hasta el coma
+
+
+
+ causas de hipoglucemia 11
+ secundarias al tratamiento
+ insulina ya sea un exceso de dosis un aumento de absorción
+ por cambio de la zona de punción ejercicio
+ antidiabéticos orales sobre todo en aquellos que son
+ hipoglucemiantes como las sulfonilureas
+
+
+ relacionado con la ingesta alimenticia retraso u omisión de
+ una comida baja ingesta de hidratos de carbono
+ patologías que interfieren con la absorción aquellas que cursen
+ con diarrea o vómitos
+
+
+ consumo de otras sustancias como alcohol
+
+
+ otros factores predisponentes
+ antecedente de hipoglucemias graves frecuencia y gravedad
+ de las mísmas
+ tratamiento hipoglucémico intensivo
+ interacción con fármacos alcohol salicilatos fibratos
+ antih2 furosemida anticoagulantes miconazol iecas
+ aines
+
+
+
+
+
+
+ insuficiencia renal crónica insuficiencia hepática o
+ alcoholismo crónico
+
+
+
+podemos clasificarlas en tres grados de intensidad
+
+ hipoglucemia leve
+ síntomas neurogénicos
+ glucemia 70 mgdl
+ el paciente reconoce la situación y es capaz de administrarse el
+ tratamiento
+
+ hipoglucemia moderada
+ síntomas neurogénicos y algunos neuroglucopénicos pero
+ consciente
+
+
+ glucemia 50 55 mgdl
+
+
+ el paciente reconoce la situación y sigue siendo capaz de
+ administrarse el tratamiento
+
+
+
+ hipoglucemia grave
+ síntomas neuroglucopénicos pueden no estar los neurogénicos
+ glucemia 40 mgdl
+ el paciente no reconoce la situación y no puede administrarse el
+ tratamiento
+
+tratamiento y abordaje
+
+ si el paciente estÁ consciente y tiene tolerancia oral
+ lo primero regla 15x15
+
+ consiste en administrar 15 mg de
+ hidratos de carbono de absorción rápida y esperar 15 minutos a
+ ver si hay mejoría
+
+ si sigue por debajo de 70 mgdl repetir
+ nuevamente los mismos pasos
+
+
+ ejemplos de estos hidratos son 2 sobres de azúcar 1 vaso de
+ zumo o bebida azucarada preparados industriales con 15 g de
+ glucosa
+
+
+ una vez resuelto tomar 1520 mg de hidratos de carbono de
+ absorción lenta como pueden ser pan de molde magdalena yogur
+ galletas
+
+
+
+
+
+
+ si el paciente estÁ inconsciente yo intolerancia oral o
+ hipoglucemia mantenida tras regla del 15x15
+ si no tenemos acceso a vía venosa glucagón 1 mg intramuscular
+ si tenemos acceso a vía venosa glucosa intravenosa si 4070
+ mgdl – 10g si 40 mgdl – 20 g
+
+ si es insuficiente repetir
+ independientemente de si conseguimos una respuesta satisfactoria
+ o no las hipoglucemias graves requieren derivación a urgencias
+ hospitalarias con sueroterapia con 500 ml de suero glucosado a
+ 5 
+ otros criterios de derivaciÓn hospitalaria
+ hipoglucemia persistente que no responde al tratamiento
+ persistencia de la clínica neuroglucopénica a pesar de glucemia
+ corregida
+ secundaria a antidiabéticos orales hipoglucemiantes
+ sulfonilureas
+ secundaria a insulinas basales
+ secundarias a sobredosificación insulina rápida
+ hipoglucemia por insulinas intermedias o bifásicas
+ persistentemente sintomáticas
+ si se acompaña de ingesta alcohólica
+ en aquellas que no se puede garantizar seguimiento correcto
+
+ 
+
+cetoacidosis diabética
+
+suele aparecer en diabéticos tipo 1 y en adultos jóvenes
+
+
+
+lo primero siempre es buscar causas desencandenantes como una causa
+infecciosa o un abandono de la terapia insulínica
+
+
+
+puede ser la primera manifestación de la diabetes tipo 1 en alrededor
+del 20
+
+
+
+el diagnóstico se establece en base a
+
+ clÍnica
+ clínica cardinal
+
+ “las 4 p“ poliuria polidipsia polifagia y
+ pérdida de peso
+
+
+ naúseas y vómitos
+
+
+ fetor cetonémico aliento afrutado
+
+
+ dolor abdominal que puede llegar a simular abdomen agudo
+
+
+ disminución del nivel de conciencia
+
+
+ hiperglucemia
+
+
+ habitualmente entre 250600
+ cetosis
+ se puede medir en sangre capilar cetonemia
+
+ es patológico por
+ encima de 0
+
+5 mmoll
+
+
+ en orina con tira reactiva cetonuria
+
+
+
+acidosis metabÓlica
+
+se produce por la acumulación de cuerpos cetónicos en la sangre
+
+ se
+caracteriza por un ph inferior a 7
+
+30 y un bicarbonato sérico inferior a
+15
+
+ pertenece al tipo de acidosis con anion gap elevado
+
+
+
+
+
+ manejo ante la sospecha
+ monitorización de constantes
+
+ medir glucemia y cetonemia
+
+
+ valorar nivel de conciencia
+ canalización de 2 vías venosas
+ sondaje urinario
+ extraer tubo de hemograma bioquímica y coagulación
+
+
+ una vez en medio hospitalario hemograma bioquímica incluyendo
+ glucosa creatinina iones pruebas de función hepática lipasa
+ pcr gasometría venosa electrocardiograma radiografía de
+ tórax otras en función de los hallazgos
+
+dentro del tratamiento
+
+el tratamiento inicial va a ser fluidoterapia con 1000 ml de suero
+salino al 0
+
+9 en la primera hora
+
+ pilares del tratamiento
+ rehidratación
+
+
+ corregir los desequilibrios hidroelectrolíticos
+
+
+ corregir la hiperglucemia
+
+
+ fases del abordaje hospitalario
+ fase intensiva fluidoterapia y bomba de infusión de insulina
+
+
+ fase de mantenimiento hasta corregir la cetoacidosis
+
+
+ fase de inicio de insulina subcutánea y tolerancia oral
+
+
+
+los pacientes con cetoacidosis diabética van a precisar ingreso
+hospitalario a cargo de endocrinología salvo aquellos que precisen
+criterios de uvi
+
+
+
+ criterios de ingreso en uvi
+ bajo nivel de conciencia que precise asistencia ventilatoria
+ inestabilidad hemodinámica
+ alteraciones hidroelectrolíticas severas
+
+descompensaciÓn hiperglucémica hiperosmolar no cetÓsica
+
+aparece con relativa frecuencia en diabéticos tipo 2 puede ser la
+primera manifestación de la enfermedad se calcula que el 35 no estaba
+previamente diagnosticado de diabetes  12 aunque la mayoría son
+secundarios a una causa desencadenante
+
+
+
+ causas desencadenantes
+ infecciones sobre todo urinarias y del aparato respiratorio
+ interrupción del tratamiento dirigido a la diabetes
+
+
+ fármacos sobre todo los corticoides también diuréticos o
+ inmunosupresores
+
+
+ quemaduras
+ ictus
+ transgresiones dietéticas
+ criterios de diagnÓstico
+ glucemia que suele ser superior a 600 mgdl
+
+
+ osmolaridad plasmática superior a 320 mosml
+
+
+ disminución del nivel de conciencia desde somnolencia a coma
+
+
+ ausencia de cetoacidosis
+
+ puede existir una cetoacidosis leve
+ pero de origen láctico por hipoperfusión periférica por la
+ deshidratación
+
+
+ manejo ante la sospecha diagnÓstica
+ monitorización de constantes
+
+ medir glucemia y cetonemia
+
+
+ valorar nivel de conciencia
+
+
+ valorar posibles causas
+
+
+ canalización de 2 vías venosas
+
+
+ sondaje urinario
+
+
+ extraer tubo de hemograma bioquímica y coagulación
+
+
+
+una vez en medio hospitalario hemograma bioquímica incluyendo
+glucosa creatinina iones pruebas de función hepática lipasa pcr
+gasometría venosa electrocardiograma radiografía de tórax otras en
+función de los hallazgos
+
+
+
+dentro del tratamiento
+
+el tratamiento inicial va a ser fluidoterapia con 1000 ml de suero
+salino al 0
+
+9 en la primera hora
+
+ pilares del tratamiento
+ rehidratación
+ corregir desequilibrios hidroelectrolíticos
+ corregir hiperosmolaridad
+ corregir hiperglucemia
+ diagnóstico y corrección de causa desencadenante
+
+ fases del tratamiento
+ fase intensiva comprende las 8 primeras horas
+
+ se basa en
+ sueroterapia y bomba de insulina
+
+
+ fase de mantenimiento
+
+ hasta la corrección de la
+ hiperosmolaridad basado en insulinoterapia intravenosa
+ inicio de insulinoterapia y ver tolerancia oral
+
+
+
+los pacientes con estado hiperglucémico hiperosmolar van a precisar
+ingreso hospitalario a cargo de endocrinología salvo aquellos que
+tengan criterios de ingreso de uvi
+
+
+
+ criterios de ingreso en uvi
+ bajo nivel de conciencia que precise asistencia ventilatoria
+ inestabilidad hemodinámica
+ alteraciones hidroelectrolíticas severas
+ cardiópatas o nefrópatas severos
+
+
+
+tabla 4 diagnóstico diferencial cetoacidosis diabética y estado
+hiperglucémico hiperosmolar
+
+
+
+acidosis lÁctica
+
+el ácido láctico es un producto fisiológico de la degradación de la
+glucosa
+
+ se forma a partir del piruvato en una reacción por la enzima
+lactato deshidrogenada
+
+
+
+en condiciones normales la relación lactato y piruvato es menor a 201
+
+
+
+en condiciones anaeróbicas aumenta mucho la concentración de lactato
+
+
+este hecho es más frecuente en situaciones como el shock insuficiencia
+cardiaca o respiratoria anemia grave intoxicación por etanol y otras
+causas como la cetoacidosis diabética 13
+
+
+
+en cualquier paciente en estado crítico es importante determinar el
+lactato sérico y el ph arterial
+
+ niveles superiores a más de 2 meql ya
+son significativos mayores a 5 como anomalía grave
+
+
+
+la acidosis láctica es un marcador sensible de la gravedad de la
+enfermedad y la incapacidad para corregir la acidosis está relacionada
+con un mal pronóstico y una disminución de la supervivencia
+
+
+
+el tratamiento de la acidosis láctica depende de la causa
+
+ además de
+reponer volemia y electrolitos valorar reponer bicarbonato
+
+ pero sobre
+todo el abordaje respiratorio circulatorio y el tratamiento del shock
+si está presente 14
+
+
+
+ 
+
+hipocalcemia
+
+definimos hipocalcemia como la cifra de concentración de calcio en
+sangre inferior a 8
+
+4 mgdl
+
+ su clínica varía entre alteración
+bioquímica asintomática a emergencia médica 15
+
+
+
+ causas de hipocalcemia
+ hipoparatiroidismo      
+ idiopático
+ secundario sobre todo tras cirugía de tiroides o
+ paratiroides
+ alteración en el magnesio tanto los niveles descendidos
+ como elevados inhiben la secreción de pth
+
+ sobre todo lo
+ alteran alcoholismo crónico síndromes malabsortivos
+
+
+ enfermos críticos
+ pseudohipoparatiroidismo
+ déficit de vitamina d
+ hiperfosfatemia
+ pancreatitis aguda
+ metástasis osteoblásticas sobre todo en neoplasias de mama y
+ próstata
+ fármacos protamina edta heparina bifosfonatos
+
+
+
+
+
+
+
+clínica
+
+la clínica más importante va a ser a nivel neurológico y cardiaco
+
+
+
+a nivel neurológico desde parestesias espasmos musculares hasta
+tetania y convulsiones
+
+
+
+a nivel cardiaco prolongación del qt hasta bloqueo cardiaco completo o
+fibrilación ventricular
+
+
+
+ tratamiento
+ las formas leves de la hipocalcemia se tratan con calcio oral
+ como carbonato cálcico a dosis de 1500200 mg diarios
+
+
+ en las formas graves gluconato cálcico intravenoso
+
+ si hay
+ hipomagnesemia asociada también hay que tratarla
+
+
+ primero 2 mg de sulfato magnésico iv a pasar en 1020 minutos
+
+
+ después perfusión de mantenimiento
+
+
+
+ 
+
+hipercalcemia
+
+definimos hipercalcemia como la concentración de calcio en sangre
+superior a 10
+
+5 mgdl
+
+
+
+sus causas más frecuentes son el hiperparatiroidismo primario y las
+neoplasias malignas
+
+
+
+
+
+tabla 6
+
+ causas de hipercalcemia
+
+
+
+por su frecuencia vamos a hablar de
+
+hiperparatiroidismo
+
+se caracteriza por presentar pth elevada esta elevación activa los
+osteoclastos que causan resorción ósea dando lugar a hipercalcemia e
+hipofosfatemia
+
+
+
+existen varias causas de hiperparatiroidismo primario
+
+ adenoma único 8085
+ hipertrofia de paratiroides 15
+ carcinoma de paratiroides
+ men neoplasia endocrina múltiple hiperparatiroidismo familiar
+ personas que recibieron radioterapia en cabeza y cuello
+
+dentro del hiperparatiroidismo secundario lo más frecuente es por
+insuficiencia renal síndromes de malabsorción intestinal y raquitismo
+
+
+
+hipercalcemia en el paciente oncolÓgico
+
+se da sobre todo en las neoplasias de mama mieloma múltiple linfomas y
+carcinomas escamosos es decir aquellos que producen lesiones
+predominantemente líticas en el hueso
+
+
+
+existen varios mecanismos que la producen el más frecuente es la
+producción tumoral de un péptico que funciona similar a la hormona
+paratidoidea favoreciendo la actividad de los osteoclastos hasta en el
+80 de los casos
+
+ las metástasis osteolíticas causan aproximadamente
+el 20 mediado a través de los osteoclastos
+
+ 16
+
+existen otros mecanismos menos frecuentes como la existencia de tumores
+secretores de pth ectópica o calcitriol 18
+
+clínica
+
+es fácil que pacientes con cifras en el límite alto de la normalidad
+sean diagnosticados de osteoporosis y sean incorrectamente tratados
+esto es típico del hiperparatiroidismo primario
+
+
+
+por debajo de 12 gdl no suele dar clínica
+
+ a partir de estas cifras
+presenta sintomatología progresiva16
+
+ inespecífica fatiga letargia apatía debilidad
+ síntomas neurológicos cefalea hipotonía
+ síntomas urinarios poliuria polidipsia
+ síntomas cardiológicos acortamiento del intervalo qt depresión de
+ la onda t
+
+
+ síntomas digestivos naúseas vómitos epigastralgia estreñimiento
+
+esta sintomatología puede llegar a dar deshidratación y disminución del
+nivel de conciencia hasta coma
+
+ 17
+
+la sospecha clínica se basa en la sintomatología y se confirma con una
+analítica con proteinograma
+
+
+
+dentro del tratamiento va a depender de la severidad de los síntomas y
+las condiciones del paciente 19
+
+ lo primero va a ser la rehidratación oral con suero salino 46
+ ldía con control estricto de la diuresis
+
+
+ se puede valorar administrar furosemida si no hay insuficiencia
+ renal asociada por su papel en la excreción renal de calcio
+ bifosfonatos como el ácido aledrónico
+
+ tardan 23 días en hacer
+ efecto y dura entre 23 semanas
+
+
+ calcitonina para estimular la excreción renal de calcio y fijación
+ ósea
+
+
+ corticoides
+
+ 
+
+hipotermia
+
+definimos hipotermia como temperatura central 35 ºc
+
+ la podemos
+clasificar en
+
+ leve
+ 3235 ºc
+ moderada
+ 2831 ºc
+ grave
+ 28ºc
+
+las causas son diversas desde las formas accidentales exposición
+ambiental inmersión en agua de forma inducida por ejemplo en la
+parada cardiorrespiratoria o por mecanismos de termorregulación
+causados por enfermedades o diversos fármacos
+
+
+
+ante la hipotermia se van a poner en marcha dos tipos de mecanismos
+
+ mecanismos compensatorios
+  por un lado la vasoconstricción periférica aunque puede
+ llegar a dar lesiones como isquemia distal y deshidratación
+
+
+ esto es debido a que aumenta la volemiacentral inhibiendo
+ la hormona antidiurética
+
+
+ va a aumentar el gastocardiaco aumentando la frecuencia
+ cardiaca
+
+
+ posteriormente va a haber hipotensión bradicardia y
+ arritmias cardiacas
+
+
+ a nivel celular
+ alteración de la membrana celular con pérdida de fluidos
+ intracelulares y alteraciones hidroelectrolíticas 20
+
+
+
+en los pacientes críticos con grandes sangrados o shock está descrita
+la denominada “triada mortal“ compuesta por acidosis hipotermia y
+coagulopatía
+
+
+
+clínica
+
+a nivel del sistema nervioso central suele comenzar con confusión
+disartria ataxia y trastornos conductuales
+
+ según avanza la gravedad
+suele aparecer somnolencia trastornos conductuales y alucinaciones
+hasta llegar a coma profundo
+
+
+
+a nivel respiratorio inicialmente aumenta la frecuencia respiratoria
+que da paso a una disminución de la misma cianosis disminución del
+consumo de oxígeno y producción de dióxido de carbono llegando a
+respiración atáxica y apnea
+
+
+
+a nivel cardiovascular inicialmente aumenta la frecuencia cardiaca y el
+gasto cardiaco dando paso a una disminución progresiva de la
+frecuencia gasto cardiaco tensión arterial pudiendo sucederse
+diferentes arritmias auriculares y ventriculares hasta fibrilación
+ventricular y asistolia
+
+a nivel neuromuscular inicialmente temblor intenso que va disminuyendo
+y dando paso a rigidez muscular rabdomiolisis hasta la arreflexia
+
+
+
+a nivel metabólico inicialmente hiperglucemia dando paso a acidosis
+metabólica
+
+a nivel renal en casos graves disminuye la perfusión renal con
+oligoanuria
+
+
+
+a nivel hematológico veremos en la analítica hemoconcentración
+leucopenia trombopenia y aumento de los tiempos de coagulación 21
+
+
+
+abordaje de la hipotermia
+
+debemos de diferenciar el medio en el que nos encontremos
+
+ medio extrahospitalario
+ lo primero como ante cualquier emergencia abcde
+
+
+ en caso de parada cardiorrespiratoria llevar a cabo reanimación
+ cardiopulmonar
+
+
+ manipular al paciente de forma suave
+
+ la fricción intensa y
+ movimientos bruscos pueden causar arritmias
+
+
+ quitar la ropa fría y húmeda al paciente colocándolo en un
+ entorno caliente
+
+ mantas térmicas si están disponibles
+
+ en el
+ extrahospitalario sólo se debe de realizar recalentamiento
+ pasivo
+
+
+ constantes vitales y electrocardiograma si está disponible
+ canalizar 2 vías venosas
+  diagnóstico y tratamiento de las causas subyacentes
+ la administración de antibióticos en el medio extrahospitalario
+ es debatida
+ falsos mitos no conviene friccionar de forma enérgica ni
+ aplicar nieve en el tejido congelado
+
+
+
+ medio hospitalario
+ dentro de él habrá dos fases recalentamiento hospitalario y
+ asistencia postcongelación 22
+
+
+ registro temperatura y constantes vitales de manera continua
+
+
+ analítica con hemograma bioquímica con electrolitos y función
+ hepática y renal coagulación y gasometría arterial
+ valorar añadir presencia de otras drogas en sangre y orina
+ monitorización cardiaca continua y gasometrías seriadas
+ recalentar las zonas afectadas en agua en movimiento caliente
+ entre 4044ºc
+ cuando se realiza el recalentamiento va a haber dolor que
+ habitualmente precisará analgesia con opioides y debe realizarse
+ de forma progresiva
+
+ puede detenerse poco después de observar
+ rubor digital
+
+
+
+hemos de tener en cuenta que como la hipotermia grave suele asociarse a
+arritmias ventriculares muchas veces van a ser refractarias hasta que
+no se haya recalentado al enfermo
+
+ esto implica que la reanimación
+cardiopulmonarse debe mantenerse hasta que consigamos la normotermia en
+el paciente
+
+
+
+ 
+
+hipertermia
+
+las lesiones por calor como consecuencia de una alteración de la
+termorregulación por aumento en la producción o descenso en la
+liberación tienen un mecanismo diferente al de la fiebre
+
+ en la fiebre
+el mecanismo es debido a una activación de citocinas secundaria a un
+proceso inflamatorio
+
+
+
+dentro de los efectos sobre la salud por exceso de la temperatura
+pueden ser los siguientes incluidos en la clasificación de enfermedades
+de cie 10 23
+
+ patologÍas relacionadas con exceso de temperatura
+ golpe de calor e insolación
+ síncope por calor
+ calambres por calor
+ postración anhidrótica por calor
+ postración debida a pérdida excesiva de sal por calor
+ postración debida a calor sin especificación
+ fatiga transitoria por calor
+ edema por calor
+ otros efectos del calor
+
+dentro de estos lo más importante va a ser el golpe de calor habiendo
+dos tipos
+
+clásico no relacionado con el esfuerzo
+
+
+sobre todo en personas mayores personas con enfermedades crónicas con
+enfermedades mentales edad temprana
+
+ son condiciones que alteran la
+termorregulación o dificultan su retirada
+
+ sobre todo en olas de calor
+tardando días en desarrollarse
+
+
+
+en relación con el esfuerzo
+gente joven y sana con largos periodos de ejercicio en ambientes con
+gran temperatura y humedad
+
+ por ejemplo en atletas militares
+
+
+
+
+
+
+
+la clínica va a afectar a diferentes niveles
+
+a nivel neurológico cefalea síndrome confusional ataxia crisis
+comiciales hasta coma
+
+
+
+a nivel respiratorio aumento de la frecuencia respiratoria e
+insuficiencia respiratoria
+
+
+
+a nivel musculoesquelético rabdomiolisis en diferente intensidad
+
+a nivel metabólico alcalosis respiratoria en fase inicial dando paso a
+acidosis metabólica con acidosis láctica
+
+
+
+a nivel gastrointestinal naúseas vómitos diarrea isquemia
+intestinal patrón de colestasis
+
+
+
+
+
+
+
+a nivel renal puede haber o no insuficiencia renal
+
+a nivel cutáneo piel caliente en algunos casos seca y en otros con
+sudoración profusa
+
+ pruebas complementarias
+ electrocardiograma
+ radiografía de tórax
+ analítica con hemograma bioquímica incluyendo electrolitos
+ función hepática y renal cpk y coagulación
+
+
+ gasometría arterial o venosa
+
+
+ valorar otras si se sospechan otros factores de riesgo como
+ analísis de drogas en sangre u orina
+
+
+ abordaje
+ se trata de una urgencia médica
+
+ medidas generales incluyendo
+ los principios básicos de reanimación cardiopulmonar si precisa
+
+
+ vigilar temperatura y resto de constantes así como diuresis
+
+
+ canalizar 2 vías venosas reponer volemia
+
+
+ enfriamiento ya sea de forma no invasiva externa o invasiva
+ externa
+ a nivel extrahospitalario de elección es vaporizar agua entre
+ 2530 ºc con aire circulante
+
+
+ tradicionalmente se realizaba inmersión en agua helada pero
+ complica el poder monitorizar de forma correcta y dar un
+ tratamiento correcto y se asocia a más complicaciones
+
+ el
+ colocar bolsas frías en cuello y otras zonas es efectiva pero
+ suele ser peor tolerada por el paciente
+
+
+ a nivel hospitalario hay diversas técnicas de enfriamento
+ interno lavado peritoneal frio lavado gástrico frío
+ fluidoterapia fría
+
+
+
+
+
+
+
+existen otros dos síndromes clínicos que se acompañan de hipertermia y
+alteración de la termorregulación la hipertermia maligna y el síndrome
+neuroléptico maligno
+
+
+
+ 
+
+sÍndrome de reye
+
+se trata de una encefalopatía poco frecuente que se caracteríza por
+degeneración grasa de las vísceras predominantemente el hígado y
+anomalías mitocondriales 24
+
+
+
+se trata de una patología aguda que habitualmente aparece tras una
+infección vírica tratada con salicilatos o medicaciones que los
+contengan
+
+ es más frecuente en niños y adolescentes aunque también
+puede verse en adultos
+
+
+
+ sospecha clÍnica del sÍndrome de reye
+ presencia de enfermedad viral las 23 semanas previas sobre
+ todo virus influenza a y b y varicela
+
+
+ uso de salicilatos o medicación que contenga salicilatos
+ tras un periodo de recuperación aparición brusca de
+ sudoración profusa
+ vómitos
+ deshidratación
+ cefalea
+ alteración del estado mental desde confusión y
+ desorientación progresando rápidamenteal coma
+
+
+
+dentro de las pruebas complementarias aparte de la sospecha clínica la
+analítica muestra insuficiencia hepática y si se llega a hacer biopsia
+o autopsia se verá infiltración grasa en el hígado
+
+
+
+la realización de biopsia sólo si es necesaria para el diagnóstico y
+manejo por el riesgo de complicaciones en casos que no conocemos la
+causa de la disfunción hepática
+
+
+
+es frecuente la hiperamonemia y la hipoglucemia
+
+
+
+dentro de las pruebas diagnósticas se realizará además de la analítica
+otras pruebas como punción lumbar para valorar resto de diagnósticos
+alternativos
+
+ 25
+
+ 
+
+encefalopatÍa de wernickekorsakov
+
+la encefalopatía de wernicke y el síndrome de korsakov se consideran el
+síndrome agudo y el estado residual del mismo proceso causado por el
+déficit de tiamina o vitamina b1
+
+
+
+se calcula que se encuentra hasta en el 912 de las autopsias de
+alcohólicos 26
+
+
+
+aunque la causa más frecuente es el alcoholismo no se trata de la única
+causa hemos de tener en cuenta otras causas de malnutrición como
+anorexia nerviosa y otras causas en diferentes síndromes que cursan
+con vómitos persistentes hiperemesis gravídica intoxicación por
+digital estenosis esofágica
+
+
+
+
+
+ en determinadas enfermedades
+sistémicas que cursan con malabsorción y en pacientes intervenidos
+sobre todo de cirugía bariátrica
+
+
+
+las reservas de tiamina duran alrededor de 3 semanas por lo que hemos
+de tenerlo en cuenta en situaciones agudas que puedan causar
+malnutrición
+
+
+
+la presentación aguda clásica es la triada de alteraciones oculomotoras
+alteraciones de los motores oculares nistagmo y oftalmoplejia ataxia
+y confusión mental aunque no es la forma más común de aparición
+apareciendo parte de estos síntomas
+
+ 27
+
+ podemos diagnosticar la encefalopatÍa de wernicke si se cumplen dos
+ de los cuatro criterios de caine
+ situación que suponga un riesgo de malabsorción
+ alteraciones oculomotoras
+ disfunción cerebelosa y ataxia
+ estado mental alterado o alteración cognitiva
+
+puede haber otros síntomas como alteraciones cardiovasculares
+taquicardia hipotensión mareo
+
+
+
+
+
+ polineuropatía
+
+
+
+
+
+
+
+dentro de los síntomas mentales suelen evolucionar en el tiempo
+comenzando con cambios inespecíficos de la esfera de salud mental como
+ansiedad apatía deterioro cognitivo leve
+
+ no obstante lo más
+característico es la amnesia anterógrada con confabulaciones de los
+acontecimientos recientes
+
+
+
+en la fase crónica korsakof lo más frecuente es la polineuropatía la
+ataxia y el deterioro cognitivo
+
+
+
+el diagnóstico de sospecha se va a hacer de forma clínica y la forma
+aguda del síndrome de wernicke se trata de una urgencia médica
+
+
+
+dentro de las pruebas de imagen que se pueden realizar se van a
+visualizar alteraciones en la resonancia magnética observando
+hiperintensidad bilateral y simétrica en t2 a nivel de los cuerpos
+mamilares región periacueductal paredes del iii ventrículo y tálamos
+mediales
+
+  29
+
+ otras pruebas como el tac va a ser poco sensible
+
+
+
+en la analítica es frecuente encontrar otras alteraciones como
+hepatopatía anemia fracaso renal así como hipomagnesemia por la
+malabsorción siendo el magnesio coenzima de la tiamina
+
+
+
+el tratamiento debe establecerse lo antes posible administrando tiamina
+intravenosa
+
+ hemos de tener en cuenta que sería conveniente administrar
+tiamina o complejo b a las personas en riesgo de malnutrición
+especialmente en alcohólicos
+
+
+
+ 
+
+porfiria
+
+anomalías en una enzima específica de la vía de la biosíntesis del grupo
+hemo
+
+ existen diversas alteraciones dentro de las porfirias algunas que
+cursan desde la infancia y otras que comienzan de adultos
+
+
+
+dentro de la porfiria aguda intermitente suele cursar con brotes sobre
+todo de inicio tras la pubertad y antes de los 50 años
+
+ la gestación y
+el periodo premenstrual son momentos de mayor riesgo de brote
+
+
+
+las crisis suelen comenzar con dolor abdominal dolor a la palpación
+aunque sin signos de irritación peritoneal timpanismo naúseas y
+vómitos así como estreñimiento
+
+
+
+alrededor de tres cuartas partes presentan simultáneamente
+manifestaciones neurológicas sobre todo neuropatía periférica con
+predominio motor
+
+ suele comenzar con sintomatología de tipo parestesias
+dolor
+
+ esto suele comenzar a nivel de piernas y cintura y progresar de
+forma simétrica en ocasiones incluso afectando a la musculatura
+respiratoria provocando insuficiencia respiratoria y disminución del
+nivel de conciencia 30
+
+
+
+pueden existir también convulsiones hipertensión arterial e incluso
+insuficiencia renal
+
+ se asocia de forma previa a las crisis alteraciones
+de la esfera de salud mental irritabilidad insomnio ansiedad
+
+
+
+
+
+
+
+es conocida como “la gran simuladora“ por la variedad de síntomas
+
+
+durante las crisis se extretan por la orina grandes cantidades de
+precursores porfirínicos ala y pbg y de uroporfirina
+
+
+
+dentro del tratamiento es de importancia la profilaxis de las crisis
+
+
+muchos fármacos pueden contribuir a desencadenar una crisis que pueden
+consultarse en varias páginas web específicas
+httpwww
+
+drugsporphyria
+
+org y
+httpwww
+
+porphyriafoundation
+
+comdrugsdatabase 
+
+
+
+dentro del tratamiento de la crisis aguda el dolor abdominal y muscular
+suele ceder con analgesia simple de primer escalón u opioides si es
+insuficiente
+
+
+
+ 
+
+encefalopatÍa hepÁtica
+
+la encefalopatía hepática es una de las complicaciones derivadas de la
+insuficiencia hepática
+
+ las más habituales además de esta son ascitis
+peritonitis bacteriana espontánea hemorragia digestiva alta y carcinoma
+hepatocelular
+
+
+
+se trata de un trastorno metabólico secundario a la insuficiencia
+hepatocelular en la que las toxinas intestinales no son depuradas por
+el hígado y estas pasan a la circulación sistémica y a nivel cerebral
+
+
+
+la más importante es el amoniaco y la acumulación la glutamina su
+metabolito activo
+
+  esta complicación de la cirrosis es muchas veces
+reversible pero ya implica un mal pronóstico en el desarrollo de la
+insuficiencia hepática 31
+
+clÍnica y diagnÓstico
+
+el diagnóstico de sospecha se va a basar en la clínica con diversas
+alteraciones neurológicas podemos clasificarlas en
+
+ grado i
+ alteración leve del nivel de conciencia alteración del
+ sueñovigilia disminución de atención
+ grado ii
+ apatía somnolencia conductas inapropiadas desorientación
+ asterixis
+ grado iii
+ somnolencia disminución del nivel de conciencia con estupor
+ confusión y desorientación severa asterixis
+ grado iv
+ coma profundo
+
+la instauración es diversa desde formas bruscas y deterioros rápidos
+como de tipo fluctuante con fases de desorientación severa y normalidad
+
+
+
+la asterixis en el trastorno neuromuscular más frecuente aunque no
+siempre está presente
+
+
+
+por tanto ante un paciente cirrótico conocido con alteración de la
+conducta y desorientación será la primera sospecha a descartar
+
+
+
+suele existir un factor desencadenante que tenemos que buscar siempre
+ante la sospecha diagnóstica
+
+
+
+ factores desencadenantes mÁs frecuentes
+ infecciones
+ hemorragia digestiva alta
+ tratamiento con benzodiazepinas
+ tratamiento con diuréticos por la alcalosis metabólica que
+ producen
+ estreñimiento
+ insuficiencia renal 32
+ pruebas complementarias a realizar ante la sospecha diagnÓstica
+ analítica con hemograma bioquímica con función renal
+ hepática bilirrubina sodio y potasio cloro y estudio de
+ coagulación
+
+ en la coagulación vamos a ver una disminución de la
+ actividad de protrombina tp
+
+
+ amoniemia
+
+ aunque la cifra no se correlaciona con la gravedad
+ del proceso
+
+
+ gasometría arterial o venosa
+ electrocardiograma
+ sedimento de orina
+
+ para descartar una infección
+
+
+ puede ser necesario realizar otras pruebas como un tac craneal
+ para descartar otras causas o una paracentesis diagnóstica si
+ la sospecha es una peritonitis bacteriana espontánea
+
+
+
+abordaje de la encefalopatía hepática
+
+los pacientes con encefalopatía hepática habitualmente salvo
+determinados casos en cuidados paliativos a domicilio precisarán
+ingreso hospitalario
+
+
+
+el tratamiento va a consistir en
+
+ medidas generales
+ tratamiento de los factores desencadenantes lo más importante
+
+
+ causa infecciosa tratamiento antibiótico empírico para la causa
+ infecciosa
+ tratamiento de la alcalosis metabólica
+ insuficiencia renal suspensión transitoria de diuréticos
+ valorar resto de medicación con la que pudiera ser nefrotóxica
+
+
+ suspensión de benzodiazepinas
+
+ si esta es la sospecha
+ administrar flumazenilo antídoto específico
+
+ recordar que la
+ vida media de las benzodiazepinas en superior en los pacientes
+ con insuficiencia hepática
+
+
+ estreñimiento enemas de limpieza y laxantes
+
+
+ en  algunos de los casos no vamos a encontrar un factor
+ precipitante sino que van a tener ina insuficiencia muy
+ avanzada
+
+
+ tratamiento especÍfico
+ dieta hipoproteica
+
+ en los últimos años no queda claro con
+ estudios que demuestran evolución similar en dietas con
+ contenido normal en proteínas que más bajo
+
+
+ disacáridos no absorbibles como la lactulosa en dosis de 30 ml
+ cada 8 horas lactitol 20 g cada 8 horas
+
+ el objetivo será
+ conseguir 23 deposiciones diarias
+
+ consiguen reducir la
+ producción yo absorción de las neurotoxinas intestinales
+
+
+ enemas con lactulosa si precisa por no conseguir deposición
+
+
+ rifaximina como tratamiento de la encefalopatía hepática
+ crónica dosis de 400 mg cada 8 horas
+
+
+ en la actualidad se aconseja administrar disacáridos no
+ absorbibles en conjunto con antibióticos de forma simultánea
+
+
+
+ 
+
+uremia
+
+la enfermedad renal crónica avanzada causa diversos desórdenes
+metabólicos y nutricionales que participan en el síndrome urémico
+
+
+
+las proteinas de la dieta se metabolizan a aminoácidos que en el caso
+de la insuficiencia renal se acumulan y dan lugar a metabolitos tóxicos
+ácido úrico compuestos del nitrógeno fosfatos sodio potasio
+
+
+
+dentro de las alteraciones que vamos a ver conforme avanza la enfermedad
+renal crónica tenemos33
+
+ hemograma
+ anemia normocítica normocrómica sobre todo causada por la
+ disminución de eritropoyetina y a la presencia de ferropenia
+
+
+
+esto va a dar lugar a astenia
+
+
+
+ trombopenia y alteración de la agregación plaquetaria
+ va a favorecer la aparición de sangrados
+
+ bioquÍmica
+ elevación de creatinina urea y bun
+
+
+ disminución del filtrado glomerular
+
+ sodio
+ en fases avanzadas se altera la excreción provocando sobrecarga
+ de volumen
+ va a dar lugar a la aparición de ascitis sintomatología de
+ insuficiencia cardiaca
+
+ potasio
+ en fases avanzadas se altera la excreción y aumentan los niveles
+ de potasio
+ es frecuente la aparición de hiperpotasemias ver apartado de
+ hiperpotasemia
+
+ equilibrio Ácidobase
+ en fases avanzadas va a haber acidosis metabólica con niveles
+ bajos de bicarbonato sérico 1220 meql
+
+ metabolismo calciofÓsforo
+ en fases avanzadas va a aumentar el fósforo aumentando la
+ producción de pth generando un hiperparatiroidismo
+ disminuyen los niveles de vitamina d que también favorecen el
+ hiperparatiroidismo
+
+ elevaciÓn del Ácido Úrico
+ por disminución en su excreción en fases avanzadas
+
+ elevaciÓn de los niveles de amilasa troponina colesterol y
+ triglicéridos
+
+ metabolismo glucémico
+ en fases iniciales aumenta por resistencia a la insulina
+ posteriormente disminuye por aumento de la vida media de
+ insulina y precursores 34
+
+signos y síntomas de la uremia
+
+
+
+no podemos establecer el grado de función renal a partir del cual
+aparece la uremia que son un conjunto de síntomas y signos clínicos
+pero ya suelen ser en niveles de filtrado glomerular próximos a la
+insuficiencia renal terminal
+
+
+
+ sÍntomas
+ prurito
+ palidez mucocutánea
+ anorexia naúseas y vómitos diarrea sangrado gastrointestinal
+ a nivel neurológico disfunción cognitiva hasta llegar al coma
+ piernas inquietas convulsiones
+
+
+ pericarditis urémica
+ infecciones
+
+abordaje
+
+ antecedentes personales a valorar
+ existencia previa de enfermedad renal crónica
+
+ ver analíticas
+ previas
+ si tiene medicación nefrotóxica dentro de su medicación habitual
+ traumatismo o convulsiones previas por la posible rabdomiolisis
+ secundaria
+ cirugía previa
+ clínica urológica
+ depleción hidrosalina
+ enfermedades sistémicas que puedan estar asociadas con
+ nefropatía lupus eritematoso sistémico vasculitis mieloma
+ múltiple
+
+
+
+
+
+
+
+ pruebas complementarias
+ hemograma
+ bioquímica con electrolitos
+ orina completa con sedimento iones urea y creatinina
+ gasometría arterial
+ electrocardiograma
+ radiografía de tórax
+ ecografía abdominal
+
+la uremia sintomática es una de las indicaciones de diálisis
+
+
+
+los pacientes con enfermedad renal crónica avanzada suelen consultar de
+forma urgente por los siguientes motivos
+
+ deterioro de la funciÓn renal
+ vigilando los factores desencadenantes para dar el tratamiento
+ pertinente
+ situaciones de hipovolemia con cuidado en la reposición
+ situaciones de bajo gasto
+ obstrucción de vías urinarias
+ sobrecarga de volumen
+ ante edema agudo de pulmón estaría indicada la diálisis no
+ siendo útiles en este caso los diuréticos
+ si no hay edema agudo de pulmón se inicia tratamiento con
+ furosemida 20 mg cada 8 horas por vía intravenosa
+ trastornos hidroelectrolÍticos
+ siendo el más frecuente la hiperpotasemia
+
+ si son pacientes con
+ diálisis será este el tratamiento pero si no las pautas
+ generales descritas en el apartado hiperpotasemia
+
+ 
+
+hipotiroidismo
+
+el hipotiroideo es un síndrome resultante de una disminución de la
+tiroxina t4 y triyodotironina t3 puede tener varios orígenes
+
+ hipotiroidismo primario
+ con origen en la glándula tiroidea representando el 95 de las
+ causas más frecuente en mujeres
+
+ hay un aumento de la
+ producción de tsh y puede haber o no disminución de la hormona
+ tiroidea
+
+
+ en la mayoría de ocasiones va a ser hipotiroidismo subclínico
+ en el que vemos elevada la tsh con niveles normales de hormona
+ tiroidea
+
+
+ en la mayoría de casos se debe a una causa autoinmune la
+ tiroiditis crónica autoinmune de hashimoto
+
+ el 90 tienen
+ anticuerpos antitiroglobulina y antiperoxidasa positivos
+
+
+ otras causas pueden ser
+ iatrogénico
+ yodo inducido
+ por fármacos litio yodo amiodarona contrastes yodados
+ antitiroideos
+ enfermedades infiltrativas
+ hipotiroidismo central
+ puede ser debido a una alteración hipofisaria secundaria o
+ hipotalámica terciario
+
+dentro de la clínica lo más frecuente se trata de una aparición
+subclínica o cuadros inespecíficos que cursan con astenia y cansancio
+secundario al enlentecimiento de los procersos metabólicos
+
+la clínica que comprende la sintomatología clásica rara vez se ve en la
+actualidad
+
+
+
+ clÍnica tÍpica
+ signos sistémicos
+ astenia física y psíquica
+ ralentización psicomotora
+ frío
+ aumento de peso
+ signos cardiovasculares
+ bradicardia
+ la presión arterial no suele modificarse
+ el hipotiroidismo crónico puede favorecer ateromatosis
+ cardiomegalia e insuficiencia cardiaca
+ signos digestivos
+ estreñimiento
+ en casos graves y en el anciano puede llegar a dar lugar a
+ íleo paralítico
+ signos neurológicos y psiquiátricos
+ calambres y disminución de fuerza muscular
+ neuropatía sensitivomotora
+ trastornos del estado de ánimo con tendencia a la depresión
+ signos cutáneos
+ mixedema debido a la infiltración de piel y tejido
+ subcutáneo por sustancia mucoide 35 con edema sin fóvea
+
+
+ sobre todo afecta a la cara con edema palpebral y labial
+
+
+ piel fría y seca
+ fragilidad ungueal
+ otros
+ macroglosia
+ afonía y ronquera
+ hipoacusia
+ apnea del sueño
+ coma mixedematoso
+ muy raro en la actualidad se manifiesta por hipotermia
+ bradicardia hipoxemia e hipotensión hasta situación de
+ coma
+
+
+
+para el diagnóstico consiste en la realización de una analítica con
+tsh que vamos a encontrar elevada en todas las formas de hipotiroidismo
+primario y puede ser normal o indetectable en el secundario y
+terciario
+
+ el descenso de la t4 libre es frecuente en todas las causas
+de hipotiroidismo
+
+
+
+el tratamiento del hipotiroidismo consiste en el tratamiento sustitutivo
+con hormona tiroidea – levotiroxina hasta normalizar los niveles de
+tsh
+
+ se recomienda tomarla por la mañana en ayunas
+
+
+
+aunque el tratamiento debe individualizarse las dosis recomendadas son
+las siguientes 36
+
+ en hipotiroidismo congénito 1015 µgkgdía
+
+
+ en niños 24 µgkgdía
+
+
+ en adultos 16 µgkgdía 100150 µgdía 5075 µgdía en el
+ anciano
+
+
+
+ 
+
+crisis adisoniana
+
+la crisis adisoniana o insuficiencia suprarrenal aguda se trata de una
+emergencia médica en el contexto de una crisis en un paciente con
+insuficiencia suprarrenal
+
+
+
+recordamos que las glándulas suprarrenales secretan glucocorticoides
+mineralcorticoides y andrógenos
+
+
+
+ existen dos tipos de insuficiencia suprarrenal
+ primaria
+ habitualmente se produce por causa autoinmune que daña la
+ glándula suprarrenal
+
+
+ suelen ser progresivos el aumento de la acth suele
+ mantener una secreción normal de cortisol hasta que se
+ destruye el 90 del tejido así como el mecanismo
+ compensador de renina y angiotensina ii mantiene
+ inicialmente la secreción de aldosterona 37
+ otras causas son la tuberculosis neoplasias o hemorragias
+ de las glándulas
+
+
+ secundaria
+ suspensión brusca de tratamiento corticoesteroide prolongado
+
+dentro del diagnóstico vamos a diferenciar según las diferentes
+alteraciones establecidas
+
+ alteraciones de la funciÓn glucocorticoide
+ alteraciones de la funciÓn mineralocorticoide
+ alteraciones de la secreciÓn de andrÓgenos
+
+la enfermedad de adison habitualmente se establece en un periodo de
+varios meses inicialmente con sintomatología inespecífica
+
+
+
+para su diagnóstico habitualmente la determinación de cortisol y acth a
+primera hora nos permite el diagnóstico
+
+
+
+al diagnóstico suele haber 75 alteraciones electrolíticas
+hiponatremia o acidosis hiperpotasémica
+
+característica la hiperpigmentación de piel y mucosas
+
+pueden existir alteraciones psíquicas como depresión apatía y
+disminución de la memoria
+
+cuando la sintomatología aparece de forma repentina o con rápida
+evolución lo denominamos crisis addisoniana o fallo agudo suprarrenal
+
+
+
+la clínica más llamativa es la hipotensión arterial por la depleción de
+volumen plasmático y déficit de mineralocorticoides
+
+ el shock secundario
+suele tener mala respuesta a la administración de volemia y a la
+administración de drogas vasoactivas como la noradrenalina
+
+
+
+postración y anorexia y naúseas y vómitos así como dolor abdominal que
+puede simular un abdomen agudo
+
+el antecedente de que el paciente haya perdido peso debilidad
+progresiva anorexia y vómitos así como hiperpigmentación de piel y
+mucosas pueden sugerir el diagnóstico aunque la hiperpigmentación no
+siempre está presente
+
+ante la sospecha diagnóstica tras realizar analítica y ver hiponatremia
+con hiperpotasemia tenemos suficiente como para iniciar tratamiento
+
+
+
+se recomienda tratamiento sustitutivo con hidrocortisona aunque también
+se puede iniciar con prednisona o prednisolona
+
+ la dosis de
+hidrocortisona 1530 mg24h suele fraccionarse en tres tomas
+
+
+
+si hay mucha destrucción la actividad mineralcorticoide resulta
+insuficiente por lo que además requiere fludrocortisona en dosis
+variables entre 0
+
+05 y 0
+
+2 mg día
+
+
+
+en cuanto al tratamiento sustitutivo androgénico las evidencias son
+poco claras acerca de su indicación
+
+
+
+dependiendo de la causa de la insuficiencia suprarrenal puede haber
+tratamientos específicos neoplasias tuberculosis
+
+
+
+
+
+
+
+ 
+
+conclusiones
+
+existen multitud de causas que pueden generar en un paciente un cuadro
+cuya clínica principal sea la disminución del nivel de conciencia
+
+ más
+allá de la búsqueda de la causa etiológica nuestra prioridad debe ser
+considerarlo siempre como una emergencia priorizando vía área
+respiratoria y circulatoria abc
+
+
+
+considerar siempre los antecedentes del paciente tanto médicos como
+farmacológicos así como preguntar por los testigos que hayan
+visualizado lo sucedido y tener en cuenta el entorno que puede darnos
+muchas pistas acerca de las particuliaridades del abordaje
+
+
+
+las causas metabólicas que pueden causar disminución del nivel de
+conciencia son muy variadas desde las causas derivadas de insuficiencia
+respiratoria a alteraciones hidroelectrolíticas complicaciones de la
+diabetes o insuficiencia terminal hepática o renal
+
+
+
+es muy importante conocer el abordaje del paciente diabético conocer el
+abordaje de una hipoglucemia tanto leve como moderadasevera ya que
+en muchas ocasiones ante la podremos dar las recomendaciones incluso de
+forma telefónica previo a nuestra llegada al lugar donde se encuentre el
+paciente
+
+
+
+dentro de las complicaciones hiperglucémicas es importante
+sospecharlas sobre todo en el paciente anciano que muchas veces va a
+ser el que tenga descompensaciones glucémicas hiperosmolares secundarias
+a procesos infecciosos
+
+ tenemos siempre que tener el cuenta el tomar una
+glucemia en todos los casos de disminución del nivel de conciencia en el
+primer momento
+
+
+
+tanto en la sospecha de cetoacidosis diabética como en las
+descompensaciones hiperglucémicas hiperosmolar va a ser indicación de
+derivación hospitalaria siempre colocando 1000 ml de suero fisiológico
+para el traslado
+
+
+
+es importante conocer el abordaje inicial de la hipotermia y conocer
+sus falsos mitos sobre todo el evitar mover vigorosamente al paciente y
+friccionar que puede dar lugar a complicaciones
+
+
+
+sospechar y conocer la sintomatología del golpe de calor es importante
+sobre todo en la estación de verano y en olas de calor por su alta
+incidencia
+
+
+
+hemos de tener en cuenta que en los pacientes en riesgo de malnutrición
+especialmente en alcohólicos con disminución del nivel de conciencia
+es importante administrar tiamina por la posibilidad de encefalopatía de
+wernicke
+
+
+
+es importante por su alta incidencia conocer bien la sintomatología
+sugestiva de encefalopatía hepática así como de la encefalopatía
+urémica para su correcta derivación y tratamiento
+
+
+
+asimísmo conocer datos clave para su prevención es muy importante para
+prevenir el avance
+
+
+
+en el caso de los pacientes con insuficiencia hepática avanzada revisar
+siempre la medicación con especial interés en los nefrotóxicos así
+como en la medicación tipo benzodiazepina por su larga vida media en
+estos pacientes
+
+ además el estreñimiento suele ser un síntoma al que
+muchos pacientes no dan importancia y puede precipitar la aparición de
+encefalopatía hepática por lo que es importante incidir en el
+tratamiento conservador y la correcta utilización de laxantes tipo
+lactulosa o lactitol
+
+
+
+en el caso de los pacientes con insuficiencia renal avanzada también es
+importante una revisión periódica de la medicación de la dieta
+adecuada y de las posibles alteraciones electrolíticas asociadas
+especialmente de la hiperpotasemia que puede ser potencialmente fatal
+
+
+
+ 
+
+bibliografÍa
+
+1
+
+ bibiano guillén carlos manual de urgencias
+
+ 3º edición
+
+ 2018
+
+ pag
+ 277284
+2
+
+ bryan young  g stupor and coma in adults
+
+ uptodate
+
+ aug 13 2020
+3
+
+ jiménez murillo l montero pérez f
+
+ j
+
+ medicina de urgencias y
+ emergencias
+
+ guía diagnóstica y protocolos de actuación
+
+ 2015
+
+
+4
+
+ bengoa urrengoetxea i morros blanco l
+
+ alteración del nivel de
+ conciencia
+
+ coma
+
+ revista amf 2019155248250
+5
+
+ badia jobal jr m torres martí a ferrer monreal m
+
+ enfermo
+ respiratorio crónico
+
+ farreras rozman
+
+ medicina interna 80 647658
+6
+
+ j
+
+ faugno anthony k
+
+ epstein scott
+
+ acute respiratory failure
+
+
+ conn s current therapy 2020 813818
+7
+
+ fisterra
+
+ guía clínica hipernatremia
+
+ 2015
+8
+
+ rhee p
+
+ joseph b
+
+ shock electrolitos y líquidos
+
+ sabiston
+
+
+ tratado de cirugía
+
+ 2018
+
+ capítulo 4 4497
+9
+
+ lena d
+
+ orban j
+
+ levraut j
+
+ conducta práctica ante una
+ hipernatremia
+
+ tratados emc
+
+ anestesiareanimación 20160201
+ volumen 42 número 1 páginas 17
+10
+
+ cano pérez j
+
+f
+
+ diabetes mellitus
+
+ atención primaria
+
+ problemas de
+ salud en la consulta de medicina de familia
+
+ 2019
+
+ 10 236271
+11
+
+ amouyal c sospecha de hipoglucemia en el adulto no diabético
+
+
+ tratado de medicina 20170901 volumen 21 número 3 páginas 15
+
+
+12
+
+ fundación redgdps guía de diabetes tipo 2 para clínicos
+
+ 2018
+
+
+ 126137
+
+
+13
+
+ neligan p
+
+ j deutschmann c
+
+s
+
+ equilibrio acidobásico durante el
+ período perioperatorio
+
+ miller
+
+ anestesia
+
+ 2016
+
+ capítulo 60
+ 18111829
+14
+
+ gómez h mizock b
+
+a hiperlactemia y acidosis láctica
+
+ cuidados
+ intensivos en nefrología
+
+ tercera edición
+
+ 2020
+
+ capítulo 67
+ 394404
+15
+
+ guía clínica fisterra
+
+ hipocalcemia
+
+ 051020
+16
+
+ lamelo alfonsín f
+
+ hipercalcemia en el paciente oncológico
+
+
+ fisterra
+
+ 27052019
+
+
+17
+
+ guía clínica fisterra
+
+ hipercalcemia
+
+ 28122015
+18
+
+ j
+
+ horwitz
+
+ 2019 hypercalcemia of malignancy mechanisms
+
+ e
+
+
+ mulder
+
+ uptodate
+
+
+19
+
+ universidad de valladolid
+
+ urgencias en oncología y medicina
+ paliativa
+
+ hipercalcemia tumoral
+
+ curso académico 20182019
+
+ 14ª
+ edición
+
+ 683684
+20
+
+ castro p fernández s nicolás j
+
+m lesiones por agentes físicos
+ externos
+
+ enfermo crítico y emergencias capítulo 30 285302
+
+ 2ª
+ edición
+
+
+21
+
+ antoon a lesiones por frío
+
+ nelson
+
+ tratado de pediatría capítulo
+ 93 623636
+
+ 21ª edición 2020
+
+
+22
+
+ manson md p
+
+ tratamiento de las congelaciones hipotermia y
+ lesiones por frío
+
+ terapias quirúrgicas actuales 236 13061311
+
+
+23
+
+ servicio de vigilancia epidemiológica dirección general de salud
+ pública
+
+ plan de prevención de los efectos de las altas temperaturas
+ en asturias para el verano 2020
+
+
+24
+
+ m
+
+v johnston
+
+ encefalopatías
+
+ nelson
+
+ tratado de pediatría
+
+ 21ª
+ edición
+
+ 2020 capítulo 616 31693173
+25
+
+ velasco l
+
+ jj
+
+ zarranz
+
+ enfermedades carenciales del sistema
+ nervioso
+
+ neurología
+
+ 6º edición
+
+ 2018
+
+ 28 719725
+26
+
+ elsevier point of care
+
+ reye syndrome
+
+ october 2 2019
+
+
+27
+
+ elsevier point of care
+
+ tiamina deficiency
+
+ clinical overview
+
+
+ actualizado october 28 2019
+28
+
+ yuen t so wernicke encephalopathy
+
+ uptodate
+
+ feb 2020
+29
+
+ rovira alex kremer st sundgren pia
+
+ grainger allison s
+ diagnostic radiology
+
+ seventh edition
+
+ 2021 58 14981549
+30
+
+ de salamanca lorente r
+
+ e
+
+ fontanellas romá a
+
+ porfirias
+
+
+ farreras rozman
+
+ medicina interna 222 17791786
+31
+
+ carrion md martin md
+
+ cirrhosis
+
+ conn s current therapy 2020
+ 190200
+32
+
+ mas a escorsell a
+
+ encefalopatía hepática
+
+ enfermo crítico y
+ emergencias capítulo 47 465470
+33
+
+ meyer t hostetter th
+
+ fisiopatología de la uremia
+
+ brenner y
+ rector
+
+ el riñón
+
+ 2018 54 18071821
+34
+
+ mitch w
+
+e chronic kidney disease
+
+ goldmancecil medicine 2020
+ 121 799804
+35
+
+ ladsous m
+
+ j
+
+l wémeau
+
+ hipotiroidismo del adulto
+
+ tratado de
+ medicina 20180901 volumen 22 número 3 páginas 17
+
+ elsevier
+
+
+36
+
+ fisterra
+
+ guía clínica hipotiroidismo
+
+ fecha de última revisión
+ 09042018
+37
+
+ i
+
+h rabinovich f
+
+a hanzu m
+
+ mora porta
+
+ enfermedades de las
+ glándulas suprarrenales
+
+ farreras rozman
+
+ medicina interna 239
+ 20002020
+
+ 19ª edición
+
+ 2020
+
+ 
+
+anexos
+
+1
+
+ causas de disminución del nivel de conciencia
+2
+
+ causas de hipotermia
+
+ 
+
+tablas
+
+1
+
+ escala de coma de glasgow
+
+ elaboración propia
+2
+
+ manifestaciones clínicas insuficiencia respiratoria
+
+ elaboración
+ propia
+
+
+3
+
+ criterios diagnósticos y grado de la cetoacidosis diabética
+
+
+ elaboración propia
+
+
+4
+
+ diagnóstico diferencial cetoacidosis diabética y estado
+ hiperglucémico hiperosmolar
+
+ elaboración propia
+
+
+5
+
+ clasificación de causas de hipernatremia
+
+ elaboración propia
+6
+
+ causas de hipercalcemia
+
+ elaboración propia
+
+
+
+ 
+
+
+
+
+
+anexo 1
+
+ causas de disminución del nivel de conciencia
+
+
+
+ 
+
+
+
+anexo 2
+
+ causas de hipotermia según mecanismo
+
+
+
+artículos recomendados de este número
+
+pdf versión el sÍndrome de realimentaciÓn
+casas garcíaconsuegra m
+
+
+
+pdf versión gliflozinas en el tratamiento de la dm 2 y la
+insuficiencia cardÍaca
+peláez herrero n
+
+
+
+pdf versión tratamiento no farmacolÓgico de la salud Ósea
+hernández hernández s
+
+
+
+pdf versión causas metabÓlicas que originan disminuciÓn de consciencia
+menéndez argüelles m
+
+
+
+pdf versión valoraciÓn enfermera en la disminuciÓn yo pérdida
+transitoria de consciencia sÍncope
+redondo castán l
+
+c
+
+ porroche urtiaga c
+
+ compaired guio a
+
+b
+
+ gimeno
+garcía l
+
+
+
+historico articulos de npunto
+
+pdf versión reanimaciÓn cardiopulmonar de la gestante en el medio
+hospitalario
+albuerne canal a
+
+m
+
+ 01062019
+
+
+
+pdf versión pinzamiento del cordÓn umbilical precoz frente al
+pinzamiento tardÍo
+martos martos m 01092018
+
+
+
+pdf versión histerectomÍa total benigna mÍnimamente invasiva una
+revisiÓn de la literatura
+
+
+herrero olivares a
+
+m
+
+ 02042018
+
+
+
+pdf versión los bloqueos periféricos frente a la epidural en el
+posoperatorio de una artroplastia total de rodilla
+
+ 
+lópez guisado m
+
+i
+
+ 02042018
+
+
+
+pdf versión aplicaciÓn del listado de verificaciÓn quirÚrgica
+
+
+navarro garcía c
+
+ 02042018
+
+
+
+pdf versión repercusiÓn de la ingesta moderada de cerveza en el
+organismo
+lópez rivas l 15052018
+
+
+
+pdf versión cuidados de la nutriciÓn enteral domiciliaria
+
+
+ripoll sorbas v 15052018
+
+
+
+pdf versión influencia del aceite de coco en enfermos de alzheimer
+ramírez ramírez m 15052018
+
+
+
+pdf versión funciÓn asistencial en atenciÓn especializada
+lópez palomino e
+
+ 23102019
+
+
+
+pdf versión revisiÓn bibliogrÁfica aplicaciÓn de la terapia de
+oxigenaciÓn extracorpÓrea en pacientes con parada cardiorrespiratoria en
+el servicio de urgencias
+pociello llohan l 26012022
+
+
+
+pdf versión tratamiento no farmacolÓgico en el tdah desde el punto de
+vista de enfermerÍa
+hernández blasco e 01042019
+
+
+
+pdf versión ¿qué beneficios aporta el ejercicio fÍsico durante el
+embarazo en la salud materna y fetal
+
+
+albéndiz rodríguez m
+
+a 18082022
+
+
+
+pdf versión higiene postural y prevenciÓn del dolor de espalda en
+escolares
+amado merchán a 09062020
+
+
+
+pdf versión impacto psicolÓgico de las Úlceras por presiÓn ¿cuÁles son
+las intervenciones enfermeras para paliarlo
+
+
+gonzález huergo c
+
+m 26052021
+
+
+
+pdf versión infecciÓn por listeriosis durante el embarazo
+corte garcía p 15092020
+
+
+
+pdf versión lactancia en tÁndem
+buen gimenez m 01092018
+
+
+
+pdf versión caso clÍnico sÍndrome de wolf hirschorn en un recién
+nacido
+martos martos m 01092018
+
+
+
+pdf versión sÍndrome por ahogamiento en escolar de 8 aÑos y rcp
+temprana
+roldán gonzález m 01092018
+
+
+
+pdf versión atenciÓn psicolÓgica de la enfermera a la familia en los
+cuidados paliativos
+pérez petronila e 31052023
+
+
+
+pdf versión Úlcera neuropÁtica plantar en consulta de atenciÓn
+primaria de enfermerÍa
+fernÁndez huertas a 01092018
+
+
+
+npunto está incluida en
+
+Índices csic
+
+npunto está incluida en Índices csic
+
+miar
+
+npunto está incluida en miar
+
+latindex
+
+npunto está incluida en latindex
+
+dulcinea
+
+npunto está incluida en dulcinea
+
+google académico
+
+npunto está incluida en google académico ver todos
+
+¿te gustaría publicar tu artículo
+
+
+
+si te gustaría ver tu artículo en la revista npunto ¡puedes hacerlo
+
+
+
+
+deberás seguir los siguientes pasos
+
+1
+
+ normas de publicación asegurate de que tu artículo se ciñe a las
+ normas de publicación de la revista las podrás encontrar aquí
+
+
+
+2
+
+ mándanos tu trabajo email editorialnpunto
+
+es nuestro equipo se
+ encargará de revisarlo y valorar su trabajo
+
+
+
+3
+
+ en caso de ser aceptado recibirá un email solicitandole todos
+ los documentos necesarios para la publicación
+
+
+ en caso de no ser aceptado recibirá los cambios que debe hacer
+ en su trabajo para que se apto para su publicación
+
+
+
+
+
+
+
+anterior artículo
+
+siguiente artículo
+
+×
+
+recuperación de contraseña
+
+para recuperar tu contraseña por favor introduce el email con el que te
+registraste
+
+
+
+email
+
+recuperar contraseña
+
+volver a login
+
+¿aún no tienes cuenta
+
+ ¡regístrate
+
+
+
+×
+
+¡bienvenidoa
+
+
+
+accede con tu email y contraseña
+
+
+
+email
+
+contraseña
+
+entrar
+
+¿contraseña olvidada
+
+
+
+¿aún no tienes cuenta
+
+ ¡regístrate
+
+
+
+información
+
+ registrarse en la web
+ política de cookies
+ condiciones de uso
+ política de privacidad
+ declaración de acceso abierto
+ términos de licencia
+ aviso legal
+ infonpunto
+
+es
+ comprobar certificado
+
+sobre nosotros
+
+npunto nace para dar servicio a una demanda concreta generada por los
+profesionales de la salud por algunas categorías más que por otras en
+publicar y dar a conocer sus trabajos ya sean de investigación de
+revisión u opinión en poder hacerlo de un modo ágil y con carácter
+científico que sea reconocido su valor a nivel general y a nivel
+oficial
+
+ la producción científica de los profesionales de la salud es
+destacada de calidad excelente y objetiva a nivel nacional e
+internacional que no tiene espacio suficiente para darse a conocer pues
+hay cabeceras de medios que están cerrando obligados por la situación
+que vivimos y donde las opciones de publicar se ven reducidas
+
+
+
+revista npunto
+
+© 2025 npunto
+
+licencia de creative commons  issn 26039680 issn impresa
+26050110

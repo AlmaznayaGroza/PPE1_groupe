@@ -1,0 +1,1684 @@
+revista científica electrónica eneurobiología
+
+ inicio
+ acerca de
+ iniciar sesión
+ buscar
+ actual
+ archivos
+ estadísticas
+
+inicio vol
+
+ 10 núm
+
+ 24 2019 garcía castro
+
+ resumen
+ abstract
+ referencias
+ mail
+
+nuevas teorías sobre la consciencia javier andrés garcía castro centro
+universitario villanueva universidad complutense de madrid madrid
+españa
+
+ resumen
+
+inicio resumen
+
+introducción
+
+ el problema de la consciencia constituye uno de los
+mayores retos para la ciencia contemporánea
+
+ aunque desterrada del
+ámbito de la investigación científica durante varias décadas en el siglo
+xx existe un creciente interés en su estudio reflejado en el número de
+investigaciones que se publica cada año y la gran diversidad de teorías
+que surgen para intentar explicarla
+
+ objetivo
+
+ realizar una revisión
+actualizada de las principales teorías sobre la consciencia
+
+ desarrollo
+
+
+se describen las teorías más relevantes y actuales sobre la consciencia
+
+
+las teorías han sido clasificadas en cuatro grupos en función de su
+marco epistemológico teorías cognitivas metafísicas cuánticas y
+neurocientíficas
+
+ conclusiones
+
+ no existe por el momento un acuerdo
+sobre la definición ni el concepto de consciencia
+
+ la gran diversidad de
+teorías existentes algunas de ellas antagónicas podría estar
+reflejando el estado de una ciencia sobre la consciencia todavía
+inmadura
+
+ no se puede concluir si la consciencia es un mero epifenómeno
+de la actividad cerebral o bien una representación esquemática de la
+realidad útil para guiar nuestra conducta en ambientes complejos
+
+ la
+incipiente integración entre ciencia cognitiva y neurociencia por un
+lado y mecánica cuántica y teorías metafísicas por otro ofrece nuevas
+posibilidades teóricas y empíricas no contempladas hasta el momento
+
+
+finalmente el giro de la investigación hacia un mayor interés en el
+estudio de la consciencia hace posible vislumbrar importantes avances en
+esta materia en las próximas décadas
+
+
+
+palabras clave atención
+
+ consciencia
+
+ neurociencia
+
+ mecánica cuántica
+
+
+qualia
+
+
+
+inicio abstract
+
+introduction
+
+ the issue of consciousness remains one of the biggest
+challenges for contemporary science
+
+ despite being neglected from
+scientific research during some decades of the 20th century there is
+growing interest concerning its study as it follows from the great
+number of publications on this topic and the wide range of theories that
+arise every year in trying to explain it
+
+ objective
+
+ the aim of this
+paper is to present an updated review of the main theories about
+consciousness from an historical background of the previous
+
+
+development
+
+ theories have been classified into four categories
+cognitive theories metaphysical quantum and neuroscientific
+
+
+conclusions
+
+ there is no agreement at the present moment concerning the
+concept of consciousness
+
+ the great diversity of theories some of them
+antagonistic should be reflecting an immature emerging science about
+consciousness
+
+ focus diverges from the epiphenomenon view to functional
+crucial biological property for survival
+
+ the emerging integration
+between cognitive science and neuroscience by one side and quantum
+mechanics and metaphysical theories by the other are creating new
+theoretical and empirical possibilities unknown in the past decades
+
+
+even though a conceptual theoretical and empirical consensus about
+consciousness is still far the growing interest on this topic make
+possible new directions for the next years
+
+
+
+keywords attention
+
+ awareness
+
+ consciousness
+
+ neuroscience
+
+ quantum
+mechanics
+
+ qualia
+
+
+
+inicio 1
+
+introducción
+
+es probable que no exista una cuestión más íntimamente relacionada con
+el ser humano y peor comprendida
+
+ el estudio de la consciencia humana
+constituye uno de los mayores retos para la ciencia contemporánea
+
+
+aunque desterrada del ámbito de la investigación científica por
+corrientes psicológicas como el conductismo el interés en su estudio ha
+crecido exponencialmente en las últimas décadas especialmente a partir
+de los años noventa figura 1
+
+
+
+
+
+figura 1
+
+ evolución histórica del número de publicaciones científicas
+relacionadas con laconscienciaen medline
+
+
+
+la investigación sobre la consciencia aglutina una gran cantidad de
+problemas que mantiene intrigada a la comunidad científica como son la
+naturaleza de la experiencia subjetiva o qualia¹las relaciones entre la
+mente y el cuerpo²el problema de la integración binding problem³la
+distinción entre procesamiento consciente e inconsciente⁴la no
+computabilidad de algunos procesos cognitivos⁵o la espinosa cuestión del
+libre albedrío
+
+⁶la complejidad de su estudio estriba en la necesidad de
+hacer ciencia objetiva de un fenómeno subjetivo y por tanto en la
+dificultad de encontrar medidas objetivas y válidas para evaluar la
+presencia de la consciencia en procesos tales como la percepción el
+razonamiento la toma de decisiones o la acción
+
+⁷no en vano el
+neurocientífico ralph adolphs⁸clasifica el tema de la consciencia dentro
+del grupo de problemas que nunca podremos resolver
+
+
+
+por tanto una buena teoría de la consciencia debería dar respuesta a
+las siguientes preguntas a ¿por qué tenemos una experiencia
+subjetiva
+
+ b ¿qué diferencias existen entre el procesamiento
+consciente e inconsciente
+
+ c ¿cómo se produce la experiencia unificada
+y multisensorial del mundo y de uno mismo
+
+ y d ¿es la consciencia una
+sustancia diferente de la materia
+
+⁹muchas de las teorías presentadas en
+esta revisión se podrían clasificar en función de las respuestas que dan
+a cada una de estas preguntas
+
+¹⁰
+
+el objetivo del presente artículo es revisar las teorías más relevantes
+que han tratado de explicar el fenómeno de la consciencia desde
+distintos puntos de vista
+
+ las teorías se han distribuido en cuatro
+grupos cognitivas metafísicas cuánticas y neurocientíficas
+
+ muchas
+teorías y propuestas relevantes han quedado excluidas por cuestiones de
+espacio por lo que se han seleccionado las teorías más representativas
+dentro de cada grupo
+
+ se expondrán los presupuestos y las ideas
+centrales de cada una de ellas así como sus puntos fuertes y
+limitaciones a la hora de valorar su poder explicativo consistencia
+interna y validez externa
+
+ además se incluyen en esta revisión teorías
+de reciente aparición que debido a su actualidad no han sido incluidas
+en artículos previos
+
+
+
+inicio 2
+
+el concepto de consciencia
+
+no disponemos de una definición unánimemente aceptada del concepto de
+consciencia en la actualidad
+
+¹¹hacemos notar que emplearemos en este
+artículo el término consciencia en lugar de conciencia
+
+ por consciencia
+se entiende según eldiccionario de la real academia de la lengua¹²el
+“conocimiento inmediato que el sujeto tiene de sí mismo de sus actos y
+reflexiones” mientras que la misma institución define el término
+conciencia como “propiedad del espíritu humano de reconocerse en sus
+atributos esenciales y en todas las modificaciones que en sí mismo
+experimenta” y también como “conocimiento o discernimiento interior del
+bien y el mal”
+
+ por tanto aunque ambos términos se utilicen de manera
+intercambiable se prefiere el uso del términoconscienciapara referirnos
+a aquella propiedad de la mente o función neurobiológica que nos permite
+tener un conocimiento objetivo y subjetivo del mundo y de nosotros
+mismos
+
+
+
+por otra parte la distinción que la lengua española establece entre los
+verbos ser y estar facilita la comprensión de la consciencia en
+diferentes niveles de complejidad
+
+ estar consciente sería lo mismo que
+estar despierto o vigilante y la ausencia de consciencia en este
+sentido se produciría durante el sueño o bajo los efectos de la
+anestesia
+
+ sin embargo ser consciente implicaría un conocimiento
+subjetivo de la supuesta objetividad del mundo y de uno mismo de saber
+que se sabe
+
+¹³
+
+además se han aportado numerosas definiciones del término consciencia
+
+
+el filósofo británico john locke 16321704 definió la consciencia como
+la “percepción de lo que pasa en la propia mente”
+
+¹⁴george prigatano y
+daniel schacter definen la autoconsciencia como “la capacidad de
+percibirse uno mismo en términos relativamente objetivos manteniendo un
+sentido de subjetividad” lo cual implicaría a su juicio una
+integración de pensamientos y sentimientos
+
+¹⁵de forma general podemos
+considerar la consciencia como un “estado mental privado personal
+subjetivo y cualitativo que integra de modo unitario coherente y
+continuo múltiples experiencias personales qualias”
+
+¹⁶
+
+sin ánimo de ser exhaustivos hemos querido ofrecer algunas definiciones
+del término consciencia con el fin de conseguir una mayor claridad
+conceptual útil para este artículo asumiendo que no existe una
+definición universalmente aceptada del mismo en la actualidad
+
+
+
+inicio 3
+
+teorías sobre la consciencia
+
+teorías cognitivasentre la década de los años 80 y 90 del siglo xx
+surgen las primeras teorías científicas que se propusieron sobre la
+consciencia planteadas desde el paradigma de la psicología cognitiva
+
+
+comentaremos dos de las más relevantes lateoría del espacio global de
+trabajode bernard baars y lateoría de los borradores múltiplesde daniel
+dennett
+
+
+
+la teoría del espacio global de trabajofue propuesta en la década de los
+años 80 por el psicólogo cognitivo bernard baars
+
+¹⁷esta teoría explica
+la consciencia a través de la metáfora del teatro
+
+ según esta metáfora
+la consciencia sería un punto brillante del escenario que representa el
+contenido de la memoria de trabajo guiado ejecutivamente por el foco de
+luz de la atención
+
+ solo aquellas regiones iluminadas por el foco de luz
+de la atención se harán conscientes mientras que el resto que
+permanece en penumbra será inconsciente
+
+ en esta teoría la consciencia
+se concibe como una habilidad para acceder distribuir e intercambiar
+información y para ejercer un control y coordinación globales sobre la
+cognición y tendría además las siguientes funciones permitir el
+acceso allexicon a la memoria autobiográfica y al “yo” intervenir en
+situaciones novedosas y complejas con flexibilidad en la toma de
+decisiones solución de problema y en la detección de errores
+
+¹⁸si bien
+esta teoría ha tenido el acierto de formular la consciencia en términos
+de la psicología cognitiva y basarse en datos empíricos del paradigma
+del procesamiento de la información adolece de ser excesivamente
+metafórica por lo que resulta más bien descriptiva que explicativa
+
+
+además sigue incurriendo en el problema de la existencia de un
+observador oculto en el cerebro como una versión cognitiva del dualismo
+cartesiano
+
+
+
+en los últimos años el neurocientífico francés stanislas dehaene¹⁹ha
+tratado de desentrañar el sustrato neuronal de la teoría de baars
+mediante elmodelo neuronal del espacio global de trabajo
+
+ este modelo
+propone la implicación de circuitos de largo alcance en regiones de la
+corteza prefrontal cingulado anterior y fascículos de asociación como
+sede del espacio global de trabajo de capacidad limitada capacidad por
+la que competirían las informaciones generadas en múltiples procesadores
+inconscientes que actuarían en paralelo
+
+
+
+la teoría de los borradores múltiplesde daniel dennett²⁰trata de
+desterrar la idea de que existe un centro anatómicofuncional en el
+cerebro que podría identificarse con el “lugar” de la consciencia lo
+que el autor denominateatro cartesiano
+
+ según esta teoría la
+consciencia no es un centro cerebral en el que convergen las diferentes
+entradas sensoriales para formar la experiencia consciente sino que
+sería el resultado de la competitividad entre múltiples módulos
+cerebrales que procesan información en paralelo
+
+ este funcionamiento es
+parecido al proceso de revisión editorial en el que se elaboran
+distintas versiones o borradores del mismo manuscrito hasta que se
+alcanza el producto final de la misma manera diferentes módulos
+procesarían en paralelo percepciones y pensamientos en constante proceso
+de revisión de los cuales solo uno accede finalmente al flujo constante
+de la consciencia mientras que las demás son eliminadas
+
+ cada uno de
+estos módulos básicos e independientes realiza tareas muy sencillas y
+automáticas i
+
+e
+
+ procesamiento de orientación de líneas brillo
+contraste forma color profundidad movimiento etc
+
+ fuera de la
+consciencia del sujeto
+
+
+
+la teoría de los borradores múltipleses una teoría monista basada en
+evidencias de la psicología cognitiva que critica el dualismo todavía
+presente en teorías como la delespacio global de trabajo
+
+ sin embargo
+la teoría presenta algunas insuficiencias que no ha podido resolver
+
+ una
+de ellas es que no consigue escapar del todo al problema del homúnculo
+puesto que si existen múltiples borradores de la experiencia consciente
+que se puede experimentar en cada momento ¿quién o qué estructura
+cerebral o en base a qué criterios se elige un tipo de experiencia
+consciente y se descartan las demás
+
+ según dennett²¹el acceso mediante
+el lenguaje nos permitiría tener experiencias conscientes que estarían
+siempre en relación con un centro de gravedad narrativo
+
+ por otro lado
+el excesivo reduccionismo materialista de la teoría convierte al cerebro
+en una entidad privilegiada y causa de la consciencia equiparando sin
+justificación empírica o lógica “representación neural” con
+“representación fenomenológica”
+
+ además la teoría no puede resolver un
+problema central en el estudio de la consciencia como es el problema de
+la integración binding problem por cuanto toda esa información
+parcial y disgregada que es procesada en los módulos inconscientes y en
+paralelo debe ser integrada o bien en algún lugar del cerebro o bien
+mediante algún mecanismo de coordinación que permita producir la
+experiencia consciente unitaria y coherente algo que no se explica en
+la teoría
+
+²²
+
+teorías metafísicaslas teorías metafísicas de la consciencia desafían el
+reduccionismo inherente a las teorías neurobiológicas al postular la
+existencia de otra dimensión o plano de realidad desde los que o bien
+plantean la posibilidad de un paralelismo psicofísico o bien invierten
+la relación de los términos al sugerir que es la consciencia la que crea
+tanto la actividad cerebral como el mundo y no al revés
+
+ en efecto el
+filósofo australiano david chalmers²³ha criticado la posibilidad de que
+la consciencia pueda explicarse a partir de alguna teoría fisicalista
+
+
+la física explica macrofenómenos a partir de otros más básicos cuando
+nos referimos a estructuras y funciones sin embargo esto no es
+aplicable a la relación entre procesos físicos y experienciales ya que
+los segundos no pueden ser reducidos a los primeros por el simple hecho
+de que los procesos físicos pueden existir sin la necesidad de generar
+experiencia consciente
+
+ por tanto para chalmers la mayoría de las
+teorías cognitivas y neurocientíficas existentes explican algún problema
+relacionado con la consciencia como puede ser el procesamiento visual o
+el acceso a los contenidos de la memoria de trabajo lo que él denomina
+elproblema fácil pero no explican cómo se genera la experiencia
+consciente elproblema difícil
+
+²⁴sin embargo una verdadera teoría de la
+consciencia debería contemplar esa explicación
+
+ por eso propone
+eldualismo naturalista una teoría no reduccionista de la consciencia
+según la cual la consciencia sería una propiedad fundamental del
+universo que no necesita explicación en sí misma sino que constituye un
+punto de partida a partir del cual podemos formular leyes y principios
+psicofísicos que nos permitan establecer mecanismos de interacción entre
+la experiencia subjetiva y las leyes del mundo físico
+
+ chalmers²⁵propone
+en concreto tres principios elprincipio de la coherencia estructural
+que trata de relacionar la estructura de la consciencia con la
+estructura del conocimiento elprincipio de la invarianza
+organizacional según el cual la organización funcional de un sistema y
+sus mutuas interconexiones son las que determinan la emergencia de la
+experiencia consciente independientemente del sistema físico de
+soporte y por último eldoble aspecto de la teoría de la
+informaciónasume que la información posee una cualidad física y otra
+experiencial
+
+ de esta manera la información sería otro aspecto
+fundamental utilizado por los organismos para generar experiencias
+conscientes las cuales serán más o menos complejas en función de la
+propia complejidad organizativa de esos organismos
+
+
+
+la propuesta de chalmers ha sido criticada por su alto nivel de
+especulación y por constituir un nuevo retorno al dualismo ya que la
+consciencia constituiría una entidad que se acopla al cuerpo según una
+serie de leyes psicofísicas fundamentales
+
+²⁶en los últimos años se ha
+buscado en la mecánica cuántica el posible sustrato de esas leyes
+psicofísicas que relacionarían fenómenos físicos y mentales
+
+²⁷
+
+una nueva teoría propuesta para explicar la consciencia desde un enfoque
+metafísico es lateoría de los agentes conscientesde donald
+hoffman
+
+²⁸este autor ha propuesto un modelo matemático de la consciencia
+partiendo del hecho de que tenemos un conjunto posible de experiencias
+conscientes x colores olores sabores sonidos dolor sentimientos
+etc
+
+ que son percibidas p a partir de la interacción con el mundo
+w sobre la base de esas experiencias un agente puede tomar decisiones
+d y actuar sobre el mundo g mediante acciones a que transforman a
+su vez el mundo percibido figura 2
+
+ todos estos componentes
+constituyen lo que en la teoría se denomina unagente consciente
+
+
+
+según esta teoría el mundo podría ser sustituido por otros agentes
+conscientes generando de este modo un sistema de agentes conscientes en
+mutua interacción lo que el autor denominarealismo consciente de esta
+manera la realidad estaría compuesta únicamente por agentes
+conscientes es decir puntos de vista en primera persona
+
+ es en este
+sentido que la teoría es radical porque para resolver el problema de la
+consciencia propone que la consciencia es una propiedad fundamental del
+universo planteando el problema mentecuerpo a la inversa que la
+neurociencia es la consciencia la que crea la actividad cerebral y los
+agentes conscientes en su mutua interacción los que crean los objetos
+y propiedades que observamos
+
+ por eso hoffman²⁹ha criticado tanto el
+enfoque neurocientífico según el cual la consciencia puede explicarse en
+términos de actividad cerebral como las teorías cuánticas de la
+consciencia las cuales defienden la existencia de un cerebro físico en
+el cual la consciencia sería el resultado de un tipo particular de
+colapso de la función de onda debida a la gravedad cuántica en la escala
+de planck
+
+ para lateoría de los agentes conscienteslos objetos de la
+percepción dependen de la interacción de los agentes conscientes y no
+tienen una existencia real cuando no interactúan con un observador
+
+
+estos objetos de la percepción se podrían equiparar a los iconos de un
+entorno virtual que representan de forma simplificada otro tipo de
+información más compleja y oculta al observador y cuya función sería
+aportar al observador información valiosa para algún fin como puede ser
+la supervivencia en el caso de los organismos vivos
+
+
+
+el excesivo formalismo matemático de lateoría de los agentes
+conscientesconstituye un riesgo de perder algo esencial relacionado con
+la naturaleza subjetiva de la experiencia consciente qualia
+
+ además
+supone una nueva forma de idealismo al proponer la consciencia como
+propiedad fundamental y subyacente de la materia
+
+ esto representa un
+problema para la supuesta objetividad de la ciencia puesto que si solo
+hay puntos de vista en primera persona todo queda reducido a la mera
+subjetividad
+
+
+
+
+
+figura 2
+
+ diagrama de un agente consciente
+
+ adaptado de “objects of
+consciousness” por hoffman prakash
+
+²⁸
+
+teorías cuánticaslas teorías de la consciencia basadas en la mecánica
+cuántica comenzaron a despuntar hacia finales de los años 90
+
+
+concretamente elmodelo de la reducción objetiva orquestadaelaborado
+conjuntamente por roger penrose y stuart hameroff³⁰propone que la
+consciencia puede ser explicada a partir de procesos de computación
+cuántica
+
+ la región del cerebro adecuada para realizar estas operaciones
+serían los microtúbulos del citoesqueleto neuronal en los que existe
+una proteína denominadatubulinaque podría participar en la sintonización
+de los fenómenos cuánticos con los estados mentales conscientes
+
+ la
+computación cuántica desarrollada en los microtúbulos de forma aislada
+podría extenderse a amplias regiones cerebrales en las que mediante el
+colapso de la función de onda cuántica se efectuaría la reducción de
+múltiples estados conscientes posibles a un único estado que sería
+responsable de producir la experiencia consciente que denominamosqualia
+
+
+las propiedades del procesamiento cuántico podrían explicar algunos
+fenómenos desconcertantes de la consciencia como son el problema de la
+integración a través de la deslocalización del procesamiento o la
+cuestión del libre albedrío mediante la indeterminación cuántica
+
+³¹en
+2014 los mismos autores presentaron una revisión de su teoría aportando
+nuevas evidencias que incluían la existencia de “canales cuánticos” en
+el interior de los microtúbulos el efecto de los anestésicos para
+desintegrar la consciencia en esos canales además de una sincronía entre
+el ritmo de frecuencias de los microtúbulos y las ondas gamma de entre
+35 y 70 hz medidas mediante encefalografía eeg
+
+³²
+
+en la misma línea el físico norteamericano henry stapp³³ha propuesto
+una teoría según la cual la consciencia causaría el colapso de la
+función de onda
+
+ la teoría de stapp concibe el cerebro como un
+procesador cuántico que puede manejar múltiples estados alternativos en
+paralelo los cuales potencialmente pueden ser integrados en la
+consciencia
+
+ de esta forma la consciencia que por naturaleza es
+nodeterminista ejercería un control sobre el cerebro material y
+determinista mediante un proceso atencional de elección entre múltiples
+y posibles estados conscientes lo cual coincidiría con el colapso
+cuántico
+
+
+
+en cuanto a las críticas ambas teorías incurren en una nueva forma de
+dualismo de sustancias la realidad cuántica y los estados mentales y
+no explican realmente cómo surge la experiencia subjetiva sino que más
+bien sustituyen un misterio por otro a saber el misterio de la
+consciencia por el misterio de la mecánica cuántica
+
+ además se centran
+exclusivamente en la explicación de la parte física descuidando su
+vinculación con el corpus de conocimiento de la neurociencia actual
+
+³⁴
+
+teorías neurocient´ficaslas teorías neurocientíficas sobre la
+consciencia estudian los mecanismos cerebrales implicados en la
+generación de la experiencia consciente y tienen en común la búsqueda de
+lo que se conoce comocorrelatos neuronales de la conscienciacnc
+
+³⁵es
+decir pretenden encontrar la “mínima actividad cerebral suficiente para
+generar un percepto consciente específico”
+
+³⁶francis crick y christof
+koch propusieron a principios del siglo xxi un marco de trabajo para
+desentrañar los cn de la consciencia visual
+
+ según estos autores en su
+hipótesis inicial el disparo sincronizado con una frecuencia de 40 hz
+de un determinado grupo de neuronas implicadas en el procesamiento de
+los atributos de un objeto integraría esos atributos en una
+representación perceptiva unificada
+
+³⁷esta hipótesis ha sido descartada
+posteriormente como condición suficiente de los cnc argumentando que la
+integración se produciría como consecuencia de una coalición temporal de
+neuronas favorecidas por la sincronía en su competición por acceder a la
+consciencia
+
+³⁸estudios posteriores realizados con eeg han encontrado
+evidencias a favor de la sincronía neuronal en el proceso de integración
+visual consciente
+
+3940
+
+derivada de lateoría del núcleo dinámico⁴¹según la cual los bucles de
+reentrada talamocorticales producirían altos niveles de complejidad que
+darían lugar a la consciencia giulio tononi⁴²ha propuesto recientemente
+lateoría de la información integrada tii
+
+ según la tii la consciencia
+sería información integrada en función de la complejidad del sistema que
+procesa esa información
+
+ cuanto más integrada está la información mayor
+nivel de consciencia tendrá un organismo algo que puede medirse
+mediante la variable matemática Φ phi
+
+ esta teoría estaría próxima al
+panpsiquismo puesto que considera la consciencia como una propiedad
+fundamental con poder causal intrínseco a ciertos mecanismos con un
+determinado nivel de complejidad tendría una función adaptativa
+seleccionada por el proceso de la evolución y sería gradual por lo que
+podría encontrarse en otros organismos y estructuras distintos de los
+humanos
+
+ no obstante la teoría predice la presencia de consciencia de
+alta complejidad en algunos sistemas físicos sofisticados a los que
+sería controvertido por el momento atribuir la propiedad de la
+consciencia
+
+⁴³además el funcionalismo inherente a la tii hace difícil
+que la teoría pueda explicar adecuadamente el problema de los qualia
+
+⁴⁴
+
+fruto de la integración de la neurociencia y la psicología cognitiva
+michael graziano⁴⁵ha propuesto recientemente suteoría del esquema
+atencional según la cual la consciencia sería una representación
+descriptiva y esquemática de la atención
+
+ los modelos esquemáticos de la
+atención serían paquetes de información que contienen lo esencial para
+poder planificar acciones o hacer predicciones y también para entender
+los estados mentales propios y ajenos útil para poder predecir no solo
+la conducta de uno mismo sino también la de los demás
+
+ en este sentido
+la consciencia sería un rasgo más añadido a la percepción de los objetos
+i
+
+e
+
+ color forma tamaño movimiento etc
+
+
+
+ por ejemplo si la
+percepción de una manzana consiste en la unión de los rasgos “verde”
+“redondez” “tamaño” “movimiento” etc
+
+ a todos estos rasgos que
+conforman el percepto manzana se añadiría además el de la experiencia
+consciente que consistiría básicamente en una representación
+esquemática de la atención figura 3
+
+
+
+
+
+figura 3
+
+ la consciencia como rasgo primario de la percepción
+
+ fuente
+graziano ms 2015
+
+⁴⁵²⁸
+
+las áreas cerebrales implicadas en la generación de los esquemas
+atencionales responsables de la sensación de consciencia serían el surco
+temporal superior sts y la circunvolución temporoparietal ctp
+figura 4
+
+ estas regiones del córtex se activan cuando los sujetos
+están implicados en tareas de percepción social que demandan el
+reconocimiento de caras además de la comprensión de los estados mentales
+ajenos
+
+⁴⁶además participan en la monitorización de la propia atención
+del sujeto
+
+⁴⁷por último lesiones en estas áreas producen el
+característico síndrome de heminegligencia que consiste en una
+alteración de la atención consciente ya sea del propio cuerpo del
+espacio o de los objetos situados en el lado contralateral a la lesión
+hemisférica cerebral más habitualmente en el lado izquierdo
+
+⁴⁸por
+tanto según esta teoría la consciencia sería un esquema atencional
+computado por este sistema especializado del cerebro capaz de atribuir
+consciencia tanto a uno mismo como a los demás
+
+
+
+las teorías neurocientíficas en su conjunto tratan de explicar la
+experiencia consciente a partir de la actividad cerebral de determinadas
+regiones corticales o subcorticales por lo que adolecen de un excesivo
+reduccionismo al identificar procesos físicos con fenómenos mentales
+
+ a
+pesar de que se postulan como solución al salto explicativo explanatory
+gap⁴⁹por el momento no son adecuadas para explicar dónde cuándo y cómo
+se produce la consciencia entendida comoqualia al no poder establecer
+relaciones de causalidad a partir de correlaciones
+
+
+
+
+
+figura 4
+
+ Áreas cerebrales involucradas en la generación de esquemas
+atencionales
+
+⁴⁵²⁸
+
+inicio 4
+
+conclusiones
+
+aunque fundamental para la existencia del ser humano todavía
+desconocemos los aspectos centrales sobre la consciencia cómo se
+genera dónde ni cuándo
+
+ ni siquiera gozamos de una definición
+universalmente aceptada de este concepto
+
+ además la escasa objetividad
+y fiabilidad en las medidas utilizadas para evaluar su presencia en los
+paradigmas experimentales revela una falta de consenso sobre cuáles son
+los fenómenos cruciales sobre los que debe asentarse una ciencia madura
+sobre la consciencia
+
+⁵⁰
+
+partiendo de los resultados descritos en la bibliografía revisada la
+consciencia se podría entender como la capacidad para percibir el mundo
+y a nosotros mismos de forma relativamente objetiva unificada y
+coherente manteniendo al mismo tiempo la subjetividad cuya posible
+función tendría un valor para la supervivencia al permitir la
+integración de múltiples piezas de información sensorial en un todo
+coherente fácilmente identificable y comprensible útil para guiar la
+acción orientada a fines
+
+⁵¹no obstante aunque muchas teorías atribuyen
+una función a la consciencia algunos autores la consideran un mero
+epifenómeno irrelevante
+
+⁵²
+
+la diversidad de teorías e hipótesis que existen hoy en día para
+explicar la consciencia es una muestra más del actual desconcierto en
+este campo de estudio
+
+ coexisten propuestas tan diversas como las
+neurocientíficas de crick y koch tononi o la de graziano que tratan de
+encontrar la causa cerebral de la consciencia con teorías radicales
+como la de losagentes conscientesde donald hoffman que no solo
+cuestionan la existencia de la realidad en una forma de neoidealismo
+sino que niegan la existencia misma del cerebro las neuronas e incluso
+los átomos
+
+ en efecto estas nuevas teorías tratan de señalar que tal
+vez el enfoque en el estudio de la consciencia podría estar equivocado
+al poner el acento en los cnc y dando por supuesta la existencia de un
+mundo exterior y objetivo cuando en realidad solo tenemos acceso a
+nuestra experiencia subjetiva
+
+ así algunos autores han llamado la
+atención sobre el hecho de que siempre existe un punto de vista cuando
+hablamos de experiencia consciente por lo que las teorías actuales
+especialmente las cognitivas y neurocientíficas podrían estar
+cometiendo en su argumentación la falacia mereológica
+
+⁵³en su versión
+más pesimista autores como colin mcginn⁵⁴o steven pinker⁵⁵consideran
+que los seres humanos estamos “cognitivamente cerrados” para comprender
+el problema de la consciencia de la misma manera que un perro lo
+estaría para la lectura de un texto o para las operaciones aritméticas
+la evolución simplemente no nos habría dotado de las estructuras
+cognitivas necesarias para poder comprender este fenómeno
+
+ en cualquier
+caso la gran mayoría fracasa a la hora de intentar explicar la “mágica
+diferencia” que hace que la experiencia fenomenológica eso que
+denominamosqualia emerja como resultado de la actividad cerebral
+haciendo que la misma actividad de las neuronas sea unas veces
+consciente y otras inconsciente
+
+⁵⁶
+
+no obstante el progresivo acercamiento entre ciencia cognitiva y
+neurociencia está revelando nuevas posibilidades teóricas y
+metodológicas para el avance en la investigación sobre las bases
+cerebrales de los estados conscientes tal y como muestran lateoría
+neuronal del espacio global de trabajopropuesta por dehaene o lateoría
+del esquema atencionalde graziano que combina planteamientos propios de
+la teoría del procesamiento de la información con hallazgos derivados de
+los estudios de neuroimagen
+
+ asimismo la mecánica cuántica no solo se
+propone como solución para desentrañar el sustrato físico de la
+fenomenología de la consciencia sino que incluso se postula como
+posible vínculo psicofísico en el contexto de un dualismo naturalista en
+el que dos sustancias distintas la física y la fenomenológica
+interaccionan a partir de una serie de leyes psicofísicas con raíz en la
+física de partículas subatómicas
+
+⁵⁷
+
+en este trabajo se han presentado las teorías más relevantes y actuales
+sobre la consciencia que han tratado de aportar novedosas soluciones a
+los innumerables interrogantes que plantea el problema de la
+consciencia
+
+ podemos señalar como limitación la exclusión de otros
+trabajos relevantes que no han sido incluidos y que podrían enriquecer
+con sus contribuciones la discusión teórica mantenida en esta revisión
+
+
+como conclusión final podemos afirmar que no existen en la actualidad
+propuestas satisfactorias ni a nivel conceptual ni teórico para explicar
+el problema de la consciencia especialmente aquel que david chalmers
+“bautizó” comoproblema difícil aunque es posible que se produzcan
+avances en las próximas décadas fruto de la integración de innovadoras
+propuestas teóricas y audaces experimentos
+
+
+
+inicio 5
+
+conflicto de intereses
+
+el autor declara no tener ningún conflicto de interés
+
+
+
+inicio 6
+
+agradecimientos
+
+quisiera mostrar mi agradecimiento a la dra
+
+ Álvarez por su
+asesoramiento técnico sobre datos de neuroimagen así como por sus
+comentarios y sugerencias
+
+
+
+inicio
+
+1
+
+ referencias
+2
+
+ nagel t
+
+ what is it like to be a bat
+
+ philos rev 1974 83 43550
+
+
+3
+
+ dennett d
+
+ contenido y conciencia
+
+ gedisa barcelona
+
+ 1996 pp 2141
+
+
+4
+
+ coleman s
+
+ the real combination problem panpsychism
+ microsubjects and emergence
+
+ erkenntnis 2014 79 1944
+
+
+5
+
+ seager w
+
+ theories of consciousness an introduction and assessment
+
+
+ routledge london
+
+ 2016 pp 5159
+
+
+6
+
+ penrose r
+
+ consciousness the brain and spacetime geometry an
+ addendum
+
+ some new developments on the orch or model for
+ consciousness
+
+ ann n y acad sci 2001 92910510
+
+
+7
+
+ olson ja landry m appourchaux k raz a
+
+ simulated thought
+ insertion influencing the sense of agency using deception and
+ magic
+
+ conscious cogn 2016 43 1126
+
+
+8
+
+ rothkirch m hesselmann g
+
+ what we talk about when we talk about
+ unconscious process – a plea for best practices
+
+ front psychol 2017
+ 8 article 835
+
+ doi 10
+
+3389fpsyg
+
+2017
+
+00835
+
+ ecollection 2017
+9
+
+ adolphs r
+
+ the unsolved problems of neuroscience
+
+ trends cogn sci
+ 2015 19 17375
+
+
+10
+
+ blackmore s troscianko e
+
+ consciousness an introduction
+
+
+ routledge oxon 2018 pp 10327
+
+
+11
+
+ varela fj
+
+ neurophenomenology a methodological remedy for the hard
+ problem
+
+ j conscious stud 1996 3 33049
+
+
+12
+
+ dietrich a
+
+ introduction to consciousness
+
+ palgrave macmillan new
+ york
+
+ 2007 pp 161
+
+
+13
+
+ diccionario de la lengua española
+
+ 23 ed
+
+ madrid real academia
+ española 2014
+
+
+14
+
+ tirapuustárroz j goñisáez f
+
+ el problema cerebromente ii
+ sobre la conciencia
+
+ rev neurol 2016 63 17685
+
+
+15
+
+ locke j
+
+ ensayo sobre el entendimiento humano
+
+ editora nacional
+ madrid
+
+ 16901980 p 165
+
+
+16
+
+ prigatano g schacter d
+
+ introduction to awareness of deficit after
+ brain injury
+
+ en prigatano g and d schacter awareness of deficit
+ after brain injury clinical and theoretical issues
+
+ new york
+ oxford university press 1991 317
+
+
+17
+
+ aznarcasanova ja
+
+ la consciencia la interfaz polinómica de la
+ subjetividad
+
+ pirámide madrid
+
+ 2017 pp 291328
+
+
+18
+
+ baars b
+
+ a cognitive theory of consciousness
+
+ cambridge university
+ press cambridge 1988 pp 93250
+
+
+19
+
+ baars b
+
+ global workspace theory of consciousness toward a
+ cognitive neuroscience of human experience
+
+ prog brain res 2005 150
+ 4553
+
+
+20
+
+ dehaene s
+
+ consciousness and the brain deciphering how the brain
+ codes our thoughts
+
+ viking penguin new york
+
+ 2014 pp 161200
+
+
+21
+
+ dennett d
+
+ consciousness explained
+
+ ma mit press boston 1991 pp
+ 2143
+
+
+22
+
+ dennett d
+
+ explaining the magic of consciousness
+
+ j cult evol
+ psychol 2003 1 719
+
+
+23
+
+ vorhees b
+
+ dennett and the deep blue sea
+
+ j conscious stud 2000 7
+ 5369
+
+
+24
+
+ chalmers dj
+
+ facing up to the problem of consciousness
+
+ j conscious
+ stud 1995a 2 20019
+
+
+25
+
+ chalmers dj
+
+ how can we construct a science of consciousness
+
+ ann n
+ y acad sci 2013 1303 2535
+
+
+26
+
+ chalmers dj
+
+ naturalistic dualism
+
+ in velmans m schneider s eds
+
+
+ the blackwell companion to consciousness
+
+ ma blackwell malden 2007
+ pp 35968
+
+
+27
+
+ searle j
+
+ why i am not a property dualist
+
+ j conscious stud 2002 9
+ 5764
+
+
+28
+
+ chalmers dj
+
+ panpsychism and panprotopsychism
+
+ in brüntrup g
+ jaskolla l eds
+
+ panpsychism contemporary perspectives
+
+ oxford
+ university press new york 2017 pp 1947
+
+
+29
+
+ hoffman dd prakash c
+
+ objects of consciousness
+
+ front psychol 2014
+ 5 122
+
+
+30
+
+ hoffman dd singh m prakash c
+
+ the interface theory of perception
+
+
+ psychon bull rev 2015 22 1480506
+
+
+31
+
+ hameroff s
+
+ consciousness the brain and spacetime geometry
+
+ ann n
+ y acad sci 2001 929 74104
+
+
+32
+
+ pensore r
+
+ mechanisms microtubules and the mind
+
+ j concious stud
+ 1994b 1 24149
+
+
+33
+
+ hameroff s penrose r
+
+ consciousness in the universe
+
+ a review of
+ the orch or theory
+
+ phys life rev 2014 11 39112
+
+
+34
+
+ stapp hp
+
+ mindful universe quantum mechanics and the participating
+ observer
+
+ springer berlin 2011 pp 8599
+
+
+35
+
+ pástorgómez j
+
+ mecánica cuántica y cerebro una revisión crítica
+
+
+ rev neurol 2002 35 8794
+36
+
+ metzinger t
+
+ neural correlates of consciousness
+
+ ma mit press
+ cambridge 2000 pp 281325
+
+
+37
+
+ koch c
+
+ the quest for consciousness a neurobiological approach
+
+ co
+ roberts co englewood 2004 p 104
+
+
+38
+
+ crick f koch c
+
+ towards a neurobiological theory of consciousness
+
+
+ seminars in the neurosciences 1990 2 26375
+
+
+39
+
+ crick f koch c
+
+ a framework for consciousness
+
+ nat neurosci 2003 6
+ 11926
+
+
+40
+
+ tallonbaudry c
+
+ oscillatory synchrony as a signature for the unity
+ of visual experience in humans
+
+ in cleeremans a ed
+
+ the unity of
+ consciousness binding integration and dissociation
+
+ oxford
+ university press new york 2003 pp 15367
+
+
+41
+
+ keitel c müller mm
+
+ audiovisual synchrony and featureselective
+ attention coamplify early visual processing
+
+ exp brain res 2016
+ 234 122131
+
+
+42
+
+ edelman gm tononi g
+
+ a universe of consciousness how matter
+ becomes imagination
+
+ basic books new york 2000 pp 113157
+
+
+43
+
+ tononi g
+
+ integrated information theory
+
+ scholarpedia 2015 10 464
+
+
+ url
+ httpwww
+
+scholarpedia
+
+orgarticleintegratedinformationtheory
+ 29
+
+05
+
+2018
+
+
+44
+
+ aaronson s
+
+ why i am not an integrated information theorist or the
+ unconscious expander
+
+ 2014 shtetloptimized
+
+ url
+ www
+
+scottaaronson
+
+comblog
+
+p1799 30
+
+05
+
+2018
+
+
+45
+
+ morgado i
+
+ psicobiología de la consciencia conceptos hipótesis y
+ observaciones clínicas y experimentales
+
+ rev neurol 2009 49 25156
+
+
+46
+
+ graziano m
+
+ consciousness and the social brain
+
+ oxford university
+ press new york 2015 pp 5969
+
+
+47
+
+ calder aj lawrence ad keane j scott sk owen am christoffels i
+ et al
+
+ reading the mind from eye gaze
+
+ neuropsychologia 2002 40
+ 112938
+
+
+48
+
+ corbetta m shulman gl
+
+ control of goaldirected and stimulusdriven
+ attention in the brain
+
+ nat rev neurosci 2002 3 20115
+
+
+49
+
+ mort dj malhotra p mannan sk rorden c pambakian a kennard c et
+ al
+
+ the anatomy of visual neglect
+
+ brain 2003 126 198697
+
+
+50
+
+ levine j
+
+ materialism and qualia the explanatory gap
+
+ pacific
+ philosophical quaterly 1983 64 35461
+
+
+51
+
+ wiese w
+
+ toward a mature science of consciousness
+
+ front psychol
+ 2018 9 115
+
+
+52
+
+ pennartz c
+
+ the brain s representational power on consciousness and
+ the integration of modalities
+
+ mit press cambridge ma 2015 p 64
+
+
+53
+
+ flanagan o
+
+ consciousness reconsidered
+
+ mit press cambridge ma
+ 1992 pp 12953
+
+
+54
+
+ noë a thompson e
+
+ are there neural correlates of consciousness
+
+ j
+ conscious stud 2004 11 328
+
+
+55
+
+ mcginn c
+
+ the mysterious flame conscious minds in a material world
+
+
+ oxford books new york 1999 pp 4346
+
+
+56
+
+ pinker s
+
+ the brain the mystery of consciousness
+
+ 2007 time url
+ httpcontent
+
+time
+
+comtimemagazinearticle091711580394100
+
+html
+ 15
+
+02
+
+18
+57
+
+ goodale ma
+
+ how and why the visual control of action differs from
+ visual perception
+
+ proc r soc lond b biol sci 2014 281 20140337
+
+
+58
+
+ ariasnavalón ja cuadradopérez ml
+
+ física cuántica y conciencia
+
+
+ rev neurol 2003 36 400
+
+
+
+ 
+ recibido 12 de febrero de 2019 aceptado 11 de abril de 2019
+ 
+
+inicio
+
+correspondencia
+
+javier andrés garcía castro
+
+ centro universitario villanueva c costa
+brava 2 28034 madrid tel 91 734 04 13
+
+ correo
+electrónicojagcastrovillanueva
+
+edu
+
+este es un artículo de libre acceso distribuido bajo los términos de la
+licencia de creative commons
+httpcreativecommons
+
+orglicensesbync3
+
+0 que permite el uso no
+comercial distribución y reproducción en algún medio siempre que la
+obra original sea debidamente citada
+
+
+
+enlaces refback
+
+ no hay ningún enlace refback
+
+
+
+ 
+
+eneurobiología es una publicación cuatrimestral editada por el instituto
+de investigaciones cerebrales de la universidad veracruzana
+
+ estamos
+ubicados en av
+
+ dr
+
+ luis castelazo ayala sn colonia industrial
+Ánimas c
+
+p
+
+ 91190 xalapaenríquez veracruz méxico
+
+ teléfono 8418900
+ext
+
+ 13062 www
+
+iice
+
+uv
+
+mx eneurobiologiauv
+
+mx
+
+ reserva de derechos al
+uso exclusivo 042023061314100600102 otorgada por el instituto
+nacional de derechos de autor
+
+ issn 20073054
+
+ esta obra está bajo una
+licencia creative commons attribution 4
+
+0 international
+
+
+
+ 
+
+ 

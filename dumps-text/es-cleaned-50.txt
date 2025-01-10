@@ -1,0 +1,1059 @@
+saltar al contenido
+
+ignacio g
+
+r
+
+ gavilán
+
+reingeniería digital
+
+ignacio g
+
+r
+
+ gavilánignacio g
+
+r
+
+ gavilán
+
+ inicio
+ servicios
+ asesoría de transformación
+ formación directiva
+ comunicación
+ blog
+ libros
+ robots en la sombra
+ la carrera digital
+ multimedia
+ speaker en conferencias eventos y webinars
+ voz
+
+ radio y podcast
+ the robot notes
+ píldoras robóticas
+ vídeos sobre la carrera digital
+ los libros y yo
+ divergencias
+ investigación
+ reingeniería digital
+ negocio digital
+ sociedad digital
+ tecnología digital
+ dirección de proyectos
+ liderazgo y comunicación
+ bibliografía
+ otros sitios
+ canal youtube
+ perfil twitter
+ perfil linkedin
+ facebook fan page
+ mundo azul mi página personal
+ el cielo del gavilán literatura
+ la vida de color azul blog personal
+ acerca de
+ contacto
+
+buscar
+
+ inicio
+ servicios
+ asesoría de transformación
+ formación directiva
+ comunicación
+ blog
+ libros
+ robots en la sombra
+ la carrera digital
+ multimedia
+ speaker en conferencias eventos y webinars
+ voz
+
+ radio y podcast
+ the robot notes
+ píldoras robóticas
+ vídeos sobre la carrera digital
+ los libros y yo
+ divergencias
+ investigación
+ reingeniería digital
+ negocio digital
+ sociedad digital
+ tecnología digital
+ dirección de proyectos
+ liderazgo y comunicación
+ bibliografía
+ otros sitios
+ canal youtube
+ perfil twitter
+ perfil linkedin
+ facebook fan page
+ mundo azul mi página personal
+ el cielo del gavilán literatura
+ la vida de color azul blog personal
+ acerca de
+ contacto
+
+la idea de consciencia robótica y el modelo conceptual de aleksander y dunmall
+
+
+
+nov232022
+
+fronterasrobóticamodelo de consciencia de aleksander y dunmall
+
+cuando la semana pasada terminé el post el elusivo objetivo de la
+consciencia robótica
+
+ concepto y axiomas pensaba retomar el tema de la
+consciencia robótica pero de una forma algo más ligera
+
+ sin embargo me
+parece tan interesante que creo que voy a detenerme bastante en ese
+capítulo firmado por antonio chella dentro del  libro cognitive
+robotics editado por angelo cangelosi y minoru asada
+
+
+
+en efecto y antes de pasar a lo que allí puedo encontrar sobre
+implementación o incluso tests de consciencia antes quiero revisar
+algún modelo todavía conceptual
+
+ 
+
+en concreto en este artículo aparte de traer a colación una definición
+aproximada de consciencia robótica probablemente insuficiente pero
+interesante quiero repasar el modelo conceptual propuesto por
+aleksander y dunmall
+
+
+
+una definición sencilla de consciencia robótica
+
+
+
+aunque no es una definiciones muy ambiciosa y sólo me sirve para centrar
+alguna idea me interesa mencionar la  debida a tihamer nemes y recogida
+en su libro cybernetic machines que se remonta nada más y nada menos
+que a 1962 y que dice simplemente que la consciencia en un robot es
+
+ the capability of a robot to discriminate between self and others
+
+
+
+probablemente sintamos que esta definición se queda muy corta pero me
+parece sin embargo interesante porque en efecto y volveremos a ello al
+final de este artículo ese saberse reconocer a uno mismo como
+diferente del entorno parece un atributo más que relevante de una
+consciencia
+
+
+
+la definición de consciencia de aleksander y dunmall
+
+más elaborado que esta definición primigenia de nemes tenemos el modelo
+axiomático propuesto por igor alksander al cual ya mencionamos en un
+post anterior y barry dunmall en 2003 y que se recoge en su artículo
+ axioms and tests for the presence of minimal consciousness in agents 
+
+
+en él y como veremos más abajo caracterizan la consciencia con base en
+cinco axiomas de los cuales luego deducen algún corolario
+
+
+
+se observa en el título que no se habla explícitamente de robots sino
+de agentes
+
+ como explico en uno de mis primeros vídeos de the robot
+notes en concreto el titulado the robot concepts una de las formas
+de entender un robot es precisamente como una forma de agente
+
+ es
+cierto que un agente y un agente inteligente puede ser muchas cosas
+incluyendo a un ser humano o incluso principalmente un ser humano
+
+
+pero también un robot es un agente y un agente inteligente
+
+ en el
+artículo y aunque los axiomas que en seguida veremos se suelen explicar
+a partir de hallazgos de neurociencia en humanos claramente están
+orientados a posibilitar modelos computacionales de consciencia como
+por ejemplo sucedería en robots
+
+ y de hecho los autores dicen
+
+ casting  this material in the domain of physically realisable
+ robotlike machinery is exploited as a hook on which to hang the more
+ general axiomatic theory
+
+
+
+establecido esto y antes de pasar a los axiomas propiamente dichos
+traemos aquí la definición que usan los autores de consciencia
+aportando una definición que ellos mismos califican como rudimentaria y
+de trabajo
+
+ nos dicen
+
+ being conscious is defined by having a private sense of of an
+ outthere world of a self of contemplative planning and of the
+ determination of wether when and how to act
+
+
+
+se verá a continuación que esa definición encaja muy bien con los
+axiomas pero ahora quiero resaltar esa doble visión del exterior
+ outthere  y el propio agente robot the self 
+
+
+
+el modelo axiomático de consciencia de aleksander y dunmall
+
+dicho esto pasamos ya a revisar brevemente los cinco axiomas
+
+ según los
+autores para considerar a un agente consciente este debe cumplir cinco
+axiomas
+
+ axioma 1 – representación depiction el agente tiene estados
+ perceptivos que representan partes del mundo exterior
+
+
+ axioma 2 – imaginación imagination el agente tiene unos estados
+ internos imaginativos que recuerdan partes del mundo exterior o que
+ crean sensaciones similares a las del mundo exterior
+
+
+ axioma 3 – atención attention el agente es capaz de seleccionar
+ qué partes del mundo exterior representar o cuáles imaginar
+
+
+ axioma 4 – planificación planning el agente dispone de medios
+ para controlar las secuencias de estados imaginativos de cara a
+ planificar acciones
+
+
+ axioma 5 – emoción emotion el agente tiene estados afectivos
+ adicionales que evalúan las acciones planificadas y determinan las
+ acciones consiguientes
+
+
+
+estos axiomas se expresan de forma literal pero también con una notación
+formal de tipo matemático que al final del artículo complican un poco su
+lectura hay que recordar lo que significa cada símbolo pero que ayudan
+a darle rigor y a acercarlos a modelos computacionales
+
+ 
+
+aparte de exponer y explicar los axiomas los autores razonan sobre
+ellos y extraen alguna conclusión adicional algún corolario
+
+
+
+de estos axiomas y un poco a bote pronto decir que sorprende un poco
+el que afecta a la emoción porque no parece responder del todo a la idea
+intuitiva que tenemos de emoción los otros cuatro sí me parece que son
+muy claros
+
+
+
+un breve apunte sobre auto–consciencia
+
+echo también un poco en falta la visión interna del agente robot los
+estados que representan al propio agente robot que me parecen
+esenciales en una idea de consciencia y que de hecho sí aparecen en la
+definición de los autores the self y muy claramente en la propuesta
+de nemes
+
+
+
+esta dualidad entre exterior e interior parece clave en el
+entendimiento de consciencia y aparece en otros autores que ya hemos
+visto en este blog como jun tani y seguramente aparezca repetidamente
+en el futuro
+
+ 
+
+conclusiones
+
+los autores apuntan hacia el final del artículo la idea de partir de un
+entendimiento del funcionamiento neurológico de los seres vivos en el
+sentido de llegar a entender cómo soportan esos cinco axiomas
+entendiendo que actuando así se pueden llegar a obtener modelos
+computacionales es decir por lo que a este artículo concierne robots
+conscientes
+
+
+
+¿sucederá así
+
+
+
+desde luego de momento no creo que estemos en condiciones de afirmar
+que sea imposible ni tampoco lo contrario y en cualquier caso creo
+que se pueden conseguir estoy seguro de que se conseguirán avances
+tanto en el propio entendimiento de la consciencia humana como en la
+consecución de máquinas robots más inteligentes sean conscientes que
+parece difícil ahora mismo o no
+
+
+
+categoría fronteras robóticapor ignacio g
+
+r
+
+ gavilán23 noviembre
+20221 comentario
+
+etiquetas consciencianeurocienciarobóticarobots
+
+compartir esta publicación
+
+share on xshare on x share on linkedinshare on linkedin share on
+facebookshare on facebook
+
+autor ignacio g
+
+r
+
+ gavilán
+
+httpwww
+
+ignaciogavilan
+
+com
+
+navegación entre publicaciones
+
+anteriorpublicación anteriorel elusivo objetivo de la consciencia
+robótica
+
+ concepto y axiomas
+
+siguientepublicación siguientemodelos
+multinivel para una autoconciencia robótica
+
+artículos relacionados
+
+el cerebro el teatro del mundo
+
+el cerebro como teatro del mundo según rafael yuste
+4 octubre 2024
+
+cerebro digital
+
+un interesante paralelismo digital las telecomunicaciones y el cerebro
+digital
+27 septiembre 2024
+
+orígenes de la odometría
+
+los orígenes de la odometría y la humanidad en la tecnología
+9 agosto 2024
+
+retos de la humanidad
+
+ocho grandes retos de la humanidad en que los robots pueden ayudar
+3 mayo 2024
+
+equipos multidisciplinares en robótica
+
+equipos multidisciplinares para una robótica responsable y segura
+22 abril 2024
+
+futuro de la robótica
+
+una lista de tareas para el futuro de la robótica
+15 abril 2024
+
+1 comentario
+
+1
+
+ pingback modelos multinivel para una autoconciencia robótica 
+ ignacio g
+
+r
+
+ gavilán
+
+deja una respuesta cancelar la respuesta
+
+tu dirección de correo electrónico no será publicada
+
+ los campos
+requeridos están marcados 
+
+comentario
+
+nombre correo electrónico sitio web
+
+save my name email and website in this browser for the next time i
+comment
+
+
+
+publicar comentario
+
+Δ
+
+búsqueda
+
+buscar 
+
+mis libros robots en la sombra
+
+
+
+mis libros la carrera digital
+
+
+
+categorías
+
+ direcciÓn de proyectos30
+ fronteras175
+ la carrera digital12
+ liderazgo y comunicaciÓn202
+ mis actividades y referencias56
+ negocio digital290
+ reingenierÍa digital189
+ sociedad digital164
+ tecnologÍa digital439
+
+nube de etiquetas
+
+big data 38 bpm 45 business process management 41 cambio 41
+chris anderson 36 cloud computing 41 colaboraciones 46
+comunicación 67 conocimiento 42 creatividad 67 deep learning 41
+dirección de proyectos 49 economía digital 47 estrategia 59 hri
+44 innovación 247 inteligencia artificial 250 internet 54 libros
+334 liderazgo 150 machine learning 76 macrotweets 155 management
+51 marca personal 38 marketing 69 modelo de negocio 82
+motivación 45 neurociencia 39 procesos de negocio 46 productividad
+39 redes sociales 70 robotic process automation 42 robots 137
+robots sociales 40 robótica 85 rpa 41 social media 101 software
+63 storytelling 46 tecnología 43 tecnología y sociedad 114
+transformación 57 transformación digital 99 web 2
+
+0 58 ética 105
+
+comentarios recientes
+
+ una comparativa entre la cognición humana y los modelos generativos
+ de ia ignacio g
+
+r
+
+ gavilán en lenguaje grounding y la
+ corporeidad de los robots
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en bibliografía 2015
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en bibliografía 2022
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en los nuevos ciudadanos
+ inteligentes según luis alberto santos
+ mis tedtalks de 2024 ignacio g
+
+r
+
+ gavilán en mis tedtalks de
+ 2016
+
+archivo
+
+ enero 2025 2
+ diciembre 2024 7
+ noviembre 2024 5
+ octubre 2024 6
+ septiembre 2024 8
+ agosto 2024 3
+ julio 2024 5
+ junio 2024 3
+ mayo 2024 8
+ abril 2024 8
+ marzo 2024 5
+ febrero 2024 7
+ enero 2024 10
+ diciembre 2023 9
+ noviembre 2023 8
+ octubre 2023 6
+ septiembre 2023 9
+ agosto 2023 7
+ julio 2023 6
+ junio 2023 6
+ mayo 2023 2
+ abril 2023 4
+ marzo 2023 9
+ febrero 2023 6
+ enero 2023 10
+ diciembre 2022 12
+ noviembre 2022 11
+ octubre 2022 8
+ septiembre 2022 11
+ agosto 2022 1
+ julio 2022 6
+ junio 2022 5
+ mayo 2022 2
+ abril 2022 6
+ marzo 2022 12
+ febrero 2022 12
+ enero 2022 16
+ diciembre 2021 10
+ noviembre 2021 11
+ octubre 2021 12
+ septiembre 2021 11
+ agosto 2021 12
+ julio 2021 11
+ junio 2021 14
+ mayo 2021 7
+ abril 2021 11
+ marzo 2021 10
+ febrero 2021 9
+ enero 2021 7
+ diciembre 2020 8
+ noviembre 2020 10
+ octubre 2020 11
+ septiembre 2020 10
+ agosto 2020 9
+ julio 2020 9
+ junio 2020 12
+ mayo 2020 13
+ abril 2020 14
+ marzo 2020 15
+ febrero 2020 13
+ enero 2020 16
+ diciembre 2019 18
+ noviembre 2019 10
+ octubre 2019 10
+ septiembre 2019 4
+ agosto 2019 10
+ julio 2019 9
+ junio 2019 6
+ mayo 2019 10
+ abril 2019 10
+ marzo 2019 14
+ febrero 2019 12
+ enero 2019 14
+ diciembre 2018 16
+ noviembre 2018 14
+ octubre 2018 16
+ septiembre 2018 13
+ agosto 2018 13
+ julio 2018 17
+ junio 2018 15
+ mayo 2018 15
+ abril 2018 13
+ marzo 2018 14
+ febrero 2018 12
+ enero 2018 16
+ diciembre 2017 13
+ noviembre 2017 13
+ octubre 2017 14
+ septiembre 2017 13
+ agosto 2017 12
+ julio 2017 14
+ junio 2017 14
+ mayo 2017 15
+ abril 2017 12
+ marzo 2017 15
+ febrero 2017 13
+ enero 2017 14
+ diciembre 2016 15
+ noviembre 2016 14
+ octubre 2016 13
+ septiembre 2016 13
+ agosto 2016 14
+ julio 2016 10
+ junio 2016 13
+ mayo 2016 15
+ abril 2016 13
+ marzo 2016 16
+ febrero 2016 12
+ enero 2016 17
+ diciembre 2015 21
+ noviembre 2015 13
+ octubre 2015 13
+ septiembre 2015 15
+ agosto 2015 13
+ julio 2015 13
+ junio 2015 13
+ mayo 2015 13
+ abril 2015 14
+ marzo 2015 12
+ febrero 2015 10
+ enero 2015 11
+ diciembre 2014 14
+ noviembre 2014 13
+ octubre 2014 11
+ septiembre 2014 15
+ agosto 2014 13
+ julio 2014 13
+ junio 2014 10
+ mayo 2014 9
+ abril 2014 12
+ marzo 2014 12
+ febrero 2014 12
+ enero 2014 15
+ diciembre 2013 14
+ noviembre 2013 12
+ octubre 2013 13
+ septiembre 2013 14
+ agosto 2013 15
+ julio 2013 16
+ junio 2013 10
+ mayo 2013 14
+ abril 2013 13
+ marzo 2013 13
+ febrero 2013 17
+ enero 2013 19
+ diciembre 2012 12
+ noviembre 2012 14
+ octubre 2012 17
+ septiembre 2012 13
+ agosto 2012 21
+ julio 2012 17
+ junio 2012 16
+ mayo 2012 14
+ abril 2012 16
+ marzo 2012 17
+ febrero 2012 15
+ enero 2012 16
+ diciembre 2011 19
+ noviembre 2011 17
+ octubre 2011 22
+ septiembre 2011 18
+ agosto 2011 17
+ julio 2011 17
+ junio 2011 17
+ mayo 2011 18
+ abril 2011 15
+ marzo 2011 17
+ febrero 2011 12
+ enero 2011 15
+ diciembre 2010 15
+ noviembre 2010 10
+ octubre 2010 9
+ septiembre 2010 13
+ agosto 2010 26
+ julio 2010 34
+ junio 2010 16
+ mayo 2010 13
+ abril 2010 13
+ marzo 2010 1
+ febrero 2010 3
+ enero 2010 12
+ diciembre 2009 10
+ noviembre 2009 7
+ octubre 2009 6
+ septiembre 2009 5
+ agosto 2009 12
+ julio 2009 7
+ junio 2009 12
+ mayo 2009 12
+ abril 2009 3
+ marzo 2009 6
+ febrero 2009 10
+ enero 2009 3
+
+buscar 
+
+entradas recientes
+
+ trece retos para los sistemas generativos en el inicio de 2025
+ una comparativa entre la cognición humana y los modelos generativos
+ de ia
+ bibliografía 2024
+ mis tedtalks de 2024
+ pensar la tecnología desde la filosofía con antonio diéguez
+
+comentarios recientes
+
+ una comparativa entre la cognición humana y los modelos generativos
+ de ia ignacio g
+
+r
+
+ gavilán en lenguaje grounding y la
+ corporeidad de los robots
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en bibliografía 2015
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en bibliografía 2022
+ bibliografía 2024 ignacio g
+
+r
+
+ gavilán en los nuevos ciudadanos
+ inteligentes según luis alberto santos
+ mis tedtalks de 2024 ignacio g
+
+r
+
+ gavilán en mis tedtalks de
+ 2016
+
+archivos
+
+ enero 2025
+ diciembre 2024
+ noviembre 2024
+ octubre 2024
+ septiembre 2024
+ agosto 2024
+ julio 2024
+ junio 2024
+ mayo 2024
+ abril 2024
+ marzo 2024
+ febrero 2024
+ enero 2024
+ diciembre 2023
+ noviembre 2023
+ octubre 2023
+ septiembre 2023
+ agosto 2023
+ julio 2023
+ junio 2023
+ mayo 2023
+ abril 2023
+ marzo 2023
+ febrero 2023
+ enero 2023
+ diciembre 2022
+ noviembre 2022
+ octubre 2022
+ septiembre 2022
+ agosto 2022
+ julio 2022
+ junio 2022
+ mayo 2022
+ abril 2022
+ marzo 2022
+ febrero 2022
+ enero 2022
+ diciembre 2021
+ noviembre 2021
+ octubre 2021
+ septiembre 2021
+ agosto 2021
+ julio 2021
+ junio 2021
+ mayo 2021
+ abril 2021
+ marzo 2021
+ febrero 2021
+ enero 2021
+ diciembre 2020
+ noviembre 2020
+ octubre 2020
+ septiembre 2020
+ agosto 2020
+ julio 2020
+ junio 2020
+ mayo 2020
+ abril 2020
+ marzo 2020
+ febrero 2020
+ enero 2020
+ diciembre 2019
+ noviembre 2019
+ octubre 2019
+ septiembre 2019
+ agosto 2019
+ julio 2019
+ junio 2019
+ mayo 2019
+ abril 2019
+ marzo 2019
+ febrero 2019
+ enero 2019
+ diciembre 2018
+ noviembre 2018
+ octubre 2018
+ septiembre 2018
+ agosto 2018
+ julio 2018
+ junio 2018
+ mayo 2018
+ abril 2018
+ marzo 2018
+ febrero 2018
+ enero 2018
+ diciembre 2017
+ noviembre 2017
+ octubre 2017
+ septiembre 2017
+ agosto 2017
+ julio 2017
+ junio 2017
+ mayo 2017
+ abril 2017
+ marzo 2017
+ febrero 2017
+ enero 2017
+ diciembre 2016
+ noviembre 2016
+ octubre 2016
+ septiembre 2016
+ agosto 2016
+ julio 2016
+ junio 2016
+ mayo 2016
+ abril 2016
+ marzo 2016
+ febrero 2016
+ enero 2016
+ diciembre 2015
+ noviembre 2015
+ octubre 2015
+ septiembre 2015
+ agosto 2015
+ julio 2015
+ junio 2015
+ mayo 2015
+ abril 2015
+ marzo 2015
+ febrero 2015
+ enero 2015
+ diciembre 2014
+ noviembre 2014
+ octubre 2014
+ septiembre 2014
+ agosto 2014
+ julio 2014
+ junio 2014
+ mayo 2014
+ abril 2014
+ marzo 2014
+ febrero 2014
+ enero 2014
+ diciembre 2013
+ noviembre 2013
+ octubre 2013
+ septiembre 2013
+ agosto 2013
+ julio 2013
+ junio 2013
+ mayo 2013
+ abril 2013
+ marzo 2013
+ febrero 2013
+ enero 2013
+ diciembre 2012
+ noviembre 2012
+ octubre 2012
+ septiembre 2012
+ agosto 2012
+ julio 2012
+ junio 2012
+ mayo 2012
+ abril 2012
+ marzo 2012
+ febrero 2012
+ enero 2012
+ diciembre 2011
+ noviembre 2011
+ octubre 2011
+ septiembre 2011
+ agosto 2011
+ julio 2011
+ junio 2011
+ mayo 2011
+ abril 2011
+ marzo 2011
+ febrero 2011
+ enero 2011
+ diciembre 2010
+ noviembre 2010
+ octubre 2010
+ septiembre 2010
+ agosto 2010
+ julio 2010
+ junio 2010
+ mayo 2010
+ abril 2010
+ marzo 2010
+ febrero 2010
+ enero 2010
+ diciembre 2009
+ noviembre 2009
+ octubre 2009
+ septiembre 2009
+ agosto 2009
+ julio 2009
+ junio 2009
+ mayo 2009
+ abril 2009
+ marzo 2009
+ febrero 2009
+ enero 2009
+
+categorías
+
+ agile
+ análisis
+ arquitectura empresarial
+ bibliografía
+ bibliografía
+ bibliografía
+ bibliografía
+ bibliografia
+ bibliografía
+ bibliografía
+ big data data management data science
+ bitcoin y blockchain
+ business analysis
+ carrera espacial
+ ciberseguridad
+ ciencia
+ cloud computing
+ coche eléctrico y autónomo
+ colaboración blogs
+ computación cuántica
+ comunicacion
+ creatividad y talento
+ cultura digital
+ customer experience
+ design thinking
+ devops
+ direcciÓn de proyectos
+ drones
+ educación
+ empleo digital
+ estrategia
+ ética
+ formación
+ formación y gestión del cambio
+ fronteras
+ generaciones digitales
+ gobierno ti
+ humanismo digital
+ impresión 3d
+ industria 4
+
+0
+ innovacion y emprendimiento
+ inteligencia artificial
+ internet de las cosas
+ internet y social media
+ la carrera digital
+ liderazgo
+ liderazgo y comunicaciÓn
+ marca personal
+ marketing
+ mentoring
+ metodologia
+ mis actividades y referencias
+ mis proyectos
+ modelos de negocio
+ modelos y metodologías
+ motivación
+ nanotecnología
+ negocio digital
+ procesos de negocio
+ progreso
+ psicología y neurociencia
+ realidad virtual y aumentada
+ reingenierÍa digital
+ robótica
+ robotica y automatización industrial
+ robots en la sombra
+ robots software
+ smart cities
+ sociedad conectada
+ sociedad digital
+ software y sistemas de información
+ speaker
+ tecnologÍa digital
+ telecomunicaciones
+ tendencias
+ transformación digital
+ uncategorized
+ varios
+ vehículo autónomo
+
+meta
+
+ acceder
+ feed de entradas
+ feed de comentarios
+ wordpress
+
+org
+
+contactar
+
+ignacio g
+
+r
+
+ gavilán
+
+ 
+
+encuéntranos en
+
+facebook page opens in new windowx page opens in new windowyoutube page
+opens in new windowlinkedin page opens in new windowmail page opens in
+new windowsitio web page opens in new window
+
+artículos recientes en el blog
+
+ trece retos para los sistemas generativos en el inicio de 2025 10
+ enero 2025
+ una comparativa entre la cognición humana y los modelos generativos
+ de ia 3 enero 2025
+ bibliografía 2024 31 diciembre 2024
+
+servicios
+
+porfolio publicación porfolio conferencias porfolio de formación
+
+
+investigación
+
+ sociedad digital 
+
+ignacio g
+
+r
+
+ gavilán
+
+tema the7 de dreamtheme personalizado por ignacio g
+
+r
+
+ gavilán
+
+ buy this theme
+ support portal
+ dreamtheme
+ user guide
+
+useful links
+
+ir a tienda

@@ -1,0 +1,1954 @@
+
+ scielo scientific electronic 
+ library online 
+   
+ home 
+ vol
+
+39 nú 
+ mero135evaluación pagelista 
+ contextualf 
+ enomenológica de alfabética de 
+ las conduc 
+ tas revistas   
+ 
+ suicidascomprender el 
+ 
+ suicidio desde una perspectiva 
+ 
+ de género una revisión crítica 
+ 
+ bibliográfica índice de 
+ 
+ autoresíndice de 
+ 
+ materiabúsqueda de artículos 
+ 
+ 
+ 
+
+
+mi scielo
+
+ servicios personalizados
+
+servicios personalizados
+
+revista
+
+ scielo analytics
+ google scholar h5m5 
+
+articulo
+
+ español pdf
+ articulo en xml
+ referencias del artículo
+ 
+ scielo analytics
+ traducción automática
+ enviar articulo por email
+
+indicadores
+
+ no hay articulos citadoscitado por scielo
+ accesos
+
+links relacionados
+
+ en proceso de indezacióncitado por google
+ no hay articulos similaressimilares en scielo
+ en proceso de indezaciónsimilares en google
+
+compartir
+
+ otros
+
+ otros
+
+
+
+ permalink
+
+
+
+revista de la asociación española de neuropsiquiatría
+
+versión online issn 23402733versión impresa issn 02115735
+
+rev
+
+ asoc
+
+ esp
+
+ neuropsiq
+
+ vol
+
+39 no
+
+135 madrid ene
+
+jun
+
+ 2019  epub 11nov2019
+
+httpsdx
+
+doi
+
+org10
+
+4321s021157352019000100003 
+
+artículos
+
+la clasificación de los trastornos de la conciencia
+
+classification of disorders of consciousness
+
+daniel r martínez¹ 
+
+¹hospital borda universidad del salvador buenos aires argentina
+
+
+
+resumen
+
+tradicionalmente ha existido una incongruencia entre la definición de
+conciencia y la caracterización de su patología que se restringe a
+aquellos cuadros que afectan la vida consciente en su conjunto ya sea
+por un descenso del nivel o por una desorganización de sus contenidos
+
+
+los avances en neurociencia cognitiva han demostrado que existen otras
+perturbaciones de la conciencia que no implican su afectación total
+
+ con
+el fin de presentar una clasificación integral de estos trastornos
+partiremos de las teorías de edelman y damasio quienes diferencian una
+forma elemental de conciencia conciencia primaria para el primero o
+central para el segundo de una forma compleja conciencia de orden
+superior o ampliada respectivamente
+
+ las enfermedades que afectan a la
+conciencia primaria producen trastornos globales pues afectan a la
+conciencia en su conjunto
+
+ los trastornos de la conciencia superior
+producen perturbaciones parciales que involucran mayormente a la
+autoconciencia aunque también incluyen las distorsiones y engaños
+perceptivos
+
+
+
+palabras clave conciencia trastornos de la conciencia autoconciencia
+conciencia primaria conciencia de orden superior
+
+abstract
+
+traditionally there has been an incongruity between the definition of
+consciousness and the characterization of its pathology which is
+restricted to those disorders that affect consciousness as a whole
+either by a decrease in its level or by a disorganization of its
+contents
+
+ developments in cognitive neuroscience have shown that there
+are other disturbances of consciousness that do not imply its total
+involvement
+
+ in order to present a comprehensive classification of these
+disorders we will build our classification on the theories of edelman
+and damasio who differentiate an elementary form of consciousness
+primary or core consciousness respectively from a complex one higher
+order or extended consciousness respectively
+
+ diseases that affect
+primary consciousness cause global disorders because they affect
+consciousness as a whole
+
+ disorders of higherorder consciousness cause
+partial disturbances which mostly involve selfconsciousness
+
+
+perceptual distortions and deceptions are also included here
+
+
+
+key words consciousness disorders of consciousness
+selfconsciousness primary consciousness higherorder consciousness
+
+introducción
+
+la conciencia como objeto de estudio de la psiquiatría ha sido motivo de
+múltiples investigaciones
+
+ no obstante existe una cierta imprecisión en
+los manuales de la especialidad al tratar de relacionar la definición de
+la conciencia con su patología
+
+ muchos psiquiatras se preguntan por qué
+en el capítulo dedicado a la conciencia se estudia el coma por ejemplo
+y no se habla de la conciencia de enfermedad
+
+ si la conciencia se define
+a menudo como una cualidad excelsa del ser humano ¿por qué su patología
+se limita a una grosera pérdida de conocimiento
+
+ en otras ocasiones no
+menos problemáticas la descripción de los trastornos de la conciencia
+no va precedida de ninguna definición
+
+ obviamente en todos los casos
+estamos hablando de la conciencia como conocimiento de la realidad
+término intercambiable con consciencia y no como conocimiento moral
+
+
+repasemos algunos ejemplos ilustrativos
+
+
+
+en su tratado de psiquiatría bleuler ¹ señala que la conciencia es
+aquello que nos hace ser en esencia distintos de un autómata
+
+ de esta
+definición se desprenden valiosas derivaciones teóricas que implican
+tanto la simple percepción de un objeto como el libre albedrío
+
+ sin
+embargo para bleuler como para muchos otros autores los trastornos de
+la conciencia se limitan a la confusión el delirio delirium y el
+estado crepuscular
+
+ jaspers ² quien define la conciencia como la
+totalidad de la vida psíquica momentánea engloba dentro de sus
+alteraciones las oscilaciones declives estrechamientos elevaciones y
+alteraciones psicóticas en procesos orgánicos entre otros
+
+ alonso
+fernández ³ por su parte define la conciencia como la totalidad de
+la experiencia momentánea insertada en la corriente continua de la vida
+psíquica e incluye dentro de su patología la conciencia obnubilada
+crepuscular y desordenada
+
+ huber ⁴ a su vez introduce los trastornos
+de la conciencia cuantitativos de la obnubilación al coma
+cualitativos confusión amencia delirio y estado crepuscular en el
+capítulo de las psicosis de fundamento corporal sin definir el
+concepto de conciencia
+
+ en el manual de kaplan y sadock ⁵ por último
+la conciencia se define como darse cuenta de sí mismo y del entorno y
+sus trastornos se restringen a la obnubilación el estupor y el
+delirium entre otros como si el único modo de perturbación del
+conocimiento de uno mismo y del mundo fuera la opacidad o la pérdida de
+la conciencia
+
+
+
+como podemos observar lo que usualmente se ha considerado como
+patología de la conciencia son los trastornos globales de la actividad
+consciente ya que debido a la definición unitaria de jaspers para
+poder hablar de alteraciones de la conciencia debe estar afectada la
+totalidad de los procesos psíquicos y no un proceso aislado
+
+ no
+obstante dada la amplitud del concepto de conciencia no resultaría
+extraño que existan trastornos parciales que afecten algún aspecto
+específico de la actividad consciente sin afectar al sensorio ni
+menoscabar el conjunto de la vida psíquica
+
+ sobre esta posibilidad vamos
+a discutir a continuación¹
+
+
+
+tipos de conciencia y clasificación de sus trastornos
+
+para clasificar las alteraciones de la conciencia de una manera
+integral nos apoyaremos en dos teorías neurológicas con evidentes
+repercusiones clínicas como son las de edelman ⁷ y damasio ⁸
+
+ en
+ambas se diferencia una forma inferior o simple de conciencia
+conciencia primaria de edelman conciencia central de damasio de una
+forma superior o compleja que edelman denomina conciencia de orden
+superior y damasio conciencia ampliada
+
+ la forma más simple de
+conciencia es evolutivamente más antigua y se relaciona sobre todo con
+el tronco cerebral y sectores medios de la corteza
+
+ es una estructura
+biológica no vinculada al lenguaje que compartimos con otras especies
+
+
+sobre esta conciencia elemental se desarrolla la conciencia superior
+cuyos circuitos neurales se distribuyen por extensas zonas de la corteza
+cerebral
+
+ esta conciencia está ligada al lenguaje y a otras funciones
+superiores
+
+
+
+los déficits de la conciencia inferior comprometen a la conciencia
+superior pues esta última depende de la primera mientras que las
+alteraciones de la conciencia superior no afectan a la conciencia más
+primitiva
+
+ podemos establecer un paralelismo entre ambas formas de
+conciencia y las definiciones de filósofos como bunge ⁹ y block ¹⁰
+la conciencia primaria se limita funcionalmente al nivel sensorial por
+lo que sería equiparable a lo que bunge define como percatación sentir
+o notar y block como conciencia fenoménica mientras la conciencia de
+orden superior se extiende a nivel intelectual y es homologable a la
+conciencia propiamente dicha de bunge y la conciencia de acceso de
+block
+
+ los desórdenes de la conciencia primaria afectan a la conciencia
+en su conjunto y por lo tanto constituyen trastornos globales los
+trastornos de la conciencia por antonomasia de los textos de
+psiquiatría
+
+ damasio menciona el coma y el mutismo acinético como
+ejemplos de alteración de la conciencia central primaria
+
+ los
+trastornos de la conciencia de orden superior por otro lado solo
+afectan en parte el funcionamiento de la actividad consciente por lo
+que corresponde denominarlos trastornos parciales de la conciencia
+
+
+estos trastornos no han sido clasificados tradicionalmente en los
+manuales de la especialidad por lo que en este trabajo les dedicaremos
+un espacio mayor que a los trastornos globales
+
+ como ejemplos de
+desorden de la conciencia ampliada superior damasio menciona la
+amnesia global transitoria y la anosognosia
+
+
+
+trastornos globales
+
+los trastornos globales de la conciencia se caracterizan por la pérdida
+de la lucidez y por interesar a la conciencia en su conjunto
+
+ estos
+trastornos afectan al sensorio de manera tal que se ve dificultada en
+distinta medida la recepción de las impresiones del medio
+
+ la evidencia
+neurológica muestra que existe una correspondencia entre los cuadros
+clínicos y los sectores encefálicos afectados
+
+ por ejemplo los
+síndromes confusionales guardan una estrecha relación con el tronco
+cerebral ¹¹ y las porciones mediales de la corteza ¹²
+
+ en el coma
+—salvo el provocado por el daño amplio y bilateral de la corteza— las
+lesiones se localizan en la parte superior del tronco cerebral y el
+diencéfalo o se origina por interferencias funcionales con el sistema
+activador reticular ascendente debidas a factores como hipertermia
+toxinas traumatismos etc
+
+ ¹³
+
+ los trastornos globales de la
+conciencia surgen precisamente cuando se ven afectados estos sectores
+filogenéticamente antiguos del sistema nervioso central
+
+ por esta razón
+las alteraciones de la conciencia primaria o central son globales no
+permiten el funcionamiento normal o coordinado de la conciencia en su
+conjunto
+
+ este grupo es el de las alteraciones tradicionales de la
+conciencia de la psiquiatría clásica y lo integran tanto los trastornos
+cuantitativos como los cualitativos
+
+ como esta última división resulta
+problemática porque no existen alteraciones cualitativas puras es
+decir que no comprendan simultáneamente un descenso del nivel de
+conciencia clasificaremos estos mismos cuadros clínicos según sus
+síntomas predominantes en productivos y deficitarios ver tabla 1
+
+
+
+tabla 1
+
+ trastornos globales de la conciencia 
+
+ trastornos globales de la conciencia 
+ 
+ productivos deficitarios
+ confusión mental obnubilación
+ delirio onírico somnolencia
+ estados crepusculares sopor
+ delirium coma
+
+los cuadros productivos son aquellos que se caracterizan por el desorden
+del pensamiento la conducta anómala y la presencia de alucinaciones y
+delirios
+
+ el término productivo es neutral con respecto al nivel de
+conciencia
+
+ en este grupo se encuadran normalmente tres tipos de
+alteración de la conciencia cuyos límites son difusos ya que existen
+múltiples superposiciones entre ellos
+
+ nos referimos a la confusión
+mental el delirio onírico y los estados crepusculares actualmente
+fusionados en el concepto de delirium o síndrome confusional aunque
+por definición el delirium se circunscribe a los cuadros secundarios a
+patologías orgánicas y deja fuera a los episodios conocidos
+tradicionalmente como psicógenos y endógenos
+
+ por su parte los cuadros
+deficitarios constituyen un descenso puro del nivel de conciencia cuyos
+ejemplos representativos son la obnubilación la somnolencia el sopor y
+el coma
+
+ no abundaremos en la descripción de estos cuadros clínicos que
+son bien conocidos y se consideran como las alteraciones de la
+conciencia por excelencia
+
+
+
+trastornos parciales
+
+los trastornos parciales de la conciencia de origen psiquiátrico solo
+afectan a algunos aspectos de la actividad consciente de la misma forma
+en que lo hace una agnosia en neurología
+
+ al interesar a la conciencia
+de orden superior estos trastornos no se acompañan de enturbiamientos
+por lo que se trata de alteraciones en las que se conserva la lucidez
+
+
+su base biológica se distribuye por amplias zonas de la corteza dentro
+de las cuales sobresale funcionalmente el lóbulo frontal
+
+ muchos de
+estos cuadros pueden considerarse como trastornos de la autoconciencia
+
+
+las investigaciones actuales demuestran que las alucinaciones auditivas
+son producto de una falla en la atribución a uno mismo de las propias
+acciones por ejemplo el habla subvocal por lo que constituyen un
+déficit de la conciencia de sí mismo ¹⁴ ¹⁵
+
+ algo similar ocurre con
+las confabulaciones alucinaciones del recuerdo en las que se
+evidencia un déficit en la memoria episódica ¹⁶
+
+ algunos síntomas se
+enmarcan en lo que la semiología alemana denomina trastornos del yo
+despersonalización desrealización inserción robo y difusión del
+pensamiento vivencias de influencia externa
+
+
+
+sin embargo las alteraciones de la autoconciencia no se limitan a ese
+grupo de síntomas
+
+ algunos cuadros disociativos como la amnesia y la
+personalidad múltiple pueden incluirse en esta clase de alteraciones
+de la misma manera que la amnesia global transitoria es concebida como
+una perturbación neurológica de la conciencia de orden superior
+
+
+
+las alteraciones de la conciencia del propio cuerpo deben incluirse
+asimismo en esta sección
+
+ otras perturbaciones vinculadas a mecanismos
+superiores como la teoría de la mente y la conciencia de enfermedad
+también han de encontrar su lugar en este apartado al igual que algunos
+trastornos que no involucran a la autoconciencia como ciertas
+alteraciones perceptivas
+
+
+
+en este lugar debemos definir qué entendemos por conciencia y
+autoconciencia para una mejor comprensión de nuestra propuesta
+
+ la
+conciencia puede definirse como la experiencia subjetiva de conocer
+parte de los contenidos de nuestra actividad mental en el momento
+presente
+
+ de acuerdo con bunge ⁹ y bunge y ardila ¹⁷ un animal es
+consciente cuando advierte sus emociones percepciones y pensamientos y
+piensa en ellos a diferencia de la simple percatación advertencia de
+un estímulo que no requiere de la participación del pensamiento
+
+
+cuando un animal señalan bunge y ardila 17 p
+
+ 249 reflexiona sobre
+sus propias percepciones y pensamientos presentes o pasados y no los
+atribuye a alguna otra cosa o persona se puede decir que es consciente
+de sí mismo subrayado de los autores
+
+ para la psicología cognitiva
+la autoconciencia requiere de un autoconcepto sentido de identidad y
+conocimientos y creencias sobre uno mismo y del conocimiento de que las
+propias acciones y experiencias pertenecen a la persona a la que se
+refiere el autoconcepto ¹⁸
+
+ la autoconciencia involucra distintos
+componentes como la experiencia del propio cuerpo la
+automonitorización la memoria episódica y la teoría de la mente
+
+
+
+a continuación relacionaremos una serie de procesos neurocognitivos con
+diferentes síntomas que son la expresión de una disfunción de la
+actividad consciente sobre todo de la autoconciencia para adentrarnos
+después en la clasificación de estos trastornos
+
+ si bien el concepto de
+conciencia es problemático no es nuestra finalidad internarnos en las
+múltiples discusiones filosóficas sobre el tema
+
+ el debate sobre el
+problema difícil de chalmers ¹⁹ la explicación de la experiencia
+subjetiva por citar un ejemplo paradigmático excede los límites de
+este trabajo²
+
+ vamos a abordar el problema clasificatorio desde una
+perspectiva clínica con el apoyo de los avances científicos
+contemporáneos sobre todo de las neurociencias cognitivas
+
+ existen
+otros enfoques que el lector interesado puede consultar como el de la
+fenomenología cuyas figuras más relevantes como gallagher ²² y
+parnas ²³ entre otros han hecho contribuciones significativas a la
+psicopatología de la conciencia
+
+ el aporte de la fenomenología a la
+ciencia cognitiva puede valorarse en el manual de gallagher y schmicking
+²⁴
+
+
+
+a los sentidos de agencia y propiedad
+
+existen dos componentes de la conciencia de la acción que habitualmente
+coinciden el sentido de agencia que se refiere al reconocimiento de
+ser uno mismo el agente de una acción voluntaria y el sentido de
+propiedad relacionado con el hecho de tener conciencia de que el propio
+cuerpo se está moviendo
+
+ mediante el sentido de agencia la persona es
+consciente de que tiene un papel activo en la producción de un
+movimiento el cual normalmente se acompaña del sentido de propiedad ya
+que lo que se mueve es su propio cuerpo
+
+ pero puede existir una escisión
+normal
+
+ por ejemplo cuando otra persona mueve uno de nuestros brazos o
+el movimiento nace de manera involuntaria como resultado de un reflejo
+osteotendinoso en esos casos no hay sentido de agencia no soy yo el
+que mueve el brazo pero sí sentido de propiedad lo que se mueve es mi
+brazo
+
+ el reconocimiento de nuestro propio cuerpo y de la autoría de
+nuestras propias acciones es un factor fundamental para la
+identificación de uno mismo y la diferenciación de los demás ²⁵
+
+
+
+algunos autores extienden el sentido de agencia al pensamiento al que
+consideran una forma de acción ²⁶
+
+ miele et al
+
+ ²⁷ separaron
+experimentalmente los correlatos neurales de dos componentes del sentido
+de agencia la monitorización de la acción y el juicio metacognitivo de
+agencia
+
+ la monitorización de la acción supone la capacidad de detectar
+si el resultado de una acción coincide con nuestros planes previos
+
+ esta
+verificación actúa al menos parcialmente de manera automática
+
+ el
+juicio de agencia por su parte requiere de la evaluación consciente de
+nuestro estado de control
+
+ los juicios de agencia se relacionan con la
+activación de la corteza prefrontal anterior y la corteza orbitofrontal
+derecha lo que señala su carácter autorreflexivo
+
+ los autores concluyen
+que no es la monitorización automática de la acción sino la
+metacognición de la agencia la que participa en la atribución de
+autoría de nuestras propias acciones
+
+ en psicopatología las
+alucinaciones auditivas y los delirios de influencia se consideran
+típicos ejemplos de la alteración del sentido de agencia
+
+ de acuerdo con
+frith ²⁸ los pacientes con delirio de influencia no han perdido el
+control de su sistema motor sino que se encuentra alterada la
+conciencia de ese sistema³
+
+ el problema resultaría de anomalías en
+las señales provenientes de la corteza prefrontal que modulan la
+actividad del córtex parietal durante las acciones voluntarias
+
+
+
+b la conciencia del propio cuerpo
+
+los sentidos de agencia y propiedad deben incluirse en este apartado
+
+ no
+obstante la consideración del pensamiento como una forma de acción nos
+obliga a mantenerlos momentáneamente diferenciados
+
+ en esta sección
+podemos agrupar alucinaciones delirios y trastornos conversivos
+
+ en
+relación a las alucinaciones habitualmente se diferencian en táctiles o
+de contacto incluyendo las térmicas e hígricas cinestésicas
+vestibulares y cenestésicas
+
+ se han comunicado casos de este tipo de
+alucinaciones en esquizofrenia y epilepsia en los que se ven
+involucradas la corteza parietal y la ínsula pero no se ha elaborado
+aún una teoría exhaustiva del mecanismo alucinatorio
+
+ leonhard ³⁰
+pensaba que las sensaciones corporales anormales se debían a la pérdida
+de límites entre la esfera vegetativa y la percepción consciente es
+decir que las sensaciones viscerales inconscientes eran percibidas
+conscientemente por los enfermos
+
+ estas sensaciones que resultarían
+absolutamente extrañas e incomprensibles para una persona normal serían
+interpretadas de distinta forma según el estado psíquico de los
+pacientes
+
+
+
+dentro de las alucinaciones relacionadas con el cuerpo suelen
+describirse también una serie de manifestaciones predominantemente
+visuales que tienen al propio cuerpo como objeto
+
+ se trata de los
+fenómenos autoscópicos cuyos principales representantes son la
+alucinación autoscópica la autoscopía héautoscopie y la experiencia
+extracorporal
+
+ existe consenso en que la conciencia del propio cuerpo
+depende en parte de las cortezas parietal insular premotora y
+extraestriada implicadas en la producción de estos fenómenos lo que
+apoya su inclusión como alteraciones de la autoconciencia corporal
+aunque heydrich y blanke plantean sus reservas acerca de la alucinación
+autoscópica ³¹
+
+
+
+por otra parte la conciencia distorsionada del propio cuerpo se expresa
+también en los delirios somáticos en algunos casos vinculados a
+anomalías del lóbulo frontal ³² delirio hipocondríaco incluyendo el
+nihilista dermatozoico de reduplicación de partes del cuerpo y
+dismórfico
+
+ en muchos casos los delirios son secundarios a las
+sensaciones anormales
+
+ sin embargo el mecanismo de producción de los
+delirios es complejo e incluye diversos factores como veremos más
+adelante
+
+ el contenido somático de las ideas delirantes nos conduce a
+incluirlos en este apartado
+
+
+
+los trastornos conversivos por último incluyen las convulsiones
+anestesia y otros déficits sensoriales y diversas alteraciones de la
+motilidad parálisis ataxia astasiaabasia etc
+
+ sin fundamento
+somático aparente ligadas tradicionalmente a la histeria
+
+ en muchos
+casos los síntomas conversivos se acompañan de una aceptación
+despreocupada belle indifference que acerca la enfermedad a la
+anosognosia y la inatención neglect
+
+ de acuerdo con la revisión de
+voon et al
+
+ ³³ es probable que exista un déficit en la generación o
+conceptualización de la acción en las parálisis funcionales que se
+asocian a hipoactividad de la corteza prefrontal dorsolateral o bien
+una inhibición prefrontal de la ejecución motora
+
+ a nivel sensitivo se
+han encontrado potenciales evocados normales y potenciales relacionados
+con eventos cognitivos reducidos o ausentes ante la estimulación del
+área afectada de la piel o el campo visual lo que estaría relacionado
+con una alteración de los mecanismos atencionales
+
+
+
+c la memoria episódica
+
+la memoria episódica es la evocación consciente del pasado personal que
+se acompaña del sentimiento íntimo de viajar a través del tiempo
+subjetivo para revivir las experiencias pasadas
+
+ tulving ³⁴ denominó
+conciencia autonoética al tipo de conciencia que permite
+reexperimentar las vivencias anteriores y proyectarlas en el futuro
+personal es el tipo especial de conciencia que nos permite darnos
+cuenta del tiempo subjetivo en que ocurrieron los hechos sin la cual no
+podríamos viajar mentalmente en el tiempo
+
+ los estudios con neuroimagen
+funcional de evocación de recuerdos autobiográficos en personas sanas
+revelan la activación bilateral —de predominio izquierdo— de la corteza
+prefrontal y temporal la unión temporoparietal el cíngulo posterior y
+el cerebelo ¹⁶
+
+ en psicopatología las paramnesias ciertos delirios y
+los trastornos disociativos amnesia fuga personalidad múltiple y
+despersonalización son alteraciones paradigmáticas de la conciencia
+autonoética
+
+ con esto no estamos afirmando que exista una alteración
+única y específica de la memoria episódica sino que esta se encuentra
+afectada de alguna manera aunque puedan intervenir otros mecanismos
+cognitivos en la producción de los síntomas
+
+ dentro de las paramnesias o
+alteraciones cualitativas de la memoria distinguimos habitualmente las
+confabulaciones o alucinaciones de la memoria los fenómenos de déjà
+vu y jamais vu la criptomnesia la ecmnesia los falsos reconocimientos
+falsas identificaciones delirantes y la paramnesia reduplicativa
+
+
+podemos incluir también en este apartado la despersonalización aunque
+tampoco sea un trastorno específico de la memoria episódica ³⁵
+
+ existe
+controversia sobre la clasificación y los mecanismos subyacentes a estos
+fenómenos sobre todo en el caso de las falsas identificaciones y
+reduplicaciones ³⁶ pero esa discusión supera los límites de este
+artículo
+
+ los delirios en general están relacionados con alteraciones de
+la memoria episódica específicamente aquellos con síntomas
+confabulatorios ³⁷ y falsas identificaciones ³⁸
+
+
+
+d teoría de la mente
+
+el término teoría de la mente tm fue introducido por premack y
+woodruff ³⁹ en 1978 para designar la capacidad que tienen los primates
+de atribuirse estados mentales a sí mismos y a los demás
+
+ los seres
+humanos entendemos y explicamos la conducta de los demás en función de
+sus contenidos mentales
+
+ de acuerdo con baroncohen ⁴⁰ esta
+atribución psicológica es la forma natural de comprender el entorno
+social
+
+ a pesar de la definición original la mayor parte de los
+trabajos sobre tm se han realizado sobre la atribución de estados
+mentales a los demás
+
+ en muchos casos incluso se la define de esta
+manera
+
+ tirapu ustárroz et al
+
+ ⁴¹ y stuss y anderson ⁴² consideran
+la autoconciencia y la tm como los integrantes del nivel más alto de la
+estructura jerárquica de la conciencia
+
+ nichols y stich ⁴³ por su
+parte asumen que puede afectarse la atribución de estados mentales a
+uno mismo sin que se altere la atribución de estados mentales a otras
+personas y en consecuen cia diferencian un mecanismo para el acceso a
+los estados mentales propios de otro para los ajenos o tm
+
+
+
+las principales áreas cerebrales que participan en el circuito de la tm
+son la corteza prefrontal la corteza frontal posteromedial y la unión
+temporoparietal aunque por tratarse de un concepto complejo se están
+estudiando subprocesos específicos para esclarecer su correspondiente
+nivel de conexión neural ⁴⁴
+
+ desde el punto de vista psicopatológico
+se han detectado déficits en tm tanto en autismo ⁴⁵ como en
+esquizofrenia ⁴⁶
+
+ los niños autistas fracasan sistemáticamente en la
+resolución de pruebas para evaluar tm como las tareas de falsas
+creencias de primer orden en las que el niño debe inferir que alguien
+el personaje de una historia tiene una creencia distinta de la suya
+propia
+
+ por ejemplo en estas tareas el niño ve cómo un muñeco esconde
+algo en un sitio
+
+ luego cuando este primer muñeco se va otro cambia el
+objeto escondido de sitio de manera que el que se ha ido desconoce que
+esto ha ocurrido
+
+ después se pregunta al niño dónde buscará el objeto
+el primer muñeco cuando regrese
+
+ el niño autista no puede ponerse en el
+lugar del personaje que no sabe que el objeto ha sido cambiado de sitio
+y cree que aún está en el mismo lugar donde lo dejó y dice que el
+muñeco buscará el objeto en la nueva ubicación confundiendo lo que el
+muñeco sabe con lo que él sabe
+
+
+
+en la esquizofrenia también se observan déficits en las pruebas de tm
+pero además se observan deformaciones como en el caso de los pacientes
+con esquizofrenia paranoide que atribuyen intenciones a los demás
+aunque de manera errónea
+
+ en la paranoia ocurriría algo similar
+
+ para
+bentall ⁴⁷ la dificultad para comprender los estados mentales de
+otras personas es uno de los mecanismos psicológicos del delirio
+
+
+existen otras teorías relacionadas como por ejemplo la falla en la
+evaluación de hipótesis ⁴⁸ el error de predicción anómalo ⁴⁹ y la
+asignación de relevancia aberrante ⁵⁰ sobre las que no vamos a
+extendernos
+
+ la tm no se ve afectada directamente en estos modelos pero
+su alteración puede desempeñar un papel accesorio en la producción del
+delirio
+
+
+
+e conciencia de enfermedad
+
+la capacidad metacognitiva de autorreflexión está estrechamente ligada a
+la representación de la propia enfermedad
+
+ esta representación fracasa
+sobre todo en los trastornos psicóticos que cursan con anosognosia
+
+
+amador y gorman ⁵¹ definen la ausencia de conciencia de enfermedad o
+insight como la falta de conciencia de tener una enfermedad o de tener
+signos y síntomas específicos o la ignorancia de las consecuencias que
+puede traer el trastorno y la falta de acuerdo con el profesional en que
+debe ser indicado un tratamiento
+
+ para medir el nivel de conciencia de
+enfermedad amador y strauss ⁵² desarrollaron una escala que permitió
+establecer que casi el 60 de los pacientes esquizofrénicos padecen de
+anosognosia moderada a grave la cual se asocia a disfunción del lóbulo
+frontal y a un curso desfavorable
+
+
+
+f distorsiones y engaños perceptivos
+
+en este último apartado dedicado a los síntomas que afectan parcialmente
+a la conciencia nos referiremos en parte a los trastornos que jaspers
+² clasifica como anomalías de la percepción dentro de las alteraciones
+de la conciencia del objeto
+
+ no incluimos aquí las alucinaciones que ya
+fueron mencionadas en otras secciones
+
+
+
+las distorsiones perceptivas o experiencias anómalas como las denomina
+cutting ⁵³ pueden clasificarse de acuerdo con este autor en
+visuales y auditivas según el sentido afectado las olfativas y
+gustativas son inespecíficas
+
+ las distorsiones visuales pueden afectar
+el color acromatopsia y discromatopsia la unidad en el tiempo
+palinopsia la unidad en el espacio poliopsia diplopía monocular
+la posición en el espacio perseveración aloestesia teleopsia
+pelopsia la forma metamorfopsia el tamaño micropsia macropsia
+el movimiento acinetopsia y el valor emocional cacopsia calopsia
+
+
+las distorsiones auditivas pueden afectar la unidad en el tiempo
+palinacusia la intensidad hiper e hipoacusia y la localización
+espacial aloestesia auditiva
+
+ a estos síntomas debemos agregar las
+alteraciones de la intensidad de otros sentidos la escisión de la
+percepción disociación de dos elementos inseparables p
+
+ ej
+
+ el pájaro
+y su trino y las sensaciones anormales simultáneas o sinestesia p
+
+
+ej
+
+ un estímulo auditivo que se acompaña de una sensación de dolor en
+alguna parte del cuerpo ²
+
+ todas estas alteraciones pueden
+presentarse en psicosis idiopáticas demencia delirium y trastornos por
+ansiedad
+
+
+
+dentro de las percepciones engañosas solo consideraremos las ilusiones
+
+
+a diferencia de las distorsiones perceptivas en que los objetos reales
+son vistos o sentidos de otro modo en las ilusiones se perciben nuevos
+objetos de manera engañosa
+
+ en las distorsiones perceptivas los objetos
+se perciben como lo que son p
+
+ ej
+
+ un árbol se puede ver más grande
+lejano o deformado pero sigue siendo un árbol mientras en las
+ilusiones se perciben objetos nuevos p
+
+ ej
+
+ un árbol se percibe como
+un hombre
+
+ se trata de la clasificación errónea de un objeto percibido
+como señala cutting ⁵³
+
+
+
+la clasificación de los trastornos parciales de la conciencia
+
+en principio casi todos los trastornos que hemos visto —incluyendo los
+tradicionales trastornos del yo— son alteraciones de la autoconciencia
+ya que implican una falla en el conocimiento del propio cuerpo y de la
+propia individualidad psíquica
+
+ los posibles mecanismos que explicarían
+estos trastornos —alteraciones del sentido de agencia de la conciencia
+del propio cuerpo de la conciencia autonoética memoria episódica de
+automonitorización— son perturbaciones de la conciencia de sí mismo
+
+
+así los desórdenes descritos en esos apartados podrían agruparse
+naturalmente por su contenido como somatopsíquicos y autopsíquicos
+retomando libremente la terminología de wernicke ⁵⁴ ya que la
+conciencia de uno mismo no se circunscribe a la autopsiquis sino que
+incluye la conciencia del propio cuerpo
+
+
+
+las alucinaciones auditivas serían producto de un defecto en el juicio
+de agencia y de errores de automonitorización y por lo tanto de una
+alteración de la conciencia de la propia actividad
+
+ no tenemos una
+hipótesis firme sobre las alucinaciones visuales aunque podríamos
+atribuirles un mecanismo similar ⁵⁵
+
+ consideramos las alucinaciones
+auditivas y los trastornos del yo como alteraciones autopsíquicas debido
+a que la autoconciencia omite identificar la actividad y los límites del
+propio yo
+
+ a pesar del modelo motor del sentido de agencia no las
+consideramos como somatopsíquicas ya que esta posibilidad se contrapone
+con el contenido de la conciencia que estamos evaluando percepción
+auditiva y visual autogenerada no autoscópica por un lado e
+identificación y límites del yo o agente de la actividad por el otro
+
+
+
+por último el fracaso en el reconocimiento de otras mentes debe ser
+considerado como un trastorno alopsíquico ya que no está probado que se
+trate de una alteración propia de la autoconciencia aunque el mecanismo
+representacional para la atribución de estados mentales a uno mismo y a
+los demás podría ser el mismo
+
+ los trastornos alopsíquicos se ciñen a
+fallas en el conocimiento del mundo interpretaciones anormales o
+procesamiento defectuoso de los estímulos del medio es decir son
+alteraciones propias de la conciencia
+
+ en los delirios alopsíquicos la
+falla en la tm o bien cualquier otro mecanismo se produce sobre
+contenidos de la conciencia sin intervención aparente de la
+autoconciencia
+
+ en cuanto a las distorsiones y engaños sensoperceptivos
+son claramente alteraciones alopsíquicas
+
+ en la tabla 2 presentamos la
+clasificación de estos trastornos
+
+
+
+tabla 2
+
+ trastornos parciales de la conciencia 
+
+
+ trastornos parciales de la 
+ conciencia 
+
+ autoconciencia somatopsíquicos 
+ 
+ alucinaciones somáticas 
+ táctiles cinestésicas 
+ vestibulares cenestésicas
+
+ 
+ 
+ fenómenos autoscópicos 
+ alucinación autoscópica 
+ autoscopía experiencia 
+ extracorporal
+
+ 
+ 
+ delirios somáticos 
+ hipocondríaco incluyendo el 
+ nihilista dermatozoico de 
+ reduplicación de partes del 
+ cuerpo dismórfico
+
+ 
+ 
+ trastornos conversivos 
+ convulsiones distonía 
+ parálisis ataxia 
+ astasiaabasia anestesia 
+ ceguera etc
+
+ 
+
+ autopsíquicos 
+ 
+ alucinaciones auditivas y 
+ visuales olfativas 
+ gustativas
+
+ 
+ 
+ paramnesias confabulaciones 
+ fenómenos de déjà vu y jamais 
+ vu criptomnesia ecmnesia 
+ falsas identificaciones y 
+ reduplicaciones delirantes
+
+ 
+ 
+ delirios autopsíquicos 
+ grandeza culpa ruina 
+ influencia transformación etc
+
+ 
+ 
+ trastornos disociativos 
+ amnesia fuga personalidad 
+ múltiple despersonalización
+
+ 
+ 
+ anosognosia
+
+ 
+
+ conciencia alopsíquicos 
+ 
+ trastornos de mentalización 
+ autismo
+
+ 
+ 
+ delirios alopsíquicos 
+ referencia persecución 
+ celotípico erótico ideas 
+ fantásticas del mundo 
+ personificación de objetos 
+ inanimados etc
+
+ 
+ 
+ desrealización
+
+ 
+ 
+ distorsiones perceptivas 
+ acromatopsia dismegalopsia 
+ metamorfopsia acinetopsia etc
+
+ 
+ 
+ engaños perceptivos 
+ ilusiones
+
+ 
+
+
+como vemos en los trastornos autopsíquicos incluimos entre corchetes
+las alucinaciones olfativas y gustativas pues si bien no tenemos
+información científica suficiente sobre estos fenómenos es lícito
+conjeturar que participa el mismo mecanismo psicopatológico que en las
+alucinaciones auditivas y visuales
+
+
+
+dentro de los trastornos de mentalización no mencionamos las
+esquizofrenias ni la paranoia porque la alteración de la tm es un
+fenómeno esencial del autismo mientras que es eventual en las
+esquizofrenias y probablemente accesorio en la paranoia
+
+ este ítem es el
+único que incluye una enfermedad definida en lugar de síntomas o
+síndromes
+
+ muchos de los delirios alopsíquicos suelen incluir
+componentes autopsíquicos como las confabulaciones y algunos delirios
+autopsíquicos y falsas identificaciones delirantes pueden presentar
+alteraciones alopsíquicas como fallas en la teoría de la mente
+
+ la
+clasificación se centra en el contenido temático del delirio y
+consecuentemente en el área de la conciencia preferentemente afectada
+aunque no deja de tener en cuenta cuál es el mecanismo predominante
+
+ los
+delirios excepcionalmente son puros
+
+
+
+conclusiones
+
+entendemos que la clasificación que presentamos facilita la comprensión
+y comunicación de los conceptos y permite la diferenciación pronóstica y
+terapéutica de los trastornos
+
+ efectivamente los trastornos globales
+tienen en gran medida un mal pronóstico quoad vitam y requieren de
+cuidados médicos generales e intensivos mientras los trastornos
+parciales no implican un riesgo para la vida del paciente y requieren de
+tratamiento psiquiátrico
+
+ en los trastornos productivos la conciencia
+está menos afectada que en los deficitarios en los que el nivel de
+conciencia puede descender hasta su supresión absoluta en el coma
+
+ las
+descripciones clínicas de los trastornos productivos demuestran que su
+presentación pura es menos probable que su combinación por lo que
+resulta oportuno considerar la confusión mental el delirio onírico y el
+estado crepuscular como prototipos de una ordenación difusa
+
+ el concepto
+de delirium que de alguna manera los incorpora se ciñe a los
+trastornos debidos a causas orgánicas demostrables lo que excluye la
+posibilidad de conceptualizar aquellos cuadros de origen primariamente
+psiquiátrico a partir de ese constructo
+
+
+
+por su parte la mayoría de los trastornos parciales de la conciencia
+son fallas metarrepresentacionales del conocimiento del propio cuerpo y
+del propio psiquismo
+
+ la autoconciencia ha perdido su papel supervisor y
+regulador de la actividad mental dando lugar a la producción de una
+serie de síntomas cuyo común denominador es el reconocimiento defectuoso
+de la propia individualidad
+
+ por otro lado la conciencia se ve alterada
+en su capacidad de atribuir estados mentales a los demás tm y en un
+nivel menos complejo de representar correctamente los objetos externos
+
+
+estos trastornos parciales no llevan a un derrumbe de la conciencia en
+su conjunto como ocurre con los trastornos globales por lo que la
+claridad de sus contenidos permanece intacta
+
+
+
+con esta división no pretendemos afirmar que no puedan existir
+alteraciones parciales de la conciencia primaria
+
+ simplemente no las
+apreciamos por el momento
+
+ por este motivo afirmamos que los trastornos
+parciales que mencionamos afectan preferentemente a la conciencia de
+orden superior
+
+ si bien los cuadros clínicos en que se presentan estos
+síntomas son diversos la esquizofrenia pasó a ser la enfermedad
+representativa de las alteraciones de la conciencia y con ello el
+objeto de los mayores esfuerzos de la investigación científica en este
+campo
+
+ aunque fundada en conceptos actuales esta clasificación nos
+remite parcialmente a las observaciones clínicas de kraepelin ⁵⁶ y la
+clasificación bimembre de störring ⁵⁷
+
+ como toda clasificación la
+nuestra es provisoria y limitada se le podrá reprochar la falta de
+inclusión de algunos síntomas o se le reclamará la exclusión de otros
+
+
+de momento es solo una aproximación comprehensiva a un difícil problema
+nosológico
+
+
+
+¹hemos desarrollado una discusión más amplia y pormenorizada sobre el
+concepto de conciencia y sus trastornos en otro lugar ⁶
+
+
+
+²sobre el debate filosófico en torno a la conciencia pueden consultarse
+las antologías de block et al
+
+ ²⁰ y ezcurdia y hansberg ²¹ entre
+otros muchos textos
+
+
+
+³a diferencia de la teoría metarrepresentacional de la psicología
+cognitiva que presentamos aquí los fenomenólogos consideran que la
+esquizofrenia es una alteración de la ipseidad del yo central o yo
+mínimo es decir una perturbación prerreflexiva ²⁹
+
+
+
+bibliografía
+
+1 1 bleuler e
+
+ tratado de psiquiatría
+
+ reelaborado por manfred
+bleuler
+
+ madrid espasacalpe 1967
+
+  links 
+
+2 2 jaspers k
+
+ psicopatología general
+
+ traducción de la 5ª edición
+alemana
+
+ buenos aires beta 1966
+
+  links 
+
+3 3 alonso fernández f
+
+ fundamentos de la psiquiatría actual
+
+ madrid
+paz montalvo 1976
+
+  links 
+
+4 4 huber g
+
+ psychiatrie
+
+ stuttgart schattauer 1987
+
+  links 
+
+5 5 kaplan hi sadock bj
+
+ sinopsis de psiquiatría
+
+ madrid
+panamericana 1999
+
+  links 
+
+6 6 martínez dr
+
+ psicopatología de la conciencia
+
+ buenos aires
+salerno en prensa
+
+  links 
+
+7 7 edelman gm
+
+ the remembered present
+
+ a biological theory of
+consciousness
+
+ new york basic books 1989
+
+  links 
+
+8 8 damasio ar
+
+ the feeling of what happens
+
+ body and emotion in the
+making of consciousness
+
+ new york harcourt brace 1999
+
+  links 
+
+9 9 bunge m
+
+ el problema mentecerebro
+
+ madrid tecnos 1985
+
+
+ links 
+
+10 10 block n
+
+ on a confusion about a function of consciousness
+
+ behav
+brain sci
+
+ 1995 18 22787
+
+  links 
+
+11 11 kleist k
+
+ diez comunicaciones
+
+ buenos aires polemos 1997
+
+
+ links 
+
+12 12 luria ar
+
+ las funciones corticales superiores del hombre
+
+ la
+habana orbe 1977
+
+  links 
+
+13 13 young gb
+
+ coma
+
+ en laureys s tononi g
+
+ eds
+
+ the neurology of
+consciousness
+
+ amsterdamboston academic press 2009 p
+
+ 13750
+
+
+ links 
+
+14 14 frith c
+
+ la esquizofrenia
+
+ un enfoque neuropsicológico
+cognitivo
+
+ barcelona ariel 1995
+
+  links 
+
+15 15 blakemore sj frith c
+
+ disorders of selfmonitoring and symptoms
+of schizophrenia
+
+ en kircher t david a eds
+
+
+
+ the self in
+neuroscience and psychiatry
+
+ cambridge cambridge university press
+2003 p
+
+ 40724
+
+  links 
+
+16 16 fujiwara e markowitsch hj
+
+ autobiographical disorders
+
+ en
+feinberg te keenan jp eds
+
+
+
+ the lost self
+
+ pathologies of the brain
+and identity
+
+ oxford oxford university press 2005 p
+
+ 6580
+
+  links 
+
+17 17 bunge m ardila r
+
+ filosofía de la psicología
+
+ méxico siglo
+xxi 2002
+
+  links 
+
+18 18 farthing gw
+
+ the psychology of consciousness
+
+ englewood cliffs
+new jersey prenticehall 1992
+
+  links 
+
+19 19 chalmers dj
+
+ la mente consciente
+
+ barcelona gedisa 1999
+
+
+ links 
+
+20 20 block n flanagan o güzeldere g
+
+ the nature of consciousness
+
+
+philosophical debates
+
+ cambridge mit press 1997
+
+  links 
+
+21 21 ezcurdia m hansberg o
+
+ la naturaleza de la experiencia
+
+ vol i
+sensaciones
+
+ méxico unam 2003
+
+  links 
+
+22 22 gallagher s
+
+ philosophical conceptions of the self implications
+for cognitive science
+
+ trends cogn sci
+
+ 2000 41 1421
+
+  links 
+
+23 23 parnas j
+
+ self and schizophrenia a phenomenological
+perspective
+
+ en kircher t david a
+
+ eds
+
+ the self in neuroscience and
+psychiatry
+
+ cambridge cambridge university press 2003 p
+
+ 21741
+
+
+ links 
+
+24 24 gallagher s schmicking d
+
+ handbook of phenomenology and
+cognitive science
+
+ new yorkheildelberglondon springer 2010
+
+
+ links 
+
+25 25 jeannerod m
+
+ motor cognition
+
+ oxford oxford university press
+2006
+
+  links 
+
+26 26 graham g stephens gl
+
+ mind and mine
+
+ en graham g stephens g
+eds
+
+
+
+ philosophical psychopathology
+
+ cambridge mit press 1994 p
+
+
+92109
+
+  links 
+
+27 27 miele db wager dt mitchell jp metcalfe j
+
+ dissociating neural
+correlates of action monitoring and metacognition of agency
+
+ j cogn
+neurosci
+
+ 2011 2311 362036
+
+  links 
+
+28 28 frith c
+
+ the self in action lessons from delusions of control
+
+
+conscious cogn
+
+ 2005 144 75270
+
+  links 
+
+29 29 sass la parnas j
+
+ schizophrenia consciousness and the self
+
+
+schizophr bull
+
+ 2003 293 42744
+
+  links 
+
+30 30 leonhard k
+
+ das körperschema bei psychosen
+
+ zbl neurol psychiat
+
+
+1988 250 5216
+
+  links 
+
+31 31 heydrich l blanke o
+
+ distinct illusory ownbody perceptions
+caused by damage to posterior insula and extrastriate cortex
+
+ brain
+2013 136 790803
+
+  links 
+
+32 32 richardson ed malloy pf
+
+ the frontal lobes and contentspecific
+delusions
+
+ en salloway sp malloy pf duffy jd eds
+
+
+
+ the frontal
+lobes and neuropsychiatric illness
+
+ washington american psychiatric
+publishing 2001 p
+
+ 21532
+
+  links 
+
+33 33 voon v cavanna ae coburn k sampson s reeve a lafrance wc
+
+
+functional neuroanatomy and neurophysiology of functional neurological
+disorders conversion disorder
+
+ j neuropsychiatry clin neurosci
+
+ 2016
+283 16890
+
+  links 
+
+34 34 tulving e
+
+ memory and consciousness
+
+ can psychol
+
+ 1985 261
+112
+
+  links 
+
+35 35 kober h ray a obhi s guise k keenan jp
+
+ the neural
+correlates of depersonalization a disorder of selfawareness
+
+ en
+feinberg te keenan jp eds
+
+
+
+ the lost self
+
+ pathologies of the brain
+and identity
+
+ oxford oxford university press 2005 p
+
+ 193205
+
+
+ links 
+
+36 36 feinberg te deluca j giacino jt roane dm solms m
+
+
+righthemisphere pathology and the self delusional misidentification
+and reduplication
+
+ en feinberg te keenan jp eds
+
+
+
+ the lost self
+
+
+pathologies of the brain and identity
+
+ oxford oxford university press
+2005 p
+
+ 10030
+
+  links 
+
+37 37 kopelman md
+
+ varieties of confabulation and delusion
+
+ cogn
+neuropsychiatry 2009151 1437
+
+  links 
+
+38 38 darby rr caplan d
+
+ catgras delusion a unique
+misidentification syndrome and a novel explanation
+
+ neurocase 2016
+222 2516
+
+  links 
+
+39 39 premack d woodruff g
+
+ does the chimpanzee have a theory of
+mind
+
+ behav brain sci
+
+ 1978 4 51526
+
+  links 
+
+40 40 baroncohen s
+
+ mindblindness an essay on autism and theory of
+mind
+
+ cambridge mit press 1997
+
+  links 
+
+41 41 tirapuustárroz j muñozcéspedes jm pelegrínvalero c
+
+ hacia
+una taxonomía de la conciencia
+
+ rev neurol
+
+ 2003 3611 108393
+
+
+ links 
+
+42 42 stuss dt anderson v
+
+ the frontal lobes and theory of mind
+developmental concepts from adult focal lesion research
+
+ brain cogn
+
+
+2004 551 6983
+
+  links 
+
+43 43 nichols s stich sp mindreading
+
+ oxford clarendon press 2003
+
+
+ links 
+
+44 44 thye md ammons cj murdaugh dl kana rk
+
+ differential
+recruitment of theory of mind brain network across three tasks an
+independent component analysis
+
+ behav brain res
+
+ 2018 347 38593
+
+
+ links 
+
+45 45 baroncohen s leslie am frith u
+
+ does the autistic child have
+a theory of mind
+
+ cognition 1985 211 3746
+
+  links 
+
+46 46 frith c
+
+ theory of mind in schizophrenia
+
+ en david as cutting
+jc eds
+
+
+
+ the neuropsychology of schizophrenia
+
+ hovehillsdale lea
+1994 p
+
+ 14761
+
+  links 
+
+47 47 bentall rp
+
+ social cognition and delusional beliefs
+
+ en
+corrigan pw penn dl eds
+
+
+
+ social cognition and schizophrenia
+
+
+washington american psychological association 2001 p
+
+ 12348
+
+
+ links 
+
+48 48 coltheart m
+
+ the neuropsychology of delusions
+
+ ann n y acad sci
+
+
+2010 1191 1626
+
+  links 
+
+49 49 corlett pr honey gd fletcher pc
+
+ predictor error ketamine and
+psychosis an updated model
+
+ j psychopharmacol
+
+ 2016 3011 114555
+
+
+ links 
+
+50 50 kapur s
+
+ psychosis as a state of aberrant salience a framework
+linking biology phenomenology and pharmacology
+
+ am j psychiatry 2003
+1601 1323
+
+  links 
+
+51 51 amador xf gorman jm
+
+ psychopathologic domains and insight in
+schizophrenia
+
+ psychiatr clin north am
+
+ 1998 211 2742
+
+  links 
+
+52 52 amador xf strauss dh
+
+ the scale to assess unawareness of mental
+disorder
+
+ ny columbia university and new york state psychiatric
+institute 1990
+
+  links 
+
+53 53 cutting j
+
+ principles of psychopathology
+
+ oxford oxford
+university press 1997
+
+  links 
+
+54 54 wernicke c
+
+ grundiss der psychiatrie
+
+ leipzig thieme 1900
+
+
+ links 
+
+55 55 zmigrod l garrison jl carr j simon js
+
+ the neural mechanisms
+of hallucinations a quantitative metaanalysis of neuroimaging studies
+
+
+neurosci biobehav rev
+
+ 2016 69 11323
+
+  links 
+
+56 56 kraepelin e
+
+ psychiatrie
+
+ 2ª ed
+
+ leipzig abel 1887
+
+  links 
+
+57 57 störring ge
+
+ besinnung und bewusstsein
+
+ stuttgart thieme 1953
+
+
+ links 
+
+recibido 12 de diciembre de 2018 aprobado 22 de febrero de 2019
+
+correspondencia drmartinezintramed
+
+net
+
+creative commons license this is an open access article distributed
+under the terms of the creative commons attribution license which
+permits unrestricted use distribution and reproduction in any medium
+provided the original work is properly cited
+
+
+
+ 
+
+c magallanes 1
+
+ sótano 2 local 4 madrid madrid es 28015 636 72
+55 99 91 847 31 82
+
+redaccionrevistaaen
+
+es
+
+
