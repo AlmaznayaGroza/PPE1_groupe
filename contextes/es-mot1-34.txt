@@ -1,0 +1,417 @@
+Artículos
+
+La clasificación de los trastornos de la conciencia
+
+Classification of disorders of consciousness
+---------------
+
+Tradicionalmente ha existido una incongruencia entre la definición de
+conciencia y la caracterización de su patología, que se restringe a
+aquellos cuadros que afectan la vida consciente en su conjunto, ya sea
+por un descenso del nivel o por una desorganización de sus contenidos.
+Los avances en neurociencia cognitiva han demostrado que existen otras
+perturbaciones de la conciencia que no implican su afectación total. Con
+el fin de presentar una clasificación integral de estos trastornos,
+partiremos de las teorías de Edelman y Damasio, quienes diferencian una
+forma elemental de conciencia (conciencia primaria, para el primero, o
+central, para el segundo) de una forma compleja (conciencia de orden
+superior o ampliada, respectivamente). Las enfermedades que afectan a la
+conciencia primaria producen trastornos globales, pues afectan a la
+conciencia en su conjunto. Los trastornos de la conciencia superior
+producen perturbaciones parciales, que involucran mayormente a la
+autoconciencia, aunque también incluyen las distorsiones y engaños
+perceptivos.
+
+Palabras clave: conciencia; trastornos de la conciencia; autoconciencia;
+conciencia primaria; conciencia de orden superior
+
+Abstract
+---------------
+Introducción
+
+La conciencia como objeto de estudio de la psiquiatría ha sido motivo de
+múltiples investigaciones. No obstante, existe una cierta imprecisión en
+los manuales de la especialidad al tratar de relacionar la definición de
+la conciencia con su patología. Muchos psiquiatras se preguntan por qué
+en el capítulo dedicado a la conciencia se estudia el coma, por ejemplo,
+y no se habla de la conciencia de enfermedad. Si la conciencia se define
+a menudo como una cualidad excelsa del ser humano, ¿por qué su patología
+se limita a una grosera pérdida de conocimiento? En otras ocasiones, no
+menos problemáticas, la descripción de los trastornos de la conciencia
+no va precedida de ninguna definición. Obviamente, en todos los casos
+estamos hablando de la conciencia como conocimiento de la realidad
+(término intercambiable con consciencia) y no como conocimiento moral.
+Repasemos algunos ejemplos ilustrativos.
+
+En su Tratado de psiquiatría, Bleuler (¹) señala que la conciencia "es
+aquello que nos hace ser, en esencia, distintos de un autómata". De esta
+definición se desprenden valiosas derivaciones teóricas que implican
+tanto la simple percepción de un objeto como el libre albedrío. Sin
+embargo, para Bleuler, como para muchos otros autores, los trastornos de
+la conciencia se limitan a la confusión, el delirio (delirium) y el
+estado crepuscular. Jaspers (²), quien define la conciencia como la
+totalidad de la vida psíquica momentánea, engloba dentro de sus
+alteraciones las oscilaciones, declives, estrechamientos, elevaciones y
+alteraciones psicóticas en procesos orgánicos, entre otros. Alonso
+Fernández (³), por su parte, define la conciencia como la totalidad de
+la experiencia momentánea insertada en la corriente continua de la vida
+psíquica e incluye dentro de su patología la conciencia obnubilada,
+crepuscular y desordenada. Huber (⁴), a su vez, introduce los trastornos
+de la conciencia (cuantitativos: de la obnubilación al coma;
+cualitativos: confusión, amencia, delirio y estado crepuscular) en el
+capítulo de las "psicosis de fundamento corporal" sin definir el
+concepto de conciencia. En el manual de Kaplan y Sadock (⁵), por último,
+la conciencia se define como "darse cuenta de sí mismo y del entorno", y
+sus trastornos se restringen a la obnubilación, el estupor y el
+delirium, entre otros, como si el único modo de perturbación del
+conocimiento de uno mismo y del mundo fuera la opacidad o la pérdida de
+la conciencia.
+
+Como podemos observar, lo que usualmente se ha considerado como
+patología de la conciencia son los trastornos globales de la actividad
+consciente, ya que, debido a la definición unitaria de Jaspers, para
+poder hablar de alteraciones de la conciencia debe estar afectada la
+totalidad de los procesos psíquicos y no un proceso aislado. No
+obstante, dada la amplitud del concepto de conciencia, no resultaría
+extraño que existan trastornos parciales, que afecten algún aspecto
+específico de la actividad consciente sin afectar al sensorio ni
+---------------
+a discutir a continuación^(¹).
+
+Tipos de conciencia y clasificación de sus trastornos
+
+Para clasificar las alteraciones de la conciencia de una manera
+integral, nos apoyaremos en dos teorías neurológicas con evidentes
+repercusiones clínicas, como son las de Edelman (⁷) y Damasio (⁸). En
+ambas se diferencia una forma inferior o simple de conciencia
+(conciencia primaria de Edelman, conciencia central de Damasio) de una
+forma superior o compleja (que Edelman denomina conciencia de orden
+superior y Damasio, conciencia ampliada). La forma más simple de
+conciencia es evolutivamente más antigua y se relaciona, sobre todo, con
+el tronco cerebral y sectores medios de la corteza. Es una estructura
+biológica no vinculada al lenguaje que compartimos con otras especies.
+Sobre esta conciencia elemental se desarrolla la conciencia superior,
+cuyos circuitos neurales se distribuyen por extensas zonas de la corteza
+cerebral. Esta conciencia está ligada al lenguaje y a otras funciones
+superiores.
+
+Los déficits de la conciencia inferior comprometen a la conciencia
+superior, pues esta última depende de la primera; mientras que las
+alteraciones de la conciencia superior no afectan a la conciencia más
+primitiva. Podemos establecer un paralelismo entre ambas formas de
+conciencia y las definiciones de filósofos como Bunge (⁹) y Block (¹⁰):
+la conciencia primaria se limita funcionalmente al nivel sensorial, por
+lo que sería equiparable a lo que Bunge define como percatación (sentir
+o notar) y Block como conciencia fenoménica; mientras la conciencia de
+orden superior se extiende a nivel intelectual y es homologable a la
+conciencia propiamente dicha de Bunge y la conciencia de acceso de
+Block. Los desórdenes de la conciencia primaria afectan a la conciencia
+en su conjunto y, por lo tanto, constituyen trastornos globales: los
+trastornos de la conciencia por antonomasia de los textos de
+psiquiatría. Damasio menciona el coma y el mutismo acinético como
+ejemplos de alteración de la conciencia central (primaria). Los
+trastornos de la conciencia de orden superior, por otro lado, solo
+afectan en parte el funcionamiento de la actividad consciente, por lo
+que corresponde denominarlos "trastornos parciales de la conciencia".
+Estos trastornos no han sido clasificados tradicionalmente en los
+manuales de la especialidad, por lo que en este trabajo les dedicaremos
+un espacio mayor que a los trastornos globales. Como ejemplos de
+desorden de la conciencia ampliada (superior), Damasio menciona la
+amnesia global transitoria y la anosognosia.
+
+Trastornos globales
+
+Los trastornos globales de la conciencia se caracterizan por la pérdida
+de la lucidez y por interesar a la conciencia en su conjunto. Estos
+trastornos afectan al sensorio de manera tal que se ve dificultada, en
+distinta medida, la recepción de las impresiones del medio. La evidencia
+---------------
+activador reticular ascendente debidas a factores como hipertermia,
+toxinas, traumatismos, etc. (¹³). Los trastornos globales de la
+conciencia surgen precisamente cuando se ven afectados estos sectores
+filogenéticamente antiguos del sistema nervioso central. Por esta razón,
+las alteraciones de la conciencia primaria o central son globales, no
+permiten el funcionamiento normal o coordinado de la conciencia en su
+conjunto. Este grupo es el de las alteraciones tradicionales de la
+conciencia de la psiquiatría clásica y lo integran tanto los trastornos
+cuantitativos como los cualitativos. Como esta última división resulta
+problemática porque no existen alteraciones cualitativas puras (es
+decir, que no comprendan simultáneamente un descenso del nivel de
+conciencia), clasificaremos estos mismos cuadros clínicos según sus
+síntomas predominantes en productivos y deficitarios (ver Tabla 1).
+
+Tabla 1. Trastornos globales de la conciencia 
+
+   TRASTORNOS GLOBALES DE LA CONCIENCIA  
+  -------------------------------------- --------------
+               Productivos                Deficitarios
+---------------
+del pensamiento, la conducta anómala y la presencia de alucinaciones y
+delirios. El término productivo es neutral con respecto al nivel de
+conciencia. En este grupo se encuadran normalmente tres tipos de
+alteración de la conciencia cuyos límites son difusos, ya que existen
+múltiples superposiciones entre ellos. Nos referimos a la confusión
+mental, el delirio onírico y los estados crepusculares, actualmente
+---------------
+patologías orgánicas y deja fuera a los episodios conocidos
+tradicionalmente como psicógenos y endógenos. Por su parte, los cuadros
+deficitarios constituyen un descenso puro del nivel de conciencia, cuyos
+ejemplos representativos son la obnubilación, la somnolencia, el sopor y
+el coma. No abundaremos en la descripción de estos cuadros clínicos que
+son bien conocidos y se consideran como las alteraciones de la
+conciencia por excelencia.
+
+Trastornos parciales
+
+Los trastornos parciales de la conciencia de origen psiquiátrico solo
+afectan a algunos aspectos de la actividad consciente, de la misma forma
+en que lo hace una agnosia en neurología. Al interesar a la conciencia
+de orden superior, estos trastornos no se acompañan de enturbiamientos,
+por lo que se trata de alteraciones en las que se conserva la lucidez.
+Su base biológica se distribuye por amplias zonas de la corteza, dentro
+de las cuales sobresale funcionalmente el lóbulo frontal. Muchos de
+estos cuadros pueden considerarse como trastornos de la autoconciencia.
+Las investigaciones actuales demuestran que las alucinaciones auditivas
+son producto de una falla en la atribución a uno mismo de las propias
+acciones (por ejemplo, el habla subvocal), por lo que constituyen un
+déficit de la conciencia de sí mismo (¹⁴, ¹⁵). Algo similar ocurre con
+las confabulaciones ("alucinaciones del recuerdo"), en las que se
+evidencia un déficit en la memoria episódica (¹⁶). Algunos síntomas se
+---------------
+pensamiento, vivencias de influencia externa).
+
+Sin embargo, las alteraciones de la autoconciencia no se limitan a ese
+grupo de síntomas. Algunos cuadros disociativos, como la amnesia y la
+personalidad múltiple, pueden incluirse en esta clase de alteraciones,
+de la misma manera que la amnesia global transitoria es concebida como
+una perturbación neurológica de la conciencia de orden superior.
+
+Las alteraciones de la conciencia del propio cuerpo deben incluirse
+asimismo en esta sección. Otras perturbaciones vinculadas a mecanismos
+superiores como la teoría de la mente y la conciencia de enfermedad
+también han de encontrar su lugar en este apartado, al igual que algunos
+trastornos que no involucran a la autoconciencia, como ciertas
+alteraciones perceptivas.
+
+En este lugar, debemos definir qué entendemos por conciencia y
+autoconciencia para una mejor comprensión de nuestra propuesta. La
+conciencia puede definirse como la experiencia subjetiva de conocer
+parte de los contenidos de nuestra actividad mental en el momento
+presente. De acuerdo con Bunge (⁹) y Bunge y Ardila (¹⁷), un animal es
+---------------
+atribuye a alguna otra cosa o persona, se puede decir que es consciente
+de sí mismo" (subrayado de los autores). Para la psicología cognitiva,
+la autoconciencia requiere de un autoconcepto (sentido de identidad y
+conocimientos y creencias sobre uno mismo) y del conocimiento de que las
+propias acciones y experiencias pertenecen a la persona a la que se
+refiere el autoconcepto (¹⁸). La autoconciencia involucra distintos
+componentes, como la experiencia del propio cuerpo, la
+automonitorización, la memoria episódica y la teoría de la mente.
+---------------
+A continuación, relacionaremos una serie de procesos neurocognitivos con
+diferentes síntomas que son la expresión de una disfunción de la
+actividad consciente, sobre todo de la autoconciencia, para adentrarnos
+después en la clasificación de estos trastornos. Si bien el concepto de
+conciencia es problemático, no es nuestra finalidad internarnos en las
+múltiples discusiones filosóficas sobre el tema. El debate sobre el
+"problema difícil" de Chalmers (¹⁹) (la explicación de la experiencia
+---------------
+fenomenología, cuyas figuras más relevantes, como Gallagher (²²) y
+Parnas (²³), entre otros, han hecho contribuciones significativas a la
+psicopatología de la conciencia. El aporte de la fenomenología a la
+ciencia cognitiva puede valorarse en el manual de Gallagher y Schmicking
+(²⁴).
+---------------
+a) Los sentidos de agencia y propiedad
+
+Existen dos componentes de la conciencia de la acción que habitualmente
+coinciden: el sentido de agencia, que se refiere al reconocimiento de
+ser uno mismo el agente de una acción voluntaria, y el sentido de
+propiedad, relacionado con el hecho de tener conciencia de que el propio
+cuerpo se está moviendo. Mediante el sentido de agencia la persona es
+consciente de que tiene un papel activo en la pro-ducción de un
+---------------
+Frith (²⁸), los pacientes con delirio de influencia no han perdido el
+control de su sistema motor, sino que se encuentra alterada la
+conciencia de ese sistema^(³). El problema resultaría de anomalías en
+las señales provenientes de la corteza prefrontal que modulan la
+actividad del córtex parietal durante las acciones voluntarias.
+
+b) La conciencia del propio cuerpo
+
+Los sentidos de agencia y propiedad deben incluirse en este apartado. No
+---------------
+fenómenos autoscópicos, cuyos principales representantes son la
+alucinación autoscópica, la autoscopía (héautoscopie) y la experiencia
+extracorporal. Existe consenso en que la conciencia del propio cuerpo
+depende en parte de las cortezas parietal, insular, premotora y
+extraestriada, implicadas en la producción de estos fenómenos, lo que
+apoya su inclusión como alteraciones de la autoconciencia corporal,
+aunque Heydrich y Blanke plantean sus reservas acerca de la alucinación
+autoscópica (³¹).
+
+Por otra parte, la conciencia distorsionada del propio cuerpo se expresa
+también en los delirios somáticos, en algunos casos vinculados a
+anomalías del lóbulo frontal (³²): delirio hipocondríaco (incluyendo el
+---------------
+se acompaña del sentimiento íntimo de viajar a través del tiempo
+subjetivo para revivir las experiencias pasadas. Tulving (³⁴) denominó
+"conciencia autonoética" al tipo de conciencia que permite
+reexperimentar las vivencias anteriores y proyectarlas en el futuro
+personal: es el tipo especial de conciencia que nos permite darnos
+cuenta del tiempo subjetivo en que ocurrieron los hechos, sin la cual no
+podríamos viajar mentalmente en el tiempo. Los estudios con neuroimagen
+---------------
+el cerebelo (¹⁶). En psicopatología, las paramnesias, ciertos delirios y
+los trastornos disociativos (amnesia, fuga, personalidad múltiple y
+despersonalización) son alteraciones paradigmáticas de la conciencia
+autonoética. Con esto no estamos afirmando que exista una alteración
+única y específica de la memoria episódica, sino que esta se encuentra
+---------------
+mentales a los demás. En muchos casos incluso se la define de esta
+manera. Tirapu Ustárroz et al. (⁴¹) y Stuss y Anderson (⁴²) consideran
+la autoconciencia y la TM como los integrantes del nivel más alto de la
+estructura jerárquica de la conciencia. Nichols y Stich (⁴³), por su
+parte, asumen que puede afectarse la atribución de estados mentales a
+uno mismo sin que se altere la atribución de estados mentales a otras
+---------------
+delirio.
+
+e) Conciencia de enfermedad
+
+La capacidad metacognitiva de autorreflexión está estrechamente ligada a
+la representación de la propia enfermedad. Esta representación fracasa
+sobre todo en los trastornos psicóticos, que cursan con anosognosia.
+Amador y Gorman (⁵¹) definen la ausencia de conciencia de enfermedad o
+insight como la falta de conciencia de tener una enfermedad, o de tener
+signos y síntomas específicos, o la ignorancia de las consecuencias que
+puede traer el trastorno y la falta de acuerdo con el profesional en que
+debe ser indicado un tratamiento. Para medir el nivel de conciencia de
+enfermedad, Amador y Strauss (⁵²) desarrollaron una escala que permitió
+establecer que casi el 60% de los pacientes esquizofrénicos padecen de
+---------------
+
+En este último apartado dedicado a los síntomas que afectan parcialmente
+a la conciencia, nos referiremos en parte a los trastornos que Jaspers
+(²) clasifica como anomalías de la percepción dentro de las alteraciones
+de la conciencia del objeto. No incluimos aquí las alucinaciones, que ya
+fueron mencionadas en otras secciones.
+
+---------------
+como señala Cutting (⁵³).
+
+La clasificación de los trastornos parciales de la conciencia
+
+En principio, casi todos los trastornos que hemos visto —incluyendo los
+tradicionales trastornos del yo— son alteraciones de la autoconciencia,
+ya que implican una falla en el conocimiento del propio cuerpo y de la
+propia individualidad psíquica. Los posibles mecanismos que explicarían
+estos trastornos —alteraciones del sentido de agencia, de la conciencia
+del propio cuerpo, de la conciencia autonoética (memoria episódica), de
+automonitorización— son perturbaciones de la conciencia de sí mismo.
+Así, los desórdenes descritos en esos apartados podrían agruparse
+naturalmente por su contenido como somatopsíquicos y autopsíquicos,
+retomando libremente la terminología de Wernicke (⁵⁴), ya que la
+conciencia de uno mismo no se circunscribe a la autopsiquis, sino que
+incluye la conciencia del propio cuerpo.
+
+Las alucinaciones auditivas serían producto de un defecto en el juicio
+de agencia y de errores de automonitorización, y, por lo tanto, de una
+alteración de la conciencia de la propia actividad. No tenemos una
+hipótesis firme sobre las alucinaciones visuales, aunque podríamos
+atribuirles un mecanismo similar (⁵⁵). Consideramos las alucinaciones
+auditivas y los trastornos del yo como alteraciones autopsíquicas debido
+a que la autoconciencia omite identificar la actividad y los límites del
+propio yo. A pesar del modelo motor del sentido de agencia, no las
+consideramos como somatopsíquicas, ya que esta posibilidad se contrapone
+con el contenido de la conciencia que estamos evaluando: percepción
+auditiva y visual autogenerada (no autoscópica), por un lado, e
+identificación y límites del yo o agente de la actividad, por el otro.
+---------------
+Por último, el fracaso en el reconocimiento de otras mentes debe ser
+considerado como un trastorno alopsíquico, ya que no está probado que se
+trate de una alteración propia de la autoconciencia, aunque el mecanismo
+representacional para la atribución de estados mentales a uno mismo y a
+los demás podría ser el mismo. Los trastornos alopsíquicos se ciñen a
+fallas en el conocimiento del mundo (interpretaciones anormales o
+procesamiento defectuoso de los estímulos del medio); es decir, son
+alteraciones propias de la conciencia. En los delirios alopsíquicos, la
+falla en la TM (o bien cualquier otro mecanismo) se produce sobre
+contenidos de la conciencia sin intervención (aparente) de la
+autoconciencia. En cuanto a las distorsiones y engaños sensoperceptivos,
+son claramente alteraciones alopsíquicas. En la Tabla 2 presentamos la
+clasificación de estos trastornos.
+
+Tabla 2. Trastornos parciales de la conciencia 
+
++----------------------------------+----------------------------------+
+| TRASTORNOS PARCIALES DE LA       |                                  |
+| CONCIENCIA                       |                                  |
++:=================================+:=================================+
+| AUTOCONCIENCIA                   | Somatopsíquicos:                 |
+|                                  |                                  |
+|                                  | * Alucinaciones somáticas:       |
+---------------
+|                                  | * Anosognosia.                   |
++----------------------------------+----------------------------------+
+| CONCIENCIA                       | Alopsíquicos:                    |
+|                                  |                                  |
+|                                  | * Trastornos de mentalización:   |
+---------------
+alteraciones alopsíquicas, como fallas en la teoría de la mente. La
+clasificación se centra en el contenido temático del delirio y,
+consecuentemente, en el área de la conciencia preferentemente afectada,
+aunque no deja de tener en cuenta cuál es el mecanismo predominante. Los
+delirios excepcionalmente son puros.
+---------------
+cuidados médicos generales e intensivos, mientras los trastornos
+parciales no implican un riesgo para la vida del paciente y requieren de
+tratamiento psiquiátrico. En los trastornos productivos la conciencia
+está menos afectada que en los deficitarios, en los que el nivel de
+conciencia puede descender hasta su supresión absoluta en el coma. Las
+descripciones clínicas de los trastornos productivos demuestran que su
+presentación pura es menos probable que su combinación, por lo que
+---------------
+psiquiátrico a partir de ese constructo.
+
+Por su parte, la mayoría de los trastornos parciales de la conciencia
+son fallas metarrepresentacionales del conocimiento del propio cuerpo y
+del propio psiquismo. La autoconciencia ha perdido su papel supervisor y
+regulador de la actividad mental, dando lugar a la producción de una
+serie de síntomas cuyo común denominador es el reconocimiento defectuoso
+de la propia individualidad. Por otro lado, la conciencia se ve alterada
+en su capacidad de atribuir estados mentales a los demás (TM) y, en un
+nivel menos complejo, de representar correctamente los objetos externos.
+Estos trastornos parciales no llevan a un derrumbe de la conciencia en
+su conjunto, como ocurre con los trastornos globales, por lo que la
+claridad de sus contenidos permanece intacta.
+
+Con esta división no pretendemos afirmar que no puedan existir
+alteraciones parciales de la conciencia primaria. Simplemente, no las
+apreciamos por el momento. Por este motivo, afirmamos que los trastornos
+parciales que mencionamos afectan preferentemente a la conciencia de
+orden superior. Si bien los cuadros clínicos en que se presentan estos
+síntomas son diversos, la esquizofrenia pasó a ser la enfermedad
+representativa de las alteraciones de la conciencia y, con ello, el
+objeto de los mayores esfuerzos de la investigación científica en este
+campo. Aunque fundada en conceptos actuales, esta clasificación nos
+---------------
+
+¹Hemos desarrollado una discusión más amplia y pormenorizada sobre el
+concepto de conciencia y sus trastornos en otro lugar (⁶).
+
+²Sobre el debate filosófico en torno a la conciencia, pueden consultarse
+las antologías de Block et al. (²⁰) y Ezcurdia y Hansberg (²¹), entre
+otros muchos textos.
+---------------
+Panamericana, 1999. [ Links ]
+
+6 (6) Martínez DR. Psicopatología de la conciencia. Buenos Aires:
+Salerno (en prensa). [ Links ]
+
+---------------
+
+41 (41) Tirapu-Ustárroz J, Muñoz-Céspedes JM, Pelegrín-Valero C. Hacia
+una taxonomía de la conciencia. Rev Neurol. 2003; 36(11): 1083-93.
+[ Links ]
+
