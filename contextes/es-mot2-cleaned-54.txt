@@ -1,0 +1,137 @@
+ contacto
+
+la idea de consciencia robótica y el modelo conceptual de aleksander y dunmall
+
+
+
+nov232022
+
+fronterasrobóticamodelo de consciencia de aleksander y dunmall
+
+cuando la semana pasada terminé el post el elusivo objetivo de la
+consciencia robótica
+
+ concepto y axiomas pensaba retomar el tema de la
+consciencia robótica pero de una forma algo más ligera
+
+ sin embargo me
+parece tan interesante que creo que voy a detenerme bastante en ese
+capítulo firmado por antonio chella dentro del  libro cognitive
+
+
+en efecto y antes de pasar a lo que allí puedo encontrar sobre
+implementación o incluso tests de consciencia antes quiero revisar
+algún modelo todavía conceptual
+
+ 
+
+en concreto en este artículo aparte de traer a colación una definición
+aproximada de consciencia robótica probablemente insuficiente pero
+interesante quiero repasar el modelo conceptual propuesto por
+aleksander y dunmall
+
+
+
+una definición sencilla de consciencia robótica
+
+
+
+aunque no es una definiciones muy ambiciosa y sólo me sirve para centrar
+alguna idea me interesa mencionar la  debida a tihamer nemes y recogida
+en su libro cybernetic machines que se remonta nada más y nada menos
+que a 1962 y que dice simplemente que la consciencia en un robot es
+
+ the capability of a robot to discriminate between self and others
+
+
+
+final de este artículo ese saberse reconocer a uno mismo como
+diferente del entorno parece un atributo más que relevante de una
+consciencia
+
+
+
+la definición de consciencia de aleksander y dunmall
+
+más elaborado que esta definición primigenia de nemes tenemos el modelo
+
+post anterior y barry dunmall en 2003 y que se recoge en su artículo
+ axioms and tests for the presence of minimal consciousness in agents 
+
+
+en él y como veremos más abajo caracterizan la consciencia con base en
+cinco axiomas de los cuales luego deducen algún corolario
+
+
+
+
+artículo y aunque los axiomas que en seguida veremos se suelen explicar
+a partir de hallazgos de neurociencia en humanos claramente están
+orientados a posibilitar modelos computacionales de consciencia como
+por ejemplo sucedería en robots
+
+ y de hecho los autores dicen
+
+
+
+establecido esto y antes de pasar a los axiomas propiamente dichos
+traemos aquí la definición que usan los autores de consciencia
+aportando una definición que ellos mismos califican como rudimentaria y
+de trabajo
+
+ nos dicen
+
+ outthere  y el propio agente robot the self 
+
+
+
+el modelo axiomático de consciencia de aleksander y dunmall
+
+dicho esto pasamos ya a revisar brevemente los cinco axiomas
+
+ según los
+
+muy claros
+
+
+
+un breve apunte sobre auto–consciencia
+
+echo también un poco en falta la visión interna del agente robot los
+estados que representan al propio agente robot que me parecen
+esenciales en una idea de consciencia y que de hecho sí aparecen en la
+definición de los autores the self y muy claramente en la propuesta
+de nemes
+
+
+
+esta dualidad entre exterior e interior parece clave en el
+entendimiento de consciencia y aparece en otros autores que ya hemos
+visto en este blog como jun tani y seguramente aparezca repetidamente
+en el futuro
+
+ 
+
+que sea imposible ni tampoco lo contrario y en cualquier caso creo
+que se pueden conseguir estoy seguro de que se conseguirán avances
+tanto en el propio entendimiento de la consciencia humana como en la
+consecución de máquinas robots más inteligentes sean conscientes que
+parece difícil ahora mismo o no
+
+
+
+20221 comentario
+
+etiquetas consciencianeurocienciarobóticarobots
+
+compartir esta publicación
+
+navegación entre publicaciones
+
+anteriorpublicación anteriorel elusivo objetivo de la consciencia
+robótica
+
+ concepto y axiomas
+
+siguientepublicación siguientemodelos
+multinivel para una autoconciencia robótica
