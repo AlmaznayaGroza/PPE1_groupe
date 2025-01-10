@@ -26,7 +26,7 @@ done > ./$DOSSIER/contexte-$LANGUE.txt
 k=1
 for file in ./contextes/$LANGUE-mot2-*.txt
 do
-bash ./programmes/clean.sh "./contextes/$LANGUE-mot2-$j.txt" "./contextes/$LANGUE-mot2-cleaned-$j.txt"
-egrep -o  "\b\w*\b|[[:punct:]]" "./contextes/$LANGUE-mot2-cleaned-$j.txt"
+bash ./programmes/clean.sh "./contextes/$LANGUE-mot2-$k.txt" "./contextes/$LANGUE-mot2-cleaned-$k.txt"
+egrep -o  "\b\w*\b|[[:punct:]]" "./contextes/$LANGUE-mot2-cleaned-$k.txt"
 k=$((k + 1))
 done >> ./$DOSSIER/contexte-$LANGUE.txt
