@@ -58,3 +58,4 @@ J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les co
 - Lecture des scripts, pour vérifier si possibilité d'amélioration
 - Ajout des dossiers de la troisième langue 
 - Petit problème avec l'envoie de certains fichiers
+- Modification et ajout de certaines informations sur le script de la pages (site) 
