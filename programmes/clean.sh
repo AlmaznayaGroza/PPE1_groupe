@@ -3,19 +3,15 @@
 FICHIER_ENTREE=$1
 FICHIER_SORTIE=$2
 
-#file $FICHIER_ENTREE
-
+# Nettoyer et transformer le texte
 cat "$FICHIER_ENTREE" | \
-sed "s/[‘’]/'/g" | \
-sed "s/'/ /g" | \
-sed "s/…//g" | \
-sed "s/[«»]//g" | \
-sed 's/\./\.\n\n/g' | \
-sed 's/?/?\n\n/g' | \
-sed 's/!/!\n\n/g' | \
-tr -d '[:punct:]' | \
-sed 'y/ÀÂÄÇÈÉÊËÎÏÔÖÙÛÜŸ/àâäçèéêëîïôöùûüÿ/' | \
-tr '[:upper:]' '[:lower:]' | \
-sed 's/[[:space:]]\+/ /g' > "$FICHIER_SORTIE" 
+sed 's/\./ \.\n\n/g' | \
+sed 's/,/ ,/g' | \
+sed 's/;/ ;/g' | \
+sed 's/:/ :/g' | \
+sed 's/?/ ?\n\n/g' | \
+sed 's/!/ !\n\n/g' | \
+sed 's/[[:space:]]\+/ /g' | \
+sed 's/ /\n/g' > "$FICHIER_SORTIE"
 
-#echo "Le fichier $FICHIER_ENTREE a bien été nettoyé."
+echo "Le fichier $FICHIER_ENTREE a bien été nettoyé et transformé."
