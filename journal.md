@@ -56,4 +56,5 @@ J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les co
 - Reconstitution complet des URLS suite à un problème technique ('Détaillé par mail + Ubuntu via Microsoft Store donc modification de certaines manipulation')
 - Hésitation sur le mots espagnol: "conciencia" et "consciencia" signifie la même chose cependant 2 orthographes possibles mais une plus utilisé que l'autre
 - Lecture des scripts, pour vérifier si possibilité d'amélioration
-- Ajout des dossiers de la troisième langue (URLS + Tableaux) 
+- Ajout des dossiers de la troisième langue 
+- Petit problème avec l'envoie de certains fichiers
