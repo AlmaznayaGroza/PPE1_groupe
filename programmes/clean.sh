@@ -12,6 +12,7 @@ sed 's/:/ :/g' | \
 sed 's/?/ ?\n\n/g' | \
 sed 's/!/ !\n\n/g' | \
 sed 's/[[:space:]]\+/ /g' | \
+sed "s/'/ '\n/g" | \
 sed 's/ /\n/g' > "$FICHIER_SORTIE"
 
-echo "Le fichier $FICHIER_ENTREE a bien été nettoyé et transformé."
+#echo "Le fichier $FICHIER_ENTREE a bien été nettoyé et transformé."

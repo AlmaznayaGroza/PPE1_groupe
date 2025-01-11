@@ -1,219 +1,1230 @@
 2
+.
 
- essays by theme
+
+Essays
+by
+Theme
 3
+.
 
- moral philosophy
+
+Moral
+Philosophy
 4
-
- conscience and moral rules in adam smith
-
-conscience and moral rules in adam smith
-
-sympathy impartial spectator duty selfdeceit moral sentiments
+.
 
 
-in this essay i explore adam smith s analysis of the origins of
-conscience and general moral rules in the theory of moral sentiments
+Conscience
+and
+Moral
+Rules
+in
+Adam
+Smith
 
- i
-argue that adam smith offers a distinction between moral conscience and
-general moral rules that sidesteps the traditional distinction between
-universal and relative moral standards leading to a fundamental
-rethinking of the problem of the variability of moral opinion and the
-demands of moral conscience and duty
+Conscience
+and
+Moral
+Rules
+in
+Adam
+Smith
 
-
-
-moral conscience
-
-like the thought of his mentor francis hutcheson and of his friend david
-
-impartial spectator position to correct for any bias in our judgments
-
-
-
-smith s notion of moral conscience follows directly from this general
-approach
-
- he believes we cultivate a moral conscience by learning to
-view ourselves our intentions and our actions from a position of
-impartial spectatorship
-
- from this position we cultivate a concern with
-praiseworthiness and blameworthiness not praise and blame
-
- being
-virtuous and having a fully developed moral conscience for smith
-represents the highest stage in the moral development of an individual
-
-
-
-
-what is fit and proper either to be done or to be avoided” tms 159
-
-
-the specific mechanism by which these rules are formed is considerably
-different from the cultivation of conscience
-
- take the emergence of
-negative rules or commands that order us not to do something
-
- we observe
-another s behavior and disapprove of it
-
- we hear others express similar
-
-words general moral rules are formed out of our judgments of particular
-experiences that we observe in conjunction with the judgments of others
-
-
-a desire for praise or an aversion to blame not the moral conscience s
-concern for praiseworthiness or aversion to blameworthiness compels us
-to develop them
-
- after these general rules are formed and “universally
-
-notion of the universality of the moral standards that have emerged in
-the society in which we live
-
- finally this view explains how tensions
-arise when the judgments of our moral conscience might be displaced or
-at least come into conflict with the general rules that are established
-in a particular society and to which we feel deep sentimental
-attachments
-
- in smith s world there is no guarantee that the
-conclusions of our sense of moral conscience will dovetail neatly into
-our sense of duty
-
-
-
-
-
-smith s conclusions about the difference between the dictates of moral
-conscience and our sense of duty to obey general rules are profound
-
-
-virtuous individuals guided by moral conscience cultivate the feelings
-that are appropriate to particular situations
-
- for example when
-confronted with the benevolent behavior of another they feel gratitude
-
-conduct can be much depended upon” tms 163
-
-
-
-the tension between conscience and duty
-
-for smith humans are subject to multiple commands in ethics some
-stemming from the dictates of conscience and others from duty
-
- when
-should the principle of duty be the sole principle regulating our
-conduct in the world and when should it concur with other motives such
-as those provided by moral conscience
-
- conscience and duty introduce
-tension into smith s understanding of moral judgement and action in the
-theory of moral sentiments
-
- understanding that tension between the
-demands of conscience and duty lies at the heart of the final chapter of
-part vi
-
-
-
-some moral judgements are guided primarily by moral conscience others
-are guided by general rules and our sense of duty
-
- given the
-characteristics of a particular passion individuals may face a
-difficult task of balancing between the demands of conscience and of
+sympathy
+impartial
+spectator
 duty
+self-deceit
+moral
+sentiments
+---------------
 
- for example regarding benevolent and social sentiments like love
-our moral judgements and actions flow naturally from our benevolent
+In
+this
+essay
+I
+explore
+Adam
+Smith’s
+analysis
+of
+the
+origins
+of
+conscience
+and
+general
+moral
+rules
+in
+The
+Theory
+of
+Moral
+Sentiments
+.
 
-parliament seeking reelection or a tradesman seeking a special job
-must be grounded at least in part by the passion of ambition and not
-just duty or conscience for successful advancement and social
+
+I
+argue
+that
+Adam
+Smith
+offers
+a
+distinction
+between
+moral
+conscience
+and
+general
+moral
+rules
+that
+sidesteps
+the
+traditional
+distinction
+between
+universal
+and
+relative
+moral
+standards
+,
+leading
+to
+a
+fundamental
+rethinking
+of
+the
+problem
+of
+the
+variability
+of
+moral
+opinion
+and
+the
+demands
+of
+moral
+conscience
+and
+duty
+.
+
+
+
+Moral
+Conscience
+
+Like
+the
+thought
+of
+his
+mentor
+Francis
+Hutcheson
+and
+of
+his
+friend
+David
+---------------
+impartial
+spectator
+position
+to
+correct
+for
+any
+bias
+in
+our
+judgments
+.
+
+
+
+Smith’s
+notion
+of
+moral
+conscience
+follows
+directly
+from
+this
+general
+approach
+.
+
+
+He
+believes
+we
+cultivate
+a
+moral
+conscience
+by
+learning
+to
+view
+ourselves
+,
+our
+intentions
+and
+our
+actions
+from
+a
+position
+of
+impartial
+spectatorship
+.
+
+
+From
+this
+position
+,
+we
+cultivate
+a
+concern
+with
+praiseworthiness
+and
+blameworthiness
+,
+not
+praise
+and
+blame
+.
+
+
+Being
+virtuous
+and
+having
+a
+fully
+developed
+moral
+conscience
+for
+Smith
+represents
+the
+highest
+stage
+in
+the
+moral
+development
+of
+an
+individual
+.
+
+
+
+---------------
+what
+is
+fit
+and
+proper
+either
+to
+be
+done
+or
+to
+be
+avoided”
+(TMS
+:
+159)
+.
+
+
+The
+specific
+mechanism
+by
+which
+these
+rules
+are
+formed
+is
+considerably
+different
+from
+the
+cultivation
+of
+conscience
+.
+
+
+Take
+the
+emergence
+of
+negative
+rules
+or
+commands
+that
+order
+us
+not
+to
+do
+something
+.
+
+
+We
+observe
+another’s
+behavior
+and
+disapprove
+of
+it
+.
+
+
+We
+hear
+others
+express
+similar
+---------------
+words
+,
+general
+moral
+rules
+are
+formed
+out
+of
+our
+judgments
+of
+particular
+experiences
+that
+we
+observe
+in
+conjunction
+with
+the
+judgments
+of
+others
+.
+
+
+A
+desire
+for
+praise
+or
+an
+aversion
+to
+blame
+,
+not
+the
+moral
+conscience’s
+concern
+for
+praiseworthiness
+or
+aversion
+to
+blameworthiness
+,
+compels
+us
+to
+develop
+them
+.
+
+
+After
+these
+general
+rules
+are
+formed
+and
+“universally
+---------------
+notion
+of
+the
+universality
+of
+the
+moral
+standards
+that
+have
+emerged
+in
+the
+society
+in
+which
+we
+live
+.
+
+
+Finally
+,
+this
+view
+explains
+how
+tensions
+arise
+when
+the
+judgments
+of
+our
+moral
+conscience
+might
+be
+displaced
+or
+,
+at
+least
+,
+come
+into
+conflict
+with
+the
+general
+rules
+that
+are
+established
+in
+a
+particular
+society
+and
+to
+which
+we
+feel
+deep
+sentimental
+attachments
+.
+
+
+In
+Smith’s
+world
+,
+there
+is
+no
+guarantee
+that
+the
+conclusions
+of
+our
+sense
+of
+moral
+conscience
+will
+dovetail
+neatly
+into
+our
+sense
+of
+duty
+.
+
+
+
+---------------
+
+Smith’s
+conclusions
+about
+the
+difference
+between
+the
+dictates
+of
+moral
+conscience
+and
+our
+sense
+of
+duty
+to
+obey
+general
+rules
+are
+profound
+.
+
+
+Virtuous
+individuals
+guided
+by
+moral
+conscience
+cultivate
+the
+feelings
+that
+are
+appropriate
+to
+particular
+situations
+.
+
+
+For
+example
+,
+when
+confronted
+with
+the
+benevolent
+behavior
+of
+another
+,
+they
+feel
+gratitude
+---------------
+conduct
+can
+be
+much
+depended
+upon”
+(TMS
+:
+163)
+.
+
+
+
+The
+Tension
+between
+Conscience
+and
+Duty
+
+For
+Smith
+,
+humans
+are
+subject
+to
+multiple
+commands
+in
+ethics
+,
+some
+stemming
+from
+the
+dictates
+of
+conscience
+and
+others
+from
+duty
+.
+
+
+When
+should
+the
+principle
+of
+duty
+be
+the
+sole
+principle
+regulating
+our
+conduct
+in
+the
+world
+,
+and
+when
+should
+it
+concur
+with
+other
+motives
+such
+as
+those
+provided
+by
+moral
+conscience
+?
+
+
+Conscience
+and
+duty
+introduce
+tension
+into
+Smith’s
+understanding
+of
+moral
+judgement
+and
+action
+in
+The
+Theory
+of
+Moral
+Sentiments
+.
+
+
+Understanding
+that
+tension
+between
+the
+demands
+of
+conscience
+and
+duty
+lies
+at
+the
+heart
+of
+the
+final
+chapter
+of
+Part
+VI
+.
+
+
+
+Some
+moral
+judgements
+are
+guided
+primarily
+by
+moral
+conscience
+;
+others
+are
+guided
+by
+general
+rules
+and
+our
+sense
+of
+duty
+.
+
+
+Given
+the
+characteristics
+of
+a
+particular
+passion
+,
+individuals
+may
+face
+a
+difficult
+task
+of
+balancing
+between
+the
+demands
+of
+conscience
+and
+of
+duty
+.
+
+
+For
+example
+,
+regarding
+benevolent
+and
+social
+sentiments
+like
+love
+,
+our
+moral
+judgements
+and
+actions
+flow
+naturally
+from
+our
+benevolent
+---------------
+parliament
+seeking
+reelection
+,
+or
+a
+tradesman
+seeking
+a
+special
+job
+,
+must
+be
+grounded
+,
+at
+least
+in
+part
+,
+by
+the
+passion
+of
+ambition
+,
+and
+not
+just
+duty
+or
+conscience
+,
+for
+successful
+advancement
+and
+social
 recognition
+.
 
 
 
-a second issue that follows from the distinction between conscience and
-duty involves the precision and exactness of the general moral rules
+A
+second
+issue
+that
+follows
+from
+the
+distinction
+between
+conscience
+and
+duty
+involves
+the
+precision
+and
+exactness
+of
+the
+general
+moral
+rules
 themselves
+.
 
- some rules are clearer and more important to society than
 
-theory of moral sentiments and remains prone to misinterpretation
+Some
+rules
+are
+clearer
+and
+more
+important
+to
+society
+than
+---------------
+Theory
+of
+Moral
+Sentiments
+and
+remains
+prone
+to
+misinterpretation
+.
 
- one
-might easily argue that what smith means to say is that the conclusions
-of conscience are the general laws of morality backed by our religious
+
+One
+might
+easily
+argue
+that
+what
+Smith
+means
+to
+say
+is
+that
+the
+conclusions
+of
+conscience
+are
+the
+general
+laws
+of
+morality
+backed
+by
+our
+religious
 sentiment
+.
 
- from this interpretation conscience can easily be identified
-as “vicegerents of god” that reward us for following the law and punish
-us for breaking it
 
- if my reading of the sharp distinction between duty
-and conscience is correct this reading is seriously mistaken
+From
+this
+interpretation
+,
+conscience
+can
+easily
+be
+identified
+as
+“vicegerents
+of
+God”
+that
+reward
+us
+for
+following
+the
+law
+and
+punish
+us
+for
+breaking
+it
+.
 
- as i
-argue above our general rules of morality are generalizations based
-upon our observations of our moral judgments in conjunction with those
-of others
 
- they are not conclusions of our moral conscience
+If
+my
+reading
+of
+the
+sharp
+distinction
+between
+duty
+and
+conscience
+is
+correct
+,
+this
+reading
+is
+seriously
+mistaken
+.
 
- conscience
-deals with the problem of praiseworthiness duty centers upon the
-problem of praise
 
- all people have the capacity for moral
+As
+I
+argue
+above
+,
+our
+general
+rules
+of
+morality
+are
+generalizations
+based
+upon
+our
+observations
+of
+our
+moral
+judgments
+in
+conjunction
+with
+those
+of
+others
+.
+
+
+They
+are
+not
+conclusions
+of
+our
+moral
+conscience
+.
+
+
+Conscience
+deals
+with
+the
+problem
+of
+praiseworthiness
+,
+duty
+centers
+upon
+the
+problem
+of
+praise
+.
+
+
+All
+people
+have
+the
+capacity
+for
+moral
 generalization
-
- all people do not have a highly functioning moral sense
-of conscience
-
- the “vicegerents of god” that smith is referring to are
-not just the sentiments involved with conscience
-
- they encompass all our
-moral faculties including our sense of propriety and impropriety our
-sense of merit and demerit and our sense of duty
+.
 
 
+All
+people
+do
+not
+have
+a
+highly
+functioning
+moral
+sense
+of
+conscience
+.
 
-the significance of the distinction between conscience and duty in
-smith s thought is revealed most clearly at the end of chapter v in part
-iii
 
- smith emphasizes that while he wants to distinguish between duty
-and conscience he does not want to say they are necessarily
-antithetical to one another
+The
+“vicegerents
+of
+God”
+that
+Smith
+is
+referring
+to
+are
+not
+just
+the
+sentiments
+involved
+with
+conscience
+.
 
- on the contrary for the most part they
-complement one another
 
- he comments that “the general rules by which
+They
+encompass
+all
+our
+moral
+faculties
+,
+including
+our
+sense
+of
+propriety
+and
+impropriety
+,
+our
+sense
+of
+merit
+and
+demerit
+,
+and
+our
+sense
+of
+duty
+.
 
 
-there are natural limits to what we can do to impose the teaching of our
-consciences upon the world
 
- but that does not mean that we must deny our
-consciences out of hand
+The
+significance
+of
+the
+distinction
+between
+conscience
+and
+duty
+in
+Smith’s
+thought
+is
+revealed
+most
+clearly
+at
+the
+end
+of
+Chapter
+V
+in
+Part
+III
+.
 
- indignation in the face of perceived unfairness
-is a natural response of our conscience to the world at times
 
- we may
-not always be able to construct the world in the way that we wish but
-we do not have to like it at the deepest levels of our being
+Smith
+emphasizes
+that
+while
+he
+wants
+to
+distinguish
+between
+duty
+and
+conscience
+,
+he
+does
+not
+want
+to
+say
+they
+are
+necessarily
+antithetical
+to
+one
+another
+.
 
- in the
+
+On
+the
+contrary
+,
+for
+the
+most
+part
+they
+complement
+one
+another
+.
+
+
+He
+comments
+that
+“the
+general
+rules
+by
+which
+---------------
+
+There
+are
+natural
+limits
+to
+what
+we
+can
+do
+to
+impose
+the
+teaching
+of
+our
+consciences
+upon
+the
+world
+.
+
+
+But
+that
+does
+not
+mean
+that
+we
+must
+deny
+our
+consciences
+out
+of
+hand
+.
+
+
+Indignation
+in
+the
+face
+of
+perceived
+unfairness
+is
+a
+natural
+response
+of
+our
+conscience
+to
+the
+world
+at
+times
+.
+
+
+We
+may
+not
+always
+be
+able
+to
+construct
+the
+world
+in
+the
+way
+that
+we
+wish
+,
+but
+we
+do
+not
+have
+to
+like
+it
+at
+the
+deepest
+levels
+of
+our
+being
+.
+
+
+In
+the

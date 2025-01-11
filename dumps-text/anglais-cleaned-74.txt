@@ -1,280 +1,1215 @@
 ×
 
-philosophy now a magazine of ideas
+[Philosophy
+Now
+:
+a
+magazine
+of
+ideas]
 
- issues
- categories
- tags
- shop
- digital
- podcasts
- advertise
- forum
- events
- festival
- award
- links
- videos
- stockists
+-
+ISSUES
+-
+CATEGORIES
+-
+TAGS
+-
+SHOP
+-
+DIGITAL
+-
+PODCASTS
+-
+ADVERTISE
+-
+FORUM
+-
+EVENTS
+-
+FESTIVAL
+-
+AWARD
+-
+LINKS
+-
+VIDEOS
+-
+STOCKISTS
 
-left
+[left]
 
-right
+[right]
 
-sign in
+Sign
+In
 
-rss facebook instagram twitter threads bluesky
+[RSS]
+[Facebook]
+[Instagram]
+[Twitter]
+[Threads]
+[Bluesky]
 
-search
+[Search]
 
-welcome covers
+[welcome
+covers]
 
-your complimentary articles
+Your
+complimentary
+articles
 
-you ve read one of your four complimentary articles for this month
+You’ve
+read
+one
+of
+your
+four
+complimentary
+articles
+for
+this
+month
+.
 
 
 
-you can read four articles free per month
+You
+can
+read
+four
+articles
+free
+per
+month
+.
 
- to have complete access to
-the thousands of philosophy articles on this site please
 
-subscribe now
+To
+have
+complete
+access
+to
+the
+thousands
+of
+philosophy
+articles
+on
+this
+site
+,
+please
 
-editorial
+SUBSCRIBE
+NOW
 
+Editorial
+
+Consciousness
+
+by
+Rick
+Lewis
+
+It
+gives
+me
+particular
+pleasure
+to
+introduce
+an
+issue
+focussing
+on
 consciousness
-
-by rick lewis
-
-it gives me particular pleasure to introduce an issue focussing on
-consciousness as i myself am sometimes conscious
-
- i know the same goes
-for many of you
-
- but there is a great deal of debate among philosophers
-about what this actually means
+,
+as
+I
+myself
+am
+sometimes
+conscious
+.
 
 
+I
+know
+the
+same
+goes
+for
+many
+of
+you
+.
 
-the nature of consciousness is a philosophical problem which has come to
-centre stage mainly in the last few years
 
- as the neuroscientists have
-gradually found out more and more about the workings of the brain
-philosophers have wondered whether any part of the mind is inaccessible
-to scientific investigation
-
- many have argued that even if we find out
-everything about the way the brain physically functions there will
-still be something vital missing from our picture
-
- what this is of
-course is an understanding of how our subjective experiences come
+But
+there
+is
+a
+great
+deal
+of
+debate
+among
+philosophers
 about
+what
+this
+actually
+means
+.
 
- this is what david chalmers calls the hard problem of
+
+
+The
+nature
+of
 consciousness
+is
+a
+philosophical
+problem
+which
+has
+come
+to
+centre
+stage
+mainly
+in
+the
+last
+few
+years
+.
+
+
+As
+the
+neuroscientists
+have
+gradually
+found
+out
+more
+and
+more
+about
+the
+workings
+of
+the
+brain
+,
+philosophers
+have
+wondered
+whether
+any
+part
+of
+the
+mind
+is
+inaccessible
+to
+scientific
+investigation
+.
+
+
+Many
+have
+argued
+that
+even
+if
+we
+find
+out
+everything
+about
+the
+way
+the
+brain
+physically
+functions
+,
+there
+will
+still
+be
+something
+vital
+missing
+from
+our
+picture
+.
+
+
+What
+this
+is
+,
+of
+course
+,
+is
+an
+understanding
+of
+how
+our
+subjective
+experiences
+come
+about
+.
+
+
+This
+is
+what
+David
+Chalmers
+calls
+the
+‘hard
+problem’
+of
+consciousness
+.
 
 
 
-in this issue we have articles looking at this problem from a wide
-variety of viewpoints
-
- in the first of them mary midgley says that many
-people talk about consciousness as if the brain was in isolation
-
- she
-says we need to step back and see consciousness in its wider context
-which is the context of organic life
-
-
-
-if conscious life had to be organic this would rule out the possibility
-of conscious machines
-
- professor igor aleksander see interview is an
-expert on artificial intelligence
-
- he at least thinks that it is
-possible to build robots which are conscious of their surroundings in a
-sense broadly similar to the sense in which we say that humans are aware
-of their surroundings
-
- he aims to prove this by actually building one
-and has already made some progress in that direction
+In
+this
+issue
+we
+have
+articles
+looking
+at
+this
+problem
+from
+a
+wide
+variety
+of
+viewpoints
+.
 
 
+In
+the
+first
+of
+them
+,
+Mary
+Midgley
+says
+that
+many
+people
+talk
+about
+consciousness
+as
+if
+the
+brain
+was
+in
+isolation
+.
 
-there is a huge contrast between igor aleksander s view and that of the
-french philosopher henri bergson 18591941
 
- bergson was a towering
-figure in french philosophy in the early 20th century – the jacques
-derrida of his day
+She
+says
+we
+need
+to
+step
+back
+and
+see
+consciousness
+in
+its
+wider
+context
+,
+which
+is
+the
+context
+of
+organic
+life
+.
 
- however he has gone into a profound eclipse
 
 
-reading johnfrancis phipps article about him it isn t hard to see why
-– there can be few philosophers less in tune with the intellectual
-spirit of the early 21st century than our henri
+If
+conscious
+life
+had
+to
+be
+organic
+,
+this
+would
+rule
+out
+the
+possibility
+of
+conscious
+machines
+.
 
- still for that very
-reason his ideas on consciousness give a completely different
-perspective on the subject from that to which we re now accustomed
+
+Professor
+Igor
+Aleksander
+,
+(see
+interview)
+is
+an
+expert
+on
+artificial
+intelligence
+.
+
+
+He
+,
+at
+least
+,
+thinks
+that
+it
+is
+possible
+to
+build
+robots
+which
+are
+conscious
+of
+their
+surroundings
+in
+a
+sense
+broadly
+similar
+to
+the
+sense
+in
+which
+we
+say
+that
+humans
+are
+aware
+of
+their
+surroundings
+.
+
+
+He
+aims
+to
+prove
+this
+by
+actually
+building
+one
+,
+and
+has
+already
+made
+some
+progress
+in
+that
+direction
+.
 
 
 
-some people approach the problem by pointing out that consciousness is
-always consciousness of something
+There
+is
+a
+huge
+contrast
+between
+Igor
+Aleksander’s
+view
+and
+that
+of
+the
+French
+philosopher
+Henri
+Bergson
+(1859-1941)
+.
 
- i was conscious of the gathering
+
+Bergson
+was
+a
+towering
+figure
+in
+French
+philosophy
+in
+the
+early
+20th
+century
+–
+the
+Jacques
+Derrida
+of
+his
+day
+.
+
+
+However
+,
+he
+has
+gone
+into
+a
+profound
+eclipse
+.
+
+
+Reading
+John-Francis
+Phipps’
+article
+about
+him
+,
+it
+isn’t
+hard
+to
+see
+why
+–
+there
+can
+be
+few
+philosophers
+less
+in
+tune
+with
+the
+intellectual
+spirit
+of
+the
+early
+21st
+century
+than
+our
+Henri
+.
+
+
+Still
+,
+for
+that
+very
+reason
+his
+ideas
+on
+consciousness
+give
+a
+completely
+different
+perspective
+on
+the
+subject
+from
+that
+to
+which
+we’re
+now
+accustomed
+.
+
+
+
+Some
+people
+approach
+the
+problem
+by
+pointing
+out
+that
+consciousness
+is
+always
+consciousness
+of
+something
+.
+
+
+I
+was
+conscious
+of
+the
+gathering
 clouds
-
- you were conscious of the rain falling on your face
-
- so they
-say consciousness is always directed towards something
-
- it has
- aboutness or in philojargon intentionality
-
- this isn t the only way
-we talk about consciousness in everyday speech however
-
- as jeanne
-warren points out in her article on john macmurray we also use it to
-mean the opposite of unconsciousness – of being asleep or in a coma
+.
 
 
-there isn t necessarily any huge divergence of meaning here as when we
-say “has fred regained consciousness
-
-” we might be asking whether he has
-become aware again of all the various things and people around him
-
-
-
-though the theme of this issue is consciousness a second unanticipated
-theme seems to have crept in as well
-
- with articles on henri bergson
-john macmurray and john herschel we have pieces on three thinkers who
-are regarded by some as being unjustly neglected
-
- bergson and herschel
-were acclaimed as giants in their own day
-
- macmurray wasn t but has
-gradually gathered admirers in the years since his demise
+You
+were
+conscious
+of
+the
+rain
+falling
+on
+your
+face
+.
 
 
-
-from one of the most conceptually difficult problems of philosophy we
-turn to one of the most practically worrying ethical issue of today
-
- the
-headlines have been filled recently by the misdeeds of soldiers
-stationed in iraq – the torture of prisoners the deaths of civilians
-
-
-in the first article in this issue philosophy graduate douglas
-gearhart who served as a psyops psychological operations specialist
-in iraq appeals to philosophers to develop practical moral guidance and
-moral training for soldiers in battlefield situations
-
- scholastic
-philosophers like thomas aquinas called this aspect of just war theory
-jus in bello
-
- if gearhart is right it should cease being seen as a
-quaint relic of medieval thought and instead become the urgent concern
-of ethicists everywhere
-
- in a way this is also about consciousness as
-the choices soldiers make in wars are conscious choices but ones made
-under enormous stress and without the steadying framework of everyday
-civilian life
-
- how can they recall more easily in such situations a
-conscious awareness of the dignity and fragility of human life
+So
+,
+they
+say
+,
+consciousness
+is
+always
+directed
+towards
+something
+.
 
 
-
-advertisement
-
-fba2
-
-article tools
-
-print print
-
-email discuss 0
-
-⬀ share
-
-email bluesky threads twitter reddit facebook
-
-issue 48
-
-more articles from this issue
-
-related articles
-
-what hard problem
+It
+has
+‘aboutness’
+or
+in
+philo-jargon
+,
+intentionality
+.
 
 
+This
+isn’t
+the
+only
+way
+we
+talk
+about
+consciousness
+in
+everyday
+speech
+,
+however
+.
 
-michael graziano
 
-what did mary know
+As
+Jeanne
+Warren
+points
+out
+in
+her
+article
+on
+John
+Macmurray
+,
+we
+also
+use
+it
+to
+mean
+the
+opposite
+of
+unconsciousness
+–
+of
+being
+asleep
+,
+or
+in
+a
+coma
+.
+
+
+There
+isn’t
+necessarily
+any
+huge
+divergence
+of
+meaning
+here
+,
+as
+when
+we
+say
+“Has
+Fred
+regained
+consciousness
+?
+
+”
+we
+might
+be
+asking
+whether
+he
+has
+become
+aware
+again
+of
+all
+the
+various
+things
+and
+people
+around
+him
+.
 
 
 
-igor aleksander
+Though
+the
+theme
+of
+this
+issue
+is
+consciousness
+,
+a
+second
+,
+unanticipated
+theme
+seems
+to
+have
+crept
+in
+as
+well
+.
 
-consciousness creeping up on the hard problem by jeffrey gray
 
-reflections on epilepsy
+With
+articles
+on
+Henri
+Bergson
+,
+John
+Macmurray
+and
+John
+Herschel
+,
+we
+have
+pieces
+on
+three
+thinkers
+who
+are
+regarded
+by
+some
+as
+being
+unjustly
+neglected
+.
 
-minds machines
 
-i am dan s brain
+Bergson
+and
+Herschel
+were
+acclaimed
+as
+giants
+in
+their
+own
+day
+.
 
-from birds to brains
 
-a ridiculously brief overview of consciousness
+Macmurray
+wasn’t
+,
+but
+has
+gradually
+gathered
+admirers
+in
+the
+years
+since
+his
+demise
+.
 
-tags
+
+
+From
+one
+of
+the
+most
+conceptually
+difficult
+problems
+of
+philosophy
+,
+we
+turn
+to
+one
+of
+the
+most
+practically
+worrying
+ethical
+issue
+of
+today
+.
+
+
+The
+headlines
+have
+been
+filled
+recently
+by
+the
+misdeeds
+of
+soldiers
+stationed
+in
+Iraq
+–
+the
+torture
+of
+prisoners
+,
+the
+deaths
+of
+civilians
+.
+
+
+In
+the
+first
+article
+in
+this
+issue
+,
+philosophy
+graduate
+Douglas
+Gearhart
+,
+who
+served
+as
+a
+PSYOPS
+(psychological
+operations)
+specialist
+in
+Iraq
+,
+appeals
+to
+philosophers
+to
+develop
+practical
+moral
+guidance
+and
+moral
+training
+for
+soldiers
+in
+battlefield
+situations
+.
+
+
+Scholastic
+philosophers
+like
+Thomas
+Aquinas
+,
+called
+this
+aspect
+of
+just
+war
+theory
+jus
+in
+bello
+.
+
+
+If
+Gearhart
+is
+right
+,
+it
+should
+cease
+being
+seen
+as
+a
+quaint
+relic
+of
+medieval
+thought
+and
+instead
+become
+the
+urgent
+concern
+of
+ethicists
+everywhere
+.
+
+
+In
+a
+way
+this
+is
+also
+about
+consciousness
+,
+as
+the
+choices
+soldiers
+make
+in
+wars
+are
+conscious
+choices
+,
+but
+ones
+made
+under
+enormous
+stress
+and
+without
+the
+steadying
+framework
+of
+everyday
+civilian
+life
+.
+
+
+How
+can
+they
+recall
+more
+easily
+in
+such
+situations
+a
+conscious
+awareness
+of
+the
+dignity
+and
+fragility
+of
+human
+life
+?
+
+
+
+Advertisement
+
+[fba_2]
+
+Article
+tools
+
+[Print]
+Print
+
+[Email]
+Discuss
+(0)
+
+⬀
+Share
+
+[Email]
+[Bluesky]
+[Threads]
+[Twitter]
+[Reddit]
+[Facebook]
+
+[Issue
+48]
+
+More
+articles
+from
+this
+issue
+
+Related
+articles
+
+What
+Hard
+Problem
+?
+
+
+
+Michael
+Graziano
+
+What
+Did
+Mary
+Know
+?
+
+
+
+Igor
+Aleksander
+
+Consciousness
+:
+Creeping
+Up
+on
+the
+Hard
+Problem
+by
+Jeffrey
+Gray
+
+Reflections
+On
+Epilepsy
+
+Minds
+&
+Machines
+
+I
+Am
+Dan’s
+Brain
+
+From
+Birds
+To
+Brains
+
+A
+Ridiculously
+Brief
+Overview
+of
+Consciousness
+
+Tags
 
 consciousness
 
-philosophy of mind
+philosophy
+of
+mind
 
-advertisement
+Advertisement
 
-vra1
+[vra_1]
 
-advertisement
+Advertisement
 
-vra2
+[vra_2]
 
-about contact for authors terms conditions
+ABOUT
+CONTACT
+FOR
+AUTHORS
+TERMS
+&
+CONDITIONS
 
-© philosophy now 2025
+©
+Philosophy
+Now
+2025
+.
 
- all rights reserved
+
+All
+rights
+reserved
+.
 
 
 
-this site uses cookies to recognize users and allow us to analyse site
+This
+site
+uses
+cookies
+to
+recognize
+users
+and
+allow
+us
+to
+analyse
+site
 usage
+.
 
- by continuing to browse the site with cookies enabled in your
-browser you consent to the use of cookies in accordance with our
-privacy policy
 
- x
+By
+continuing
+to
+browse
+the
+site
+with
+cookies
+enabled
+in
+your
+browser
+,
+you
+consent
+to
+the
+use
+of
+cookies
+in
+accordance
+with
+our
+privacy
+policy
+.
+
+
+X

@@ -1,365 +1,1340 @@
-menu
+Menu
 
-institutional login
+Institutional
+Login
 
- institutional login
+-
+Institutional
+Login
 
 search
 
 reset
 
-search
+Search
 
-advanced search
+Advanced
+Search
 
- home
- about
- about rep
- reviews
- a message from the consulting editor
- background
- editorial board
- current subject editors
- past subject editors
- contributors
- about taylor and francis
- faqs
- browse
- all
- overviews
- topics
- periods
- regions
- religions
- what s new
- librarians
- free trial
- help
- tell us what you think
- resources
- teaching and learning resources
+-
+Home
+-
+About
 
-back to top
+-
+About
+REP
+
+-
+Reviews
+
+-
+A
+Message
+from
+the
+Consulting
+Editor
+
+-
+Background
+
+-
+Editorial
+Board
+
+-
+Current
+Subject
+Editors
+
+-
+Past
+Subject
+Editors
+
+-
+Contributors
+
+-
+About
+Taylor
+and
+Francis
+
+-
+FAQs
+-
+Browse
+
+-
+All
+
+-
+Overviews
+
+-
+Topics
+
+-
+Periods
+
+-
+Regions
+
+-
+Religions
+-
+What
+'
+s
+new
+-
+Librarians
+-
+Free
+trial
+-
+Help
+-
+Tell
+us
+what
+you
+think
+-
+Resources
+-
+Teaching
+and
+Learning
+Resources
+
+Back
+to
+top
+
+[]
+
+Access
+to
+the
+full
+content
+is
+only
+available
+to
+members
+of
+institutions
+that
+have
+purchased
+access
+.
+
+
+If
+you
+belong
+to
+such
+an
+institution
+,
+please
+log
+in
+or
+find
+out
+more
+about
+how
+to
+order
+.
 
 
 
-access to the full content is only available to members of institutions
-that have purchased access
+------------------------------------------------------------------------
 
- if you belong to such an institution please
-log in or find out more about how to order
+Share
 
+Cite
 
-
-
-
-share
-
-cite
-
-cite
+Cite
 
 close
 
-loading content
+Loading
+content
 
-we were unable to load the content
+We
+were
+unable
+to
+load
+the
+content
 
-print
+Print
 
-contents
+Contents
 
- article summary
+-
+Article
+Summary
 
- content locked
+-
+content
+locked
 
- 1
 
- precartesian uses of consciousness 
+1
 
- content locked
 
- 2
+Pre-Cartesian
+uses
+of
+‘consciousness’
 
- postcartesian uses of consciousness 
+-
+content
+locked
 
- content locked
 
- 3
+2
 
- subjectivity and the phenomenal
 
- content locked
+Post-Cartesian
+uses
+of
+‘consciousness’
 
- 4
+-
+content
+locked
 
- dualism and the phenomenal
 
- content locked
+3
 
- 5
 
- eliminativism and the phenomenal
+Subjectivity
+and
+the
+phenomenal
 
- content locked
+-
+content
+locked
 
- 6
 
- introspection and the phenomenal
+4
 
- content locked
 
- 7
+Dualism
+and
+the
+phenomenal
 
- completeness of introspection
+-
+content
+locked
 
- content locked
 
- 8
+5
 
- reliability of introspection
 
- content locked
+Eliminativism
+and
+the
+phenomenal
 
- 9
+-
+content
+locked
 
- introspection as inner perception
 
- content locked
+6
 
- 10
 
- alternatives to inner perception
+Introspection
+and
+the
+phenomenal
 
- content locked
+-
+content
+locked
 
- bibliography
 
-thematic
+7
 
-consciousness
 
- by
- lormand eric
+Completeness
+of
+introspection
 
-doi
+-
+content
+locked
+
+
+8
+
+
+Reliability
+of
+introspection
+
+-
+content
+locked
+
+
+9
+
+
+Introspection
+as
+inner
+perception
+
+-
+content
+locked
+
 
 10
 
-43249780415249126w0111
 
-doi 10
+Alternatives
+to
+inner
+perception
 
-43249780415249126w0111
-version v1  published online 1998
-retrieved january 10 2025 from
-httpswww
+-
+content
+locked
+
+
+Bibliography
+
+Thematic
+
+Consciousness
+
+-
+By
+-
+Lormand
+,
+Eric
+
+DOI
+
+10
+.
+
+4324/9780415249126-W011-1
+
+DOI
+:
+10
+.
+
+4324/9780415249126-W011-1
+Version
+:
+v1
+,  Published
+online
+:
+1998
+Retrieved
+January
+10
+,
+2025
+,
+from
+https
+://www
+.
 
 rep
+.
 
 routledge
+.
 
-comarticlesthematicconsciousnessv1
+com/articles/thematic/consciousness/v-1
 
+------------------------------------------------------------------------
 
+Article
+Summary
 
-article summary
-
-philosophers have used the term consciousness for four main topics
-knowledge in general intentionality introspection and the knowledge
-it specifically generates and phenomenal experience
-
- this entry
-discusses the last two uses
-
- something within one s mind is
- introspectively conscious just in case one introspects it or is
-poised to do so
-
- introspection is often thought to deliver one s
-primary knowledge of one s mental life
-
- an experience or other mental
-entity is phenomenally conscious just in case there is something it
-is like for one to have it
-
- the clearest examples are perceptual
-experiences such as tastings and seeings bodilysensational
-experiences such as those of pains tickles and itches imaginative
-experiences such as those of one s own actions or perceptions and
-streams of thought as in the experience of thinking in words or in
-images 
-
- introspection and phenomenality seem independent or
-dissociable although this is controversial
-
-
-
-phenomenally conscious experiences have been argued to be nonphysical
-or at least inexplicable in the manner of other physical entities
+Philosophers
+have
+used
+the
+term
+‘consciousness’
+for
+four
+main
+topics
+:
+knowledge
+in
+general
+,
+intentionality
+,
+introspection
+(and
+the
+knowledge
+it
+specifically
+generates)
+and
+phenomenal
+experience
+.
 
 
-several such arguments allege that phenomenal experience is
- subjective that understanding some experiences requires undergoing
-them or their components
-
- the claim is that any objective physical
-science would leave an explanatory gap failing to describe what it is
-like to have a particular experience and failing to explain why there
-are phenomenal experiences at all
-
- from this some philosophers infer
- dualism rather than physicalism about consciousness concluding that
-some facts about consciousness are not wholly constituted by physical
-facts
-
- this dualist conclusion threatens claims that phenomenal
-consciousness has causal power and that it is knowable in others and in
-oneself
+This
+entry
+discusses
+the
+last
+two
+uses
+.
 
 
-
-in reaction surprisingly much can be said in favour of eliminativism 
-about phenomenal consciousness the denial of any realm of phenomenal
-objects and properties of experience
-
- most but not all philosophers
-deny that there are phenomenal objects – mental images with colour and
-shape painobjects that throb or burn inner speech with pitch and
-rhythm and so on
-
- instead experiences may simply seem to involve such
-objects
-
- the central disagreement concerns whether these experiences
-have phenomenal properties – qualia particular aspects of what
-experiences are like for their bearers
-
- some philosophers deny that
-there are phenomenal properties – especially if these are thought to be
-intrinsic completely and immediately introspectible ineffable
-subjective or otherwise potentially difficult to explain on physicalist
-theories
-
- more commonly philosophers acknowledge qualia of experiences
-either articulating less bold conceptions of qualia or defending
-dualism about boldly conceived qualia
+Something
+within
+one’s
+mind
+is
+‘introspectively
+conscious’
+just
+in
+case
+one
+introspects
+it
+(or
+is
+poised
+to
+do
+so)
+.
 
 
+Introspection
+is
+often
+thought
+to
+deliver
+one’s
+primary
+knowledge
+of
+one’s
+mental
+life
+.
 
-introspective consciousness has seemed less puzzling than phenomenal
+
+An
+experience
+or
+other
+mental
+entity
+is
+‘phenomenally
+conscious’
+just
+in
+case
+there
+is
+‘something
+it
+is
+like’
+for
+one
+to
+have
+it
+.
+
+
+The
+clearest
+examples
+are
+:
+perceptual
+experiences
+,
+such
+as
+tastings
+and
+seeings
+;
+bodily-sensational
+experiences
+,
+such
+as
+those
+of
+pains
+,
+tickles
+and
+itches
+;
+imaginative
+experiences
+,
+such
+as
+those
+of
+one’s
+own
+actions
+or
+perceptions
+;
+and
+streams
+of
+thought
+,
+as
+in
+the
+experience
+of
+thinking
+‘in
+words’
+or
+‘in
+images’
+.
+
+
+Introspection
+and
+phenomenality
+seem
+independent
+,
+or
+dissociable
+,
+although
+this
+is
+controversial
+.
+
+
+
+Phenomenally
+conscious
+experiences
+have
+been
+argued
+to
+be
+nonphysical
+,
+or
+at
+least
+inexplicable
+in
+the
+manner
+of
+other
+physical
+entities
+.
+
+
+Several
+such
+arguments
+allege
+that
+phenomenal
+experience
+is
+‘subjective’
+;
+that
+understanding
+some
+experiences
+requires
+undergoing
+them
+(or
+their
+components)
+.
+
+
+The
+claim
+is
+that
+any
+objective
+physical
+science
+would
+leave
+an
+‘explanatory
+gap’
+,
+failing
+to
+describe
+what
+it
+is
+like
+to
+have
+a
+particular
+experience
+and
+failing
+to
+explain
+why
+there
+are
+phenomenal
+experiences
+at
+all
+.
+
+
+From
+this
+,
+some
+philosophers
+infer
+‘dualism’
+rather
+than
+‘physicalism’
+about
 consciousness
+,
+concluding
+that
+some
+facts
+about
+consciousness
+are
+not
+wholly
+constituted
+by
+physical
+facts
+.
 
- most thinkers agree that introspection is far from
-complete about the mind and far from infallible
 
- perhaps the most
-familiar account of introspection is that in addition to outwardly
-perceiving nonmental entities in one s environment and body one
- inwardly perceives one s mental entities as when one seems to see
-visual images with one s mind s eye 
+This
+dualist
+conclusion
+threatens
+claims
+that
+phenomenal
+consciousness
+has
+causal
+power
+,
+and
+that
+it
+is
+knowable
+in
+others
+and
+in
+oneself
+.
 
- this view faces several serious
+
+
+In
+reaction
+,
+surprisingly
+much
+can
+be
+said
+in
+favour
+of
+‘eliminativism’
+about
+phenomenal
+consciousness
+;
+the
+denial
+of
+any
+realm
+of
+phenomenal
+objects
+and
+properties
+of
+experience
+.
+
+
+Most
+(but
+not
+all)
+philosophers
+deny
+that
+there
+are
+phenomenal
+objects
+–
+mental
+images
+with
+colour
+and
+shape
+,
+pain-objects
+that
+throb
+or
+burn
+,
+inner
+speech
+with
+pitch
+and
+rhythm
+,
+and
+so
+on
+.
+
+
+Instead
+,
+experiences
+may
+simply
+seem
+to
+involve
+such
+objects
+.
+
+
+The
+central
+disagreement
+concerns
+whether
+these
+experiences
+have
+phenomenal
+properties
+–
+‘qualia’
+;
+particular
+aspects
+of
+what
+experiences
+are
+like
+for
+their
+bearers
+.
+
+
+Some
+philosophers
+deny
+that
+there
+are
+phenomenal
+properties
+–
+especially
+if
+these
+are
+thought
+to
+be
+intrinsic
+,
+completely
+and
+immediately
+introspectible
+,
+ineffable
+,
+subjective
+or
+otherwise
+potentially
+difficult
+to
+explain
+on
+physicalist
+theories
+.
+
+
+More
+commonly
+,
+philosophers
+acknowledge
+qualia
+of
+experiences
+,
+either
+articulating
+less
+bold
+conceptions
+of
+qualia
+,
+or
+defending
+dualism
+about
+boldly
+conceived
+qualia
+.
+
+
+
+Introspective
+consciousness
+has
+seemed
+less
+puzzling
+than
+phenomenal
+consciousness
+.
+
+
+Most
+thinkers
+agree
+that
+introspection
+is
+far
+from
+complete
+about
+the
+mind
+and
+far
+from
+infallible
+.
+
+
+Perhaps
+the
+most
+familiar
+account
+of
+introspection
+is
+that
+,
+in
+addition
+to
+‘outwardly
+perceiving’
+non-mental
+entities
+in
+one’s
+environment
+and
+body
+,
+one
+‘inwardly
+perceives’
+one’s
+mental
+entities
+,
+as
+when
+one
+seems
+to
+see
+visual
+images
+with
+one’s
+‘mind’s
+eye’
+.
+
+
+This
+view
+faces
+several
+serious
 objections
+.
 
- rival views of introspective consciousness fall into three
-categories according to whether they treat introspective access 1 as
-epistemically looser or less direct than inner perception 2 as
-tighter or more direct or 3 as fundamentally nonepistemic or
+
+Rival
+views
+of
+introspective
+consciousness
+fall
+into
+three
+categories
+,
+according
+to
+whether
+they
+treat
+introspective
+access
+(1)
+as
+epistemically
+looser
+or
+less
+direct
+than
+inner
+perception
+,
+(2)
+as
+tighter
+or
+more
+direct
+,
+or
+(3)
+as
+fundamentally
+non-epistemic
+or
 nonrepresentational
+.
 
- theories in category 1 explain introspection as
-always retrospective or as typically based on selfdirected theoretical
+
+Theories
+in
+category
+(1)
+explain
+introspection
+as
+always
+retrospective
+,
+or
+as
+typically
+based
+on
+self-directed
+theoretical
 inferences
-
- rivals from category 2 maintain that an introspectively
-conscious mental state reflexively represents itself or treat
-introspection as involving no mechanism of access at all
-
- category 3
-theories treat a mental state as introspectively conscious if it is
-distinctively available for linguistic or rational processing even if
-it is not itself perceived or otherwise thought about
+.
 
 
+Rivals
+from
+category
+(2)
+maintain
+that
+an
+introspectively
+conscious
+mental
+state
+reflexively
+represents
+itself
+,
+or
+treat
+introspection
+as
+involving
+no
+mechanism
+of
+access
+at
+all
+.
 
-share
 
-cite
+Category
+(3)
+theories
+treat
+a
+mental
+state
+as
+introspectively
+conscious
+if
+it
+is
+distinctively
+available
+for
+linguistic
+or
+rational
+processing
+,
+even
+if
+it
+is
+not
+itself
+perceived
+or
+otherwise
+thought
+about
+.
 
-cite
+
+
+Share
+
+Cite
+
+Cite
 
 close
 
-loading content
+Loading
+content
 
-we were unable to load the content
+We
+were
+unable
+to
+load
+the
+content
 
-print
+Print
 
-citing this article
-lormand eric
+Citing
+this
+article
+:
+Lormand
+,
+Eric
+.
 
- consciousness 1998 doi10
 
-43249780415249126w0111
+Consciousness
+,
+1998
+,
+doi
+:10
+.
+
+4324/9780415249126-W011-1
+.
 
 
-routledge encyclopedia of philosophy taylor and francis
-httpswww
+Routledge
+Encyclopedia
+of
+Philosophy
+,
+Taylor
+and
+Francis
+,
+https
+://www
+.
 
 rep
+.
 
 routledge
+.
 
-comarticlesthematicconsciousnessv1
-
-
-copyright © 19982025 routledge
-
+com/articles/thematic/consciousness/v-1
+.
 
 
-related articles
-
- awareness in indian thought by phillips stephen h
-
-
- colour and qualia by levine joseph
- consciousness phenomenology of by jacobs hanne
- dualism by rosenthal david m
-
-
- materialism in the philosophy of mind by robinson howard
- mind indian philosophy of by laine joy
- nirvāṇa by cousins l
-
-s
-
-
- phenomenological movement by embree lester
- qualia by levin janet
- reductionism in the philosophy of mind by sterelny kim
- split brains by schechter elizabeth
- turing alan mathison 1912–54 by moor james h
-
-
- supervenience of the mental by loewer barry
+Copyright
+©
+1998-2025
+Routledge
+.
 
 
 
- facebook
- twitter
+Related
+Articles
 
- about routledge
- contact us
- how to buy
- librarians
+-
+Awareness
+in
+Indian
+thought
+By
+Phillips
+,
+Stephen
+H
+.
 
- help
- privacy policy
- cookie policy
- terms
 
-© 2025 informa uk limited an informa group company
+-
+Colour
+and
+qualia
+By
+Levine
+,
+Joseph
+-
+Consciousness
+,
+phenomenology
+of
+By
+Jacobs
+,
+Hanne
+-
+Dualism
+By
+Rosenthal
+,
+David
+M
+.
 
-site title
+
+-
+Materialism
+in
+the
+philosophy
+of
+mind
+By
+Robinson
+,
+Howard
+-
+Mind
+,
+Indian
+philosophy
+of
+By
+Laine
+,
+Joy
+-
+Nirvāṇa
+By
+Cousins
+,
+L
+.
+
+S
+.
+
+
+-
+Phenomenological
+movement
+By
+Embree
+,
+Lester
+-
+Qualia
+By
+Levin
+,
+Janet
+-
+Reductionism
+in
+the
+philosophy
+of
+mind
+By
+Sterelny
+,
+Kim
+-
+Split
+brains
+By
+Schechter
+,
+Elizabeth
+-
+Turing
+,
+Alan
+Mathison
+(1912–54)
+By
+Moor
+,
+James
+H
+.
+
+
+-
+Supervenience
+of
+the
+mental
+By
+Loewer
+,
+Barry
+
+------------------------------------------------------------------------
+
+-
+facebook
+-
+twitter
+
+-
+About
+Routledge
+-
+Contact
+us
+-
+How
+to
+Buy
+-
+Librarians
+
+-
+Help
+-
+Privacy
+Policy
+-
+Cookie
+Policy
+-
+Terms
+
+©
+2025
+Informa
+UK
+Limited
+,
+an
+Informa
+Group
+Company
+
+Site
+Title

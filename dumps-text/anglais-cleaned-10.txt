@@ -1,539 +1,2459 @@
-x closemain menu
+[X]
+CLOSEMAIN
+MENU
 
- home
- about
- our mission
- board members
- our team
- contact us
- annual report giving
- programs
- agricultural justice
- bee protective pollinators and pesticides
- bed bugs
- biodiversity
- center for community pesticide and alternatives information
- children and schools
- fund for independent science
- hawai i
- invasive weed management
- national pesticide forum
- organic agriculture
- rodenticides
- wildlife
- wood preservatives
- resources
- beyond pesticides resources
- parks for a sustainable future
- nontoxic lawns and landscapes
- 40 common garden pesticides
- managesafe™
- golf pesticides and organic practices
- safer mosquito management
- safety source on pest management providers
- be aware contaminated waters
- eating with a conscience
- pesticideinduced diseases database
- breast cancer prevention
- disproportionate risks
- gateway on pesticide hazards and safe pest management
- herbicide analysis
- safer sanitizers and disinfectants
- pets and pesticides
- the safer choice
- healthy healthcare
- art page
- pesticide emergencies
- u
+-
+Home
+-
+About
 
-s
+-
+Our
+Mission
 
- pesticide reform policies
- state regulations
- pesticides and you
- news press
- spring into action
- statements
- pesticide emergencies
- what to do
- epa contacts
- state agency contacts
- find a lab
- fill out an incident report
- find an attorney
- daily news blog
- give
- join
- become a member
+-
+Board
+Members
 
+-
+Our
+Team
 
- action alerts signup
- please help sustain our critical work in 2024—give today
+-
+Contact
+Us
 
+-
+Annual
+Report
+&
+Giving
+-
+Programs
 
- gift memberships
- shop
- take action
+-
+Agricultural
+Justice
 
- home
- about
- our mission
- board members
- our team
- contact us
- annual report giving
- programs
- agricultural justice
- bee protective pollinators and pesticides
- bed bugs
- biodiversity
- center for community pesticide and alternatives information
- children and schools
- fund for independent science
- hawai i
- invasive weed management
- national pesticide forum
- organic agriculture
- rodenticides
- wildlife
- wood preservatives
- resources
- beyond pesticides resources
- parks for a sustainable future
- nontoxic lawns and landscapes
- 40 common garden pesticides
- managesafe™
- golf pesticides and organic practices
- safer mosquito management
- safety source on pest management providers
- be aware contaminated waters
- eating with a conscience
- pesticideinduced diseases database
- breast cancer prevention
- disproportionate risks
- gateway on pesticide hazards and safe pest management
- herbicide analysis
- safer sanitizers and disinfectants
- pets and pesticides
- the safer choice
- healthy healthcare
- art page
- pesticide emergencies
- u
+-
+BEE
+Protective
+:
+Pollinators
+and
+Pesticides
 
-s
+-
+Bed
+Bugs
 
- pesticide reform policies
- state regulations
- pesticides and you
- news press
- spring into action
- statements
- pesticide emergencies
- what to do
- epa contacts
- state agency contacts
- find a lab
- fill out an incident report
- find an attorney
- daily news blog
- give
- join
- become a member
+-
+Biodiversity
 
+-
+Center
+for
+Community
+Pesticide
+and
+Alternatives
+Information
 
- action alerts signup
- please help sustain our critical work in 2025—give today
+-
+Children
+and
+Schools
 
+-
+Fund
+for
+Independent
+Science
 
- gift memberships
- shop
- take action
+-
+Hawai‘i
 
-x closein this section
+-
+Invasive
+Weed
+Management
 
- beyond pesticides resources
- parks for a sustainable future
- nontoxic lawns and landscapes
- 40 common garden pesticides
- managesafe™
- golf pesticides and organic practices
- safer mosquito management
- safety source on pest management providers
- be aware contaminated waters
- eating with a conscience
- overview
- choose a crop
- farmworkers
- methodology
- pesticideinduced diseases database
- breast cancer prevention
- disproportionate risks
- gateway on pesticide hazards and safe pest management
- herbicide analysis
- safer sanitizers and disinfectants
- pets and pesticides
- the safer choice
- healthy healthcare
- art page
- pesticide emergencies
- u
+-
+National
+Pesticide
+Forum
 
-s
+-
+Organic
+Agriculture
 
- pesticide reform policies
- state regulations
- pesticides and you
- news press
- spring into action
- statements
+-
+Rodenticides
 
+-
+Wildlife
 
+-
+Wood
+Preservatives
+-
+Resources
 
- home
- about
- our mission
- board members
- our team
- contact us
- annual report giving
- programs
- agricultural justice
- bee protective pollinators and pesticides
- bee protective
- bee protective ambassadors
- pollination
- seeds that poison
- pollinator week
- resources and educational materials
- what can you do
+-
+Beyond
+Pesticides
+Resources
 
+-
+Parks
+for
+a
+Sustainable
+Future
 
- chemicals implicated
- regulatory action
- press releases and media
- what the science shows on biodiversity
- pollinator curriculum
- bed bugs
- biodiversity
- center for community pesticide and alternatives information
- have a pest problem
+-
+Non-Toxic
+Lawns
+and
+Landscapes
 
+-
+40
+Common
+Garden
+Pesticides
 
- pesticidefree holidays
- children and schools
- overview
- hazards of pesticides
- alternatives at schools
- model policies for state and local action
- publications and reports
- fund for independent science
- hawai i
- invasive weed management
- overview
- resources
- national pesticide forum
- 2024 national forum series
- past conferences
- forum videos
- organic agriculture
- overview
- why organic
+-
+ManageSafe™
+
+-
+Golf
+,
+Pesticides
+,
+and
+Organic
+Practices
+
+-
+Safer
+Mosquito
+Management
+
+-
+Safety
+Source
+on
+Pest
+Management
+Providers
+
+-
+Be
+Aware
+:
+Contaminated
+Waters
+
+-
+Eating
+with
+a
+Conscience
+
+-
+Pesticide-Induced
+Diseases
+Database
+
+-
+Breast
+Cancer
+Prevention
+
+-
+Disproportionate
+Risks
+
+-
+Gateway
+on
+Pesticide
+Hazards
+and
+Safe
+Pest
+Management
+
+-
+Herbicide
+Analysis
+
+-
+Safer
+Sanitizers
+and
+Disinfectants
+
+-
+Pets
+and
+Pesticides
+
+-
+The
+Safer
+Choice
+
+-
+Healthy
+Healthcare
+
+-
+Art
+Page
+
+-
+Pesticide
+Emergencies
+
+-
+U
+.
+
+S
+.
 
 
- save our organic
- eating with a conscience
- keeping organic strong
- buying organic products
- growing your own organic food
- celebrate organic
- alerts
- resources
- pandemic resources for farmers
- rodenticides
- companies that care
- organizational signons
- wildlife
- birds
- amphibiansreptiles
- fish and other aquatics
- mammals
- pollinators
- nontarget insects and beneficial species
- soil biota
- wood preservatives
- resources
- publications
- lawsuit
- resources
- beyond pesticides resources
- parks for a sustainable future
- overview
- become a parks advocate
- municipal officials
- faqs
- nontoxic lawns and landscapes
- overview
- in your community
- tools for change
- 40 common garden pesticides
- managesafe™
- overview
- choose a pest
- golf pesticides and organic practices
- overview
- environmental principles
- green your local course
- resources
- safer mosquito management
- overview
- tools for change
- resources
- safety source on pest management providers
- find a service provider
- talking to service providers
- what is integrated pest management
+Pesticide
+Reform
+Policies
+
+-
+State
+Regulations
+
+-
+Pesticides
+and
+You
+
+-
+News
+&
+Press
+
+-
+Spring
+Into
+Action
+
+-
+Statements
+-
+Pesticide
+Emergencies
+
+-
+What
+to
+Do
+
+-
+EPA
+Contacts
+
+-
+State
+Agency
+Contacts
+
+-
+Find
+a
+Lab
+
+-
+Fill
+Out
+an
+Incident
+Report
+
+-
+Find
+an
+Attorney
+-
+Daily
+News
+Blog
+-
+Give
+-
+Join
+
+-
+Become
+a
+Member
+!
 
 
- pest management providers register today
+
+-
+Action
+Alerts
+Sign-up
+
+-
+Please
+Help
+Sustain
+Our
+Critical
+Work
+in
+2024—Give
+Today
+!
 
 
- be aware contaminated waters
- overview
- regulatory issues
- research
- eating with a conscience
- overview
- choose a crop
- farmworkers
- methodology
- pesticideinduced diseases database
- overview
- search the database
- asthma and respiratory effects
- birth defects
- body burden
- brain and nervous system disorders
- cancer
- diabetes
- endocrine disruption
- immune system disorders
- learningdevelopmental
- sexual and reproductive dysfunction
- be aware genetic engineering
- breast cancer prevention
- disproportionate risks
- gateway on pesticide hazards and safe pest management
- about the gateway
- what is a pesticide
+
+-
+Gift
+Memberships
+-
+Shop
+-
+Take
+Action
+
+-
+Home
+-
+About
+
+-
+Our
+Mission
+
+-
+Board
+Members
+
+-
+Our
+Team
+
+-
+Contact
+Us
+
+-
+Annual
+Report
+&
+Giving
+-
+Programs
+
+-
+Agricultural
+Justice
+
+-
+BEE
+Protective
+:
+Pollinators
+and
+Pesticides
+
+-
+Bed
+Bugs
+
+-
+Biodiversity
+
+-
+Center
+for
+Community
+Pesticide
+and
+Alternatives
+Information
+
+-
+Children
+and
+Schools
+
+-
+Fund
+for
+Independent
+Science
+
+-
+Hawai‘i
+
+-
+Invasive
+Weed
+Management
+
+-
+National
+Pesticide
+Forum
+
+-
+Organic
+Agriculture
+
+-
+Rodenticides
+
+-
+Wildlife
+
+-
+Wood
+Preservatives
+-
+Resources
+
+-
+Beyond
+Pesticides
+Resources
+
+-
+Parks
+for
+a
+Sustainable
+Future
+
+-
+Non-Toxic
+Lawns
+and
+Landscapes
+
+-
+40
+Common
+Garden
+Pesticides
+
+-
+ManageSafe™
+
+-
+Golf
+,
+Pesticides
+,
+and
+Organic
+Practices
+
+-
+Safer
+Mosquito
+Management
+
+-
+Safety
+Source
+on
+Pest
+Management
+Providers
+
+-
+Be
+Aware
+:
+Contaminated
+Waters
+
+-
+Eating
+with
+a
+Conscience
+
+-
+Pesticide-Induced
+Diseases
+Database
+
+-
+Breast
+Cancer
+Prevention
+
+-
+Disproportionate
+Risks
+
+-
+Gateway
+on
+Pesticide
+Hazards
+and
+Safe
+Pest
+Management
+
+-
+Herbicide
+Analysis
+
+-
+Safer
+Sanitizers
+and
+Disinfectants
+
+-
+Pets
+and
+Pesticides
+
+-
+The
+Safer
+Choice
+
+-
+Healthy
+Healthcare
+
+-
+Art
+Page
+
+-
+Pesticide
+Emergencies
+
+-
+U
+.
+
+S
+.
 
 
- herbicide analysis
- safer sanitizers and disinfectants
- triclosan
- nanosilver
- disinfectants and sanitizers
- pets and pesticides
- the safer choice
- healthy healthcare
- overview
- information for new parents
- resources
- art page
- drawings paintings and mixed media
- photography
- writing e
+Pesticide
+Reform
+Policies
+
+-
+State
+Regulations
+
+-
+Pesticides
+and
+You
+
+-
+News
+&
+Press
+
+-
+Spring
+Into
+Action
+
+-
+Statements
+-
+Pesticide
+Emergencies
+
+-
+What
+to
+Do
+
+-
+EPA
+Contacts
+
+-
+State
+Agency
+Contacts
+
+-
+Find
+a
+Lab
+
+-
+Fill
+Out
+an
+Incident
+Report
+
+-
+Find
+an
+Attorney
+-
+Daily
+News
+Blog
+-
+Give
+-
+Join
+
+-
+Become
+a
+Member
+!
+
+
+
+-
+Action
+Alerts
+Sign-up
+
+-
+Please
+Help
+Sustain
+Our
+Critical
+Work
+in
+2025—Give
+Today
+!
+
+
+
+-
+Gift
+Memberships
+-
+Shop
+-
+Take
+Action
+
+[X]
+CLOSEIN
+THIS
+SECTION
+
+-
+Beyond
+Pesticides
+Resources
+-
+Parks
+for
+a
+Sustainable
+Future
+-
+Non-Toxic
+Lawns
+and
+Landscapes
+-
+40
+Common
+Garden
+Pesticides
+-
+ManageSafe™
+-
+Golf
+,
+Pesticides
+,
+and
+Organic
+Practices
+-
+Safer
+Mosquito
+Management
+-
+Safety
+Source
+on
+Pest
+Management
+Providers
+-
+Be
+Aware
+:
+Contaminated
+Waters
+-
+Eating
+with
+a
+Conscience
+
+-
+Overview
+
+-
+Choose
+a
+Crop
+
+-
+Farmworkers
+
+-
+Methodology
+-
+Pesticide-Induced
+Diseases
+Database
+-
+Breast
+Cancer
+Prevention
+-
+Disproportionate
+Risks
+-
+Gateway
+on
+Pesticide
+Hazards
+and
+Safe
+Pest
+Management
+-
+Herbicide
+Analysis
+-
+Safer
+Sanitizers
+and
+Disinfectants
+-
+Pets
+and
+Pesticides
+-
+The
+Safer
+Choice
+-
+Healthy
+Healthcare
+-
+Art
+Page
+-
+Pesticide
+Emergencies
+-
+U
+.
+
+S
+.
+
+
+Pesticide
+Reform
+Policies
+-
+State
+Regulations
+-
+Pesticides
+and
+You
+-
+News
+&
+Press
+-
+Spring
+Into
+Action
+-
+Statements
+
+[]
+
+-
+Home
+-
+About
+
+-
+Our
+Mission
+
+-
+Board
+Members
+
+-
+Our
+Team
+
+-
+Contact
+Us
+
+-
+Annual
+Report
+&
+Giving
+-
+Programs
+
+-
+Agricultural
+Justice
+
+-
+BEE
+Protective
+:
+Pollinators
+and
+Pesticides
+
+-
+BEE
+Protective
+
+-
+BEE
+Protective
+Ambassadors
+
+-
+Polli-NATION
+
+-
+Seeds
+That
+Poison
+
+-
+Pollinator
+Week
+
+-
+Resources
+and
+Educational
+Materials
+
+-
+What
+Can
+You
+Do
+?
+
+
+
+-
+Chemicals
+Implicated
+
+-
+Regulatory
+Action
+
+-
+Press
+Releases
+and
+Media
+
+-
+What
+the
+Science
+Shows
+on
+Biodiversity
+
+-
+Pollinator
+Curriculum
+
+-
+Bed
+Bugs
+
+-
+Biodiversity
+
+-
+Center
+for
+Community
+Pesticide
+and
+Alternatives
+Information
+
+-
+Have
+a
+Pest
+Problem
+?
+
+
+
+-
+Pesticide-Free
+Holidays
+
+-
+Children
+and
+Schools
+
+-
+Overview
+
+-
+Hazards
+of
+Pesticides
+
+-
+Alternatives
+at
+Schools
+
+-
+Model
+Policies
+for
+State
+and
+Local
+Action
+
+-
+Publications
+and
+Reports
+
+-
+Fund
+for
+Independent
+Science
+
+-
+Hawai‘i
+
+-
+Invasive
+Weed
+Management
+
+-
+Overview
+
+-
+Resources
+
+-
+National
+Pesticide
+Forum
+
+-
+2024
+National
+Forum
+Series
+
+-
+Past
+Conferences
+
+-
+Forum
+Videos
+
+-
+Organic
+Agriculture
+
+-
+Overview
+
+-
+Why
+Organic
+?
+
+
+
+-
+Save
+Our
+Organic
+
+-
+Eating
+with
+a
+Conscience
+
+-
+Keeping
+Organic
+Strong
+
+-
+Buying
+Organic
+Products
+
+-
+Growing
+Your
+Own
+Organic
+Food
+
+-
+Celebrate
+Organic
+
+-
+Alerts
+
+-
+Resources
+
+-
+Pandemic
+Resources
+for
+Farmers
+
+-
+Rodenticides
+
+-
+Companies
+that
+Care
+
+-
+Organizational
+Sign-ons
+
+-
+Wildlife
+
+-
+Birds
+
+-
+Amphibians/Reptiles
+
+-
+Fish
+and
+Other
+Aquatics
+
+-
+Mammals
+
+-
+Pollinators
+
+-
+Non-Target
+Insects
+and
+Beneficial
+Species
+
+-
+Soil
+Biota
+
+-
+Wood
+Preservatives
+
+-
+Resources
+
+-
+Publications
+
+-
+Lawsuit
+-
+Resources
+
+-
+Beyond
+Pesticides
+Resources
+
+-
+Parks
+for
+a
+Sustainable
+Future
+
+-
+Overview
+
+-
+Become
+a
+Parks
+Advocate
+
+-
+Municipal
+Officials
+
+-
+FAQs
+
+-
+Non-Toxic
+Lawns
+and
+Landscapes
+
+-
+Overview
+
+-
+In
+Your
+Community
+
+-
+Tools
+for
+Change
+
+-
+40
+Common
+Garden
+Pesticides
+
+-
+ManageSafe™
+
+-
+Overview
+
+-
+Choose
+a
+Pest
+
+-
+Golf
+,
+Pesticides
+,
+and
+Organic
+Practices
+
+-
+Overview
+
+-
+Environmental
+Principles
+
+-
+Green
+Your
+Local
+Course
+
+-
+Resources
+
+-
+Safer
+Mosquito
+Management
+
+-
+Overview
+
+-
+Tools
+for
+Change
+
+-
+Resources
+
+-
+Safety
+Source
+on
+Pest
+Management
+Providers
+
+-
+Find
+a
+Service
+Provider
+
+-
+Talking
+to
+Service
+Providers
+
+-
+What
+Is
+Integrated
+Pest
+Management
+?
+
+
+
+-
+Pest
+Management
+Providers
+:
+Register
+Today
+!
+
+
+
+-
+Be
+Aware
+:
+Contaminated
+Waters
+
+-
+Overview
+
+-
+Regulatory
+Issues
+
+-
+Research
+
+-
+Eating
+with
+a
+Conscience
+
+-
+Overview
+
+-
+Choose
+a
+Crop
+
+-
+Farmworkers
+
+-
+Methodology
+
+-
+Pesticide-Induced
+Diseases
+Database
+
+-
+Overview
+
+-
+Search
+the
+Database
+
+-
+Asthma
+and
+Respiratory
+Effects
+
+-
+Birth
+Defects
+
+-
+Body
+Burden
+
+-
+Brain
+and
+Nervous
+System
+Disorders
+
+-
+Cancer
+
+-
+Diabetes
+
+-
+Endocrine
+Disruption
+
+-
+Immune
+System
+Disorders
+
+-
+Learning/Developmental
+
+-
+Sexual
+and
+Reproductive
+Dysfunction
+
+-
+Be
+Aware
+:
+Genetic
+Engineering
+
+-
+Breast
+Cancer
+Prevention
+
+-
+Disproportionate
+Risks
+
+-
+Gateway
+on
+Pesticide
+Hazards
+and
+Safe
+Pest
+Management
+
+-
+About
+the
+Gateway
+
+-
+What
+Is
+a
+Pesticide
+?
+
+
+
+-
+Herbicide
+Analysis
+
+-
+Safer
+Sanitizers
+and
+Disinfectants
+
+-
+Triclosan
+
+-
+Nanosilver
+
+-
+Disinfectants
+and
+Sanitizers
+
+-
+Pets
+and
+Pesticides
+
+-
+The
+Safer
+Choice
+
+-
+Healthy
+Healthcare
+
+-
+Overview
+
+-
+Information
+for
+New
+Parents
+
+-
+Resources
+
+-
+Art
+Page
+
+-
+Drawings
+,
+Paintings
+,
+and
+Mixed
+Media
+
+-
+Photography
+
+-
+Writing
+(e
+.
 
 g
+.
 
- poems music short stories
- pesticide emergencies
- u
 
+,
+Poems
+,
+Music
+,
+Short
+Stories)
+
+-
+Pesticide
+Emergencies
+
+-
+U
+.
+
+S
+.
+
+
+Pesticide
+Reform
+Policies
+
+-
+State
+Regulations
+
+-
+Pesticides
+and
+You
+
+-
+News
+&
+Press
+
+-
+Rodale
+Institute
+Honors
+2021
+Organic
+Pioneer
+Award
+Winners
+
+-
+EPA
+'
 s
+Pesticides
+Office
+Labeled
+as
+a
+Failure
 
- pesticide reform policies
- state regulations
- pesticides and you
- news press
- rodale institute honors 2021 organic pioneer award winners
- epa s pesticides office labeled as a failure
- beyond pesticides makes sciencebased case that it is
- imperative to phase out pesticides in a decade
- on earth day coalition calls on nyc parks department to set
- up demonstration sites
- the 2022 national forum series launches beyond pesticides 
- campaign to eliminate fossil fuelbased pesticide use within
- the next decade
- spring into action
- statements
- statement on war in ukraine
- statement beyond pesticides stands with black lives matter
- pesticide emergencies
- what to do
- epa contacts
- state agency contacts
- find a lab
- fill out an incident report
- find an attorney
- daily news blog
+-
+Beyond
+Pesticides
+Makes
+Science-based
+Case
+that
+It
+Is
 
- give
- join
- become a member
+Imperative
+to Phase
+Out
+Pesticides
+in
+a
+Decade
+
+-
+On
+Earth
+Day
+,
+Coalition
+Calls
+on
+NYC
+Parks
+Department
+to
+Set
+
+Up
+Demonstration
+Sites
+
+-
+The
+2022
+National
+Forum
+Series
+Launches
+Beyond
+Pesticides’
+
+Campaign
+to
+Eliminate
+Fossil
+Fuel-Based
+Pesticide
+Use
+Within
+
+the
+Next
+Decade
+
+-
+Spring
+Into
+Action
+
+-
+Statements
+
+-
+Statement
+:
+On
+War
+in
+Ukraine
+
+-
+Statement
+:
+Beyond
+Pesticides
+Stands
+with
+Black
+Lives
+Matter
+-
+Pesticide
+Emergencies
+
+-
+What
+to
+Do
+
+-
+EPA
+Contacts
+
+-
+State
+Agency
+Contacts
+
+-
+Find
+a
+Lab
+
+-
+Fill
+Out
+an
+Incident
+Report
+
+-
+Find
+an
+Attorney
+-
+Daily
+News
+Blog
+
+-
+Give
+-
+Join
+
+-
+Become
+a
+Member
+!
 
 
- action alerts signup
- please help sustain our critical work in 2024—give today
 
+-
+Action
+Alerts
+Sign-up
 
- gift memberships
- shop
- take action
-
-facebooktwitteryoutubeinstagramlinkedinrss
-
-beyond pesticides
-
-top
-
-photo
-
- resources
- eating with a conscience
- overview
-
-resources
-
- beyond pesticides resources
- parks for a sustainable future
- nontoxic lawns and landscapes
- 40 common garden pesticides
- managesafe™
- golf pesticides and organic practices
- safer mosquito management
- safety source on pest management providers
- be aware contaminated waters
- eating with a conscience
- overview
- choose a crop
- farmworkers
- methodology
- pesticideinduced diseases database
- breast cancer prevention
- disproportionate risks
- gateway on pesticide hazards and safe pest management
- herbicide analysis
- safer sanitizers and disinfectants
- pets and pesticides
- the safer choice
- healthy healthcare
- art page
- pesticide emergencies
- u
-
-s
-
- pesticide reform policies
- state regulations
- pesticides and you
- news press
- spring into action
- statements
-
-eating with a conscience
-
-choose a cropchoosing organic food to protect health and the environment
-
-our food choices have a direct effect on the health of our environment
-and those who grow and harvest what we eat
-
-  that s why food labeled
-organic is the right choice
-
- in addition to serious health questions
-linked to actual residues of toxic pesticides on the food we eat our
-food buying decisions support or reject hazardous agricultural
-practices protection of farmworkers and farm families and stewardship
-of the earth
+-
+Please
+Help
+Sustain
+Our
+Critical
+Work
+in
+2024—Give
+Today
+!
 
 
 
-the organic choice is clear
+-
+Gift
+Memberships
+-
+Shop
+-
+Take
+Action
 
-it is important to eat organic food—nurtured in a system of food
-production handling and certification that rejects hazardous synthetic
+[Facebook][Twitter][Youtube][Instagram][LinkedIn][RSS]
+
+[Beyond
+Pesticides]
+
+TOP
+
+[photo]
+
+-
+Resources
+-
+Eating
+with
+a
+Conscience
+-
+Overview
+
+Resources
+
+-
+Beyond
+Pesticides
+Resources
+-
+Parks
+for
+a
+Sustainable
+Future
+-
+Non-Toxic
+Lawns
+and
+Landscapes
+-
+40
+Common
+Garden
+Pesticides
+-
+ManageSafe™
+-
+Golf
+,
+Pesticides
+,
+and
+Organic
+Practices
+-
+Safer
+Mosquito
+Management
+-
+Safety
+Source
+on
+Pest
+Management
+Providers
+-
+Be
+Aware
+:
+Contaminated
+Waters
+-
+Eating
+with
+a
+Conscience
+
+-
+Overview
+
+-
+Choose
+a
+Crop
+
+-
+Farmworkers
+
+-
+Methodology
+-
+Pesticide-Induced
+Diseases
+Database
+-
+Breast
+Cancer
+Prevention
+-
+Disproportionate
+Risks
+-
+Gateway
+on
+Pesticide
+Hazards
+and
+Safe
+Pest
+Management
+-
+Herbicide
+Analysis
+-
+Safer
+Sanitizers
+and
+Disinfectants
+-
+Pets
+and
+Pesticides
+-
+The
+Safer
+Choice
+-
+Healthy
+Healthcare
+-
+Art
+Page
+-
+Pesticide
+Emergencies
+-
+U
+.
+
+S
+.
+
+
+Pesticide
+Reform
+Policies
+-
+State
+Regulations
+-
+Pesticides
+and
+You
+-
+News
+&
+Press
+-
+Spring
+Into
+Action
+-
+Statements
+
+Eating
+with
+a
+Conscience
+
+[choose
+a
+crop]Choosing
+organic
+food
+to
+protect
+health
+and
+the
+environment
+
+Our
+food
+choices
+have
+a
+direct
+effect
+on
+the
+health
+of
+our
+environment
+and
+those
+who
+grow
+and
+harvest
+what
+we
+eat
+.
+
+ 
+That’s
+why
+food
+labeled
+"organic"
+is
+the
+right
+choice
+.
+
+
+In
+addition
+to
+serious
+health
+questions
+linked
+to
+actual
+residues
+of
+toxic
+pesticides
+on
+the
+food
+we
+eat
+,
+our
+food
+buying
+decisions
+support
+or
+reject
+hazardous
+agricultural
+practices
+,
+protection
+of
+farmworkers
+and
+farm
+families
+,
+and
+stewardship
+of
+the
+earth
+.
+
+
+
+The
+Organic
+Choice
+is
+Clear
+
+It
+is
+important
+to
+eat
+organic
+food—nurtured
+in
+a
+system
+of
+food
+production
+,
+handling
+and
+certification
+that
+rejects
+hazardous
+synthetic
 chemicals
+.
 
- usda organic certification is the only system of food
-labeling that is subject to independent public review and oversight
-assuring consumers that toxic synthetic pesticides used in conventional
-agriculture are replaced by management practices focused on soil
-biology biodiversity and plant health
 
- this eliminates commonly used
-toxic chemicals in the production and processing of food that is not
-labeled organicpesticides that contaminate our water and air hurt
-biodiversity harm farmworkers and kill bees birds fish and other
+USDA
+organic
+certification
+is
+the
+only
+system
+of
+food
+labeling
+that
+is
+subject
+to
+independent
+public
+review
+and
+oversight
+,
+assuring
+consumers
+that
+toxic
+,
+synthetic
+pesticides
+used
+in
+conventional
+agriculture
+are
+replaced
+by
+management
+practices
+focused
+on
+soil
+biology
+,
+biodiversity
+,
+and
+plant
+health
+.
+
+
+This
+eliminates
+commonly
+used
+toxic
+chemicals
+in
+the
+production
+and
+processing
+of
+food
+that
+is
+not
+labeled
+organic--pesticides
+that
+contaminate
+our
+water
+and
+air
+,
+hurt
+biodiversity
+,
+harm
+farmworkers
+,
+and
+kill
+bees
+,
+birds
+,
+fish
+and
+other
 wildlife
+.
 
 
 
-food choices based only on pesticide residues fall short
+Food
+Choices
+Based
+Only
+on
+Pesticide
+Residues
+Fall
+Short
 
-to help explain the urgent need for a major shift to organic food
-consumption beyond pesticides has begun the eating with a conscience
-database which evaluates the impacts on the environment and farmworkers
-of the toxic chemicals allowed for use on major food crops grown
-domestically and internationally
+To
+help
+explain
+the
+urgent
+need
+for
+a
+major
+shift
+to
+organic
+food
+consumption
+,
+Beyond
+Pesticides
+has
+begun
+the
+Eating
+with
+a
+Conscience
+database
+which
+evaluates
+the
+impacts
+on
+the
+environment
+and
+farmworkers
+of
+the
+toxic
+chemicals
+allowed
+for
+use
+on
+major
+food
+crops
+,
+grown
+domestically
+and
+internationally
+.
 
- we have started with those foods that
-have been identified widely in the media as “clean
 
-” while the clean 15
-and dirty dozen lists generated by environmental working group is
-helpful in alerting consumers to hazardous residues on food food
-residues are only part of the story
+We
+have
+started
+with
+those
+foods
+that
+have
+been
+identified
+widely
+in
+the
+media
+as
+“clean
+.
 
- it turns out that those very same
-“clean” food commodities may be grown with hazardous pesticides that get
-into waterways and groundwater contaminate nearby communities poison
-farmworkers and kill wildlife while not all showing up at detectable
-levels on our food
+”
+While
+the
+Clean
+15
+and
+Dirty
+Dozen
+lists
+generated
+by
+Environmental
+Working
+Group
+is
+helpful
+in
+alerting
+consumers
+to
+hazardous
+residues
+on
+food
+,
+food
+residues
+are
+only
+part
+of
+the
+story
+.
+
+ It
+turns
+out
+that
+those
+very
+same
+“clean”
+food
+commodities
+may
+be
+grown
+with
+hazardous
+pesticides
+that
+get
+into
+waterways
+and
+groundwater
+,
+contaminate
+nearby
+communities
+,
+poison
+farmworkers
+,
+and
+kill
+wildlife
+,
+while
+not
+all
+showing
+up
+at
+detectable
+levels
+on
+our
+food
+.
 
 
 
-choosing organic for you the environment and workers
+Choosing
+Organic
+:
+For
+you
+,
+the
+environment
+,
+and
+workers
 
-eating with a conscience looks at the toxic chemicals that are allowed
-in the production of the food we eat and the environmental and public
-health effects resulting from their use
+Eating
+with
+a
+Conscience
+looks
+at
+the
+toxic
+chemicals
+that
+are
+allowed
+in
+the
+production
+of
+the
+food
+we
+eat
+and
+the
+environmental
+and
+public
+health
+effects
+resulting
+from
+their
+use
+.
 
 
 
-choose a fruit or vegetable
+Choose
+a
+fruit
+or
+vegetable
+.
 
 
 
-for more information read the eating with a conscience press release or
-download the print brochure
+For
+more
+information
+,
+read
+the
+Eating
+with
+a
+Conscience
+press
+release
+or
+download
+the
+print
+brochure
+.
 
 
 
-contact news press site map managesafe™ tools for change 
-file a pesticide incident report pesticide gateway privacy policy 
-submit news studies stories
+Contact
+|
+News
+&
+Press
+|
+Site
+Map
+|
+ManageSafe™
+|
+Tools
+for
+Change
+|
+File
+a
+Pesticide
+Incident
+Report
+|
+Pesticide
+Gateway
+|
+Privacy
+Policy
+|
+Submit
+News
+,
+Studies
+&
+Stories
 
-
- logo 
- 701 e street se suite 200 office e 
- washington dc 20003 hours 9 arthshare 
- am–5 pm 
- eastern 
- email 
- emai 
- l protected 
- phone 
- 2025435450 
- 
-
++-----------------------------------+-----------------------------------+
+|
+[][Logo]
+|
++--------------+
+:------------
+:+
+|
+|
+701
+E
+Street
+,
+SE
+,
+Suite
+200
+|
+|
+Office
+|
+[E
+|
+|
+|
+Washington
+,
+DC
+20003
+|
+|
+Hours
+:
+9
+|
+arthShare][]
+|
+|
+|
+|
+|
+AM–5
+PM
+|
+|
+|
+|
+|
+|
+Eastern
+|
+|
+|
+|
+|
+|
+Email
+:
+|
+|
+|
+|
+|
+|
+[emai
+|
+|
+|
+|
+|
+|
+l protected]
+|
+|
+|
+|
+|
+|
+Phone
+:
+|
+|
+|
+|
+|
+|
+202-543-5450
+|
+|
+|
+|
+|
++--------------+--------------+
+|
++-----------------------------------+-----------------------------------+

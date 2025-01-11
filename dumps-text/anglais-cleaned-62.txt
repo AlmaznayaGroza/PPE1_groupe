@@ -1,436 +1,1880 @@
-skip to content
+Skip
+to
+content
 
-facebookinstagrampinterestyoutube
+FacebookInstagramPinterestYoutube
 
-straight a nursing
+[Straight
+A
+Nursing]
 
-menu
+Menu
 
- articles
+-
+Articles
 
- clinicals
- fundamentals
- maternalnewborn
- med surg
- mental health
- pharmacology
- prenursing
- pediatrics
- tips and advice
- podcast
 
- podcast home
- clinicals episodes
- fundamentals episodes
- maternalnewborn episodes
- med surg episodes
- mental health episodes
- pediatrics episodes
- pharmacology episodes
- prenursing episodes
- tips and advice episodes
- courses
+-
+Clinicals
 
- shop courses here
- course login
- resources
- newsletter
- app
+-
+Fundamentals
 
-posted in fundamentals
+-
+Maternal-Newborn
 
-levels of consciousness decoded
+-
+Med
+Surg
 
- by maureen osuna msn rn on july 23 2018 updated on january 16
+-
+Mental
+Health
+
+-
+Pharmacology
+
+-
+Pre-Nursing
+
+-
+Pediatrics
+
+-
+Tips
+and
+Advice
+-
+Podcast
+
+
+-
+Podcast
+Home
+
+-
+Clinicals
+Episodes
+
+-
+Fundamentals
+Episodes
+
+-
+Maternal-Newborn
+Episodes
+
+-
+Med
+Surg
+Episodes
+
+-
+Mental
+Health
+Episodes
+
+-
+Pediatrics
+Episodes
+
+-
+Pharmacology
+Episodes
+
+-
+Pre-Nursing
+Episodes
+
+-
+Tips
+and
+Advice
+Episodes
+-
+Courses
+
+
+-
+Shop
+Courses
+Here
+
+-
+Course
+Login
+-
+Resources
+-
+Newsletter
+-
+App
+
+Posted
+in
+Fundamentals
+
+Levels
+of
+Consciousness
+Decoded
+
+[]
+By
+Maureen
+Osuna
+,
+MSN
+,
+RN
+on
+July
+23
+,
+2018
+,
+Updated
+on
+January
+16
+,
 2024
 
-by maureen osuna msn rn july 23 2018 0
+By
+Maureen
+Osuna
+,
+MSN
+,
+RN
+|
+July
+23
+,
+2018
+|
+0
 
-when documenting your patient s level of consciousness you ll notice
-you have a lot of options to choose from
-
- your patient can be alert
-confused in a coma and anything in between
-
- knowing the difference
-between each level of consciousness will help you chart accurately and
-communicate your patient s condition with precision
-
- the different
-levels of consciousness are
-
- alert awake and responsive
- confused note that confusion can occur anywhere along this spectrum
- and is not always present prior to the patient becoming somnolent
- lethargic etc it is possible to have a patient who is somnolent or
- even lethargic and still oriented
-
-
- somnolent sleepy
- lethargic very drowsy falls asleep in between care
- obtunded difficult to arouse
- stuporous very difficult to arouse
- unresponsivecoma unarousable
-
-describing your patient s loc correctly is especially important when
-there are acute changes in condition
-
- for example i had a patient
-recently who was stuporous upon arrival to the icu but quickly became
-unresponsive requiring immediate intervention in order to keep the
-patient safe
-
- had i not known how to describe this patient s level of
-consciousness using standardized language there could have been a huge
-miscommunication between me and the md
-
- so let s go through a quick
-example using an entirely fictitious patient
-
- ready
+When
+documenting
+your
+patient’s
+level
+of
+consciousness
+,
+you’ll
+notice
+you
+have
+a
+LOT
+of
+options
+to
+choose
+from
+.
 
 
+Your
+patient
+can
+be
+alert
+,
+confused
+,
+in
+a
+coma
+and
+anything
+in
+between
+.
+
+
+Knowing
+the
+difference
+between
+each
+level
+of
+consciousness
+will
+help
+you
+chart
+accurately
+and
+communicate
+your
+patient’s
+condition
+with
+precision
+.
+
+
+The
+different
+levels
+of
+consciousness
+are
+:
+
+-
+Alert
+:
+awake
+and
+responsive
+-
+Confused
+:
+note
+that
+confusion
+can
+occur
+anywhere
+along
+this
+spectrum
+
+and
+is
+not
+always
+present
+prior
+to
+the
+patient
+becoming
+somnolent
+,
+
+lethargic
+,
+etc…
+It
+is
+possible
+to
+have
+a
+patient
+who
+is
+somnolent
+or
+
+even
+lethargic
+and
+still
+oriented
+.
+
+
+-
+Somnolent
+:
+sleepy
+-
+Lethargic
+:
+very
+drowsy
+,
+falls
+asleep
+in
+between
+care
+-
+Obtunded
+:
+difficult
+to
+arouse
+-
+Stuporous
+:
+very
+difficult
+to
+arouse
+-
+Unresponsive/Coma
+:
+unarousable
+
+Describing
+your
+patient’s
+LOC
+correctly
+is
+especially
+important
+when
+there
+are
+acute
+changes
+in
+condition
+.
+
+
+For
+example
+,
+I
+had
+a
+patient
+recently
+who
+was
+stuporous
+upon
+arrival
+to
+the
+ICU
+,
+but
+quickly
+became
+unresponsive
+,
+requiring
+immediate
+intervention
+in
+order
+to
+keep
+the
+patient
+safe
+.
+
+
+Had
+I
+not
+known
+how
+to
+describe
+this
+patient’s
+level
+of
+consciousness
+using
+standardized
+language
+,
+there
+could
+have
+been
+a
+huge
+miscommunication
+between
+me
+and
+the
+MD
+.
+
+
+So
+,
+let’s
+go
+through
+a
+quick
+example
+using
+an
+entirely
+fictitious
+patient
+.
+
+
+Ready
+?
 
 
 
-in report you learn the following about your patient 56 year old female
-with ckd stage 4 chf dm2 and hyperlipidemia
+[]
 
- biba yesterday for sob
-currently on 6l oxygen
-
- bp 11068 hr 77 o2 sat 94 afebrile
-
- urine
-output minimal overnight at 20 mlhr dark and concentrated
-
- chemistry
-panel shows mild hyperkalemia elevated bun and creatinine mildly
-anemic with hbg 9
-
-2 and wbc wdl
-
-
-
-at the time of your initial assessment at 0800 you note that the
-patient opens her eyes spontaneously and responds to questions though
-not all her answers make sense
-
- she will follow simple onestep
-commands but when you ask her to do more than one thing at a time she
-does not always follow through
-
- you ask your patient where she is right
-now and she answers “in my living room
-
-” at this time your patient is
-alert and confused
+In
+report
+you
+learn
+the
+following
+about
+your
+patient
+:
+56
+year
+old
+female
+with
+CKD
+stage
+4
+,
+CHF
+,
+DM2
+,
+and
+hyperlipidemia
+.
 
 
-
-at 0900 you bring in your patient s medications
-
- she wakes easily to
-voice but yawns a few times and states she just wants to sleep
-
- at this
-point your patient is somnolent
-
-
-
-at 1000  you go in to help your patient get repositioned when you
-notice she opens eyes only to voice or stimulation not spontaneously 
+BIBA
+yesterday
+for
+SOB
+,
+currently
+on
+6L
+oxygen
+.
 
 
-she follows some basic commands and is slow to respond
-
- she drifts off
-again once no longer stimulated
-
- your patient is now lethargic
-
-
-
-at 1200 your patient is more difficult to arouse
-
- her responses are
-delayed and minimal
-
- she does not appear to fully wake when stimulated
-and she immediately goes back to sleep when not stimulated
-
- when she
-does answer questions she mumbles and is clearly confused
-
- at this time
-she is obtunded
+BP
+110/68
+,
+HR
+77
+,
+O2
+sat
+94%
+,
+afebrile
+.
 
 
+Urine
+output
+minimal
+overnight
+at
+20
+ml/hr
+,
+dark
+and
+concentrated
+.
 
-by 1300 your patient can only be aroused by vigorous and repeated
+
+Chemistry
+panel
+shows
+mild
+hyperkalemia
+,
+elevated
+BUN
+and
+Creatinine
+,
+mildly
+anemic
+with
+Hbg
+9
+.
+
+2
+and
+WBC
+WDL
+.
+
+
+
+At
+the
+time
+of
+your
+initial
+assessment
+at
+0800
+,
+you
+note
+that
+the
+patient
+opens
+her
+eyes
+spontaneously
+and
+responds
+to
+questions
+though
+not
+all
+her
+answers
+make
+sense
+.
+
+
+She
+will
+follow
+simple
+one-step
+commands
+,
+but
+when
+you
+ask
+her
+to
+do
+more
+than
+one
+thing
+at
+a
+time
+,
+she
+does
+not
+always
+follow
+through
+.
+
+
+You
+ask
+your
+patient
+where
+she
+is
+right
+now
+and
+she
+answers
+“in
+my
+living
+room
+.
+
+”
+At
+this
+time
+,
+your
+patient
+is
+ALERT
+and
+CONFUSED
+.
+
+
+
+At
+0900
+,
+you
+bring
+in
+your
+patient’s
+medications
+.
+
+
+She
+wakes
+easily
+to
+voice
+but
+yawns
+a
+few
+times
+and
+states
+she
+just
+wants
+to
+sleep
+.
+
+
+At
+this
+point
+your
+patient
+is
+SOMNOLENT
+.
+
+
+
+At
+1000
+, 
+you
+go
+in
+to
+help
+your
+patient
+get
+repositioned
+when
+you
+notice
+she
+opens
+eyes
+only
+to
+voice
+or
 stimulation
-
- when the stimulation stops she immediately lapses back into
-her unresponsive state
-
- the only vocalizations she makes are moans
-
- she
-is now in a stupor
+(not
+spontaneously)
+.
 
 
-
-at 1400 your patient is unarousable to any stimulation even vigorous
-and painful stimuli
-
- at this point she is unresponsive or comatose
-
-
-
-of course you ve been updating the md on your patient s changes in loc
-all morning and you have both ensured that the appropriate
-interventions have been instituted
-
- in a case with patient with renal
-disease you will often see them have decreasing levels of consciousness
-as their ph drops secondary to their metabolic acidosis
-
- with a patient
-like this you might anticipate the md ordering an abg at some
-pointdon t be surprised if it comes back acidotic
-
- typically what
-happens is the patient will receive dialysis and as things start to come
-back into balance the patient becomes more alert assuming they don t
-have any other underlying physiologic derangements such as sepsis
+She
+follows
+some
+basic
+commands
+,
+and
+is
+slow
+to
+respond
+.
 
 
+She
+drifts
+off
+again
+once
+no
+longer
+stimulated
+.
 
-the other common situation this occurs in is copd exacerbation
 
- the ph
-will decrease as the co2 increases
-
- as the co2 rises the patient
-becomes more and more comatoseusually we can pull the patient out of it
-with bipap but in extreme cases they may be intubated
-
- you ll see this
-over and over and over againespecially if you work in a medical icu or
-telemetry unit
+Your
+patient
+is
+now
+LETHARGIC
+.
 
 
 
-this whole topic of consciousness is so incredibly interesting
-especially as it relates to anesthesia
-
- if you re interested in getting
-your crna someday you might find this article fascinatingi know i
-certainly did
-
- enjoy
-
-
-
-
-
-the information including but not limited to audio video text and
-graphics contained on this website are for educational purposes only
-
- no
-content on this website is intended to guide nursing practice and does
-not supersede any individual healthcare provider s scope of practice or
-any nursing school curriculum
-
- additionally no content on this website
-is intended to be a substitute for professional medical advice
-diagnosis or treatment
+At
+1200
+,
+your
+patient
+is
+more
+difficult
+to
+arouse
+.
 
 
+Her
+responses
+are
+delayed
+and
+minimal
+.
+
+
+She
+does
+not
+appear
+to
+fully
+wake
+when
+stimulated
+and
+she
+immediately
+goes
+back
+to
+sleep
+when
+not
+stimulated
+.
+
+
+When
+she
+does
+answer
+questions
+,
+she
+mumbles
+and
+is
+clearly
+confused
+.
+
+
+At
+this
+time
+she
+is
+OBTUNDED
+.
 
 
 
-are you starting nursing school soon or struggling and trying to adjust
+By
+1300
+,
+your
+patient
+can
+only
+be
+aroused
+by
+vigorous
+and
+repeated
+stimulation
+.
 
 
-then you ll love my free guide 20 secrets of successful nursing
-students
+When
+the
+stimulation
+stops
+she
+immediately
+lapses
+back
+into
+her
+unresponsive
+state
+.
+
+
+The
+only
+vocalizations
+she
+makes
+are
+moans
+.
+
+
+She
+is
+now
+in
+a
+STUPOR
+.
 
 
 
-get this on audio in podcast episode 98
+At
+1400
+,
+your
+patient
+is
+unarousable
+to
+any
+stimulation
+,
+even
+vigorous
+and
+painful
+stimuli
+.
+
+
+At
+this
+point
+she
+is
+UNRESPONSIVE
+or
+COMATOSE
+.
 
 
 
-last updated on january 16 2024 by maureen osuna msn rn
+Of
+course
+,
+you’ve
+been
+updating
+the
+MD
+on
+your
+patient’s
+changes
+in
+LOC
+all
+morning
+,
+and
+you
+have
+both
+ensured
+that
+the
+appropriate
+interventions
+have
+been
+instituted
+.
 
-share this
 
-facebook linkedin twitter pinterest
+In
+a
+case
+with
+patient
+with
+renal
+disease
+,
+you
+will
+often
+see
+them
+have
+decreasing
+levels
+of
+consciousness
+as
+their
+pH
+drops
+secondary
+to
+their
+metabolic
+acidosis
+.
 
-20 secrets of successful nursing students
 
-being a successful nursing student is more than just study tips and test
+With
+a
+patient
+like
+this
+,
+you
+might
+anticipate
+the
+MD
+ordering
+an
+ABG
+at
+some
+point…don’t
+be
+surprised
+if
+it
+comes
+back
+acidotic
+.
+
+
+Typically
+what
+happens
+is
+the
+patient
+will
+receive
+dialysis
+and
+as
+things
+start
+to
+come
+back
+into
+balance
+the
+patient
+becomes
+more
+alert
+(assuming
+they
+don’t
+have
+any
+other
+underlying
+physiologic
+derangements
+such
+as
+sepsis
+.
+
+)
+
+The
+other
+common
+situation
+this
+occurs
+in
+is
+COPD
+exacerbation
+.
+
+
+The
+pH
+will
+decrease
+as
+the
+CO2
+increases
+.
+
+
+As
+the
+CO2
+rises
+,
+the
+patient
+becomes
+more
+and
+more
+comatose…usually
+we
+can
+pull
+the
+patient
+out
+of
+it
+with
+BIPAP
+,
+but
+in
+extreme
+cases
+they
+may
+be
+intubated
+.
+
+
+You’ll
+see
+this
+over
+and
+over
+and
+over
+again…especially
+if
+you
+work
+in
+a
+medical
+ICU
+or
+telemetry
+unit
+.
+
+
+
+This
+whole
+topic
+of
+consciousness
+is
+so
+incredibly
+interesting
+,
+especially
+as
+it
+relates
+to
+anesthesia
+.
+
+
+If
+you’re
+interested
+in
+getting
+your
+CRNA
+someday
+,
+you
+might
+find
+this
+article
+fascinating…I
+know
+I
+certainly
+did
+!
+
+
+Enjoy
+!
+
+
+
+____________________________________________________________
+
+The
+information
+,
+including
+but
+not
+limited
+to
+,
+audio
+,
+video
+,
+text
+,
+and
+graphics
+contained
+on
+this
+website
+are
+for
+educational
+purposes
+only
+.
+
+
+No
+content
+on
+this
+website
+is
+intended
+to
+guide
+nursing
+practice
+and
+does
+not
+supersede
+any
+individual
+healthcare
+provider’s
+scope
+of
+practice
+or
+any
+nursing
+school
+curriculum
+.
+
+
+Additionally
+,
+no
+content
+on
+this
+website
+is
+intended
+to
+be
+a
+substitute
+for
+professional
+medical
+advice
+,
+diagnosis
+or
+treatment
+.
+
+
+
+------------------------------------------------------------------------
+
+Are
+you
+starting
+nursing
+school
+soon
+or
+struggling
+and
+trying
+to
+adjust
+?
+
+
+Then
+you’ll
+LOVE
+my
+free
+guide
+20
+Secrets
+of
+Successful
+Nursing
+Students
+.
+
+
+
+Get
+this
+on
+audio
+in
+Podcast
+Episode
+98
+.
+
+
+
+Last
+Updated
+on
+January
+16
+,
+2024
+by
+Maureen
+Osuna
+,
+MSN
+,
+RN
+
+share
+this
+
+facebook
+linkedin
+twitter
+pinterest
+
+20
+Secrets
+of
+Successful
+Nursing
+Students
+
+Being
+a
+successful
+nursing
+student
+is
+more
+than
+just
+study
+tips
+and
+test
 strategies
-
- it s a way of life
-
+.
 
 
-grab the free guide
-
-you may also like
-
-
-
+It’s
+a
+way
+of
+life
+.
 
 
 
+grab
+the
+free
+guide
 
-skin assessment
-
-349 assessing skin signs case study
-
-nursing skin assessment on darker and yellow tone skin
-
-case study for gib liver disease and skin assessment
-
-eponymous medical terms to memorize for nursing school
-
-330 do you know these medical terms
+you
+may
+also
+like
+.
 
 
+.
 
-eponymous signs to know for nursing
 
-eponymous terms to know
-
-let s be study buddies
-
- get nursing tips sent right to your inbox
-
-what do you want to learn today
+.
 
 
 
-are you new here
+[SKIN
+ASSESSMENT]
 
- come sit with me
+#349
+:
+Assessing
+Skin
+Signs
+Case
+Study
 
+[Nursing
+skin
+assessment
+on
+darker
+and
+yellow
+tone
+skin]
 
+Case
+study
+for
+GIB
+,
+liver
+disease
+,
+and
+skin
+assessment
 
-nurse mo straight a nursing
+[Eponymous
+medical
+terms
+to
+memorize
+for
+nursing
+school]
 
-hi i m nurse mo and i love mentoring nursing students
-
- i remember what
-it was like to be exactly where you are read more
-
-follow me
-
-facebookinstagrampinterestyoutube
-
-recent episodes
-
-onlinen tools for nursing school
-
-encore
-
- 184 my fave online tools for nursing school success
-
-ama for nursing school episode 359 straight a nursing podcast
-
-359 ask me anything
-
- number 5
-
-nursing school ama with nurse mo straight a nursing podcast
-
-353 ask me anything
-
- number 2
-
-footerlogo
-
- home
- about
- terms of use
- faq
- contact
-
-facebook instagram pinterest youtube
-
-2025 straight a nursing
-
-manage cookie consent
-
-
-
-to provide the best experiences we use technologies like cookies to
-store andor access device information
-
- consenting to these technologies
-will allow us to process data such as browsing behavior or unique ids on
-this site
-
- not consenting or withdrawing consent may adversely affect
-certain features and functions
+#330
+:
+Do
+You
+Know
+These
+Medical
+Terms
+?
 
 
 
-functional functional always active 
+[eponymous
+signs
+to
+know
+for
+nursing]
 
-the technical storage or access is strictly necessary for the legitimate
-purpose of enabling the use of a specific service explicitly requested
-by the subscriber or user or for the sole purpose of carrying out the
-transmission of a communication over an electronic communications
+Eponymous
+Terms
+to
+Know
+
+Let
+'
+s
+be
+study
+buddies
+!
+
+
+Get
+nursing
+tips
+sent
+right
+to
+your
+inbox
+
+What
+Do
+You
+Want
+To
+Learn
+Today
+?
+
+
+
+Are
+you
+new
+here
+?
+
+
+Come
+sit
+with
+me
+!
+
+
+
+[Nurse
+Mo
+-
+Straight
+A
+Nursing]
+
+Hi
+,
+I’m
+Nurse
+Mo
+and
+I
+love
+mentoring
+nursing
+students
+!
+
+
+I
+remember
+what
+it
+was
+like
+to
+be
+exactly
+where
+you
+are
+Read
+More…
+
+FOLLOW
+ME
+
+FacebookInstagramPinterestYouTube
+
+recent
+episodes
+
+[onlinen
+tools
+for
+nursing
+school]
+
+ENCORE
+!
+
+
+#184
+:
+My
+Fave
+Online
+Tools
+for
+Nursing
+School
+Success
+
+[AMA
+for
+Nursing
+School
+-
+Episode
+359
+Straight
+A
+Nursing
+podcast]
+
+#359
+:
+Ask
+Me
+Anything
+!
+
+
+(Number
+5)
+
+[Nursing
+school
+AMA
+with
+Nurse
+Mo
+-
+Straight
+A
+Nursing
+podcast]
+
+#353
+:
+Ask
+Me
+Anything
+!
+
+
+(Number
+2)
+
+[footer-logo]
+
+-
+HOME
+-
+About
+-
+Terms
+of
+Use
+-
+FAQ
+-
+Contact
+
+Facebook
+Instagram
+Pinterest
+Youtube
+
+@2025
+Straight
+A
+Nursing
+
+Manage
+Cookie
+Consent
+
+[]
+
+To
+provide
+the
+best
+experiences
+,
+we
+use
+technologies
+like
+cookies
+to
+store
+and/or
+access
+device
+information
+.
+
+
+Consenting
+to
+these
+technologies
+will
+allow
+us
+to
+process
+data
+such
+as
+browsing
+behavior
+or
+unique
+IDs
+on
+this
+site
+.
+
+
+Not
+consenting
+or
+withdrawing
+consent
+,
+may
+adversely
+affect
+certain
+features
+and
+functions
+.
+
+
+
+Functional
+Functional
+Always
+active
+[]
+
+The
+technical
+storage
+or
+access
+is
+strictly
+necessary
+for
+the
+legitimate
+purpose
+of
+enabling
+the
+use
+of
+a
+specific
+service
+explicitly
+requested
+by
+the
+subscriber
+or
+user
+,
+or
+for
+the
+sole
+purpose
+of
+carrying
+out
+the
+transmission
+of
+a
+communication
+over
+an
+electronic
+communications
 network
+.
 
 
 
-preferences preferences 
+Preferences
+Preferences
+[]
 
-the technical storage or access is necessary for the legitimate purpose
-of storing preferences that are not requested by the subscriber or user
+The
+technical
+storage
+or
+access
+is
+necessary
+for
+the
+legitimate
+purpose
+of
+storing
+preferences
+that
+are
+not
+requested
+by
+the
+subscriber
+or
+user
+.
 
 
 
-statistics statistics 
+Statistics
+Statistics
+[]
 
-the technical storage or access that is used exclusively for statistical
+The
+technical
+storage
+or
+access
+that
+is
+used
+exclusively
+for
+statistical
+purposes
+.
+
+
+The
+technical
+storage
+or
+access
+that
+is
+used
+exclusively
+for
+anonymous
+statistical
+purposes
+.
+
+
+Without
+a
+subpoena
+,
+voluntary
+compliance
+on
+the
+part
+of
+your
+Internet
+Service
+Provider
+,
+or
+additional
+records
+from
+a
+third
+party
+,
+information
+stored
+or
+retrieved
+for
+this
+purpose
+alone
+cannot
+usually
+be
+used
+to
+identify
+you
+.
+
+
+
+Marketing
+Marketing
+[]
+
+The
+technical
+storage
+or
+access
+is
+required
+to
+create
+user
+profiles
+to
+send
+advertising
+,
+or
+to
+track
+the
+user
+on
+a
+website
+or
+across
+several
+websites
+for
+similar
+marketing
+purposes
+.
+
+
+
+Manage
+options
+Manage
+services
+Manage
+{vendor_count}
+vendors
+Read
+more
+about
+these
 purposes
 
- the technical storage or access that is used exclusively for
-anonymous statistical purposes
+Accept
 
- without a subpoena voluntary compliance
-on the part of your internet service provider or additional records
-from a third party information stored or retrieved for this purpose
-alone cannot usually be used to identify you
+Deny
 
+View
+preferences
 
+Save
+preferences
 
-marketing marketing 
+View
+preferences
 
-the technical storage or access is required to create user profiles to
-send advertising or to track the user on a website or across several
-websites for similar marketing purposes
+{title}
+{title}
+{title}
 
-
-
-manage options manage services manage vendorcount vendors read more
-about these purposes
-
-accept
-
-deny
-
-view preferences
-
-save preferences
-
-view preferences
-
-title title title
-
-manage consent
+Manage
+consent

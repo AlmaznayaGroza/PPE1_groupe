@@ -1,739 +1,2954 @@
+[]
 
+Coupon
+:
 
-coupon
-
-findcoupon
+find-coupon
 
  
 
 checkout
 
-bm narrating the discussion
+Bm
+|
+Narrating
+the
+discussion
 
- library
- about us
- newsletter
- contact
+-
+Library
+-
+About
+us
+-
+Newsletter
+-
+Contact
 
-brandingmag
+Brandingmag
 
-brandingmag
+Brandingmag
 
 open
 
- home
- library
- read listen and watch thoughtfully crafted content from across the
- branding industry
+-
+Home
+-
+Library
+
+Read
+,
+listen
+,
+and
+watch
+thoughtfully
+crafted
+content
+from
+across
+the
+
+branding
+industry
+.
 
 
 
- read
- listen
- watch
 
- thoughtprovoking discussions and insights from brands and agencies
+-
+Read
+
+-
+Listen
+
+-
+Watch
 
 
-
- 
-
- latest publications
-
- state of the brand nordic equilibrium
- nordic equilibrium
- state of the brand 3
-
- creative leaders call for more transparency – the roundtable 40
- creative leaders call for more transparency
- the roundtable 40
-
- philips don t panic
-
- no
-
- 17
- thomas marzano global head of brand at philips
- don t panic
-
- no
-
- 17
-
- see all
- threads
- gain proven insights from the experience of pioneers thought
- leaders and innovators across the global branding world
+Thought-provoking
+discussions
+and
+insights
+from
+brands
+and
+agencies
+.
 
 
 
- brandtech
- content
- creative
- experience
- marketing
- metrics
- strategy
- sustainability
 
- 77 articles
-
- br
-
- latest from brandtech
-
- humanity in branding is ai driving or hindering your customers 
- trust
+[]
 
 
- humanity in branding is ai driving or hindering your customers 
- trust
+Latest
+publications
+
+
+[State
+of
+the
+Brand
+:
+Nordic
+Equilibrium]
+
+Nordic
+Equilibrium
+
+State
+of
+the
+Brand
+#3
+
+
+[Creative
+Leaders
+Call
+for
+More
+Transparency
+–
+The
+Roundtable
+40]
+
+Creative
+Leaders
+Call
+for
+More
+Transparency
+
+The
+Roundtable
+#40
+
+
+[Philips
+-
+Don’t
+Panic
+!
+
+
+No
+.
+
+
+17]
+
+Thomas
+Marzano
+,
+Global
+Head
+of
+Brand
+at
+Philips
+
+Don’t
+Panic
+!
+
+
+No
+.
+
+
+17
+
+
+See
+all
+-
+Threads
+
+Gain
+proven
+insights
+from
+the
+experience
+of
+pioneers
+,
+thought
+
+leaders
+,
+and
+innovators
+across
+the
+global
+branding
+world
+.
 
 
 
- is your business asking the right questions about generative ai
+
+-
+Brandtech
+
+-
+Content
+
+-
+Creative
+
+-
+Experience
+
+-
+Marketing
+
+-
+Metrics
+
+-
+Strategy
+
+-
+Sustainability
 
 
- is your business asking the right questions about generative ai
+77
+ARTICLES
+
+
+Br
+
+
+Latest
+from
+:
+Brandtech
+
+
+[Humanity
+in
+Branding
+:
+Is
+AI
+Driving
+or
+Hindering
+Your
+Customers’
+
+Trust
+?
+
+]
+
+Humanity
+in
+Branding
+:
+Is
+AI
+Driving
+or
+Hindering
+Your
+Customers’
+
+Trust
+?
 
 
 
- enter the aipowered mascot paradigm of brand personification
- enter the aipowered mascot paradigm of brand personification
 
- see all
- editor s pick
- podcast
- masterclasses
- contributors
- library
- about us
- newsletter
- contribute
- contact
+[Is
+Your
+Business
+Asking
+the
+Right
+Questions
+About
+Generative
+AI
+?
 
- facebook
- twitter
- youtube
- linkedin
- instagram
+]
 
-social
+Is
+Your
+Business
+Asking
+the
+Right
+Questions
+About
+Generative
+AI
+?
+
+
+
+
+[Enter
+the
+AI-powered
+Mascot
+Paradigm
+of
+Brand
+Personification]
+
+Enter
+the
+AI-powered
+Mascot
+Paradigm
+of
+Brand
+Personification
+
+
+See
+all
+-
+Editor’s
+pick
+-
+Podcast
+-
+Masterclasses
+-
+Contributors
+-
+Library
+-
+About
+Us
+-
+Newsletter
+-
+Contribute
+-
+Contact
+
+-
+facebook
+-
+twitter
+-
+youtube
+-
+linkedIn
+-
+Instagram
+
+Social
 
 perpetuwall
 
-searchopen
+search-open
 
-search
+SEARCH
 
-sign in
+Sign
+in
 
 close
 
 perpetuwall
 
-searchopen
+search-open
 
-searchclose
+search-close
 
- cristian saracco
- 9 dec 2021
+-
+Cristian
+Saracco
+-
+9
+Dec
+2021
 
-everyone has a purpose few have a conscience
+Everyone
+Has
+a
+Purpose
+,
+Few
+Have
+a
+Conscience
 
-sustainability
+Sustainability
 
-the americas
+The
+Americas
 
-7 min read
+7
+min
+read
 
-everyone has a purpose few have a conscience
+[Everyone
+Has
+a
+Purpose
+,
+Few
+Have
+a
+Conscience]
 
-purpose is the raison d être of a company the permanent basis of its
+Purpose
+is
+the
+raison
+d’être
+of
+a
+company
+,
+the
+permanent
+basis
+of
+its
 strategy
-
- every company has a purpose explicit or not however few –
-although this is changing – have a conscience
-
- to be clear the mafia
-has a purpose but consciousness is just another story
+.
 
 
+Every
+company
+has
+a
+purpose
+,
+explicit
+or
+not
+;
+however
+,
+few
+–
+although
+this
+is
+changing
+–
+have
+a
+conscience
+.
 
-let s start with this litmus test “who said this statement
+
+To
+be
+clear
+,
+the
+Mafia
+has
+a
+purpose
+,
+but
+consciousness
+is
+just
+another
+story
+.
+
+
+
+Let’s
+start
+with
+this
+Litmus
+test
+:
+“Who
+said
+this
+statement
+?
 
 ”
 
-to start off relaxed i d like to invite you to play and take part in
-this riddle with three possible answers although only one of them is
-the right one
+To
+start
+off
+relaxed
+,
+I’d
+like
+to
+invite
+you
+to
+play
+and
+take
+part
+in
+this
+riddle
+with
+three
+possible
+answers
+,
+although
+only
+one
+of
+them
+is
+the
+right
+one
+.
 
 
 
-the question is who has explicitly told this institutional purpose
+The
+question
+is
+:
+Who
+has
+explicitly
+told
+this
+institutional
+purpose
+?
 
 
 
-the purpose under scrutiny is
+The
+purpose
+under
+scrutiny
+is
+:
 
-“caring for those around us always ensuring their wellbeing and that
-of their families for a lifetime
+“Caring
+for
+those
+around
+us
+,
+always
+ensuring
+their
+well-being
+and
+that
+of
+their
+families
+,
+for
+a
+lifetime
+.
 
 
 
-protecting our environment taking care of raw materials giving
-security to producers recycling our waste
+Protecting
+our
+environment
+,
+taking
+care
+of
+raw
+materials
+,
+giving
+security
+to
+producers
+,
+recycling
+our
+waste
+.
 
 ”
 
-the potential answers are
+The
+potential
+answers
+are
+:
 
 1
+.
 
- paulus “paul” gerardus josephus maria polman former ceo of
- unilever
+
+Paulus
+“Paul”
+Gerardus
+Josephus
+Maria
+Polman
+,
+Former
+CEO
+of
+
+Unilever
+;
 2
+.
 
- pope francis 266th pope of the catholic church
+
+Pope
+Francis
+,
+266th
+Pope
+of
+the
+Catholic
+Church
+;
 3
-
- anthony “tony” john soprano sr
-
- capo di tutti capi – from the
- sopranos crime drama tv series
+.
 
 
+Anthony
+“Tony”
+John
+Soprano
+Sr
+.
+
+
+,
+Capo
+di
+tutti
+Capi
+–
+From
+The
+
+Sopranos
+crime
+drama
+TV
+series
+.
 
 
 
-credit cowomen
+[]
 
-before giving the right answer we must admit that all three could have
-said that quote one talking about the unilever raison d être pope
-francis in his second encyclical laudato si and we are left with tony
-soprano whom you probably know i guess
+Credit
+:
+CoWomen
+
+Before
+giving
+the
+right
+answer
+,
+we
+must
+admit
+that
+all
+three
+could
+have
+said
+that
+quote
+,
+one
+talking
+about
+the
+Unilever
+raison
+d’être
+,
+Pope
+Francis
+in
+his
+second
+encyclical
+,
+Laudato
+si’
+,
+and
+we
+are
+left
+with
+Tony
+Soprano
+whom
+you
+probably
+know
+,
+I
+guess
+.
 
 
 
-and the correct choice is the number “3”
+And
+the
+correct
+choice
+is
+the
+number
+“3”
+.
 
- words more or words least
-this was the way tony soprano described to his psychologist the business
-he was in and leading
+
+Words
+more
+or
+words
+least
+,
+this
+was
+the
+way
+Tony
+Soprano
+described
+to
+his
+psychologist
+the
+business
+he
+was
+in
+and
+leading
+.
 
 
 
-by this what i mean is that everyone has a purpose even the mafia yet
-few have a conscience and even fewer are specific in the way they define
+By
+this
+,
+what
+I
+mean
+is
+that
+everyone
+has
+a
+purpose
+,
+even
+the
+Mafia
+,
+yet
+few
+have
+a
+conscience
+and
+even
+fewer
+are
+specific
+in
+the
+way
+they
+define
 it
+.
 
 
 
-consciousness needs sincerity rather than authenticity
-
-for a company being true to itself means being concerned admitting
-vulnerability and making bold choices
-
- for example stopping
-collaborating with other firms that do not meet a company s standards of
-conduct assuming responsibility for mistakes that affect society
-abandoning businesses that are no longer legitimate
-
- in other words
-being consistent between what the company thinks does and says
-
-
-
-behaving truthfully and being unapologetically driven by values are two
-of the essential characteristics that today s society is demanding from
-each institution
-
-
-
-see alsoa better future finale – advertisers total commitment to
-people and communities
-
-the key difference between being authentic and sincere is that a
-business can be authentic and behave without a sense of morality or
-ethics while it is impossible to think of a sincere company behaving in
-that way
-
-
-
-on the one hand we all have examples of rude unresponsive and abusive
-companies that are authentic but are seldom true to themselves and
-conscious of others
-
- on the other hand sincerity is about recognizing
-that the company lives in a world that goes beyond its own borders
-
- it
-is about deeply considering its impact on the planet being
-selfconscious purposeful and going beyond the numbers to confirm and
-express its true nature
-
- being sincere means knowing that there is a
-pathway to live and work by its values down to every detail
-
- in this
-way a company can become a genuine and inspiring brand
-
-
-
-
-
-tony ryan ryan air credit criptomonedas yvon chouinard patagonia
-credit  duna authenticity and sincerity capisci
-
-
-
-another important issue to consider is that authenticity is an innate
-behavior and sincerity is an acquired one
-
-
-
-babies are authentic kids learn to behave sincerely
-
- the same can
-happen with companies
-
-
-
-business authenticity is a broader definition that considers the entire
-spectrum of being true to itself while sincerity is more focused
-brings wisdom care and a greater perspective than its own
-
-
-
-people believe in honest brands
-
-it is good business to be true to what the company is allowing the
-public to recognize how it behaves with a conscience
-
- although in
-addition society demands a positive social and environmental impact
-from the company this does not mean that profit motives which are
-necessary are hidden as a falsely sincere attitude
-
-
-
-it is valid to recognize the need to “make money” whilst being
-sympathetic to the audience in the way a company communicates
-
- that s
+Consciousness
+needs
 sincerity
+rather
+than
+authenticity
+
+For
+a
+company
+,
+being
+true
+to
+itself
+means
+being
+concerned
+,
+admitting
+vulnerability
+,
+and
+making
+bold
+choices
+.
+
+
+For
+example
+,
+stopping
+collaborating
+with
+other
+firms
+that
+do
+not
+meet
+a
+company’s
+standards
+of
+conduct
+;
+assuming
+responsibility
+for
+mistakes
+that
+affect
+society
+;
+abandoning
+businesses
+that
+are
+no
+longer
+legitimate
+.
+
+
+In
+other
+words
+,
+being
+consistent
+between
+what
+the
+company
+thinks
+,
+does
+,
+and
+says
+.
 
 
 
-brands trying to navigate this new world of conscience and sincerity
-should act differently deeply believing in the way they think in the
-values they defend doing the right thing and being honest about their
+Behaving
+truthfully
+and
+being
+unapologetically
+driven
+by
+values
+are
+two
+of
+the
+essential
+characteristics
+that
+today’s
+society
+is
+demanding
+from
+each
+institution
+.
+
+
+
+SEE
+ALSO
+:A
+Better
+Future
+,
+Finale
+–
+Advertisers’
+Total
+Commitment
+to
+People
+and
+Communities
+
+The
+key
+difference
+between
+being
+authentic
+and
+sincere
+is
+that
+a
+business
+can
+be
+authentic
+and
+behave
+without
+a
+sense
+of
+morality
+or
+ethics
+,
+while
+it
+is
+impossible
+to
+think
+of
+a
+sincere
+company
+behaving
+in
+that
+way
+.
+
+
+
+On
+the
+one
+hand
+,
+we
+all
+have
+examples
+of
+rude
+,
+unresponsive
+,
+and
+abusive
+companies
+that
+are
+authentic
+but
+are
+seldom
+true
+to
+themselves
+and
+conscious
+of
+others
+.
+
+
+On
+the
+other
+hand
+,
+sincerity
+is
+about
+recognizing
+that
+the
+company
+lives
+in
+a
+world
+that
+goes
+beyond
+its
+own
+borders
+.
+
+
+It
+is
+about
+deeply
+considering
+its
+impact
+on
+the
+planet
+,
+being
+self-conscious
+,
+purposeful
+,
+and
+going
+beyond
+the
+numbers
+to
+confirm
+and
+express
+its
+true
+nature
+.
+
+
+Being
+sincere
+means
+knowing
+that
+there
+is
+a
+pathway
+to
+live
+and
+work
+by
+its
+values
+,
+down
+to
+every
+detail
+.
+
+
+In
+this
+way
+,
+a
+company
+can
+become
+a
+genuine
+and
+inspiring
+brand
+.
+
+
+
+[]
+
+Tony
+Ryan
+,
+Ryan
+Air
+(Credit
+:
+Criptomonedas)
+&
+Yvon
+Chouinard
+,
+Patagonia
+(Credit
+: 
+DUNA)
+|
+Authenticity
+and
+sincerity…
+Capisci
+?
+
+
+
+Another
+important
+issue
+to
+consider
+is
+that
+authenticity
+is
+an
+innate
+behavior
+and
+sincerity
+is
+an
+acquired
+one
+.
+
+
+
+Babies
+are
+authentic
+,
+kids
+learn
+to
+behave
+sincerely
+.
+
+
+The
+same
+can
+happen
+with
+companies
+.
+
+
+
+Business
+authenticity
+is
+a
+broader
+definition
+that
+considers
+the
+entire
+spectrum
+of
+being
+true
+to
+itself
+,
+while
+sincerity
+is
+more
+focused
+,
+brings
+wisdom
+,
+care
+,
+and
+a
+greater
+perspective
+than
+its
+own
+.
+
+
+
+People
+believe
+in
+honest
+brands
+
+It
+is
+good
+business
+to
+be
+true
+to
+what
+the
+company
+is
+,
+allowing
+the
+public
+to
+recognize
+how
+it
+behaves
+with
+a
+conscience
+.
+
+
+Although
+,
+in
+addition
+,
+society
+demands
+a
+positive
+social
+and
+environmental
+impact
+from
+the
+company
+,
+this
+does
+not
+mean
+that
+profit
+motives
+(which
+are
+necessary)
+are
+hidden
+as
+a
+falsely
+sincere
+attitude
+.
+
+
+
+It
+is
+valid
+to
+recognize
+the
+need
+to
+“make
+money”
+whilst
+being
+sympathetic
+to
+the
+audience
+in
+the
+way
+a
+company
+communicates
+.
+
+
+That’s
+sincerity
+!
+
+
+
+Brands
+trying
+to
+navigate
+this
+new
+world
+of
+conscience
+and
+sincerity
+should
+act
+differently
+,
+deeply
+believing
+in
+the
+way
+they
+think
+,
+in
+the
+values
+they
+defend
+,
+doing
+the
+right
+thing
+,
+and
+being
+honest
+about
+their
 motivations
+.
 
 
 
- “behaving truthfully and being unapologetically driven by values are
- two of the essential characteristics that today s society is demanding
- from each institution
+
+“Behaving
+truthfully
+and
+being
+unapologetically
+driven
+by
+values
+are
+
+two
+of
+the
+essential
+characteristics
+that
+today’s
+society
+is
+demanding
+
+from
+each
+institution
+.
 
 ”
 
-if being honest and conscious brings on a deeper layer of seriousness
-and respect being conscious of others helps take it to the next level
-one that is increasingly demanded by all stakeholders including
+If
+being
+honest
+and
+conscious
+brings
+on
+a
+deeper
+layer
+of
+seriousness
+and
+respect
+,
+being
+conscious
+of
+others
+helps
+take
+it
+to
+the
+next
+level
+,
+one
+that
+is
+increasingly
+demanded
+by
+all
+stakeholders
+including
 citizens
+.
 
 
 
-“is your company radically honest
-
- ” i asked him
-
-
-“of course it is
-
- we ve always been honest” he lied to me
-
-
-
-conscientious purpose is an inherent part of business
-
-from the beginning of time purpose is born with any enterprise
-expressing its raison d être – even adam eve lilith and the apple
-
-
-
-thus the purpose must be companyconnected and its fit is achieved
-because the strategic aims are born from and aligned with such business
-
-
-
-see alsohow brands can put purpose at the heart of their marketing
-strategy
-
-the challenge for the leadership team is to first understand the real
-and deepest meaning of purpose translating it into an actionable
-mission and vision
-
- it is a matter of alignment coherence and
-consistency
-
-
-
-these are the basis of a company s better performance not only in terms
-of achieving better economic and financial results but also in
-generating a positive impact
-
-
-
-a conscientious purpose must be integrated into all aspects of how
-companies do business
-
-
-
-as life purpose is understood backwards but it must be lived forwards
-
-
-this means that if purpose changes the company must change –
-essentially because it must be reimagined redesigned and restarted to
-live a new aspirational future
-
- this is a key point that is often
-misunderstood
-
-
-
-making a conscientious purpose explicit is a good first step
-
-to be practical a good first step is to make the purpose explicit and
-if it is already there to ensure that it really is the reason for the
-company s existence and not a good narrative invented by the marketing
-or communication areas
-
-
-
-“holy graf zeppelin batman
-
-” unfortunately we tend to produce such
-conceptual monstrosities far too often
-
- deal with it
-
- if the purpose of
-the business is only to make money that s what it is
-
- as mentioned
-before it can change but it will imply that a new business was born
-
-
-
-see alsogood enough isn t good enough
-
-to reinforce deepen and above all be driven by a purpose in
-addition to making it explicit companies must continuously translate it
-into precise business objectives associated with it and in turn the
-latter must be translated into visible actions and behaviors
-
- this
-ensures executive responsiveness to the company s key audiences and
-becomes the trigger for exceptional transformation and growth
-
-
-
-the obvious steps sorry but i must insist on this to make purpose a
-meaningful daytoday experience are
-
- think act and say – in that order
- measure the impact of how the company acts on purpose
- make the leadership team accountable
- ensure that all stakeholders understand and share that company s
- reason for existence
- build the company s symbols rituals and stories around it
-
-
-
-brand and purpose brands with a conscience
-
-branding aims at building a realistic meaning of the company in its
-interaction with people independently but including the role they play
-as citizens
-
-
-
-in addition when the purpose includes the impact on society and the
-environment the brand as a business platform helps prove the
-consciousness of the company not to mention internal issues of
-governance and responsible investments
-
-
-
-when stakeholders understand live and share what the company stands
-for and why that matters the results come on their own without out of
-the ordinary efforts
-
- that s why i said at the very beginning of this
-article that companies that act in line with their purpose create
-value generate superior results and could even have a positive impact
-
-
-
-see alsopodcast ep 7 why brands need longterm commitment to building
-credibility with david aaker
-
-if the company can t deliver on purpose its brand promise is basically
-empty nonsense
-
-
-
-three questions arise
-
- where are your company and your brand on this journey towards brands
- with a conscience
-
-
- is the company s purpose explicit and does it need to be
- transformed
-
-
- is the company ready for a transformation that will lead to growth
- into both results and impact
-
-
-
-cover image source cottonbro
-
-share on
-
- facebook
- twitter
- linkedin
-
-cristian saracco
-
- cristian saracco
-
- 1 article
-
- twitter
- linkedin
- website
-
-with over 30 years of international experience cristian helps companies
-transform grow and embrace disruption by creating sustainable and
-longlasting value through brands people and experiences
-
- he develops
-companies worthy of admiration taking them to the next level socially
-and environmentally
-
- as a craftsman strategist cristian develops and
-revitalizes meaningful and familiar brand experiences for every key
-audience at every touchpoint
-
- he has also lectured in undergraduate
-graduate and executive education programs published articles papers
-and book chapters and is a regular speaker at events in europe and the
-americas
-
-
-
-we like you
-
- you like us
-
- sign up for our newsletter
-
-
-
-subscribe now
-
-featured masterclass
-
-03purposeimage750x1000
-
-purpose – it s not for everyone
-
-register to watch the recording on demand
-
-
-
-leading stories
-
-the cost of a bad employer brand
-
-strategy
-
-solid branding means niching for a person not a market
-
-strategy
-
-why rebrand
-
- or better yet why not
-
-
-
-strategy
-
-editor s pick
-
-
-
-esg empowerment brands should listen to employees not reactionary politicians
-
-sustainability
-
-
-
-as with human evolution brand growth is found amidst dichotomies
-
-content
-
-
-
-why are african brands not going global at scale
-
-
-
-strategy
-
-×
-
-brandingmag
-
-please register to be able to use favorites
-
-
-
- sign in
- register
-
-sign in with your email username
-
-email address username
-
-password
-
-remember me
-
-forgot password
-
-
-
-don t have an account
-
- register
-
-
-
-first name
-
-last name
-
-email address
-
-password minimum 8 characters
-
-repeat password
-
+“Is
+your
 company
+radically
+honest
+?
 
-job function
 
-strategy leadership marketing communication engineering tech data
- analytics design product business development sales operations
-corporate innovation corporate development investment finance people 
-hr legal other
+”
+I
+asked
+him
+.
 
-seniority
 
-clevel vpdirectorpartner midlevel manager operational specialist or
-consultant entrylevel talent other
+“Of
+course
+,
+it
+is
+!
 
-i agree to the terms of use and privacy policy
 
-sign me up for the weekly newsletter
+We’ve
+always
+been
+honest
+,”
+he
+lied
+to
+me
+.
 
+
+
+Conscientious
+purpose
+is
+an
+inherent
+part
+of
+business
+
+From
+the
+beginning
+of
+time
+,
+purpose
+is
+born
+with
+any
+enterprise
+expressing
+its
+raison
+d’être
+–
+even
+Adam
+,
+Eve
+,
+Lilith
+,
+and
+the
+apple
+.
+
+
+
+Thus
+,
+the
+purpose
+must
+be
+company-connected
+,
+and
+its
+fit
+is
+achieved
+because
+the
+strategic
+aims
+are
+born
+from
+and
+aligned
+with
+such
+business
+.
+
+
+
+SEE
+ALSO
+:How
+Brands
+Can
+Put
+Purpose
+at
+the
+Heart
+of
+Their
+Marketing
+Strategy
+
+The
+challenge
+for
+the
+leadership
+team
+is
+to
+first
+understand
+the
+real
+and
+deepest
+meaning
+of
+purpose
+,
+translating
+it
+into
+an
+actionable
+mission
+and
+vision
+.
+
+
+It
+is
+a
+matter
+of
+alignment
+,
+coherence
+,
+and
+consistency
+.
+
+
+
+These
+are
+the
+basis
+of
+a
+company’s
+better
+performance
+,
+not
+only
+in
+terms
+of
+achieving
+better
+economic
+and
+financial
+results
+but
+also
+in
+generating
+a
+positive
+impact
+.
+
+
+
+A
+conscientious
+purpose
+must
+be
+integrated
+into
+all
+aspects
+of
+how
+companies
+do
+business
+.
+
+
+
+As
+life
+,
+purpose
+is
+understood
+backwards
+;
+but
+it
+must
+be
+lived
+forwards
+.
+
+
+This
+means
+that
+,
+if
+purpose
+changes
+,
+the
+company
+must
+change
+–
+essentially
+,
+because
+it
+must
+be
+reimagined
+,
+redesigned
+,
+and
+restarted
+to
+live
+a
+new
+aspirational
+future
+.
+
+
+This
+is
+a
+key
+point
+that
+is
+often
+misunderstood
+.
+
+
+
+Making
+a
+conscientious
+purpose
+explicit
+is
+a
+good
+first
+step
+
+To
+be
+practical
+,
+a
+good
+first
+step
+is
+to
+make
+the
+purpose
+explicit
+and
+,
+if
+it
+is
+already
+there
+,
+to
+ensure
+that
+it
+really
+is
+the
+reason
+for
+the
+company’s
+existence
+and
+not
+a
+good
+narrative
+invented
+by
+the
+marketing
+or
+communication
+areas
+.
+
+
+
+“Holy
+Graf
+Zeppelin
+,
+Batman
+!
+
+”
+Unfortunately
+,
+we
+tend
+to
+produce
+such
+conceptual
+monstrosities
+far
+too
+often
+.
+
+
+Deal
+with
+it
+!
+
+
+If
+the
+purpose
+of
+the
+business
+is
+only
+to
+make
+money
+,
+that’s
+what
+it
+is
+!
+
+
+As
+mentioned
+before
+,
+it
+can
+change
+but
+it
+will
+imply
+that
+a
+new
+business
+was
+born
+.
+
+
+
+SEE
+ALSO
+:Good
+Enough
+Isn’t
+Good
+Enough
+
+To
+reinforce
+,
+deepen
+,
+and
+,
+above
+all
+,
+be
+driven
+by
+a
+purpose
+,
+in
+addition
+to
+making
+it
+explicit
+,
+companies
+must
+continuously
+translate
+it
+into
+precise
+business
+objectives
+associated
+with
+it
+and
+,
+in
+turn
+,
+the
+latter
+must
+be
+translated
+into
+visible
+actions
+and
+behaviors
+.
+
+
+This
+ensures
+executive
+responsiveness
+to
+the
+company’s
+key
+audiences
+and
+becomes
+the
+trigger
+for
+exceptional
+transformation
+and
+growth
+.
+
+
+
+The
+obvious
+steps
+(sorry
+,
+but
+I
+must
+insist
+on
+this)
+to
+make
+purpose
+a
+meaningful
+day-to-day
+experience
+are
+:
+
+-
+Think
+,
+act
+,
+and
+say
+–
+in
+that
+order
+;
+-
+Measure
+the
+impact
+of
+how
+the
+company
+acts
+on
+purpose
+;
+-
+Make
+the
+leadership
+team
+accountable
+;
+-
+Ensure
+that
+all
+stakeholders
+understand
+and
+share
+that
+company’s
+
+reason
+for
+existence
+;
+-
+Build
+the
+company’s
+symbols
+,
+rituals
+,
+and
+stories
+around
+it
+.
+
+
+
+Brand
+and
+purpose
+,
+brands
+with
+a
+conscience
+
+Branding
+aims
+at
+building
+a
+realistic
+meaning
+of
+the
+company
+in
+its
+interaction
+with
+people
+,
+independently
+but
+including
+the
+role
+they
+play
+as
+citizens
+.
+
+
+
+In
+addition
+,
+when
+the
+purpose
+includes
+the
+impact
+on
+society
+and
+the
+environment
+,
+the
+brand
+as
+a
+business
+platform
+helps
+prove
+the
+consciousness
+of
+the
+company
+,
+not
+to
+mention
+internal
+issues
+of
+governance
+and
+responsible
+investments
+.
+
+
+
+When
+stakeholders
+understand
+,
+live
+,
+and
+share
+what
+the
+company
+stands
+for
+and
+why
+that
+matters
+,
+the
+results
+come
+on
+their
+own
+,
+without
+out
+of
+the
+ordinary
+efforts
+.
+
+
+That’s
+why
+I
+said
+,
+at
+the
+very
+beginning
+of
+this
+article
+,
+that
+companies
+that
+act
+in
+line
+with
+their
+purpose
+create
+value
+,
+generate
+superior
+results
+,
+and
+could
+even
+have
+a
+positive
+impact
+.
+
+
+
+SEE
+ALSO
+:Podcast
+Ep
+7
+:
+Why
+Brands
+Need
+Long-Term
+Commitment
+to
+Building
+Credibility
+,
+with
+David
+Aaker
+
+If
+the
+company
+can’t
+deliver
+on
+purpose
+,
+its
+brand
+promise
+is
+basically
+empty
+nonsense
+.
+
+
+
+Three
+questions
+arise
+:
+
+-
+Where
+are
+your
+company
+and
+your
+brand
+on
+this
+journey
+towards
+brands
+
+with
+a
+conscience
+?
+
+
+-
+Is
+the
+company’s
+purpose
+explicit
+and
+does
+it
+need
+to
+be
+
+transformed
+?
+
+
+-
+Is
+the
+company
+ready
+for
+a
+transformation
+that
+will
+lead
+to
+growth
+
+into
+both
+results
+and
+impact
+?
+
+
+
+Cover
+image
+source
+:
+cottonbro
+
+Share
+on
+:
+
+-
+facebook
+-
+twitter
+-
+linkedin
+
+[Cristian
+Saracco]
+
+-
+Cristian
+Saracco
+
+-
+1
+article
+
+-
+-
+twitter
+
+-
+linkedin
+
+-
+Website
+
+With
+over
+30
+years
+of
+international
+experience
+,
+Cristian
+helps
+companies
+transform
+,
+grow
+,
+and
+embrace
+disruption
+by
+creating
+sustainable
+and
+long-lasting
+value
+through
+brands
+,
+people
+,
+and
+experiences
+.
+
+
+He
+develops
+companies
+worthy
+of
+admiration
+,
+taking
+them
+to
+the
+next
+level
+,
+socially
+and
+environmentally
+.
+
+
+As
+a
+craftsman
+strategist
+,
+Cristian
+develops
+and
+revitalizes
+meaningful
+and
+familiar
+brand
+experiences
+,
+for
+every
+key
+audience
+,
+at
+every
+touchpoint
+.
+
+
+He
+has
+also
+lectured
+in
+undergraduate
+,
+graduate
+,
+and
+executive
+education
+programs
+,
+published
+articles
+,
+papers
+,
+and
+book
+chapters
+,
+and
+is
+a
+regular
+speaker
+at
+events
+in
+Europe
+and
+the
+Americas
+.
+
+
+
+We
+like
+you
+.
+
+
+You
+like
+us
+.
+
+
+Sign
+up
+for
+our
+newsletter
+.
+
+
+
+Subscribe
+now
+
+Featured
+Masterclass
+
+[03_Purpose_Image_750x1000]
+
+Purpose
+–
+It’s
+Not
+for
+Everyone
+
+Register
+to
+watch
+the
+recording
+on
+demand
+.
+
+
+
+Leading
+Stories
+
+The
+Cost
+of
+a
+Bad
+Employer
+Brand
+
+Strategy
+
+Solid
+Branding
+Means
+Niching
+for
+a
+Person
+,
+Not
+a
+Market
+
+Strategy
+
+Why
+Rebrand
+?
+
+
+Or
+Better
+Yet
+,
+Why
+Not
+?
+
+
+
+Strategy
+
+Editor’s
+Pick
+
+[]
+
+ESG
+Empowerment
+:
+Brands
+Should
+Listen
+to
+Employees
+,
+Not
+Reactionary
+Politicians
+
+Sustainability
+
+[]
+
+As
+with
+Human
+Evolution
+,
+Brand
+Growth
+Is
+Found
+Amidst
+Dichotomies
+
+Content
+
+[]
+
+Why
+Are
+African
+Brands
+Not
+Going
+Global
+at
+Scale
+?
+
+
+
+Strategy
+
+×
+
+brandingmag
+
+Please
 register
+to
+be
+able
+to
+use
+favorites
+.
+
+
+
+-
+Sign
+in
+-
+Register
+
+Sign
+in
+with
+your
+email
+/
+username
+
+Email
+address
+/
+Username
+
+Password
+
+Remember
+me
+
+Forgot
+Password
+?
+
+
+
+Don’t
+have
+an
+account
+?
+
+
+Register
+.
+
+
+
+First
+Name*
+
+Last
+Name*
+
+Email
+Address*
+
+Password
+(minimum
+8
+characters)*
+
+Repeat
+password*
+
+Company*
+
+Job
+Function*
+
+Strategy
+/
+leadership
+Marketing
+&
+communication
+Engineering
+/
+tech
+Data
+/
+analytics
+Design
+Product
+Business
+development
+/
+sales
+Operations
+Corporate
+innovation
+Corporate
+development
+/
+investment
+Finance
+People
+/
+HR
+Legal
+Other
+
+Seniority*
+
+C-level
+VP/Director/Partner
+Mid-level
+manager
+Operational
+Specialist
+or
+Consultant
+Entry-level
+talent
+Other
+
+I
+agree
+to
+the
+Terms
+of
+Use
+and
+Privacy
+Policy
+
+Sign
+me
+up
+for
+the
+weekly
+newsletter
+
+Register
 
 ×
 
 brandingmag
 
-we re doing a bit of soulsearching to better know our readers and
-improve your experience
+We
+'
+re
+doing
+a
+bit
+of
+soul-searching
+to
+better
+know
+our
+readers
+and
+improve
+your
+experience
+.
 
- please take this 2min survey and you might
-just win the first edition of our new ebook series state of the brand
+
+Please
+take
+this
+2-min
+survey
+and
+you
+might
+just
+WIN
+the
+first
+edition
+of
+our
+new
+eBook
+series
+:
+State
+of
+the
+Brand
+!
 
 
 
-take survey
+Take
+survey
 
-i agree to the terms and conditions
+I
+agree
+to
+the
+Terms
+and
+Conditions
 
 ×
 
+Brandingmag
+
+Use
+the
+Bm
+|
+Bn
+switcher
+in
+the
+top-left
+corner
+to
+seamlessly
+switch
+between
+our
+Brandingmag
+and
+Branding
+.
+
+News
+websites
+.
+
+
+
+Got
+it
+
 brandingmag
 
-use the bm bn switcher in the topleft corner to seamlessly switch
-between our brandingmag and branding
+MailChimp
+error
+message
+holder
 
-news websites
+Got
+it
 
+Brandingmag
 
+Ad
+block
 
-got it
-
-brandingmag
-
-mailchimp error message holder
-
-got it
-
-brandingmag
-
-ad block
-
-we noticed you re using an ad blocker
-
- totally understandable but our
-ads are minimal always relevant and a great help for supporting our
-ongoing efforts to narrate a quality discussion around branding
-
+We
+noticed
+you
+'
+re
+using
+an
+ad
+blocker
+.
 
 
-please consider disabling your ad blocker or sign upsign in before
-diving into our exclusive insights
+Totally
+understandable
+,
+but
+our
+ads
+are
+minimal
+,
+always
+relevant
+,
+and
+a
+great
+help
+for
+supporting
+our
+ongoing
+efforts
+to
+narrate
+a
+quality
+discussion
+around
+branding
+.
 
-sign in
 
-sign up
 
- about us
- newsletter
- contact
- terms of use
- privacy policy
+Please
+consider
+disabling
+your
+ad
+blocker
+or
+sign
+up/sign
+in
+before
+diving
+into
+our
+exclusive
+insights
+:
 
- facebook
- twitter
- youtube
- linkedin
- instagram
+Sign
+in
 
-© 2025 brandium inc
+Sign
+up
 
- ltd
+-
+About
+us
+-
+Newsletter
+-
+Contact
+-
+Terms
+Of
+Use
+-
+Privacy
+Policy
 
- all rights reserved
+-
+facebook
+-
+twitter
+-
+youtube
+-
+linkedIn
+-
+Instagram
 
-we use cookies to help us improve promote and protect our services
+©
+2025
+Brandium
+,
+Inc
+.
 
- by
-continuing to use our sites you agree to our cookie policy learn more
 
-i agree
+Ltd
+.
+
+
+|
+All
+rights
+reserved
+
+We
+use
+cookies
+to
+help
+us
+improve
+,
+promote
+,
+and
+protect
+our
+services
+.
+
+
+By
+continuing
+to
+use
+Our
+Sites
+,
+you
+agree
+to
+our
+Cookie
+Policy
+Learn
+more
+
+I
+agree
+!
 
 
 
@@ -741,32 +2956,99 @@ newsletter
 
 ×
 
-we like you
-
- you like us
-
- sign up for our weekly newsletter
-
+We
+like
+you
+.
 
 
-first name
+You
+like
+us
+.
 
-last name
 
-email address
+Sign
+up
+for
+our
+weekly
+newsletter
+.
 
-company
 
-job function strategy leadership marketing communication
-engineering tech data analytics design product business development
- sales operations corporate innovation corporate development 
-investment finance people hr legal other
 
-seniority clevel vpdirectorpartner midlevel manager operational
-specialist or consultant entrylevel talent other
+First
+Name*
 
-i agree to the terms of use and privacy policy
+Last
+Name*
 
-send
+Email
+Address*
 
- indicates required
+Company*
+
+Job
+Function*
+Strategy
+/
+leadership
+Marketing
+&
+communication
+Engineering
+/
+tech
+Data
+/
+analytics
+Design
+Product
+Business
+development
+/
+sales
+Operations
+Corporate
+innovation
+Corporate
+development
+/
+investment
+Finance
+People
+/
+HR
+Legal
+Other
+
+Seniority*
+C-level
+VP/Director/Partner
+Mid-level
+manager
+Operational
+Specialist
+or
+Consultant
+Entry-level
+talent
+Other
+
+I
+agree
+to
+the
+Terms
+of
+Use
+and
+Privacy
+Policy
+
+SEND
+
+*
+indicates
+required

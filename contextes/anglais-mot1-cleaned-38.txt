@@ -1,122 +1,470 @@
 2
+.
 
- blog
+
+Blog
 3
+.
 
- word choice
+
+Word
+Choice
 4
+.
 
- explaining the difference between “conscience” “conscious” and
- “conscientious”
 
-explaining the difference between “conscience” “conscious” and “conscientious”
+Explaining
+The
+Difference
+Between
+“Conscience
+,”
+“Conscious
+,”
+and
 
-powered by languagetool
+“Conscientious”
 
-“conscience” and “conscious” both relate to the mind but what about
+Explaining
+The
+Difference
+Between
+“Conscience
+,”
+“Conscious
+,”
+and
+“Conscientious”
+
+powered
+by
+LanguageTool
+
+“Conscience”
+and
+“conscious”
+both
+relate
+to
+the
+mind
+,
+but
+what
+about
 “conscientious”
-
- this blog post will teach you the difference between
-these three commonly confused words
+?
 
 
-
-what does conscious mean
-
- what does conscience mean
-
- what does
-conscientious mean
-
-
-
-do you know the difference between these three words
-
-
-
- conscience is a noun that means “an inner feeling or voice that
- tells you whether your actions are right or wrong
-
-”
- conscious is an adjective that means “aware of and responding to
-
-
-in the english language there are many words and phrases that can be
-interchanged such as despite and in spite of
-
- the words conscience
-conscious and conscientious do not fall under this category
-
- they look
-similar but they have three distinct definitions
-
- below we ll go over
+This
+blog
+post
+will
+teach
+you
+the
+difference
+between
+these
+three
+commonly
+confused
+words
+.
 
 
 
- what does “conscience” mean
+[(What
+does
+conscious
+mean
+?
+
+
+What
+does
+conscience
+mean
+?
+
+
+What
+does
+conscientious
+mean
+?
+
+)]
+
+Do
+you
+know
+the
+difference
+between
+these
+three
+words
+?
 
 
 
-conscience ˈkɑːnʃəns is a noun that refers to the “inner feeling or
-voice that tells us what is morally right or wrong and impels us towards
-right action
+-
+Conscience
+is
+a
+noun
+that
+means
+“an
+inner
+feeling
+or
+voice
+that
 
-”
-
- i advised my niece to let her conscience guide her
-
-
-
-when someone has a guilty conscience it means that “they feel guilty
-about something they did that they perceive as wrong
-
-”
-
- my guilty conscience kept me up all night
-
-
-
-on the opposite side of the spectrum when someone has a clear
-conscience they feel that they did the right thing and therefore feel
-no guilt
-
-
-
- my conscience was clear because i knew i did the right thing
-
-
-
-
-
- she was a conscientious student and graduated at the top of her class
-
-
-
-conscientious also refers to “being governed by conscience to do what s
+tells
+you
+whether
+your
+actions
+are
 right
+or
+wrong
+.
+
+”
+-
+Conscious
+is
+an
+adjective
+that
+means
+“aware
+of
+and
+responding
+to
+---------------
+
+In
+the
+English
+language
+,
+there
+are
+many
+words
+and
+phrases
+that
+can
+be
+interchanged
+,
+such
+as
+despite
+and
+in
+spite
+of
+.
+
+
+The
+words
+conscience
+,
+conscious
+,
+and
+conscientious
+do
+not
+fall
+under
+this
+category
+.
+
+
+They
+look
+similar
+,
+but
+they
+have
+three
+distinct
+definitions
+.
+
+
+Below
+,
+we’ll
+go
+over
+---------------
+------------------------------------------------------------------------
+
+
+What
+Does
+“Conscience”
+Mean
+?
+
+
+
+Conscience
+/ˈkɑːnʃəns/
+is
+a
+noun
+that
+refers
+to
+the
+“inner
+feeling
+or
+voice
+that
+tells
+us
+what
+is
+morally
+right
+or
+wrong
+and
+impels
+us
+towards
+right
+action
+.
 
 ”
 
 
- from doing what is morally right
+I
+advised
+my
+niece
+to
+let
+her
+conscience
+guide
+her
+.
 
 
 
-your browser does not support the audio element
+When
+someone
+has
+a
+guilty
+conscience
+,
+it
+means
+that
+“they
+feel
+guilty
+about
+something
+they
+did
+that
+they
+perceive
+as
+wrong
+.
 
- conscience
-
-your browser does not support the audio element
-
- conscious
-
-grammar mistakes and will offer corrections
-
- any conscientious writer
-who uses languagetool as their writing assistant will have a clear
-conscience knowing their text is errorfree
+”
 
 
+My
+guilty
+conscience
+kept
+me
+up
+all
+night
+.
 
-share on social media
+
+
+On
+the
+opposite
+side
+of
+the
+spectrum
+,
+when
+someone
+has
+a
+clear
+conscience
+,
+they
+feel
+that
+they
+did
+the
+right
+thing
+and
+therefore
+feel
+no
+guilt
+.
+
+
+
+
+My
+conscience
+was
+clear
+because
+I
+knew
+I
+did
+the
+right
+thing
+.
+
+
+
+------------------------------------------------------------------------
+---------------
+
+She
+was
+a
+conscientious
+student
+and
+graduated
+at
+the
+top
+of
+her
+class
+.
+
+
+
+Conscientious
+also
+refers
+to
+“being
+governed
+by
+conscience
+to
+do
+what’s
+right
+.
+
+”
+
+---------------
+
+from
+doing
+what
+is
+morally
+right
+.
+
+
+
+Your
+browser
+does
+not
+support
+the
+audio
+element
+.
+
+
+Conscience
+
+Your
+browser
+does
+not
+support
+the
+audio
+element
+.
+
+
+Conscious
+---------------
+grammar
+mistakes
+and
+will
+offer
+corrections
+.
+
+
+Any
+conscientious
+writer
+who
+uses
+LanguageTool
+as
+their
+writing
+assistant
+will
+have
+a
+clear
+conscience
+knowing
+their
+text
+is
+error-free
+.
+
+
+
+Share
+on
+Social
+Media

@@ -1,380 +1,1310 @@
-encyclopedia britannica
+[Encyclopedia
+Britannica]
 
-search britannica
+Search
+Britannica
 
-click here to search
+Click
+here
+to
+search
 
-encyclopedia britannica
+[Encyclopedia
+Britannica]
 
-search britannica
+Search
+Britannica
 
-click here to search
+Click
+here
+to
+search
 
-subscribe
+SUBSCRIBE
 
-subscribe
+SUBSCRIBE
 
-login
+Login
 
-httpspremium
+https
+://premium
+.
 
 britannica
+.
 
-compremiummembership
+com/premium-membership/
+?
 
-utmsourcepremiumutmmediumnavloginboxutmcampaignevergreen
+utm_source=premium&utm_medium=nav-login-box&utm_campaign=evergreen
 
-subscribe
+SUBSCRIBE
 
- home
- history society
- science tech
- biographies
- animals nature
- geography travel
- arts culture
- procon
- money
+-
+Home
+-
+History
+&
+Society
+-
+Science
+&
+Tech
+-
+Biographies
+-
+Animals
+&
+Nature
+-
+Geography
+&
+Travel
+-
+Arts
+&
+Culture
+-
+ProCon
+-
+Money
 
- games quizzes
- videos
- on this day
- one good fact
- dictionary
- new articles
+-
+Games
+&
+Quizzes
+-
+Videos
+-
+On
+This
+Day
+-
+One
+Good
+Fact
+-
+Dictionary
+-
+New
+Articles
 
-history society
+History
+&
+Society
 
- lifestyles social issues
- philosophy religion
- politics law government
- world history
+-
+Lifestyles
+&
+Social
+Issues
+-
+Philosophy
+&
+Religion
+-
+Politics
+,
+Law
+&
+Government
+-
+World
+History
 
-science tech
+Science
+&
+Tech
 
- health medicine
- science
- technology
+-
+Health
+&
+Medicine
+-
+Science
+-
+Technology
 
-biographies
+Biographies
 
- browse biographies
+-
+Browse
+Biographies
 
-animals nature
+Animals
+&
+Nature
 
- birds reptiles other vertebrates
- bugs mollusks other invertebrates
- environment
- fossils geologic time
- mammals
- plants
+-
+Birds
+,
+Reptiles
+&
+Other
+Vertebrates
+-
+Bugs
+,
+Mollusks
+&
+Other
+Invertebrates
+-
+Environment
+-
+Fossils
+&
+Geologic
+Time
+-
+Mammals
+-
+Plants
 
-geography travel
+Geography
+&
+Travel
 
- geography travel
+-
+Geography
+&
+Travel
 
-arts culture
+Arts
+&
+Culture
 
- entertainment pop culture
- literature
- sports recreation
- visual arts
+-
+Entertainment
+&
+Pop
+Culture
+-
+Literature
+-
+Sports
+&
+Recreation
+-
+Visual
+Arts
 
- companions
- demystified
- image galleries
- lists
- podcasts
- spotlight
- summaries
- the forum
- top questions
- wtfact
+-
+Companions
+-
+Demystified
+-
+Image
+Galleries
+-
+Lists
+-
+Podcasts
+-
+Spotlight
+-
+Summaries
+-
+The
+Forum
+-
+Top
+Questions
+-
+#WTFact
 
- britannica kids
+-
+Britannica
+Kids
 
-ask the chatbot games quizzes history society science tech
-biographies animals nature geography travel arts culture procon
-money videos
+Ask
+the
+Chatbot
+Games
+&
+Quizzes
+History
+&
+Society
+Science
+&
+Tech
+Biographies
+Animals
+&
+Nature
+Geography
+&
+Travel
+Arts
+&
+Culture
+ProCon
+Money
+Videos
 
 conscience
 
-table of contents
+Table
+of
+Contents
 
-introduction references edit history related topics
+Introduction
+References
+&
+Edit
+History
+Related
+Topics
 
-related questions
+Related
+Questions
 
- when did science begin
-
-
- where was science invented
-
-
-
-read next
-
-wellbalanced of stones on the top of boulder
-
-what s the difference between morality and ethics
+-
+When
+did
+science
+begin
+?
 
 
-
-blackboard inscribed with scientific formulas and calculations in
-physics and mathematics
-
-the world science festival s pioneers in science
-
-laboratory glassware beakers
-
-5 quizzes that will tell you whether you should have been a scientist
-
-discover
-
-chapter 4 pg 42 chapter header of the adventures of tom sawyer by
-mark twain
-
- published in 1884 by the american publishing company
-
-periods of american literature
-
-a factory interior watercolor pen and gray ink graphite and white
-goache on wove paper by unknown artist c
-
- 187191 in the yale center
-for british art
-
- industrial revolution england
-
-inventors and inventions of the industrial revolution
-
-the colosseum rome italy
-
- giant amphitheatre built in rome under the
-flavian emperors
-
- ancient architecture architectural ruins
-
-new seven wonders of the world
-
-cathedrale st
-
-jean in lyon france has a 14thcentury astronomical
-clock that shows religious feast days till the year 2019 perpetual
-calendar
-
-ten days that vanished the switch to the gregorian calendar
-
-aphrodite
-
- greek mythology
-
- sculpture
-
- aphrodite is the greek goddess
-of love and beauty
+-
+Where
+was
+science
+invented
+?
 
 
 
-12 greek gods and goddesses
+Read
+Next
 
-baseball laying in the grass
+[Well-balanced
+of
+stones
+on
+the
+top
+of
+boulder]
 
- homepage blog 2010 arts and
-entertainment history and society sports and games athletics
+What’s
+the
+Difference
+Between
+Morality
+and
+Ethics
+?
 
-10 greatest baseball players of all time
 
-shadow of a man holding large knife in his hand inside of some dark
-spooky buiding
 
-7 of history s most notorious serial killers
+[Blackboard
+inscribed
+with
+scientific
+formulas
+and
+calculations
+in
+physics
+and
+mathematics]
 
-contents
+The
+World
+Science
+Festival’s
+Pioneers
+in
+Science
 
-philosophy religion ethical issues
+[Laboratory
+glassware
+(beakers)]
+
+5
+Quizzes
+That
+Will
+Tell
+You
+Whether
+You
+Should
+Have
+Been
+a
+Scientist
+
+Discover
+
+[Chapter
+4
+pg
+42
+-
+Chapter
+header
+of
+The
+Adventures
+of
+Tom
+Sawyer
+by
+Mark
+Twain
+.
+
+
+Published
+in
+1884
+by
+The
+American
+Publishing
+Company]
+
+Periods
+of
+American
+Literature
+
+[A
+Factory
+Interior
+,
+watercolor
+,
+pen
+and
+gray
+ink
+,
+graphite
+,
+and
+white
+goache
+on
+wove
+paper
+by
+unknown
+artist
+,
+c
+.
+
+
+1871-91
+;
+in
+the
+Yale
+Center
+for
+British
+Art
+.
+
+
+Industrial
+Revolution
+England]
+
+Inventors
+and
+Inventions
+of
+the
+Industrial
+Revolution
+
+[The
+Colosseum
+,
+Rome
+,
+Italy
+.
+
+
+Giant
+amphitheatre
+built
+in
+Rome
+under
+the
+Flavian
+emperors
+.
+
+
+(ancient
+architecture
+;
+architectural
+ruins)]
+
+New
+Seven
+Wonders
+of
+the
+World
+
+[Cathedrale
+St
+.
+
+Jean
+in
+Lyon
+,
+France
+has
+a
+14th-century
+astronomical
+clock
+that
+shows
+religious
+feast
+days
+till
+the
+year
+2019
+;
+Perpetual
+Calendar]
+
+Ten
+Days
+That
+Vanished
+:
+The
+Switch
+to
+the
+Gregorian
+Calendar
+
+[Aphrodite
+.
+
+
+Greek
+mythology
+.
+
+
+Sculpture
+.
+
+
+Aphrodite
+is
+the
+Greek
+goddess
+of
+love
+and
+beauty
+.
+
+]
+
+12
+Greek
+Gods
+and
+Goddesses
+
+[Baseball
+laying
+in
+the
+grass
+.
+
+
+Homepage
+blog
+2010
+,
+arts
+and
+entertainment
+,
+history
+and
+society
+,
+sports
+and
+games
+athletics]
+
+10
+Greatest
+Baseball
+Players
+of
+All
+Time
+
+[Shadow
+of
+a
+man
+holding
+large
+knife
+in
+his
+hand
+inside
+of
+some
+dark
+,
+spooky
+buiding]
+
+7
+of
+History
+'
+s
+Most
+Notorious
+Serial
+Killers
+
+Contents
+
+Philosophy
+&
+Religion
+Ethical
+Issues
 
 conscience
 
 psychology
 
-ask the chatbot a question
+Ask
+the
+Chatbot
+a
+Question
 
-more actions
+More
+Actions
 
-print
+Print
 
-cite
+Cite
 
-verifiedcite
+verifiedCite
 
-while every effort has been made to follow citation style rules there
-may be some discrepancies
+While
+every
+effort
+has
+been
+made
+to
+follow
+citation
+style
+rules
+,
+there
+may
+be
+some
+discrepancies
+.
 
- please refer to the appropriate style manual
-or other sources if you have any questions
+
+Please
+refer
+to
+the
+appropriate
+style
+manual
+or
+other
+sources
+if
+you
+have
+any
+questions
+.
 
 
 
-select citation style
+Select
+Citation
+Style
 
-mla apa chicago manual of style
+MLA
+APA
+Chicago
+Manual
+of
+Style
 
-copy citation
+Copy
+Citation
 
-share
+Share
 
-share
+Share
 
-share to social media
+Share
+to
+social
+media
 
-facebook x
+Facebook
+X
 
-url
+URL
 
-httpswww
+https
+://www
+.
 
 britannica
+.
 
-comtopicconscience
+com/topic/conscience
 
+Feedback
+
+External
+Websites
+
+Feedback
+
+Corrections
+?
+
+
+Updates
+?
+
+
+Omissions
+?
+
+
+Let
+us
+know
+if
+you
+have
+suggestions
+to
+improve
+this
+article
+(requires
+login)
+.
+
+
+
+Feedback
+Type
+Select
+a
+type
+(Required)
+Factual
+Correction
+Spelling/Grammar
+Correction
+Link
+Correction
+Additional
+Information
+Other
+
+Your
+Feedback
+
+Submit
+Feedback
+
+Thank
+you
+for
+your
 feedback
 
-external websites
-
-feedback
-
-corrections
-
- updates
-
- omissions
-
- let us know if you have suggestions to
-improve this article requires login
-
-
-
-feedback type select a type required factual correction
-spellinggrammar correction link correction additional information other
-
-your feedback
-
-submit feedback
-
-thank you for your feedback
-
-our editors will review what you ve submitted and determine whether to
-revise the article
+Our
+editors
+will
+review
+what
+you’ve
+submitted
+and
+determine
+whether
+to
+revise
+the
+article
+.
 
 
 
-external websites
+External
+Websites
 
- the catholic encyclopedia conscience
- national center for biotechnology information pubmed central 
- conscience and consciousness a definition
- stanford encyclopedia of philosophy medieval theories of
- conscience
+-
+The
+Catholic
+Encyclopedia
+-
+Conscience
+-
+National
+Center
+for
+Biotechnology
+Information
+-
+PubMed
+Central
+-
 
-ask the chatbot a question
+Conscience
+and
+Consciousness
+:
+a
+definition
+-
+Stanford
+Encyclopedia
+of
+Philosophy
+-
+Medieval
+Theories
+of
 
-written and factchecked by
+Conscience
 
-the editors of encyclopaedia britannica
+Ask
+the
+Chatbot
+a
+Question
 
-encyclopaedia britannica s editors oversee subject areas in which they
-have extensive knowledge whether from years of experience gained by
-working on that content or via study for an advanced degree
+Written
+and
+fact-checked
+by
 
- they write
-new content and verify and edit content received from contributors
+The
+Editors
+of
+Encyclopaedia
+Britannica
 
-
-
-the editors of encyclopaedia britannica
-
-article history
-
-table of contents
-
-table of contents
-
-ask the chatbot a question
-
-key people
- james martineau
-
-show more
-
-related topics
- morality
-
-show more
-
-see all related content
-
-conscience a personal sense of the moral content of one s own conduct
-intentions or character with regard to a feeling of obligation to do
-right or be good
-
- conscience usually informed by acculturation and
-instruction is thus generally understood to give intuitively
-authoritative judgments regarding the moral quality of single actions
-
-
-
-historically almost every culture has recognized the existence of such
-a faculty
-
- ancient egyptians for example were urged not to transgress
-against the dictates of the heart for one “must stand in fear of
-departing from its guidance
-
-” in some belief systems conscience is
-regarded as the voice of god and therefore a completely reliable guide
-of conduct among the hindus it is considered “the invisible god who
-dwells within us
-
-” among western religious groups the society of
-friends or quakers places particular emphasis on the role of
-conscience in apprehending and responding through conduct to the “inner
-light” of god
-
-
-
-outside the context of religion philosophers social scientists and
-psychologists have sought to understand conscience in both its
-individual and universal aspects
-
- the view that holds conscience to be
-an innate intuitive faculty determining the perception of right and
-wrong is called intuitionism
-
- the view that holds conscience to be a
-cumulative and subjective inference from past experience giving
-direction to future conduct is called empiricism
-
- the behavioral
-scientist on the other hand may view the conscience as a set of
-learned responses to particular social stimuli
-
- another explanation of
-conscience was put forth in the 20th century by sigmund freud in his
-postulation of the superego
-
- according to freud the superego is a major
-element of personality that is formed by the child s incorporation of
-moral values through parental approval or punishment
-
- the resulting
-internalized set of prohibitions condemnations and inhibitions is that
-part of the superego known as conscience
+Encyclopaedia
+Britannica
+'
+s
+editors
+oversee
+subject
+areas
+in
+which
+they
+have
+extensive
+knowledge
+,
+whether
+from
+years
+of
+experience
+gained
+by
+working
+on
+that
+content
+or
+via
+study
+for
+an
+advanced
+degree
+.
 
 
+They
+write
+new
+content
+and
+verify
+and
+edit
+content
+received
+from
+contributors
+.
 
-code of hammurabi
 
-more from britannica
 
-ethics butler on selfinterest and conscience
+The
+Editors
+of
+Encyclopaedia
+Britannica
+
+Article
+History
+
+Table
+of
+Contents
+
+Table
+of
+Contents
+
+Ask
+the
+Chatbot
+a
+Question
+
+Key
+People
+:
+
+James
+Martineau
+
+(Show more)
+
+Related
+Topics
+:
+
+morality
+
+(Show more)
+
+See
+all
+related
+content
+
+conscience
+,
+a
+personal
+sense
+of
+the
+moral
+content
+of
+one’s
+own
+conduct
+,
+intentions
+,
+or
+character
+with
+regard
+to
+a
+feeling
+of
+obligation
+to
+do
+right
+or
+be
+good
+.
+
+
+Conscience
+,
+usually
+informed
+by
+acculturation
+and
+instruction
+,
+is
+thus
+generally
+understood
+to
+give
+intuitively
+authoritative
+judgments
+regarding
+the
+moral
+quality
+of
+single
+actions
+.
+
+
+
+Historically
+,
+almost
+every
+culture
+has
+recognized
+the
+existence
+of
+such
+a
+faculty
+.
+
+
+Ancient
+Egyptians
+,
+for
+example
+,
+were
+urged
+not
+to
+transgress
+against
+the
+dictates
+of
+the
+heart
+,
+for
+one
+“must
+stand
+in
+fear
+of
+departing
+from
+its
+guidance
+.
+
+”
+In
+some
+belief
+systems
+,
+conscience
+is
+regarded
+as
+the
+voice
+of
+God
+and
+therefore
+a
+completely
+reliable
+guide
+of
+conduct
+:
+among
+the
+Hindus
+it
+is
+considered
+“the
+invisible
+God
+who
+dwells
+within
+us
+.
+
+”
+Among
+Western
+religious
+groups
+,
+the
+Society
+of
+Friends
+(or
+Quakers)
+places
+particular
+emphasis
+on
+the
+role
+of
+conscience
+in
+apprehending
+and
+responding
+through
+conduct
+to
+the
+“Inner
+Light”
+of
+God
+.
+
+
+
+Outside
+the
+context
+of
+religion
+,
+philosophers
+,
+social
+scientists
+,
+and
+psychologists
+have
+sought
+to
+understand
+conscience
+in
+both
+its
+individual
+and
+universal
+aspects
+.
+
+
+The
+view
+that
+holds
+conscience
+to
+be
+an
+innate
+,
+intuitive
+faculty
+determining
+the
+perception
+of
+right
+and
+wrong
+is
+called
+intuitionism
+.
+
+
+The
+view
+that
+holds
+conscience
+to
+be
+a
+cumulative
+and
+subjective
+inference
+from
+past
+experience
+giving
+direction
+to
+future
+conduct
+is
+called
+empiricism
+.
+
+
+The
+behavioral
+scientist
+,
+on
+the
+other
+hand
+,
+may
+view
+the
+conscience
+as
+a
+set
+of
+learned
+responses
+to
+particular
+social
+stimuli
+.
+
+
+Another
+explanation
+of
+conscience
+was
+put
+forth
+in
+the
+20th
+century
+by
+Sigmund
+Freud
+in
+his
+postulation
+of
+the
+superego
+.
+
+
+According
+to
+Freud
+,
+the
+superego
+is
+a
+major
+element
+of
+personality
+that
+is
+formed
+by
+the
+child’s
+incorporation
+of
+moral
+values
+through
+parental
+approval
+or
+punishment
+.
+
+
+The
+resulting
+internalized
+set
+of
+prohibitions
+,
+condemnations
+,
+and
+inhibitions
+is
+that
+part
+of
+the
+superego
+known
+as
+conscience
+.
+
+
+
+[Code
+of
+Hammurabi]
+
+More
+From
+Britannica
+
+ethics
+:
+Butler
+on
+self-interest
+and
+conscience

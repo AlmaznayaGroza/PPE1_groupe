@@ -1,942 +1,3414 @@
- 
- 
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
 
-skip to content
+Skip
+to
+content
 
- menu
+[]
+[]
+Menu
 
+[]
 
+-
+Health
+A-Z
 
- health az
- covid19
- arthritis
- type 2 diabetes
- heart disease
- digestive health
- multiple sclerosis
- view all 
- prevention treatment
- diet nutrition
- first aid
- surgery
- health care
- health insurance
- public health
- patient rights
- disability
- caregivers loved ones
- end of life concerns
- view all 
- news
- covid19
- health news
- tools resources
- thyroid test analyzer
- doctor discussion guides
- hemoglobin a1c test analyzer
- lipid test analyzer
- complete blood count cbc analyzer
- what to buy
- about us
- editorial process
- meet our medical expert board
+-
+COVID-19
 
-search 
+-
+Arthritis
 
-search 
+-
+Type
+2
+Diabetes
 
-go
+-
+Heart
+Disease
 
- health az
- covid19
- arthritis
- type 2 diabetes
- heart disease
- digestive health
- multiple sclerosis
- view all 
- prevention treatment
- diet nutrition
- first aid
- surgery
- view all 
- health care
- health insurance
- public health
- patient rights
- disability
- caregivers loved ones
- end of life concerns
- view all 
- news
- covid19
- health news
- view all 
+-
+Digestive
+Health
 
-more in end of life concerns
+-
+Multiple
+Sclerosis
 
- assisted living
- hospice care
- palliative care
- pain symptom control
- the dying process
- funeral memorial planning
- grief bereavement
+-
+View
+All
+[]
+-
+Prevention
+&
+Treatment
 
-view more 
+-
+Diet
+&
+Nutrition
 
-tools resources
+-
+First
+Aid
 
- thyroid test analyzer
- doctor discussion guides
- hemoglobin a1c test analyzer
- lipid test analyzer
- complete blood count cbc analyzer
- what to buy
+-
+Surgery
+-
+Health
+Care
 
- about us
- editorial process
- privacy policy
- contact us
+-
+Health
+Insurance
 
+-
+Public
+Health
 
+-
+Patient
+Rights
 
+-
+Disability
 
+-
+Caregivers
+&
+Loved
+Ones
 
-verywell health s content is for informational and educational purposes
+-
+End
+of
+Life
+Concerns
+
+-
+View
+All
+[]
+-
+News
+
+-
+COVID-19
+
+-
+Health
+News
+-
+Tools
+&
+Resources
+
+-
+Thyroid
+Test
+Analyzer
+
+-
+Doctor
+Discussion
+Guides
+
+-
+Hemoglobin
+A1c
+Test
+Analyzer
+
+-
+Lipid
+Test
+Analyzer
+
+-
+Complete
+Blood
+Count
+(CBC)
+Analyzer
+
+-
+What
+to
+Buy
+-
+About
+Us
+
+-
+Editorial
+Process
+
+-
+Meet
+Our
+Medical
+Expert
+Board
+
+Search
+[]
+
+Search
+[]
+
+GO
+
+-
+Health
+A-Z
+
+-
+COVID-19
+
+-
+Arthritis
+
+-
+Type
+2
+Diabetes
+
+-
+Heart
+Disease
+
+-
+Digestive
+Health
+
+-
+Multiple
+Sclerosis
+
+-
+View
+All
+[]
+-
+Prevention
+&
+Treatment
+
+-
+Diet
+&
+Nutrition
+
+-
+First
+Aid
+
+-
+Surgery
+
+-
+View
+All
+[]
+-
+Health
+Care
+
+-
+Health
+Insurance
+
+-
+Public
+Health
+
+-
+Patient
+Rights
+
+-
+Disability
+
+-
+Caregivers
+&
+Loved
+Ones
+
+-
+End
+of
+Life
+Concerns
+
+-
+View
+All
+[]
+-
+News
+
+-
+COVID-19
+
+-
+Health
+News
+
+-
+View
+All
+[]
+
+More
+in
+End
+of
+Life
+Concerns
+
+-
+Assisted
+Living
+-
+Hospice
+Care
+-
+Palliative
+Care
+-
+Pain
+&
+Symptom
+Control
+-
+The
+Dying
+Process
+-
+Funeral
+&
+Memorial
+Planning
+-
+Grief
+&
+Bereavement
+
+View
+More
+[]
+
+Tools
+&
+Resources
+
+-
+Thyroid
+Test
+Analyzer
+-
+Doctor
+Discussion
+Guides
+-
+Hemoglobin
+A1c
+Test
+Analyzer
+-
+Lipid
+Test
+Analyzer
+-
+Complete
+Blood
+Count
+(CBC)
+Analyzer
+-
+What
+to
+Buy
+
+-
+About
+Us
+-
+Editorial
+Process
+-
+Privacy
+Policy
+-
+Contact
+Us
+
+[]
+
+[]
+
+Verywell
+Health
+'
+s
+content
+is
+for
+informational
+and
+educational
+purposes
 only
-
- our website is not intended to be a substitute for professional
-medical advice diagnosis or treatment
+.
 
 
-
-Ⓒ 2025 dotdash media inc
-
- — all rights reserved
-
-end of life concerns
-
-an overview of level of consciousness loc
-
-patient awareness alertness and wakefulness
-
-by angela morrow rn
-
-updated on june 27 2024
-
- medically reviewed by david strosberg md
-
- fact checked by james lacy
-
-print 
-
-table of contents
-
-view all
-
-
-
-
-
-table of contents 
-
- normal loc
-
- altered loc
-
- coma classifications
-
-level of consciousness loc is a medical term used to describe how
-awake alert and aware you are
-
- it also refers to how well you respond
-to attempts to get your attention
-
- a person with an altered level of
-consciousness may have decreased cognitive function or be difficult to
-arouse
-
-
-
-a variety of medical conditions and drugs can affect your level of
-consciousness from having dementia or lethargy to being in a coma
-
-
-sometimes impaired consciousness is reversible while other times it is
+Our
+website
+is
 not
-
-
-
-this article covers normal and altered states of consciousness as well
-as coma classifications
-
-
-
-a man laying in a coma in the hospital
-
-caiaimage sam edwards ojo getty images
-
- what is consciousness
-
- 
-
-medical definitions say a normal loc means a person is either awake or
-can be readily awakened from normal sleep
-
- terms include
-
- consciousness a state in which a person is awake aware alert and
- responsive to stimuli
- decreased consciousness a person appears awake and aware of their
- surroundings conscious but is not responding normally acts
- confused odd or sleepy
-
-
- unconsciousness a person has a deficit in awareness and
- responsiveness to stimuli touch light sound
-
-sleeping is not considered unconsciousness if waking up would result in
-normal consciousness between consciousness and unconsciousness there are
-several altered levels each with its own definition
-
-
-
- altered level of consciousness 
-
-altered or abnormal levels of consciousness are states in which you
-either have decreased cognitive function or cannot be easily aroused
-
-
-
-most medical conditions affect the brain and impair consciousness when
-they become serious or lifethreatening
-
- an altered loc usually signals
-a serious medical problem
-
-
-
-are you at risk of altered level of consciousness
-
-
-
-if you are at risk for altered loc be sure to have the proper medical
-precautions in place
-
- for example wear a medical alert bracelet or
-download a phone app that lists your diagnoses medications and
-emergency contacts
-
- some apps can be accessed even when your phone is
-locked
-
- you may also want to designate a healthcare proxy to speak for
-you if you are unable
-
-
-
-often an altered loc can deteriorate rapidly from one stage to the
-next
-
- they require timely diagnosis and prompt treatment
-
-
-
- confusion 
-
-confusion describes disorientation that makes it difficult to
-
- reason
- provide a medical history
- participate in a medical examination
-
-causes include
-
- sleep deprivation
- fever
- medications
- alcohol intoxication
- recreational drug use
- postictal state recovering from a seizure
-
- delirium 
-
-delirium is a term for an acute confused state
-
- it involves impaired
-cognition thought processes and may include
-
- attention deficits
- sleepwake cycle changes
- hyperactivity agitation or hypoactivity apathy
- hallucinations seeing things that are not there or delusions
- false beliefs
- heart rate and blood pressure instability
-
-causes can include
-
- alcohol withdrawal
- recreational drugs
- medications
- severe infection or illness
- organ failure
-
-delirium risks and effects
-
- lethargy and somnolence 
-
-lethargy and somnolence sleepiness involve
-
- severe drowsiness
- listlessness
- apathy
- reduced alertness
-
-a lethargic person may need a gentle touch or verbal stimulation before
-they will respond
-
-
-
-causes can include
-
- severe illness or infection
- recreational drugs
- organ failure
-
- loc symptoms causes
- 
- normal wakefulness awareness alertness 
- confusion  disorientation inability to reason sleep deprivation fever drugsalcohol seizure recovery
- delirium  impaired cognition hallucinations delusions agitation or apathy unstable heart rate and blood pressure alcohol withdrawal drugs illness organ failure severe infection
- lethargy and somnolence severe drowsiness listlessness apathy reduced alertness severe illness severe infection drug use organ failure
- obtundation reduced alertness slow responses to stimuli prolonged periods of sleep drowsiness while awake poisoning stroke brain swelling blood infection advanced organ failure
- stupor minimal response to vigorous stimuli stroke drug overdose lack of oxygen brain swelling heart attack
- coma  unresponsiveness to all stimuli may lack gag reflex andor pupil response severely diminished brain function extreme blood loss organ failure brain damage
-
- obtundation 
-
-obtundation is reduced alertness with
-
- slow responses to stimuli
- need of repeated stimulation to maintain attention
- prolonged periods of sleep
- drowsiness between these periods
-
-causes can include
-
- poisoning
- stroke
- brain edema swelling
- sepsis a blood infection
- advanced organ failure
-
- stupor 
-
-someone in a stupor responds minimally to vigorous stimulation such as
-a pinched toe or light in the eyes
-
-
-
-causes can include
-
- stroke
- drug overdose
- lack of oxygen
- brain edema
- myocardial infarction heart attack
-
- coma 
-
-a person in a coma does not respond to any stimuli
-
- their pupils may not
-react to light and they may not have a gag reflex
-
-
-
-comas are caused by severely diminished brain function
-
- this is usually
-due to
-
- stroke
- alcohol poisoning
- extreme hyperglycemia or hypoglycemia
- extreme blood loss
- organ failure
- brain damage or infection
-
-what is myxedema coma
-
-
-
-the causes of altered loc may overlap
-
- for example the early stages of
-brain edema or organ failure can cause confusion but then advance
-rapidly through lethargy obtundation stupor and coma
-
-
-
- levels of consciousness assessment scale 
-
-levels of consciousness can be subdivided into levels that further
-clarify your degree of unresponsiveness
-
- that helps improve
-communication among healthcare providers as well as aiding in research
-
-
-
-several systems have been developed to standardize these
-classifications
-
- the most common classification systems are
-
- grady coma scale grades a coma from i to v
-
- grady is based on the
- state of awareness and response to stimuli e
-
-g
-
- name being called
- light pain deep pain
-
- grade i indicates confusion while v
- indicates coma no response to stimuli
-
-
- glasgow coma scale scores the level of consciousness from 1 to 15
- with 15 being normal loc
-
- this scale takes into account verbal
- motor and eye responses to stimuli
-
-
-
-nursing assessment of loc
-
-nurses may evaluate loc based on the following categories
-
- alert opens eyes spontaneously looks at the speaker when spoken to
- in a normal voice responds appropriately to stimuli and movements
- are purposeful
- lethargic appears drowsy but opens eyes to loud verbal stimuli
-
-
- looks at the speaker and responds to questions before falling back
- to sleep
-
-
- obtundation opens eyes with tactile stimuli and looks to the source
- but responds slowly and may be confused
- stupor awakens only after a painful stimulus is applied e
-
-g
-
-
- applying pressure to the nailbed
-
- verbal responses are slow or
- absent
-
- will fall into an unresponsive state when the stimulus
- stops
-
-
- coma unarouseable and eyes remain closed
-
- there are no purposeful
- responses to internal or external stimuli
-
- however nonpurposeful
- responses to painful stimuli and brain stem reflexes may still be
- present
-
-
-
- summary 
-
-levels of consciousness range from normal alertness and attention to
-gradations of altered states including confusion delirium stupor and
+intended
+to
+be
+a
+substitute
+for
+professional
+medical
+advice
+,
+diagnosis
+,
+or
+treatment
+.
+
+
+
+Ⓒ
+2025
+Dotdash
+Media
+,
+Inc
+.
+
+
+—
+All
+rights
+reserved
+
+End
+of
+Life
+Concerns
+
+An
+Overview
+of
+Level
+of
+Consciousness
+(LOC)
+
+Patient
+Awareness
+,
+Alertness
+,
+and
+Wakefulness
+
+By
+Angela
+Morrow
+,
+RN
+
+Updated
+on
+June
+27
+,
+2024
+
+[]
+Medically
+reviewed
+by
+David
+Strosberg
+,
+MD
+
+[]
+Fact
+checked
+by
+James
+Lacy
+
+Print
+[]
+
+Table
+of
+Contents
+
+View
+All
+
+[]
+
+[]
+
+Table
+of
+Contents
+[]
+
+-
+Normal
+LOC
+
+-
+Altered
+LOC
+
+-
+Coma
+Classifications
+
+"Level
+of
+consciousness"
+(LOC)
+is
+a
+medical
+term
+used
+to
+describe
+how
+awake
+,
+alert
+,
+and
+aware
+you
+are
+.
+
+
+It
+also
+refers
+to
+how
+well
+you
+respond
+to
+attempts
+to
+get
+your
+attention
+.
+
+
+A
+person
+with
+an
+altered
+level
+of
+consciousness
+may
+have
+decreased
+cognitive
+function
+or
+be
+difficult
+to
+arouse
+.
+
+
+
+A
+variety
+of
+medical
+conditions
+and
+drugs
+can
+affect
+your
+level
+of
+consciousness
+,
+from
+having
+dementia
+or
+lethargy
+to
+being
+in
+a
 coma
+.
+
+
+Sometimes
+impaired
+consciousness
+is
+reversible
+,
+while
+other
+times
+it
+is
+not
+.
 
 
 
-the same conditions may produce mild to severe states of altered loc
+This
+article
+covers
+normal
+and
+altered
+states
+of
+consciousness
+as
+well
+as
+coma
+classifications
+.
 
 
-sometimes there may be a rapid progression from a mild to a high stage
+
+[A
+man
+laying
+in
+a
+coma
+in
+the
+hospital]
+
+Caiaimage
+/
+Sam
+Edwards
+OJO+
+/
+Getty
+Images
+
+
+What
+Is
+Consciousness
+?
 
 
 
-coma scales can help describe the exact level of consciousness
+
+Medical
+definitions
+say
+a
+normal
+LOC
+means
+a
+person
+is
+either awake
+or
+can
+be
+readily
+awakened
+from
+normal
+sleep
+.
+
+
+Terms
+include
+:
+
+-
+Consciousness
+:
+A
+state
+in
+which
+a
+person
+is
+awake
+,
+aware
+,
+alert
+,
+and
+
+responsive
+to
+stimuli
+-
+Decreased
+consciousness
+:
+A
+person
+appears
+awake
+and
+aware
+of
+their
+
+surroundings
+(conscious)
+but
+is
+not
+responding
+normally
+(acts
+
+confused
+,
+odd
+,
+or
+sleepy)
+.
+
+
+-
+Unconsciousness
+:
+A
+person
+has
+a
+deficit
+in
+awareness
+and
+
+responsiveness
+to
+stimuli
+(touch
+,
+light
+,
+sound)
+
+Sleeping
+is
+not
+considered
+unconsciousness
+if
+waking
+up
+would
+result
+in
+normal
+consciousness
+Between
+consciousness
+and
+unconsciousness
+there
+are
+several
+altered
+levels
+,
+each
+with
+its
+own
+definition
+.
 
 
 
-best medical alert systems
 
-14 sources 
+Altered
+Level
+of
+Consciousness
 
-verywell health uses only highquality sources including peerreviewed
-studies to support the facts within our articles
 
- read our editorial
-process to learn more about how we factcheck and keep our content
-accurate reliable and trustworthy
+Altered
+or
+abnormal
+levels
+of
+consciousness
+are
+states
+in
+which
+you
+either
+have
+decreased
+cognitive
+function
+or
+cannot
+be
+easily
+aroused
+.
+
+
+
+Most
+medical
+conditions
+affect
+the
+brain
+and
+impair
+consciousness
+when
+they
+become
+serious
+or
+life-threatening
+.
+
+
+An
+altered
+LOC
+usually
+signals
+a
+serious
+medical
+problem
+.
+
+
+
+Are
+You
+at
+Risk
+of
+Altered
+Level
+of
+Consciousness
+?
+
+
+
+If
+you
+are
+at
+risk
+for
+altered
+LOC
+,
+be
+sure
+to
+have
+the
+proper
+medical
+precautions
+in
+place
+.
+
+
+For
+example
+,
+wear
+a
+medical
+alert
+bracelet
+or
+download
+a
+phone
+app
+that
+lists
+your
+diagnoses
+,
+medications
+,
+and
+emergency
+contacts
+.
+
+
+Some
+apps
+can
+be
+accessed
+even
+when
+your
+phone
+is
+locked
+.
+
+
+You
+may
+also
+want
+to
+designate
+a
+healthcare
+proxy
+to
+speak
+for
+you
+if
+you
+are
+unable
+.
+
+
+
+Often
+,
+an
+altered
+LOC
+can
+deteriorate
+rapidly
+from
+one
+stage
+to
+the
+next
+.
+
+
+They
+require
+timely
+diagnosis
+and
+prompt
+treatment
+.
+
+
+
+
+Confusion
+
+
+Confusion
+describes
+disorientation
+that
+makes
+it
+difficult
+to
+:
+
+-
+Reason
+-
+Provide
+a
+medical
+history
+-
+Participate
+in
+a
+medical
+examination
+
+Causes
+include
+:
+
+-
+Sleep
+deprivation
+-
+Fever
+-
+Medications
+-
+Alcohol
+intoxication
+-
+Recreational
+drug
+use
+-
+Postictal
+state
+(recovering
+from
+a
+seizure)
+
+
+Delirium
+
+
+Delirium
+is
+a
+term
+for
+an
+acute
+confused
+state
+.
+
+
+It
+involves
+impaired
+cognition
+(thought
+processes)
+and
+may
+include
+:
+
+-
+Attention
+deficits
+-
+Sleep-wake
+cycle
+changes
+-
+Hyperactivity
+(agitation)
+or
+hypoactivity
+(apathy)
+-
+Hallucinations
+(seeing
+things
+that
+are
+not
+there)
+or
+delusions
+
+(false
+beliefs)
+-
+Heart
+rate
+and
+blood
+pressure
+instability
+
+Causes
+can
+include
+:
+
+-
+Alcohol
+withdrawal
+-
+Recreational
+drugs
+-
+Medications
+-
+Severe
+infection
+or
+illness
+-
+Organ
+failure
+
+Delirium
+Risks
+and
+Effects
+
+
+Lethargy
+and
+Somnolence
+
+
+Lethargy
+and
+somnolence
+(sleepiness)
+involve
+:
+
+-
+Severe
+drowsiness
+-
+Listlessness
+-
+Apathy
+-
+Reduced
+alertness
+
+A
+lethargic person
+may
+need
+a
+gentle
+touch
+or
+verbal
+stimulation
+before
+they
+will
+respond
+.
+
+
+
+Causes
+can
+include
+:
+
+-
+Severe
+illness
+or
+infection
+-
+Recreational
+drugs
+-
+Organ
+failure
+
+
+LOC
+Symptoms
+Causes
+
+-------------------------
+------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+Normal
+Wakefulness
+,
+awareness
+,
+alertness
+
+
+Confusion 
+Disorientation
+,
+inability
+to
+reason
+Sleep
+deprivation
+,
+fever
+,
+drugs/alcohol
+,
+seizure
+recovery
+
+Delirium 
+Impaired
+cognition
+,
+hallucinations
+,
+delusions
+,
+agitation
+or
+apathy
+,
+unstable
+heart
+rate
+and
+blood
+pressure
+Alcohol
+withdrawal
+,
+drugs
+,
+illness
+,
+organ
+failure
+,
+severe
+infection
+
+Lethargy
+and
+somnolence
+Severe
+drowsiness
+,
+listlessness
+,
+apathy
+,
+reduced
+alertness
+Severe
+illness
+,
+severe
+infection
+,
+drug
+use
+,
+organ
+failure
+
+Obtundation
+Reduced
+alertness
+,
+slow
+responses
+to
+stimuli
+,
+prolonged
+periods
+of
+sleep
+,
+drowsiness
+while
+awake
+Poisoning
+,
+stroke
+,
+brain
+swelling
+,
+blood
+infection
+,
+advanced
+organ
+failure
+
+Stupor
+Minimal
+response
+to
+vigorous
+stimuli
+Stroke
+,
+drug
+overdose
+,
+lack
+of
+oxygen
+,
+brain
+swelling
+,
+heart
+attack
+
+Coma 
+Unresponsiveness
+to
+all
+stimuli
+,
+may
+lack
+gag
+reflex
+and/or
+pupil
+response
+Severely
+diminished
+brain
+function
+,
+extreme
+blood
+loss
+,
+organ
+failure
+,
+brain
+damage
+
+
+Obtundation
+
+
+Obtundation
+is
+reduced
+alertness
+with
+:
+
+-
+Slow
+responses
+to
+stimuli
+-
+Need
+of
+repeated
+stimulation
+to
+maintain
+attention
+-
+Prolonged
+periods
+of
+sleep
+-
+Drowsiness
+between
+these
+periods
+
+Causes
+can
+include
+:
+
+-
+Poisoning
+-
+Stroke
+-
+Brain
+edema
+(swelling)
+-
+Sepsis
+(a
+blood
+infection)
+-
+Advanced
+organ
+failure
+
+
+Stupor
+
+
+Someone
+in
+a
+stupor
+responds
+minimally
+to
+vigorous
+stimulation
+,
+such
+as
+a
+pinched
+toe
+or
+light
+in
+the
+eyes
+.
+
+
+
+Causes
+can
+include
+:
+
+-
+Stroke
+-
+Drug
+overdose
+-
+Lack
+of
+oxygen
+-
+Brain
+edema
+-
+Myocardial
+infarction
+(heart
+attack)
+
+
+Coma
+
+
+A
+person
+in
+a
+coma
+does
+not
+respond
+to
+any
+stimuli
+.
+
+
+Their
+pupils
+may
+not
+react
+to
+light
+,
+and
+they
+may
+not
+have
+a
+gag
+reflex
+.
+
+
+
+Comas
+are
+caused
+by
+severely
+diminished
+brain
+function
+.
+
+
+This
+is
+usually
+due
+to
+:
+
+-
+Stroke
+-
+Alcohol
+poisoning
+-
+Extreme
+hyperglycemia
+or
+hypoglycemia
+-
+Extreme
+blood
+loss
+-
+Organ
+failure
+-
+Brain
+damage
+or
+infection
+
+What
+Is
+Myxedema
+Coma
+?
+
+
+
+The
+causes
+of
+altered
+LOC
+may
+overlap
+.
+
+
+For
+example
+,
+the
+early
+stages
+of
+brain
+edema
+or
+organ
+failure
+can
+cause
+confusion
+but
+then
+advance
+rapidly
+through
+lethargy
+,
+obtundation
+,
+stupor
+,
+and
+coma
+.
+
+
+
+
+Levels
+of
+Consciousness
+Assessment
+Scale
+
+
+Levels
+of
+consciousness
+can
+be
+subdivided
+into
+levels
+that
+further
+clarify
+your
+degree
+of
+unresponsiveness
+.
+
+
+That
+helps
+improve
+communication
+among
+healthcare
+providers
+as
+well
+as
+aiding
+in
+research
+.
+
+
+
+Several
+systems
+have
+been
+developed
+to
+standardize
+these
+classifications
+.
+
+
+The
+most
+common
+classification
+systems
+are
+:
+
+-
+Grady
+Coma
+Scale
+:
+Grades
+a
+coma
+from
+I
+to
+V
+.
+
+
+Grady
+is
+based
+on
+the
+
+state
+of
+awareness
+and
+response
+to
+stimuli
+(e
+.
+
+g
+.
+
+
+,
+name
+being
+called
+,
+
+light
+pain
+,
+deep
+pain)
+.
+
+
+Grade
+I
+indicates
+confusion
+,
+while
+V
+
+indicates
+coma
+(no
+response
+to
+stimuli)
+.
+
+
+-
+Glasgow
+Coma
+Scale
+:
+Scores
+the
+level
+of
+consciousness
+from
+1
+to
+15
+,
+
+with
+15
+being
+normal
+LOC
+.
+
+
+This
+scale
+takes
+into
+account
+verbal
+,
+
+motor
+,
+and
+eye
+responses
+to
+stimuli
+.
+
+
+
+Nursing
+Assessment
+of
+LOC
+
+Nurses
+may
+evaluate
+LOC
+based
+on
+the
+following
+categories
+:
+
+-
+Alert
+:
+Opens
+eyes
+spontaneously
+,
+looks
+at
+the
+speaker
+when
+spoken
+to
+
+in
+a
+normal
+voice
+,
+responds
+appropriately
+to
+stimuli
+,
+and
+movements
+
+are
+purposeful
+-
+Lethargic
+:
+Appears
+drowsy
+but
+opens
+eyes
+to
+loud
+verbal
+stimuli
+.
+
+
+
+Looks
+at
+the
+speaker
+and
+responds
+to
+questions
+before
+falling
+back
+
+to
+sleep
+.
+
+
+-
+Obtundation
+:
+Opens
+eyes
+with
+tactile
+stimuli
+and
+looks
+to
+the
+source
+
+but
+responds
+slowly
+and
+may
+be
+confused
+-
+Stupor
+:
+Awakens
+only
+after
+a
+painful
+stimulus
+is
+applied
+(e
+.
+
+g
+.
+
+
+,
+
+applying
+pressure
+to
+the
+nailbed)
+.
+
+
+Verbal
+responses
+are
+slow
+or
+
+absent
+.
+
+
+Will
+fall
+into
+an
+unresponsive
+state
+when
+the
+stimulus
+
+stops
+.
+
+
+-
+Coma
+:
+Unarouseable
+and
+eyes
+remain
+closed
+.
+
+
+There
+are
+no
+purposeful
+
+responses
+to
+internal
+or
+external
+stimuli
+.
+
+
+However
+,
+nonpurposeful
+
+responses
+to
+painful
+stimuli
+and
+brain
+stem
+reflexes
+may
+still
+be
+
+present
+.
+
+
+
+
+Summary
+
+
+Levels
+of
+consciousness
+range
+from
+normal
+alertness
+and
+attention
+to
+gradations
+of
+altered
+states
+,
+including
+confusion
+,
+delirium
+,
+stupor
+,
+and
+coma
+.
+
+
+
+The
+same
+conditions
+may
+produce
+mild
+to
+severe
+states
+of
+altered
+LOC
+.
+
+
+Sometimes
+,
+there
+may
+be
+a
+rapid
+progression
+from
+a
+mild
+to
+a
+high
+stage
+.
+
+
+
+Coma
+scales
+can
+help
+describe
+the
+exact
+level
+of
+consciousness
+.
+
+
+
+Best
+Medical
+Alert
+Systems
+
+14
+Sources
+[]
+[]
+
+Verywell
+Health
+uses
+only
+high-quality
+sources
+,
+including
+peer-reviewed
+studies
+,
+to
+support
+the
+facts
+within
+our
+articles
+.
+
+
+Read
+our
+editorial
+process
+to
+learn
+more
+about
+how
+we
+fact-check
+and
+keep
+our
+content
+accurate
+,
+reliable
+,
+and
+trustworthy
+.
 
 
 
 1
+.
 
- edlow bl claassen j schiff nd greer dm
 
- recovery from disorders
- of consciousness mechanisms prognosis and emerging therapies
+Edlow
+BL
+,
+Claassen
+J
+,
+Schiff
+ND
+,
+Greer
+DM
+.
 
- nat
- rev neurol
 
- 2021173135156
+Recovery
+from
+disorders
 
- doi10
+of
+consciousness
+:
+mechanisms
+,
+prognosis
+and
+emerging
+therapies
+.
 
-1038s4158202000428x
+ Nat
+
+Rev
+Neurol
+.
+
+
+2021
+;17(3)
+:135-156
+.
+
+
+doi
+:10
+.
+
+1038/s41582-020-00428-x
 
 2
+.
 
- new york presbyterian
 
- level of consciousness
+New
+York
+Presbyterian
+.
+
+
+Level
+Of
+Consciousness
+.
 
 
 
 3
+.
 
- national cancer institute
 
- confusion
+National
+Cancer
+Institute
+.
+
+
+Confusion
+.
 
 
 
 4
+.
 
- medlineplus
 
- delirium
+MedlinePlus
+.
+
+
+Delirium
+.
 
 
 
 5
-
- zaal ij van der kooi aw van schelven lj oey pl slooter aj
-
- heart
- rate variability in intensive care unit patients with delirium
-
- j
- neuropsychiatry clin neurosci
-
- 2015272e112e116
+.
 
 
- doi10
+Zaal
+IJ
+,
+van
+der
+Kooi
+AW
+,
+van
+Schelven
+LJ
+,
+Oey
+PL
+,
+Slooter
+AJ
+.
 
-1176appi
+
+Heart
+
+rate
+variability
+in
+intensive
+care
+unit
+patients
+with
+delirium
+.
+
+ J
+
+Neuropsychiatry
+Clin
+Neurosci
+.
+
+
+2015
+;27(2)
+:e112-e116
+.
+
+
+
+doi
+:10
+.
+
+1176/appi
+.
 
 neuropsych
+.
 
 13090213
 
 6
-
- edmunds sm ajizian sj liguori a
-
- acute obtundation in a
- 9monthold patient ethanol ingestion
-
- pediatr emerg care
+.
 
 
- 20143010739741
+Edmunds
+SM
+,
+Ajizian
+SJ
+,
+Liguori
+A
+.
 
- doi10
 
-1097pec
+Acute
+obtundation
+in
+a
+
+9-month-old
+patient
+:
+ethanol
+ingestion
+.
+
+ Pediatr
+Emerg
+Care
+.
+
+
+
+2014
+;30(10)
+:739-741
+.
+
+
+doi
+:10
+.
+
+1097/PEC
+.
 
 0000000000000240
 
 7
+.
 
- cadena r
 
- cervical artery dissection early recognition and stroke
- prevention
+Cadena
+R
+.
 
- emerg med pract
 
- 2016187124
+Cervical
+artery
+dissection
+:
+early
+recognition
+and
+stroke
+
+prevention
+.
+
+ Emerg
+Med
+Pract
+.
+
+
+2016
+;18(7)
+:1-24
+.
 
 
 
 8
-
- tandukar s rondonberrios h
-
- treatment of severe symptomatic
- hyponatremia
-
- physiol rep
-
- 2019721e14265
+.
 
 
- doi10
+Tandukar
+S
+,
+Rondon-Berrios
+H
+.
 
-14814phy2
+
+Treatment
+of
+severe
+symptomatic
+
+hyponatremia
+.
+
+ Physiol
+Rep
+.
+
+
+2019
+;7(21)
+:e14265
+.
+
+
+
+doi
+:10
+.
+
+14814/phy2
+.
 
 14265
 
 9
-
- vincent jl
-
- sepsis and infection two words that should not be
- confused
-
- front med lausanne
-
- 2023101156732
+.
 
 
- doi10
+Vincent
+JL
+.
 
-3389fmed
+
+Sepsis
+and
+infection
+:
+two
+words
+that
+should
+not
+be
+
+confused
+.
+
+ Front
+Med
+(Lausanne)
+.
+
 
 2023
+;10
+:1156732
+.
+
+
+
+doi
+:10
+.
+
+3389/fmed
+.
+
+2023
+.
 
 1156732
 
 10
+.
 
- merck manual consumer version
 
- stupor and coma
+Merck
+Manual
+Consumer
+Version
+.
+
+
+Stupor
+and
+coma
+.
 
 
 
 11
+.
 
- headway the brain injury association
 
- coma and reduced awareness
- states
+Headway
+:
+The
+Brain
+Injury
+Association
+.
+
+
+Coma
+and
+reduced
+awareness
+
+states
+.
 
 
 
 12
+.
 
- opara ja małecka e szczygiel j
 
- clinimetric measurement in
- traumatic brain injuries
+Opara
+JA
+,
+Małecka
+E
+,
+Szczygiel
+J
+.
 
- j med life
 
- 201472124127
+Clinimetric
+measurement
+in
+
+traumatic
+brain
+injuries
+.
+
+
+J
+Med
+Life
+.
+
+
+2014
+;7(2)
+:124-127
+.
 
 
 
 13
-
- reith fcm lingsma hf gabbe bj lecky fe roberts i maas air
-
-
- differential effects of the glasgow coma scale score and its
- components an analysis of 54069 patients with traumatic brain
- injury
-
- injury
-
- 201748919321943
+.
 
 
- doi10
+Reith
+FCM
+,
+Lingsma
+HF
+,
+Gabbe
+BJ
+,
+Lecky
+FE
+,
+Roberts
+I
+,
+Maas
+AIR
+.
 
-1016j
+
+
+Differential
+effects
+of
+the
+Glasgow
+Coma
+Scale
+Score
+and
+its
+
+components
+:
+An
+analysis
+of
+54
+,069
+patients
+with
+traumatic
+brain
 
 injury
+.
+
+
+Injury
+.
+
 
 2017
+;48(9)
+:1932-1943
+.
+
+
+
+doi
+:10
+.
+
+1016/j
+.
+
+injury
+.
+
+2017
+.
 
 05
+.
 
 038
 
 14
-
- lippincott nursing center
-
- assessing level of consciousness
+.
 
 
-
-additional reading
-
- vasilevskis ee chandrasekhar r holtze ch et al
-
- the cost of icu
- delirium and coma in the intensive care unit patient
-
- med care
+Lippincott
+Nursing
+Center
+.
 
 
- 20185610890897
+Assessing
+Level
+of
+Consciousness
+.
 
- doi10
 
-1097mlr
+
+Additional
+Reading
+
+-
+Vasilevskis
+EE
+,
+Chandrasekhar
+R
+,
+Holtze
+CH
+,
+et
+al
+.
+
+
+The
+cost
+of
+ICU
+
+delirium
+and
+coma
+in
+the
+intensive
+care
+unit
+patient
+.
+
+
+Med
+Care
+.
+
+
+
+2018
+;56(10)
+:890-897
+.
+
+
+doi
+:10
+.
+
+1097/MLR
+.
 
 0000000000000975
 
-angela morrow
+[Angela
+Morrow]
 
-by angela morrow rn
-angela morrow rn bsn chpn is a certified hospice and palliative care
+By
+Angela
+Morrow
+,
+RN
+Angela
+Morrow
+,
+RN
+,
+BSN
+,
+CHPN
+,
+is
+a
+certified
+hospice
+and
+palliative
+care
 nurse
+.
 
 
 
- see our editorial process
+[]
+See
+Our
+Editorial
+Process
 
- meet our medical expert board
+[]
+Meet
+Our
+Medical
+Expert
+Board
 
+[]
 
+Share
+Feedback
 
-share feedback
-
-was this page helpful
-
-
-
-thanks for your feedback
-
-
-
-what is your feedback
-
-
-
-other
-
-helpful
-
-report an error
-
-
-
-submit
-
-related articles
-
-elderly patient
-
-reviewing and reconciling your life before you die
-
-death doula
-
-services a death doula provides
-
-couple sitting on couch talking to a healthcare provider
-
-what s the difference between palliative care and hospice
-
-
-
-man sitting on a bed staring ahead
-
-four stages of grief and tasks of mourning
-
-holding hands
-
-end of life symptoms from colon cancer
-
-two cars involved in a car accident
-
-top 10 causes of death for americans ages 20 to 24
-
-physical and mental changes before death loved one is dying
-
-does a person know when they are dying
-
-
-
-elderly man with his wife as his wife begins the dying process
-
-stages of dying and the loss of a loved one
-
-a fatal car accident
-
-top causes of death for ages 25–44
-
-half winter landscape symbolizing the changes in the body after death
-
-what happens when you die
-
-
-
-person laying in hospital bed looking out window
-
-euthanasia understanding the qualifying factors and legality
-
-people at a viewing
-
-differences between a wake funeral and visitation
-
-woman in park grieving
-
-5 stages of grief when facing a terminal diagnosis
-
- morgue in hospital low angle view 
-
-what is thanatology
-
-
-
-mixed race woman holding medication pills
-
-how often should pain medications be taken
-
-
-
-adult daughter comforting her father
-
-6 characteristics to look for when choosing a power of attorney
-
-
-
-daily health tips to your inbox
-
-email address
-
-sign up
-
-you re in
-
-
-
-thank you form
-
-email for signing up
-
-
-
-there was an error
-
- please try again
-
-
-
- health az
- prevention treatment
- health care
- news
-
- meet our medical expert board
- about us
- editorial process
- diversity pledge
- privacy policy
- in the news
- advertise
- terms of service
- careers
- contact
- eu privacy
-
-follow us
-
- 
- 
- 
- 
-
-
-
-
-
-verywell health s content is for informational and educational purposes
-only
-
- our website is not intended to be a substitute for professional
-medical advice diagnosis or treatment
-
-
-
-Ⓒ 2025 dotdash media inc
-
- — all rights reserved
-
-
-
-verywell health is part of the dotdash meredith publishing family
-
-
-
-
-
-we care about your privacy
-
-we and our 100 partners store andor access information on a device
-such as unique ids in cookies to process personal data
-
- you may accept
-or manage your choices by clicking below including your right to object
-where legitimate interest is used or at any time in the privacy policy
+Was
+this
 page
-
- these choices will be signaled to our partners and will not affect
-browsing data
-
+helpful
+?
 
 
-we and our partners process data to provide
 
-store andor access information on a device
+Thanks
+for
+your
+feedback
+!
 
- use limited data to select
+
+
+What
+is
+your
+feedback
+?
+
+
+
+Other
+
+Helpful
+
+Report
+an
+Error
+
+[]
+
+Submit
+
+Related
+Articles
+
+[Elderly
+patient]
+
+Reviewing
+and
+Reconciling
+Your
+Life
+Before
+You
+Die
+
+[death
+doula]
+
+Services
+a
+Death
+Doula
+Provides
+
+[Couple
+sitting
+on
+couch
+talking
+to
+a
+healthcare
+provider]
+
+What’s
+the
+Difference
+Between
+Palliative
+Care
+and
+Hospice
+?
+
+
+
+[Man
+sitting
+on
+a
+bed
+staring
+ahead]
+
+Four
+Stages
+of
+Grief
+and
+Tasks
+of
+Mourning
+
+[Holding
+hands]
+
+End
+of
+Life
+Symptoms
+From
+Colon
+Cancer
+
+[Two
+cars
+involved
+in
+a
+car
+accident]
+
+Top
+10
+Causes
+of
+Death
+for
+Americans
+Ages
+20
+to
+24
+
+[Physical
+and
+Mental
+Changes
+Before
+Death
+,
+loved
+one
+is
+dying]
+
+Does
+a
+Person
+Know
+When
+They
+Are
+Dying
+?
+
+
+
+[Elderly
+man
+with
+his
+wife
+as
+his
+wife
+begins
+the
+dying
+process]
+
+Stages
+of
+Dying
+and
+the
+Loss
+of
+a
+Loved
+One
+
+[A
+fatal
+car
+accident]
+
+Top
+Causes
+of
+Death
+for
+Ages
+25–44
+
+[half
+winter
+landscape
+symbolizing
+the
+changes
+in
+the
+body
+after
+death]
+
+What
+Happens
+When
+You
+Die
+?
+
+
+
+[person
+laying
+in
+hospital
+bed
+looking
+out
+window]
+
+Euthanasia
+:
+Understanding
+the
+Qualifying
+Factors
+and
+Legality
+
+[People
+at
+a
+viewing]
+
+Differences
+Between
+a
+Wake
+,
+Funeral
+,
+and
+Visitation
+
+[Woman
+in
+park
+,
+grieving]
+
+5
+Stages
+of
+Grief
+When
+Facing
+a
+Terminal
+Diagnosis
+
+[
+'
+Morgue
+in
+hospital
+,
+low
+angle
+view
+'
+]
+
+What
+Is
+Thanatology
+?
+
+
+
+[Mixed
+race
+woman
+holding
+medication
+pills]
+
+How
+Often
+Should
+Pain
+Medications
+Be
+Taken
+?
+
+
+
+[adult
+daughter
+comforting
+her
+father]
+
+6
+Characteristics
+to
+Look
+for
+When
+Choosing
+a
+Power
+of
+Attorney
+
+[]
+
+Daily
+Health
+Tips
+to
+Your
+Inbox
+
+Email
+Address
+
+Sign
+Up
+
+You
+'
+re
+in
+!
+
+
+
+Thank
+you
+,
+{{form
+.
+
+email}}
+,
+for
+signing
+up
+.
+
+
+
+There
+was
+an
+error
+.
+
+
+Please
+try
+again
+.
+
+
+
+-
+Health
+A-Z
+-
+Prevention
+&
+Treatment
+-
+Health
+Care
+-
+News
+
+-
+Meet
+Our
+Medical
+Expert
+Board
+-
+About
+Us
+-
+Editorial
+Process
+-
+Diversity
+Pledge
+-
+Privacy
+Policy
+-
+In
+the
+News
+-
+Advertise
+-
+Terms
+of
+Service
+-
+Careers
+-
+Contact
+-
+EU
+Privacy
+
+Follow
+Us
+
+-
+[]
+-
+[]
+-
+[]
+-
+[]
+
+[]
+
+[]
+
+Verywell
+Health
+'
+s
+content
+is
+for
+informational
+and
+educational
+purposes
+only
+.
+
+
+Our
+website
+is
+not
+intended
+to
+be
+a
+substitute
+for
+professional
+medical
+advice
+,
+diagnosis
+,
+or
+treatment
+.
+
+
+
+Ⓒ
+2025
+Dotdash
+Media
+,
+Inc
+.
+
+
+—
+All
+rights
+reserved
+
+[]
+
+Verywell
+Health
+is
+part
+of
+the
+Dotdash
+Meredith publishing family
+.
+
+
+
+[]
+
+We
+Care
+About
+Your
+Privacy
+
+We
+and
+our
+100
+partners
+store
+and/or
+access
+information
+on
+a
+device
+,
+such
+as
+unique
+IDs
+in
+cookies
+to
+process
+personal
+data
+.
+
+
+You
+may
+accept
+or
+manage
+your
+choices
+by
+clicking
+below
+,
+including
+your
+right
+to
+object
+where
+legitimate
+interest
+is
+used
+,
+or
+at
+any
+time
+in
+the
+privacy
+policy
+page
+.
+
+
+These
+choices
+will
+be
+signaled
+to
+our
+partners
+and
+will
+not
+affect
+browsing
+data
+.
+
+
+
+We
+and
+our
+partners
+process
+data
+to
+provide
+:
+
+Store
+and/or
+access
+information
+on
+a
+device
+.
+
+
+Use
+limited
+data
+to
+select
 advertising
+.
 
- create profiles for personalised advertising
 
- use profiles
-to select personalised advertising
+Create
+profiles
+for
+personalised
+advertising
+.
 
- create profiles to personalise
+
+Use
+profiles
+to
+select
+personalised
+advertising
+.
+
+
+Create
+profiles
+to
+personalise
 content
+.
 
- use profiles to select personalised content
 
- measure
-advertising performance
+Use
+profiles
+to
+select
+personalised
+content
+.
 
- measure content performance
 
- understand
-audiences through statistics or combinations of data from different
+Measure
+advertising
+performance
+.
+
+
+Measure
+content
+performance
+.
+
+
+Understand
+audiences
+through
+statistics
+or
+combinations
+of
+data
+from
+different
 sources
+.
 
- develop and improve services
 
- use limited data to select
+Develop
+and
+improve
+services
+.
+
+
+Use
+limited
+data
+to
+select
 content
+.
 
- list of partners vendors
 
-accept all
+List
+of
+Partners
+(vendors)
 
-reject all
+Accept
+All
 
-show purposes
+Reject
+All
+
+Show
+Purposes

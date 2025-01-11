@@ -1,119 +1,433 @@
-disambiguation
+(disambiguation)
+.
 
 
 
-not to be confused with conscience or conscientiousness
+Not
+to
+be
+confused
+with
+Conscience
+or
+Conscientiousness
+.
 
 
 
+[]
+---------------
+writing
+in
+Latin
+,
+is
+generally
+taken
+to
+be
+the
+first
+philosopher
+to
+use
+conscientia
+in
+a
+way
+less
+like
+the
+traditional
+meaning
+and
+more
+like
+the
+way
+modern
+English
+speakers
+would
+use
+"conscience"
+,
+his
+meaning
+is
+nowhere
+defined
+.
 
+^([12])
+In
+Search
+after
+Truth
+(Regulæ
+ad
+directionem
+ingenii
+ut
+et
+inquisitio
+veritatis
+per
+lumen
+naturale
+,
+Amsterdam
+1701)
+he
+wrote
+the
+word
+with
+a
+gloss
+:
+conscientiâ
+,
+vel
+interno
+testimonio
+(translatable
+as
+"conscience
+,
+or
+internal
+testimony")
+.
 
-writing in latin is generally taken to be the first philosopher to use
-conscientia in a way less like the traditional meaning and more like the
-way modern english speakers would use conscience his meaning is
-nowhere defined
+^([13][14])
+It
+might
+mean
+the
+knowledge
+of
+the
+value
+of
+one
+'
+s
+own
+thoughts
+.
 
-12 in search after truth regulæ ad directionem
-ingenii ut et inquisitio veritatis per lumen naturale amsterdam 1701
-he wrote the word with a gloss conscientiâ vel interno testimonio
-translatable as conscience or internal testimony
+^([12])
 
-1314 it
-might mean the knowledge of the value of one s own thoughts
+---------------
+celebrated
+Dictionary
+(1755)
+.
 
-12
+^([17])
 
-
-celebrated dictionary 1755
-
-17
-
-the french term conscience is defined roughly like english
-consciousness in the 1753 volume of diderot and d alembert s
-encyclopédie as the opinion or internal feeling that we ourselves have
-
+The
+French
+term
+conscience
+is
+defined
+roughly
+like
+English
+"consciousness"
+in
+the
+1753
+volume
+of
+Diderot
+and
+d
+'
+Alembert
+'
+s
+Encyclopédie
+as
+"the
+opinion
+or
+internal
+feeling
+that
+we
+ourselves
+have
+---------------
 6
-
- barfield o 1962 1926
-
- history in english words 239 pgs
-
- paper
- covered ed
+.
 
 
+^
+Barfield
+O
+(1962)
+[1926]
+.
 
- london faber and faber limited
+
+History
+in
+English
+Words
+(239
+pgs
+.
+
+
+paper
+
+covered ed
+.
+
+)
+.
+
+
+London
+:
+Faber
+and
+Faber
+Limited
+.
 
 
 7
+.
 
- c
 
- s
+^
+C
+.
 
- lewis 1990
 
- ch
+S
+.
 
- 8 conscience and conscious
 
- studies in
- words
+Lewis
+(1990)
+.
 
- cambridge university press
 
- isbn 9780521398312
+"Ch
+.
 
 
 8
+:
+Conscience
+and
+conscious"
+.
 
- thomas hobbes 1904
 
- leviathan or the matter forme power of
+Studies
+in
 
- translated by scott st
+words
+.
 
- louis
 
- ann arbor michigan publishing
- university of michigan library 2014
+Cambridge
+University
+Press
+.
 
- originally published as
- conscience encyclopédie ou dictionnaire raisonné des sciences
- des arts et des métiers 3902 paris 1753
+
+ISBN 978-0-521-39831-2
+.
+
+
+8
+.
+
+
+^
+Thomas
+Hobbes
+(1904)
+.
+
+
+Leviathan
+:
+or
+,
+The
+Matter
+,
+Forme
+&
+Power
+of
+---------------
+
+Translated
+by
+Scott
+St
+.
+
+
+Louis
+.
+
+
+Ann
+Arbor
+:
+Michigan
+Publishing
+,
+
+University
+of
+Michigan
+Library
+,
+2014
+.
+
+
+Originally
+published
+as
+
+"Conscience
+,"
+Encyclopédie
+ou
+Dictionnaire
+raisonné
+des
+sciences
+,
+
+des
+arts
+et
+des
+métiers
+,
+3
+:902
+(Paris
+,
+1753)
+.
 
 
 19
+.
 
- vimal rl sansthana da 2010
 
- on the quest of defining
+^
+Vimal
+RL
+,
+Sansthana
+DA
+(2010)
+.
 
- consciousness pdf
 
- behavior of organisms laboratory
+"On
+the
+Quest
+of
+Defining
+---------------
+
+Consciousness"
+(PDF)
+.
+
+
+Behavior
+of
+Organisms
+Laboratory
+.
 
 
 33
-
- a b frith c metzinger t march 2016
-
- what s the use of
- consciousness
-
- how the stab of conscience made us really conscious
+.
 
 
- in engel ak ed
+^
+^(a)
+^(b)
+Frith
+C
+,
+Metzinger
+T
+(March
+2016)
+.
+
+
+"What
+'
+s
+the
+Use
+of
+
+Consciousness
+?
+
+
+How
+the
+Stab
+of
+Conscience
+Made
+Us
+Really
+Conscious"
+.
 
 
 
- the pragmatic turn toward actionoriented views
- in cognitive science
+In
+Engel
+AK
+(ed
+.
 
- pp
+)
+.
+
+
+The
+Pragmatic
+Turn
+:
+Toward
+Action-Oriented
+Views
+
+in
+Cognitive
+Science
+.
+
+
+pp
+.
 
  193–214
+.
 
 
