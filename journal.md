@@ -59,3 +59,9 @@ J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les co
 - Ajout des dossiers de la troisième langue 
 - Petit problème avec l'envoie de certains fichiers
 - Modification et ajout de certaines informations sur le script de la pages (site) 
+
+## (Marina) 11/01 
+
+- Upload les nouveaux dossiers via les nouveaux Scripts
+- Création complète d'une clé SSH
+- Entrain de définir les mots pour la langue Es dans l'Index.html 
