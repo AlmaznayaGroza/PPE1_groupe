@@ -51,6 +51,12 @@ J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les co
 - ajout du numéro de ligne à chaque itération ("Analyse de l'URL n°$lineno :")
 - dans la boucle, séparer compte et contexte + ajout d'un sed dans contexte pour rajouter des "--------" entre chaque citation capturée
 
+## (Maïwenn) 10/01 - Relier le script pour générer les concordances au script principal, script make_pals_corpus
+
+J'ai modifié le script principal pour qu'il puisse à chaque tour de boucle appeler le script pour générer le concordancier pour chaque fichier, pour chaque variante du mot, et j'ai ajouté les colonnes correspondantes dans le tableau. J'ai aussi modifié le script du concordancier pour qu'il puisse prendre soit des fichiers soit des mots en argument. Ainsi dans le script principal on a une condition : si il y a des fichiers "variantes" on appelle le script avec ces fichiers comme argument, sinon on utilise les mots que l'utilisateur a entré en arguments du script.
+
+J'ai aussi terminé le script make_pals_corpus, qui appelle un autre script qui nettoie chaque fichier texte. Le script créé des versions "cleaned" de chaque fichier, puis une commande grep récupère chaque mot pour en afficher 1 par ligne. Cependant il manque les lignes vides entre chaque phrase.
+
 ## (Marina) 10/01 - Travail effectué
 
 - Reconstitution complet des URLS suite à un problème technique ('Détaillé par mail + Ubuntu via Microsoft Store donc modification de certaines manipulation')
@@ -65,3 +71,7 @@ J'ai ajouté et adapté le contenu du script que j'avais fait pour capter les co
 - Upload les nouveaux dossiers via les nouveaux Scripts
 - Création complète d'une clé SSH
 - Entrain de définir les mots pour la langue Es dans l'Index.html 
+
+## (Maïwenn) 11/01 - Modification du script pals et utilisation du script cooccurrents
+
+Je me suis rendue compte que le script de nettoyage suffisait à mettre un mot par ligne et à mettre une ligne vide entre chaque phrase, j'ai donc enlevé le grep dans le make_pals_corpus et j'ai décidé de simplement concaténer tous les fichiers cleaned obtenus pour avoir les fichiers dump-langue et contexte-langue. J'en ai profité pour tester le script cooccurrents sur le fichier contexte-anglais, ce qui fonctionnait bien. J'ai tenté de réfléchir par rapport au wordcloud et comment modifier le script pour qu'il puisse générer un wordcloud selon les spécificités mais je n'ai pas réussi. A la place, j'ai décidé de générer le wordcloud à partir du fichier contexte-langue dans le dossier pals puisqu'il contient uniquement les bouts de page où notre mot cible est entouré d'un contexte. Le nuage de mots généré contient ainsi les mots les plus pertinents même si leur taille n'est pas relative à leur spécificité mais à leur fréquence.
