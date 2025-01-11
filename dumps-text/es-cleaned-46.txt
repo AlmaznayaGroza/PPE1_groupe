@@ -1,277 +1,1207 @@
-facultad de psicología universidad del desarrollo
+Facultad
+de
+Psicología
+Universidad
+del
+Desarrollo
 
-logo universidad de desarrollo 
+[Logo
+Universidad
+de
+Desarrollo]
+[]
 
+[]
 
+Facultad
+de
+Psicología
 
-facultad de psicología
+-
+Inicio
 
- inicio
- inicio
-
- postgrado
- doctorado
- recursos pedagógicos
- actividades
- noticias
- la facultad
- la facultad
-
- nuestra historia
- equipo psicología udd
- infraestructura y equipamiento
- en memoria
- carrera
- carrera
-
- malla psicología
- modelo educativo
- cuerpo académico
- aprendizaje experiencial
- globalización
- vida universitaria
- perfil de egreso
- sitio buenas prácticas pedagógicas en psicología
- 3° proceso de certificación psicología udd
- 3° proceso de certificación psicología udd
- postgrados y educación continua
- postgrados y educación continua
-
- doctorado
- diplomados
- mdo magíster en desarrollo organizacional y dirección de
- personas – xxix versiÓn
- mipi magíster en intervención psicológica infantojuvenil
- abordaje multinivel – ii versiÓn
- mpe magíster en psicología educacional – xvii versiÓn
- cursos y talleres
- investigación
- investigación
-
- instituto de bienestar socioemocional ibem
- estudios y publicaciones
- repositorio conferencias psicología udd
- vinculación con el medio
- vinculación con el medio
-
- seminarios charlas u otros
- comunicaciones psicología udd
- repositorio conferencias psicología udd
- alumni psicología udd
- alumni psicología udd
-
- comunidad egresados udd
- portafolio egresados santiago
- portafolio egresados concepción
- servicio de psicología integral
- servicio de psicología integral
-
- unidades clínico docentes
- equipos spi
- ¿qué es la psicoterapia
+Inicio
 
 
- testimonios spi
- convenios spi
+-
+Postgrado
 
- inicio
- inicio
+-
+Doctorado
 
- postgrado
- doctorado
- recursos pedagógicos
- actividades
- noticias
- la facultad
- la facultad
+-
+Recursos
+Pedagógicos
 
- nuestra historia
- equipo psicología udd
- infraestructura y equipamiento
- en memoria
- carrera
- carrera
+-
+Actividades
 
- malla psicología
- modelo educativo
- cuerpo académico
- aprendizaje experiencial
- globalización
- vida universitaria
- perfil de egreso
- sitio buenas prácticas pedagógicas en psicología
- 3° proceso de certificación psicología udd
- 3° proceso de certificación psicología udd
- postgrados y educación continua
- postgrados y educación continua
+-
+Noticias
+-
+La
+Facultad
 
- doctorado
- diplomados
- mdo magíster en desarrollo organizacional y dirección de
- personas – xxix versiÓn
- mipi magíster en intervención psicológica infantojuvenil
- abordaje multinivel – ii versiÓn
- mpe magíster en psicología educacional – xvii versiÓn
- cursos y talleres
- investigación
- investigación
-
- instituto de bienestar socioemocional ibem
- estudios y publicaciones
- repositorio conferencias psicología udd
- vinculación con el medio
- vinculación con el medio
-
- seminarios charlas u otros
- comunicaciones psicología udd
- repositorio conferencias psicología udd
- alumni psicología udd
- alumni psicología udd
-
- comunidad egresados udd
- portafolio egresados santiago
- portafolio egresados concepción
- servicio de psicología integral
- servicio de psicología integral
-
- unidades clínico docentes
- equipos spi
- ¿qué es la psicoterapia
+La
+Facultad
 
 
- testimonios spi
- convenios spi
+-
+Nuestra
+Historia
 
-hero image
+-
+Equipo
+Psicología
+UDD
 
-noticias
+-
+Infraestructura
+y
+Equipamiento
+
+-
+En
+memoria
+-
+Carrera
+
+Carrera
+
+
+-
+Malla
+Psicología
+
+-
+Modelo
+educativo
+
+-
+Cuerpo
+Académico
+
+-
+Aprendizaje
+Experiencial
+
+-
+Globalización
+
+-
+Vida
+Universitaria
+
+-
+Perfil
+de
+egreso
+
+-
+Sitio
+Buenas
+Prácticas
+Pedagógicas
+en
+Psicología
+-
+3°
+Proceso
+de
+Certificación
+|
+Psicología
+UDD
+
+3°
+Proceso
+de
+Certificación
+|
+Psicología
+UDD
+-
+Postgrados
+y
+Educación
+Continua
+
+Postgrados
+y
+Educación
+Continua
+
+
+-
+Doctorado
+
+-
+Diplomados
+
+-
+MDO
+|
+Magíster
+en
+Desarrollo
+Organizacional
+y
+Dirección
+de
+
+Personas
+–
+XXIX
+VERSIÓN
+
+-
+MIPI
+|
+Magíster
+en
+Intervención
+Psicológica
+Infantojuvenil
+:
+
+Abordaje
+Multinivel
+–
+II
+VERSIÓN
+
+-
+MPE
+|
+Magíster
+en
+Psicología
+Educacional
+–
+XVII
+VERSIÓN
+
+-
+Cursos
+y
+Talleres
+-
+Investigación
+
+Investigación
+
+
+-
+Instituto
+de
+Bienestar
+Socioemocional
+(IBEM)
+
+-
+Estudios
+y
+Publicaciones
+
+-
+Repositorio
+Conferencias
+Psicología
+UDD
+-
+Vinculación
+con
+el
+medio
+
+Vinculación
+con
+el
+medio
+
+
+-
+Seminarios
+,
+Charlas
+u
+Otros
+
+-
+Comunicaciones
+Psicología
+UDD
+
+-
+Repositorio
+Conferencias
+Psicología
+UDD
+-
+Alumni
+Psicología
+UDD
+
+Alumni
+Psicología
+UDD
+
+
+-
+Comunidad
+Egresados
+UDD
+
+-
+Portafolio
+Egresados
+Santiago
+
+-
+Portafolio
+Egresados
+Concepción
+-
+Servicio
+de
+Psicología
+Integral
+
+Servicio
+de
+Psicología
+Integral
+
+
+-
+Unidades
+Clínico
+Docentes
+
+-
+Equipos
+SPI
+
+-
+¿Qué
+es
+la
+psicoterapia
+?
 
 
 
-facultad de psicología noticias destacadas artículo elaborado por
-investigador del care es publicado en revista sobre conciencia y
-cognición
+-
+Testimonios
+SPI
 
-artículo elaborado por investigador del care es publicado en revista sobre conciencia y cognición
+-
+Convenios
+SPI
 
-publicado en destacadas noticias noticias care santiago 8 marzo
+-
+Inicio
+
+Inicio
+
+
+-
+Postgrado
+
+-
+Doctorado
+
+-
+Recursos
+Pedagógicos
+
+-
+Actividades
+
+-
+Noticias
+-
+La
+Facultad
+
+La
+Facultad
+
+
+-
+Nuestra
+Historia
+
+-
+Equipo
+Psicología
+UDD
+
+-
+Infraestructura
+y
+Equipamiento
+
+-
+En
+memoria
+-
+Carrera
+
+Carrera
+
+
+-
+Malla
+Psicología
+
+-
+Modelo
+educativo
+
+-
+Cuerpo
+Académico
+
+-
+Aprendizaje
+Experiencial
+
+-
+Globalización
+
+-
+Vida
+Universitaria
+
+-
+Perfil
+de
+egreso
+
+-
+Sitio
+Buenas
+Prácticas
+Pedagógicas
+en
+Psicología
+-
+3°
+Proceso
+de
+Certificación
+|
+Psicología
+UDD
+
+3°
+Proceso
+de
+Certificación
+|
+Psicología
+UDD
+-
+Postgrados
+y
+Educación
+Continua
+
+Postgrados
+y
+Educación
+Continua
+
+
+-
+Doctorado
+
+-
+Diplomados
+
+-
+MDO
+|
+Magíster
+en
+Desarrollo
+Organizacional
+y
+Dirección
+de
+
+Personas
+–
+XXIX
+VERSIÓN
+
+-
+MIPI
+|
+Magíster
+en
+Intervención
+Psicológica
+Infantojuvenil
+:
+
+Abordaje
+Multinivel
+–
+II
+VERSIÓN
+
+-
+MPE
+|
+Magíster
+en
+Psicología
+Educacional
+–
+XVII
+VERSIÓN
+
+-
+Cursos
+y
+Talleres
+-
+Investigación
+
+Investigación
+
+
+-
+Instituto
+de
+Bienestar
+Socioemocional
+(IBEM)
+
+-
+Estudios
+y
+Publicaciones
+
+-
+Repositorio
+Conferencias
+Psicología
+UDD
+-
+Vinculación
+con
+el
+medio
+
+Vinculación
+con
+el
+medio
+
+
+-
+Seminarios
+,
+Charlas
+u
+Otros
+
+-
+Comunicaciones
+Psicología
+UDD
+
+-
+Repositorio
+Conferencias
+Psicología
+UDD
+-
+Alumni
+Psicología
+UDD
+
+Alumni
+Psicología
+UDD
+
+
+-
+Comunidad
+Egresados
+UDD
+
+-
+Portafolio
+Egresados
+Santiago
+
+-
+Portafolio
+Egresados
+Concepción
+-
+Servicio
+de
+Psicología
+Integral
+
+Servicio
+de
+Psicología
+Integral
+
+
+-
+Unidades
+Clínico
+Docentes
+
+-
+Equipos
+SPI
+
+-
+¿Qué
+es
+la
+psicoterapia
+?
+
+
+
+-
+Testimonios
+SPI
+
+-
+Convenios
+SPI
+
+[Hero
+Image]
+
+Noticias
+
+[]
+
+Facultad
+de
+Psicología/
+Noticias/
+Destacadas/
+Artículo
+elaborado
+por
+investigador
+del
+CARE
+es
+publicado
+en
+Revista
+sobre
+Conciencia
+y
+Cognición
+
+Artículo
+elaborado
+por
+investigador
+del
+CARE
+es
+publicado
+en
+Revista
+sobre
+Conciencia
+y
+Cognición
+
+Publicado
+en
+:
+Destacadas
+,
+Noticias
+,
+Noticias
+CARE
+,
+Santiago
+|
+8
+marzo
+,
 2017
 
-la publicación aborda la pregunta por la consciencia de los cambios
-atencionales ¿saben los individuos cómo es que despliegan su atención
+La
+publicación
+aborda
+la
+pregunta
+por
+la
+consciencia
+de
+los
+cambios
+atencionales
+:
+¿saben
+los
+individuos
+cómo
+es
+que
+despliegan
+su
+atención
+?
 
 
 
-gabriel reyes
+[Gabriel
+Reyes]
 
-la investigación llevada a cabo por el docente investigador del centro
-de apego y regulación emocional care dr
+La
+investigación
+llevada
+a
+cabo
+por
+el
+docente
+investigador
+del
+Centro
+de
+Apego
+y
+Regulación
+Emocional
+(CARE)
+,
+Dr
+.
 
- gabriel reyes m
 
- en
-colaboración con el dr
-
- jérôme sackur del laboratorio de ciencias
-cognitivas y psicolingüística de la école normale supérieure de paris
-fue publicada recientemente por la revista científica consciousness and
-cognition
+Gabriel
+Reyes
+M
+.
 
 
+,
+en
+colaboración
+con
+el
+Dr
+.
 
-este artículo denominado introspective access to implicit shifts of
-attention acceso introspectivo a los cambios implícitos de la atención
-trata sobre si somos o no conscientes de cómo cambia nuestra atención
-al percibir el mundo
 
- el dr
+Jérôme
+Sackur
+del
+Laboratorio
+de
+Ciencias
+Cognitivas
+y
+Psicolingüística
+de
+la
+École
+Normale
+Supérieure
+de
+Paris
+,
+fue
+publicada
+recientemente
+por
+la
+revista
+científica
+Consciousness
+and
+Cognition
+.
 
- reyes explica que día a día cada uno de
-nosotros realizamos cientos de cambios atencionales aunque no lo
+
+
+Este
+artículo
+,
+denominado
+,
+Introspective
+access
+to
+implicit
+shifts
+of
+attention
+(Acceso
+introspectivo
+a
+los
+cambios
+implícitos
+de
+la
+atención)
+trata
+sobre
+si
+somos
+(o
+no)
+conscientes
+de
+cómo
+cambia
+nuestra
+atención
+al
+percibir
+el
+mundo
+.
+
+
+El
+Dr
+.
+
+
+Reyes
+explica
+que
+«día
+a
+día
+,
+cada
+uno
+de
+nosotros
+realizamos
+cientos
+de
+cambios
+atencionales
+,
+aunque
+no
+lo
 notemos
+.
 
- en efecto en este preciso instante su atención – acompañando
-o no al movimiento de sus ojos – está realizando un barrido sobre las
-letras de este texto
 
- inadvertidamente su atención se desplaza hacia la
-derecha e izquierda permitiéndole que usted sea consciente de cada
-palabra
-
- parece evidente entonces que somos conscientes de lo que
-atendemos sin embargo no parece tan evidente que lo seamos respecto al
-desplazamiento natural de la atención
-
- en otras palabras al parecer
-somos conscientes del resultado de la atención por ejemplo de que
-estoy atendiendo a este texto pero no del proceso o movimiento de la
-atención por ejemplo de que mi atención se desplaza de izquierda a
-derecha de arriba hacia abajo etc
-
- para focalizar mi atención en el
+En
+efecto
+,
+en
+este
+preciso
+instante
+su
+atención
+–
+acompañando
+(o
+no)
+al
+movimiento
+de
+sus
+ojos
+–
+está
+realizando
+un
+barrido
+sobre
+las
+letras
+de
+este
 texto
+.
 
 
+Inadvertidamente
+su
+atención
+se
+desplaza
+hacia
+la
+derecha
+e
+izquierda
+,
+permitiéndole
+que
+usted
+sea
+consciente
+de
+cada
+palabra
+.
 
-el docente del doctorado en ciencias del desarrollo y psicopatología de
-la facultad de psicología udd continúa afirmando que para probar
-nuestra idea creamos un experimento donde modificamos la atención de los
-participantes de manera subliminal
 
- es decir los individuos no sabían
-qué es lo que modificaba su atención
-
- monitoreamos el movimiento ocular
-para cercioramos de nuestro control experimental
-
- lo interesante del
-artículo es que los individuos son capaces de detectar como se desplaza
-la atención aún cuando no son conscientes de qué es lo que genera tal
+Parece
+evidente
+entonces
+que
+somos
+conscientes
+de
+lo
+que
+atendemos
+,
+sin
+embargo
+,
+no
+parece
+tan
+evidente
+que
+lo
+seamos
+respecto
+al
 desplazamiento
-
- en otras palabras los individuos son capaces de acceder
-a su propia mente y reportar el proceso cognitivo que antecede y explica
-la conciencia visual
-
-
-
-la revista consciousness and cognition publica tanto revisiones teóricas
-como artículos experimentales relacionados con estas temáticas y se
-caracteriza principalmente por sucarácter interdisciplinar
+natural
+de
+la
+atención»
+.
 
 
+En
+otras
+palabras
+,
+al
+parecer
+«somos
+conscientes
+del
+resultado
+de
+la
+atención
+(por
+ejemplo
+,
+de
+que
+estoy
+atendiendo
+a
+este
+texto)
+,
+pero
+no
+del
+proceso
+o
+movimiento
+de
+la
+atención
+(por
+ejemplo
+,
+de
+que
+mi
+atención
+se
+desplaza
+de
+izquierda
+a
+derecha
+,
+de
+arriba
+hacia
+abajo
+,
+etc
+.
 
-puedes leer el artículo completo acá
+
+,
+para
+focalizar
+mi
+atención
+en
+el
+texto)»
+.
 
 
 
- twitter 
- linkedin 
- youtube 
- instagram 
+El
+docente
+del
+Doctorado
+en
+Ciencias
+del
+Desarrollo
+y
+Psicopatología
+de
+la
+Facultad
+de
+Psicología
+UDD
+continúa
+,
+afirmando
+que
+«para
+probar
+nuestra
+idea
+creamos
+un
+experimento
+donde
+modificamos
+la
+atención
+de
+los
+participantes
+de
+manera
+subliminal
+.
 
-logo universidad de desarrollo
 
-sede santiago
-
-av
-
- plaza 680 las condes
-56 2 2327 9110
-
-contacto mapa
-
-sede concepción
-
-ainavillo 456 concepción
-5641 226 8610
-
-contacto mapa
-
-logo acreditación udd
-
-enlaces 
-
-biblioteca udd mi udd transparencia udd calendario académico udd
+Es
+decir
+,
+los
+individuos
+no
+sabían
+qué
+es
+lo
+que
+modificaba
+su
+atención
+.
 
 
+Monitoreamos
+el
+movimiento
+ocular
+para
+cercioramos
+de
+nuestro
+control
+experimental
+.
+
+
+Lo
+interesante
+del
+artículo
+es
+que
+los
+individuos
+son
+capaces
+de
+detectar
+como
+se
+desplaza
+la
+atención
+,
+aún
+cuando
+no
+son
+conscientes
+de
+qué
+es
+lo
+que
+genera
+tal
+desplazamiento
+.
+
+
+En
+otras
+palabras
+,
+los
+individuos
+son
+capaces
+de
+acceder
+a
+su
+propia
+mente
+y
+reportar
+el
+proceso
+cognitivo
+que
+antecede
+y
+explica
+la
+conciencia
+visual»
+.
+
+
+
+La
+revista
+Consciousness
+and
+Cognition
+publica
+tanto
+revisiones
+teóricas
+como
+artículos
+experimentales
+,
+relacionados
+con
+estas
+temáticas
+y
+se
+caracteriza
+,
+principalmente
+,
+por
+sucarácter
+interdisciplinar
+.
+
+
+
+Puedes
+leer
+el
+artículo
+completo
+acá
+.
+
+
+
+-
+Twitter
+[]
+-
+LinkedIn
+[]
+-
+YouTube
+[]
+-
+Instagram
+[]
+
+[Logo
+Universidad
+de
+Desarrollo]
+
+Sede
+Santiago
+
+Av
+.
+
+
+Plaza
+680
+,
+Las
+Condes
+(+56
+2)
+2327
+9110
+
+Contacto
+|
+Mapa
+
+Sede
+Concepción
+
+Ainavillo
+456
+,
+Concepción
+(+56-41)
+226
+8610
+
+Contacto
+|
+Mapa
+
+[Logo
+Acreditación
+UDD]
+
+Enlaces
+[]
+
+Biblioteca
+UDD
+Mi
+UDD
+Transparencia
+UDD
+Calendario
+Académico
+UDD
+
+[]

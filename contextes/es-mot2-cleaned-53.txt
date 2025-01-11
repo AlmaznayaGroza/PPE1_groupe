@@ -1,157 +1,748 @@
+Ciencia
+
+Antonio
+Damasio
+:
+La
+consciencia
+surge
+a
+partir
+de
+lo
+que
+sentimos
+
+[]
+[FIBK]
+---------------
+05
+|
+11
+|
+2021
+
+[Antonio
+Damasio
+:
+La
+consciencia
+surge
+a
+partir
+de
+lo
+que
+sentimos]
+
+Ciencia
+Futurescoping
+FutureTalks
+Futuro
+de
+la
+neurociencia
+Neurociencia
+---------------
+El
+neurocientífico
+Antonio
+Damasio
+nos
+aporta
+algunas
+claves
+sobre
+uno
+de
+los
+grandes
+interrogantes
+de
+la
+humanidad
+:
+cómo
+hemos
+llegado
+a
+ser
+conscientes
+de
+tener
+consciencia
+.
+
+
+
+La
+consciencia
+es
+uno
+de
+los
+aspectos
+más
+debatidos
+en
+la
+historia
+del
+pensamiento
+,
+de
+la
+filosofía
+y
+de
+la
 ciencia
-
-antonio damasio la consciencia surge a partir de lo que sentimos
-
- fibk
-
-05 11 2021
-
-antonio damasio la consciencia surge a partir de lo que sentimos
-
-ciencia futurescoping futuretalks futuro de la neurociencia neurociencia
-
-el neurocientífico antonio damasio nos aporta algunas claves sobre uno
-de los grandes interrogantes de la humanidad cómo hemos llegado a ser
-conscientes de tener consciencia
+.
 
 
+¿Qué
+es
+?
 
-la consciencia es uno de los aspectos más debatidos en la historia del
-pensamiento de la filosofía y de la ciencia
 
- ¿qué es
+¿Cómo
+surge
+?
 
- ¿cómo surge
 
- ¿es
-exclusiva del ser humano
+¿Es
+exclusiva
+del
+ser
+humano
+?
+
+ 
+---------------
+contado
+con Antonio
+Damasio
+,
+uno
+de
+los
+neurocientíficos
+más
+reconocidos
+del
+mundo
+,
+quien
+nos
+ha
+contado
+sus
+últimas
+investigaciones
+y
+conclusiones
+alrededor
+de
+la
+consciencia
+,
+recogidas
+en
+su
+reciente
+libro
+, Feeling
+&
+Knowing
+:
+Making
+Minds
+Conscious
+.
 
  
 
-contado con antonio damasio uno de los neurocientíficos más reconocidos
-del mundo quien nos ha contado sus últimas investigaciones y
-conclusiones alrededor de la consciencia recogidas en su reciente
-libro feeling knowing making minds conscious
+En
+las
+últimas
+décadas
+,
+muchos
+filósofos
+y
+científicos
+cognitivos
+han
+declarado
+que el
+problema
+de
+la
+consciencia
+es
+irresoluble
+.
+
+
+Antonio Damasio
+,
+sin
+embargo
+,
+está
+convencido
+de
+que
+los
+hallazgos
+recientes
+en
+múltiples
+disciplinas
+-biología
+,
+neurociencia
+,
+psicología
+e
+inteligencia
+artificial–
+nos
+han
+brindado
+una
+forma
+de
+comprender
+la
+consciencia
+y
+su
+importancia
+para
+la
+vida
+humana
+.
 
  
 
-en las últimas décadas muchos filósofos y científicos cognitivos han
-declarado que el problema de la consciencia es irresoluble
+Para
+explicárnoslo
+,
+realiza
+un
+recorrido
+desbrozando
+conceptos
+y
+---------------
+-
+Por
+qué
+los
+sistemas
+nerviosos
+son
+esenciales
+para
+el
+desarrollo
+del
 
-
-antonio damasio sin embargo está convencido de que los hallazgos
-recientes en múltiples disciplinas biología neurociencia psicología e
-inteligencia artificial– nos han brindado una forma de comprender la
-consciencia y su importancia para la vida humana
+ser
+sintiente
+-el
+ser
+que
+siente-
+,
+y
+de
+él
+,
+al
+ser
+consciente
+.
 
  
-
-para explicárnoslo realiza un recorrido desbrozando conceptos y
-
- por qué los sistemas nerviosos son esenciales para el desarrollo del
- ser sintiente el ser que siente y de él al ser consciente
-
- 
- por qué el sentir abre el camino a la consciencia en general
+-
+Por
+qué
+el
+sentir
+abre
+el
+camino
+a
+la
+consciencia
+en
+general
+.
 
   
 
-a continuación puedes acceder al futuretalks con antonio damasio 
+A
+continuación
+,
+puedes
+acceder
+al
+#FutureTalks
+con
+Antonio Damasio
+: 
+---------------
 
-
-antonio rechaza la idea de que el ser humano nunca va a entender lo que
-es la consciencia y cómo se llega a ella lo que se ha denominado
-el hard problem of consciousness
+Antonio
+rechaza
+la
+idea
+de
+que
+el
+ser
+humano
+nunca
+va
+a
+entender
+lo
+que
+es
+la
+consciencia
+y
+cómo
+se
+llega
+a
+ella
+(lo
+que
+se
+ha
+denominado
+el Hard
+problem
+of
+consciousness)
+.
 
  
 
-
-realizó aportaciones fundamentales al conocimiento de la fisiología
-visual podemos llegar a entender el proceso más complejo de
-todos la consciencia de ser conscientes
+---------------
+realizó
+aportaciones
+fundamentales
+al
+conocimiento
+de
+la
+fisiología
+visual
+,
+podemos
+llegar
+a
+entender
+el
+proceso
+más
+complejo
+de
+todos
+: la consciencia de
+ser
+conscientes
+.
 
  
 
-¿cómo algo físico el cerebro y el sistema nervioso puede dar lugar a la consciencia
+¿Cómo
+algo
+físico
+,
+el
+cerebro
+y
+el
+sistema
+nervioso
+,
+puede
+dar
+lugar
+a
+la consciencia
+?
 
  
 
-para damasio hay que partir del ser que siente
+Para Damasio hay
+que
+partir del ser
+que
+siente
+.
 
- se refiere a “feelings”
 
+Se
+refiere
+a
+“feelings”
+,
+---------------
 
-para damasio ese sentir básico sed hambre dolor es el primer paso
-hacia la consciencia
+Para Damasio
+,
+ese
+sentir
+básico
+-sed
+,
+hambre
+,
+dolor-
+,
+es
+el
+primer
+paso
+hacia
+la
+consciencia
+.
 
   
 
-la naturaleza ha sido capaz de encontrar una forma de representar en
-nuestro cerebro cómo se siente nuestro cuerpo
+La
+naturaleza
+ha
+sido
+capaz
+de
+encontrar
+una
+forma
+de
+representar
+en
+nuestro
+cerebro
+cómo
+se
+siente
+nuestro
+cuerpo
+.
 
- ese es el comienzo de la
-consciencia que tiene la función básica de informarnos de cómo se
-encuentra nuestro cuerpo sirviendo como una herramienta de
+
+Ese
+es
+el
+comienzo
+de
+la
+consciencia
+,
+que
+tiene
+la
+función
+básica
+de
+informarnos
+de
+cómo
+se
+encuentra
+nuestro
+cuerpo
+,
+sirviendo
+como
+una
+herramienta
+de
 supervivencia
+.
 
   
 
-esa consciencia es según damasio común a los animales con sistemas
-nerviosos complejos tal y como recoge la conocida declaración de
-cambridge sobre la consciencia
+Esa
+consciencia
+es
+,
+según Damasio
+,
+común
+a
+los
+animales
+con
+sistemas
+nerviosos
+complejos
+,
+tal
+y
+como
+recoge
+la
+conocida Declaración
+de
+Cambridge
+sobre
+la
+Consciencia
+.
 
  
 
-¿cómo se pasa de ahí a la consciencia superior de los seres humanos
+¿Cómo
+se
+pasa
+de
+ahí
+a
+la
+consciencia
+superior
+de
+los
+seres
+humanos
+?
 
  
 
-cuando ves el mundo cuando escuchas el mundo cuando sientes tu
-
-consciente de ellos como eres consciente de un dolor de muelas
+Cuando
+ves
+el
+mundo
+,
+cuando
+escuchas
+el
+mundo
+,
+cuando
+sientes
+tu
+---------------
+consciente
+de
+ellos
+,
+como
+eres
+consciente
+de
+un
+dolor
+de
+muelas
+.
 
  
 
-para acabar no debemos confundir la mente con la consciencia la mente
-provee herramientas para el lenguaje la memoria la manipulación de
-símbolos la resolución de problemas filosóficos
+Para
+acabar
+, no
+debemos
+confundir
+la
+mente
+con
+la
+consciencia
+:
+la
+mente
+provee
+herramientas
+para
+el
+lenguaje
+,
+la
+memoria
+,
+la
+manipulación
+de
+símbolos
+,
+la
+resolución
+de
+problemas
+filosóficos
+.
 
- se llega a la
-consciencia de la mente como se llega a ser consciente de que tenemos
-hambre es el diálogo entre el cerebro y el resto de nuestro organismo
-a través de complejísimas interacciones lo que nos hace conscientes
+
+Se
+llega
+a
+la
+consciencia
+de
+la
+mente
+como
+se
+llega
+a
+ser
+consciente
+de
+que
+tenemos
+hambre
+: es
+el
+diálogo
+entre
+el
+cerebro
+y
+el
+resto
+de
+nuestro
+organismo
+,
+a
+través
+de
+complejísimas
+interacciones
+,
+lo
+que
+nos
+hace
+conscientes
+.
 
   
-
+---------------
 concientizada
+.
 
  
 
-en resumen ¿cómo se crea la consciencia
+En
+resumen
+,
+¿cómo
+se
+crea
+la consciencia
+?
 
  
 
-percibimos e interiorizamos las cosas externas que afectan a nuestro
-organismo sintiendo cosas positivas o negativas
+Percibimos
+e
+interiorizamos
+las
+cosas
+externas
+que
+afectan
+a
+nuestro
+organismo
+,
+sintiendo
+cosas
+positivas
+o
+negativas
+.
 
- la consciencia es la
-intersección entre lo que percibes y cómo eso afecta a tu cuerpo
+
+La
+consciencia
+es
+la
+intersección
+entre
+lo
+que
+percibes
+y
+cómo
+eso
+afecta
+a
+tu
+cuerpo
+.
 
  
 
+---------------
+Ciencia
+Futurescoping
+FutureTalks
+Futuro
+de
+la
+neurociencia
+Neurociencia
 
-ciencia futurescoping futuretalks futuro de la neurociencia neurociencia
+[Antonio
+Damasio
+:
+La
+consciencia
+surge
+a
+partir
+de
+lo
+que
+sentimos]
 
-antonio damasio la consciencia surge a partir de lo que sentimos
+Te
+puede
+interesar
+---------------
+#FutureTalks
+con
+Antonio
+Damasio
 
-te puede interesar
+La
+consciencia
+es
+uno
+de
+los
+aspectos
+más
+debatidos
+en
+la
+historia
+del
+pensamiento
+y
+la
+ciencia
+.
 
-futuretalks con antonio damasio
 
-la consciencia es uno de los aspectos más debatidos en la historia del
-pensamiento y la ciencia
+¿Qué
+es
+?
 
- ¿qué es
 
- ¿qué i
+¿Qué
+i[…]
 

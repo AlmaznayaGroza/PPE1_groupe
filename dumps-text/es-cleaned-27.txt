@@ -1,1404 +1,8577 @@
++-----------------------------------+-----------------------------------+
+|
+[SciELO
+-
+Scientific
+Electronic
+|
+----
+|
+|
+Library
+Online]
+|
+-----------------
+---------------
+|
+|
+|
+[] []
+[Home
+|
+|
+|
+|
+|
+|
+[vol
+.
 
- scielo scientific electronic 
- library online 
-   home 
- 
- vol
-
-31 número3la pagelista 
- ep 
- igenética y los alfabética de 
- 
- estudios en gemelos revistas   
- en el campo de la 
- psiquiatríabrüne 
- m
-
- brünecohrs u
-
- 
- mcgrew w
-
-c
-
- 
- preuschoft s
-
- 
- psicopatología en 
- grandes antropoides 
- conceptos opciones 
- de tratamiento y 
- posibles semejanzas 
- con los trastornos 
- psiquiátricos 
- humanos índice de 
- autoresíndice de 
- materiabúsqueda de 
- artículos 
- 
- 
- 
-
-
-servicios personalizados
-
-revista
-
- scielo analytics
- google scholar h5m5 
-
-articulo
-
- español pdf
- artículo en xml
- referencias del artículo
- 
- scielo analytics
- traducción automática
- enviar artículo por email
-
-indicadores
-
- no hay artículos citadoscitado por scielo
- accesos
-
-links relacionados
-
- no hay artículos similaressimilares en scielo
-
-compartir
-
- otros
-
- otros
+31 número3][La
+Page][lista
+|
+|
+|
+ep
+|
+|
+|
+igenética
+y
+los
+alfabética
+de
+|
+|
+|
+|
+|
+|
+estudios
+en
+gemelos
+revistas]
+ 
+|
+|
+|
+en
+el
+campo
+de
+la
+|
+|
+|
+psiquiatría][Brüne
+|
+|
+|
+M
+.
 
 
+,
+Brüne-Cohrs
+U
+.
 
- permalink
+
+,
+|
+|
+|
+McGrew
+W
+.
+
+C
+.
 
 
+,
+|
+|
+|
+Preuschoft
+S
+.
 
-salud mental
 
-versión impresa issn 01853325
+|
+|
+|
+Psicopatología
+en
+|
+|
+|
+grandes
+antropoides
+:
+|
+|
+|
+Conceptos
+,
+opciones
+|
+|
+|
+de
+tratamiento
+y
+|
+|
+|
+posibles
+semejanzas
+|
+|
+|
+con
+los
+trastornos
+|
+|
+|
+psiquiátricos
+|
+|
+|
+humanos] [índice
+de
+|
+|
+|
+autores][índice
+de
+|
+|
+|
+materia][búsqueda
+de
+|
+|
+|
+artículos]
+|
+|
+|
+|
+|
+|
+----
+|
+|
+|
+-----------------
+---------------
+|
++-----------------------------------+-----------------------------------+
 
-salud ment vol
+Servicios
+Personalizados
+
+Revista
+
+-
+[]SciELO
+Analytics
+-
+[]Google
+Scholar
+H5M5
+()
+
+Articulo
+
+-
+[]Español
+(pdf)
+-
+[]Artículo
+en
+XML
+-
+[]Referencias
+del
+artículo
+-
+[]
+-
+[]SciELO
+Analytics
+-
+[]Traducción
+automática
+-
+[]Enviar
+artículo
+por
+email
+
+Indicadores
+
+-
+[No
+hay
+artículos
+citados]Citado
+por
+SciELO
+-
+[]Accesos
+
+Links
+relacionados
+
+-
+[No
+hay
+artículos
+similares]Similares
+en
+SciELO
+
+Compartir
+
+-
+[]Otros
+
+-
+Otros
+
+------------------------------------------------------------------------
+
+-
+[]Permalink
+
+[]
+
+Salud
+mental
+
+versión impresa ISSN
+0185-3325
+
+Salud
+Ment vol
+.
 
 31 no
+.
 
-3 méxico may
+3 México may
+.
 
-jun
+/jun
+.
 
  2008
 
  
 
-ensayo
+Ensayo
 
  
 
-la conciencia y el cerebro a propósito de la flama misteriosa
+La
+conciencia
+y
+el
+cerebro
+:
+a
+propósito
+de
+La
+Flama
+Misteriosa
 
  
 
-consciousness and brain concerning the mysterious flame
+Consciousness
+and
+brain
+:
+concerning
+The
+Mysterious
+Flame
 
  
 
-josé luis díaz¹
+José
+Luis
+Díaz¹
 
  
 
-¹ departamento de historia y filosofía de la medicina
+¹
+Departamento
+de
+Historia
+y
+Filosofía
+de
+la
+Medicina
+.
 
- facultad de
-medicina unam
+
+Facultad
+de
+Medicina
+,
+UNAM
+.
 
 
 
  
 
-¡oh llama de amor viva
-que tiernamente hieres
-de mi alma en el más profundo centro
+¡Oh
+llama
+de
+amor
+viva
+que
+tiernamente
+hieres
+de
+mi
+alma
+en
+el
+más
+profundo
+centro
+!
 
 
-pues ya no eres esquiva
-acaba ya si quieres
-¡rompe la tela de este dulce encuentro
+Pues
+ya
+no
+eres
+esquiva
+acaba
+ya
+si
+quieres
+,
+¡rompe
+la
+tela
+de
+este
+dulce
+encuentro
+!
 
 
 
-san juan de la cruz hacia 1584
+San
+Juan
+de
+la
+Cruz
+,
+hacia
+1584
 
  
 
-colin mcginn ¿asombrado o atareado
+COLIN
+McGINN
+:
+¿ASOMBRADO
+O
+ATAREADO
+?
 
 
 
-a partir de un artículo muy leído de 1989 y particularmente en la flama
-misteriosa 1999 el conocido filósofo de la mente colin mcginn formado
-en oxford y actualmente profesor en la universidad de rutgers sostiene
-que tiene una respuesta convincente al milenario problema mente–cuerpo
-la idea de que el misterio no tiene una solución accesible al menos
-para nosotros los seres humanos
+A
+partir
+de
+un
+artículo
+muy
+leído
+de
+1989
+y
+particularmente
+en
+La
+Flama
+Misteriosa
+(1999)
+,
+el
+conocido
+filósofo
+de
+la
+mente
+Colin
+McGinn
+formado
+en
+Oxford
+y
+actualmente
+profesor
+en
+la
+Universidad
+de
+Rutgers
+,
+sostiene
+que
+tiene
+una
+respuesta
+convincente
+al
+milenario
+problema
+mente–cuerpo
+:
+la
+idea
+de
+que
+el
+misterio
+no
+tiene
+una
+solución
+accesible
+,
+al
+menos
+para
+nosotros
+los
+seres
+humanos
+.
 
- no se trata entonces de una
-explicación sino de la idea que el asunto no tiene solución en términos
-de nuestra inteligencia
 
- algo similar había argumentado thomas nagel
-1974 en su artículo clásico sobre qué se siente ser murciélago
+No
+se
+trata
+entonces
+de
+una
+explicación
+,
+sino
+de
+la
+idea
+que
+el
+asunto
+no
+tiene
+solución
+en
+términos
+de
+nuestra
+inteligencia
+.
 
 
-mediante una perspicaz argumentación lógica en ambos casos se llega a
-una conclusión similar que va más allá de un escéptico ignoramos
-para sostener un desanimado y sombrío ignoraremos
+Algo
+similar
+había
+argumentado
+Thomas
+Nagel
+(1974)
+en
+su
+artículo
+clásico
+sobre
+qué
+se
+siente
+ser
+murciélago
+.
 
- ahora bien a
-diferencia de sus antecesores estos filósofos distan de ser dualistas
+
+Mediante
+una
+perspicaz
+argumentación
+lógica
+en
+ambos
+casos
+se
+llega
+a
+una
+conclusión
+similar
+que
+va
+más
+allá
+de
+un
+escéptico
+<<ignoramos>>
+para
+sostener
+un
+desanimado
+y
+sombrío
+<<ignoraremos>>
+.
+
+
+Ahora
+bien
+,
+a
+diferencia
+de
+sus
+antecesores
+,
+estos
+filósofos
+distan
+de
+ser
+dualistas
 cartesianos
+.
 
- están por el contrario convencidos de que la conciencia
-es un fenómeno natural indisolublemente ligado al cerebro pero afirman
-que constituye una propiedad incognoscible de este órgano y para este
+
+Están
+,
+por
+el
+contrario
+,
+convencidos
+de
+que
+la
+conciencia
+es
+un
+fenómeno
+natural
+indisolublemente
+ligado
+al
+cerebro
+,
+pero
+afirman
+que
+constituye
+una
+propiedad
+incognoscible
+de
+este
 órgano
+y
+para
+este
+órgano
+.
 
 
 
-a mcginn le parece profundamente asombroso que la conciencia surja de un
-tejido orgánico particular es decir del cerebro que no le parece muy
-diferente de otros tejidos celulares
+A
+McGinn
+le
+parece
+profundamente
+asombroso
+que
+la
+conciencia
+surja
+de
+un
+tejido
+orgánico
+particular
+,
+es
+decir
+del
+cerebro
+,
+que
+no
+le
+parece
+muy
+diferente
+de
+otros
+tejidos
+celulares
+.
 
- el filósofo elimina someramente
-una explicación basada en la complejidad del cerebro diciendo que no se
-trata del número de neuronas o conexiones sino de una propiedad ignota
-pero necesaria que denomina como c
+
+El
+filósofo
+elimina
+someramente
+una
+explicación
+basada
+en
+la
+complejidad
+del
+cerebro
+diciendo
+que
+no
+se
+trata
+del
+número
+de
+neuronas
+o
+conexiones
+,
+sino
+de
+una
+propiedad
+ignota
+pero
+necesaria
+que
+denomina
+como
+C
+.
+
+^(*)
+
+En
+referencia
+a
+este
+punto
+inicial
+se
+debe
+decir
+que
+la
+complejidad
+cerebral
+no
+se
+relaciona
+simplemente
+con
+el
+número
+de
+elementos
+celulares
+y
+sus
+conexiones
+,
+sino
+con
+la
+estratificación
+progresiva
+de
+niveles
+de
+operación
+en
+los
+que
+surgen
+propiedades
+tanto
+eléctricas
+como
+cognitivas
+novedosas
+o
+emergentes
+.
 
 
+Es
+así
+que
+el
+cerebro
+presenta
+dos
+o
+tres
+niveles
+de
+complejidad
+sobre
+otros
+órganos
+lo
+cual
+debe
+ser
+una
+clave
+para
+entender
+sus
+peculiares
+funciones
+(Díaz
+,
+2006)
+.
 
-en referencia a este punto inicial se debe decir que la complejidad
-cerebral no se relaciona simplemente con el número de elementos
-celulares y sus conexiones sino con la estratificación progresiva de
-niveles de operación en los que surgen propiedades tanto eléctricas como
-cognitivas novedosas o emergentes
 
- es así que el cerebro presenta dos o
-tres niveles de complejidad sobre otros órganos lo cual debe ser una
-clave para entender sus peculiares funciones díaz 2006
+Pero
+McGinn
+argumenta
+también
+que
+la
+conciencia
+es
+una
+adquisición
+reciente
+en
+la
+historia
+del
+universo
+y
+del
+planeta
+,
+una
+realidad
+muy
+diferente
+de
+la
+materia
+que
+había
+evolucionado
+hasta
+el
+momento
+,
+como
+si
+fuera
+una
+inyección
+de
+algo
+nuevo
+en
+la
+antigua
+factura
+del
+cosmos
+.
 
- pero mcginn
-argumenta también que la conciencia es una adquisición reciente en la
-historia del universo y del planeta una realidad muy diferente de la
-materia que había evolucionado hasta el momento como si fuera una
-inyección de algo nuevo en la antigua factura del cosmos
 
- a pesar de
-ello no duda que la conciencia es un fenómeno biológico básico que se
-encuentra en relación a ciertas células nerviosas y sus potenciales
-eléctricos pero expresa un profundo e irremediable estupor ante este
+A
+pesar
+de
+ello
+no
+duda
+que
+la
+conciencia
+es
+un
+fenómeno
+biológico
+básico
+que
+se
+encuentra
+en
+relación
+a
+ciertas
+células
+nerviosas
+y
+sus
+potenciales
+eléctricos
+,
+pero
+expresa
+un
+profundo
+e
+irremediable
+estupor
+ante
+este
 hecho
+.
 
 
 
-aunque en su exposición no abunda sobre la peculiar estructura material
-del cerebro en la cual debe estar la clave de la función c asociada
-a la conciencia no tengo mayor dificultad en compartir el asombro pues
-cuando considero o medito sobre el problema que me llevó y me mantiene
-en la investigación también soy presa fácil de extrañeza y turbación
-
-
-una vez expresado el azoro mcginn procede a examinar las tesis
-tradicionales de solución al problema mente–cuerpo con notable
-penetración y soltura
-
- dadas las propiedades tan diferentes de los
-eventos mentales y los neurofisiológicos el tipo de materialismo que
-identifica actividad neuronal con experiencia consciente le es difícil
-de tragar incluso de comprender
-
- debo decir que en cierta medida
-comparto con él esa sensación y la misma conclusión
-
- el dualismo tampoco
-le resuelve nada pues implica la absurda posibilidad de zombies cuyo
-cerebro permanecería intacto cuando carecen de conciencia o bien la
-idea aún más insensata de que la conciencia es un espectador descarnado
-capaz de desligarse del cuerpo como un fantasma
-
- todo esto es también
-difícil de absorber y aún más de aceptar
-
- más tarde el autor examina los
-postulados de un dualismo no teísta la idea de dos universos paralelos
-uno material y el otro mental o consciente para confrontarlos con la
-objeción de la causalidad
-
- es imposible en efecto considerar que estos
-dos universos pudieran afectarse mutuamente pues se violaría el
-principio de conservación de la energía
-
- finalmente analiza al
-panpsiquismo y le parece insostenible porque para explicar a los objetos
-que no manifiestan propiedades mentales no es necesario imputárselas
-
- en
-cambio los seres sensibles y conscientes requieren ser explicados por su
-conciencia y cualquier definición de persona implica necesariamente a la
-conciencia y sus efectos sobre el mundo a través del comportamiento
-
-
-habiéndose desmarcado de estas soluciones tradicionales mcginn agrega
-que existen múltiples límites del conocimiento en vastos océanos de
-ignorancia y específicamente que los métodos usados para adquirir
-conocimiento por parte de las ciencias habituales no son adecuados ni
-suficientes para resolver la naturaleza de la conciencia que constituye
-el meollo del problema mente–cuerpo
-
- nada le garantiza que la
-inteligencia humana sea capaz de resolver todos los problemas que se le
-plantean al contrario todo le indica que muchos de ellos se presentan
-y se mantienen como recalcitrantes e insolubles a lo largo de la
-historia en especial los problemas filosóficos centrales
-
-
-particularmente afirma que los conceptos sobre la conciencia se forman a
-partir de la introspección y los conceptos sobre el cerebro a partir de
-la ciencia habitual
-
- pero sostiene entonces que la introspección no dice
-nada de la estructura cerebral y la neurociencia nada de la conciencia
-
-
-a esta dicotomía segregada la llama cerrazón cognitiva cognitive
-closure y la esgrime entre otras cosas para no invocar a una
-inteligencia superior en la creación de los seres conscientes
-
- así una
-vez más confirma que la conciencia sería un fenómeno natural pero
-hermético a la exploración con las herramientas usuales de la
-inteligencia y de las ciencias humanas
-
-
-
-mcginn plantea otro argumento para sostener su tesis misteriosa el
-hecho de que el universo material incluidos nuestros cerebros que
-albergan o producen la conciencia ocurre en un espacio dimensional en
-tanto que los contenidos de conciencia no aparecen constreñidos al
-espacio ni aparentan tener dimensiones
-
- en consecuencia se necesitaría
-una teoría que asintiera con el dualismo en el hecho de que la
-conciencia no es espacial y con el materialismo en el hecho de que el
-cerebro sí lo es
-
- el entendimiento de la conciencia requeriría entonces
-una nueva teoría del espacio en la cual el cerebro serviría como un
-intermediario
-
-
-
-y si bien la teoría le parecería necesaria considera que no hay forma
-de elaborarla y por lo tanto quedaremos en la ignorancia
-
- como se puede
-colegir por lo dicho hasta ahora el tono general de mcginn es
-pesimista estamos cognitivamente impedidos para formular tal teoría
-
-
-
- 
-
-el misterio ¿contemplado o escudriÑado
-
-
-
-me interesa examinar la posición misteriosa de mcginn por varias
-razones
-
- la primera es que se trata de un filósofo de la mente cuya
-exposición me es clara a diferencia de varias posturas esgrimidas por
-este gremio de profesionales pues no he tenido una preparación
-profesional como filósofo
-
- si bien el problema mente–cuerpo es el meollo
-de mi interés académico lo he abordado fundamentalmente desde las
-ciencias del cerebro y de la conducta y sus implicaciones
-epistemológicas
-
- al interesarme y acercarme crecientemente en la
-filosofía me he encontrado entre trincheras y en tierra de nadie o de
-pocos de tal manera que para los filósofos soy un neurocientífico con
-inquietudes filosóficas en tanto que para mis colegas oficiantes de la
-ciencia cerebral y conductual me he convertido en un filósofo con
-formación neurobiológica
-
- la indefinición tiene más desventajas que
-ventajas pero intento sacar el mejor provecho de ella quizás con la
-peregrina idea de que tengo una perspectiva de las dos trincheras que
-como sabemos bien se llevan poco y se frecuentan menos
-
- prueba de ello
-es que no solemos ver neurofisiólogos en los congresos de filosofía o
-filósofos de la mente en congresos de neurociencia lo cual es
-lamentable
-
- frecuentemente me asalta la idea de que es imposible
-desarrollar una teoría híbrida es decir empíricamente sustentada a la
-vez que filosóficamente sólida pues por necesidad de léxico y de marco
-de referencia se desliza el discurso hacia uno u otro lado de esta
-colina situada entre unas trincheras que ni siquiera se enfrentan sino
-que en buena medida se ignoran
-
- es una forma de escepticismo epistémico
-que no incluye como veremos un negativismo ontológico sobre la
-naturaleza de la conciencia pues estoy convencido de que si colin
-mcginn se adentrara en las teorías y los hechos sobresalientes de las
-neurociencias cognitivas cambiaría en alguna medida su talante
-derrotista
-
-
-
-me abocaré entonces a comentar a este connotado filósofo de la mente
-desde la perspectiva de un neurocientífico y psicobiólogo aficionado a
-la filosofía en el marco que podríamos denominar una ciencia cognitiva
-de corte situacionista
-
- como se sabe esta perspectiva enfatiza el
-contexto corporal ambiental y ecológico en el que opera la cognición
-silvestre es decir la actividad mental mediada por el comportamiento en
-la vida diaria clark 1997 gonzález 2006
-
- para la neurociencia
-cognitiva interesada en problemas de la fisiología del comportamiento
-que necesariamente involucran estímulos ambientales respuestas
-mensurables y mediación funcional del cuerpo vivo y en acción este
-enfoque resulta una postura no sólo adecuada y natural sino también
-provechosa
-
-
-
-para empezar el análisis de la tesis misteriosa de mcginn debo apuntar
-que al tratar sobre el correlato nervioso de la conciencia es relevante
-distinguir entre el procesamiento de información que se relaciona con el
-contenido de la experiencia y de la representación conscientes y su
-cualidad o qualia la propiedad subjetiva de esos contenidos la manera
-como se sienten
-
- una distinción parecida fue hecha de manera general por
-el joven e influyente filósofo australiano david chalmers 1996 cuando
-separó los problemas fáciles y los difíciles en referencia a la
+Aunque
+en
+su
+exposición
+no
+abunda
+sobre
+la
+peculiar
+estructura
+material
+del
+cerebro
+,
+en
+la
+cual
+debe
+estar
+la
+clave
+de
+la
+función
+C^(*)
+asociada
+a
+la
 conciencia
-
- los fáciles tienen que ver con el procesamiento de
-información y atestiguamos que los adelantos científicos sobre ellos son
-espectaculares
-
- por ejemplo con el refinamiento de las técnicas de
-imágenes de la actividad regional del cerebro durante la ejecución de
-múltiples tareas cognitivas cuidadosamente diseñadas y evaluadas se ha
-obtenido información extensa y fascinante sobre la localidad cerebral
-involucrada en funciones mentales tan específicas y diversas como la
-manipulación de un objeto por la imaginación la compasión la emoción
-musical o el éxtasis místico entre muchas
-
- el adelanto en la
-comprensión de estas actividades mentales en referencia a sus
-fundamentos cerebrales no puede ponerse en duda aunque se debe decir
-que no implica el que estas funciones estén definitivamente ubicadas ni
-que exista una modularidad o topografía funcional absoluta
-
- la manera
-más parsimoniosa de interpretar los resultados que surgen diariamente de
-esta neurociencia cognitiva de la imagen cerebral es que las regiones
-que se activan forman parte de redes o circuitos involucrados en la
-tarea o la actividad mental en operación
-
- de hecho en casi todos los
-estudios se muestra que una actividad mental particular involucra o
-engarza a varias zonas cerebrales y necesita de su enlace orquestado en
-una dinámica que puede tener las características vivaces de un enjambre
-o una parvada díaz 2006
-
- una dificultad muy relevante al tema de este
-tipo de investigaciones es que no es posible distinguir los
-procesamientos conscientes de los que no lo son lo cual dificulta
-establecer una correlación más precisa y general de las bases o
-fundamentos cerebrales de la conciencia
-
-
-
-en efecto ocurre que los seres humanos podemos procesar información
-mental de manera inconsciente como ocurre con las percepciones
-decisiones motivaciones y mapas de navegación que empleamos al conducir
-un auto en tanto estamos conscientemente más involucrados en una
-conversación con alguien al lado
-
- se conoce bien que la actividad
-cerebral de alguien que inicia el aprendizaje de un juego electrónico es
-mucho más intensa y requiere del concurso de muchas más zonas que las
-que emplea cuando ya domina el juego baars 1995
-
- al igual que la
-conducción de un automóvil el sujeto necesita de percepción decisión
-empleo de reglas conocimiento de objetivos y desarrollo de destreza
-sin embargo al inicio de su entrenamiento emplea mayor atención
-consciente que cuando ya domina la tarea
-
- al igual que lo que acontece
-en el conductor de un auto cuando ya es un experto puede proceder
-automáticamente en tanto su atención se desengancha de la tarea habitual
-y se engancha en otra actividad mental más demandante o llamativa
-
- al
-obtener imágenes cerebrales no sorprende encontrar que se activan las
-zonas de percepción visual situadas en el lóbulo occipital las zonas de
-la decisión voluntaria situadas en la región promotora del lóbulo
-frontal las zonas de control del movimiento de las manos situadas en la
-corteza motora las zonas involucradas en los movimientos finos como el
-núcleo caudado y el cerebelo
-
- tampoco sorprende aunque es de mayor
-dificultad de interpretación que la intensidad de la activación
-disminuya conforme se adquiere la destreza porque suponemos que con el
-aprendizaje se requiere menos y menos actividad nerviosa
-
- lo que no se
-logra saber en experimentos de este tipo es el fundamento cerebral de la
-conciencia que se emplea en la ejecución pues la conciencia no es una
-variable que se pueda medir directamente lo cual es un hecho
-problemático que destacan tanto chalmers como mcginn
-
-
-
-en este sentido el neurocientífico se confronta con una dificultad que
-si bien es severa no necesita concebir como un misterio pues este tipo
-de experimentos logran acotar con mayor precisión las variables
-
- y si
-bien no es posible por el momento obtener información directa de la
-conciencia que está participando en una tarea sí es permisible por
-ejemplo inferir que la atención dirigida y consciente es mucho mayor al
-inicio de la tarea que al final cuando el sujeto es ya un experto
-
- de
-esta forma se puede llegar a la razonable inferencia de que la
-conciencia no reside en un sitio específico del cerebro sino que es el
-aspecto subjetivo y fenomenológico de una función nerviosa dinámica
-flotante entre los módulos que la coordinan y enlazan
-
- no cabe duda de
-que este tipo de acotaciones e inferencias serán cada vez más
-justificadas y eficientes y que el entendimiento de las funciones
-mentales superiores incluida la conciencia en términos de su correlato
-neurobiológico continuará ampliándose indefinidamente
-
-
-
-a pesar de estos adelantos en lo que se refiere a la información
-procesada conscientemente el problema mente–cuerpo persiste si
-consideramos ya no la faceta de información propia de los procesos
-conscientes sino la faceta cualitativa el qué siente el sujeto
-experimental cuando ejecuta la tarea y la manera como podemos
-averiguarlo para establecer correlaciones con la actividad cerebral no
-sólo de la tarea sino de la experiencia
-
- la dicotomía entre la
-subjetividad consciente y el proceso objetivo neurobiológico reaparece
-
-
-
- 
-
-el proceso c ¿hÍbrido o inconcebible
-
-
-
-al considerar los argumentos que esgrime mcginn no me queda del todo
-clara la razón para sostener un misterio tan hermético en especial
-porque considera que la conciencia es un fenómeno natural asociado a
-otro fenómeno natural el proceso c del cerebro
-
- entiendo que da por
-sentado que el proceso c no llegará a ser conocido por la ciencia
-aunque podría mencionar varios candidatos hipotéticos bastante
-aceptables en la neurociencia contemporánea metzinger 2000
-
- lo que
-propone como inaccesible dadas las propiedades de ambos procesos el
-consciente y el cerebral es el modo y la razón de su acoplamiento que
-es el meollo del problema mente–cuerpo en su versión actual
-
- de nuevo
-puedo comprender y aun compartir este escepticismo y ese asombro pues
-suelo confrontarme con el pertinaz obstáculo al entendimiento y sin
-embargo no veo que la brecha sea tan amplia e inaccesible pues en los
-últimos lustros se ha mostrado por ejemplo que el proceso consciente y
-el proceso intermodular del cerebro son isomórficos lo cual provee de
-una plataforma procedente para sostener y analizar su correlación díaz
-1998 2007
-
- desde luego que el isomorfismo no es más que un paso pues
-habría que especificar las unidades que lo componen para poder
-establecer puentes empíricos entre lo mental y lo neurofisiológico
-
- pero
-esta no parece ser una tarea imposible sino difícil y fascinante
-
-
-tampoco comparto el escepticismo radical sobre las soluciones
-metafísicas al problema a pesar de que ninguna está libre de fallas y
-problemas pues una sólida teoría sobre el correlato cerebral de la
-conciencia debe ser empíricamente probable y filosóficamente posible
-
- el
-reto de tal teoría es entonces el acoplar la mejor tesis filosófica con
-la más heurística hipótesis biológica
-
- y si por el momento no podemos
-visualizar ni colegir el mecanismo de acoplamiento entre las dos
-facetas queda mucho por hacer para lograr correlacionarlas
-adecuadamente lo cual sería un indudable logro en la dilucidación de la
-conciencia
-
-
-
-como muchos otros enigmas de la ciencia natural éste en particular ha
-sido un poderoso aliciente metodológico
-
- hay ejemplos de investigaciones
-clásicas que han logrado obtener datos razonablemente fidedignos
-mediante informes estandarizados en primera persona de estados y
-procesos mentales al tiempo que se obtienen variables neurobiológicas y
-hay ejemplos pertinentes que he esgrimido antes díaz 2007
-
- el campo
-es aún terreno fértil pues se puede considerar naciente
-
- por ejemplo
-pueden plantearse auto–experimentos en los cuales el investigador
-examine imágenes funcionales de su propio cerebro en acción al tiempo
-que experimenta actividades mentales
-
- podría pensarse que con suficiente
-entrenamiento este autocerebroscopista pudiera establecer ligas o
-correlaciones recurrentes entre los datos de su introspección y los
-datos que observa en su cerebro pues estaría empalmando métodos en
-primera y tercera persona
-
- esto no es material de ficción y de hecho
-algo así ocurre en experimentos de neurofeedback en los cuales los
-sujetos aprenden a controlar su actividad electroencefalogáfica mediante
-el cultivo de ciertos estados mentales que se correlacionan a una u otra
-banda del eeg siempre y cuando tengan algún acceso a la actividad
-eléctrica evans y abarbanel 1999
-
- más aún hay planteamientos
-formales de empalmar una metodología rigurosa en primera persona como la
-producción de informes introspectivos estructurados a la par que se
-obtienen imágenes o registros de actividad cerebral como propuso la
-neurofenomenología del notable investigador chileno de la cognición
-francisco varela 1996 antes de su prematura muerte
-
- no caben muchas
-dudas de que éstas y otras posibles avenidas de acceso al proceso
-psicofísico van a progresar en el futuro próximo y si bien no parece
-que mcginn ofrezca ninguna objeción a este o cualquier otro programa de
-la neurociencia cognitva da la impresión que al no tomarlos en cuenta
-la brecha mente–cuerpo permanece insalvable en su consideración
-
-
-
-ahora bien aunque el adelanto en la investigación psicobiológica es
-notorio e indudable el problema duro de las cualidades de conciencia
-persiste en especial si lo formulo de maneras que me enredan otra vez
-al alevoso misterio de mcginn
-
- la primera tiene que ver directamente con
-la neurociencia y la he planteado con anterioridad díaz 2007
-
- si bien
-aprendemos cada vez más de los roles funcionales en los que participan
-los diferentes módulos centros o regiones del encéfalo resulta que el
-tejido nervioso que los constituye es bastante homogéneo tanto en su
-forma como particularmente en su función
-
- existen diferencias en la
-manera como están armadas las redes de células nerviosas de algunas
-áreas del cerebro como sucede con la arquitectura tisular del cerebelo
-o del hipocampo
-
- sin embargo las diferencias entre las regiones de la
-corteza cerebral que se distinguen desde principios del siglo pasado
-como zonas de brodmann son relativamente menores pues toda la corteza
-del cerebro que sin duda está ligada a las operaciones mentales
-conscientes está estratificada en las mismas capas y ordenada en
-similares columnas en toda su extensión
-
- ciertamente no se pueden
-atribuir a las diferencias morfológicas las enormes diferencias entre
-contenidos y cualidades mentales
-
- se debe suponer entonces que la
-diferencia es funcional y tiene que ver con una codificación genética y
-una especificación aprendida
-
- aunque esto es razonable resulta
-sorprendente e incompatible que la función y la representación neuronal
-de las funciones mentales sea prácticamente idéntica en todas las zonas
-del cerebro
-
- en efecto las neuronas usan las mismas señales en forma de
-potenciales de acción y potenciales sinápticos que descargan cuando las
-células están en las operaciones que necesariamente subyacen a toda
-actividad mental
-
- ¿cómo es que si se activan ciertas neuronas de la
-amígdala el individuo sienta miedo si se activan otras cercanas del
-hipocampo recuerde una escena de su pasado si se activan otras aledañas
-de la corteza temporal reconozca un rostro u otras más en la vecindad
-escuche y reconozca la melodía de un oboe
-
- esto es por el momento
-ciertamente inquietante si no francamente misterioso
-
- una posibilidad es
-que como muestran los resultados de imágenes cerebrales no haya
-localidades exclusivas para determinadas tareas cognitivas pues parece
-ser que es una función de enlace entre varias zonas lo que fundamenta
-una capacidad o proceso mental particular
-
- estamos lejos de comprender
-cómo la dinámica intermodular se relaciona con la conciencia pero
-parece ser un fundamento razonable
-
-
-
-pensemos ahora en el misterio cualitativo de otra forma
-
- hace unos años
-me basé en algunos experimentos de pensamiento bien conocidos del
-filósofo de la mente frank jackson para elaborar un cuento de
-neurociencia–ficción en el que la protagonista llamada maría padece
-agenesia congénita del dolor díaz 2000
-
- intrigada hasta lo indecible
-por conocer el dolor y dejar de sentirse un fenómeno maría se convierte
-en la mayor experta mundial en la neurofisiología del dolor y recibe el
-premio nóbel por sus descubrimientos
-
- sin embargo al recibir el premio
-declara no saber nada del dolor
-
- esta aparente paradoja es factible y
-comprensible pues la información científica objetiva y en tercera
-persona proporciona una visión que en el caso del cerebro no revela
-directamente la experiencia como hemos visto al hacer una distinción
-entre información y qualia y luego al relatar los experimentos de
-imágenes cerebrales neurocognitivas
-
- pero llevé la ficción un poco más
-allá de esta razonable epistemología
-
- desesperada por conocer la
-experiencia del dolor maría realiza un experimento sobre ella misma en
-el cual se estimula mediante ondas magnéticas las zonas cerebrales
-involucradas en el dolor pero no llega a sentirlo lo cual vive como el
-fracaso de su carrera
-
- no digo el final para no estropearlo por completo
-a quienes deseen leerlo y quizás comentarlo en un foro abierto que
-estableció sobre el tema la revista ludus vitalis
-
- de esta manera otra
-de las facetas difíciles o misteriosas de la neurociencia de la
-conciencia es la que surge al cotejar dos perspectivas una en tercera
-persona que es la usual en el método científico y otra en primera
-persona que es la vivencia subjetiva
-
- una neurociencia de la conciencia
-pretendería juntar exitosamente las dos perspectivas para resolver el
-problema mente–cuerpo y el argumento que hace mcginn es que esto es
-imposible
-
- sin embargo este análisis un poco más detallado revela que
-la labor no parece inalcanzable si pretendemos sencillamente llevar a
-cabo correlaciones entre ambas facetas para en un momento ulterior
-buscarles la razón del acoplamiento
-
- la aproximación a un enigma
-mediante estratagemas sucesivas no es para nada ajena a la investigación
-científica
-
- la posición de nuestro filósofo requiere empero otro
-comentario en referencia a la introspección
-
-
-
- 
-
-la introspecciÓn ¿escasa o defectuosa
-
-
-
-mcginn plantea que nuestros conceptos sobre la conciencia se derivan
-solamente de la introspección
-
- esto sin duda fue así hasta los albores
-de la psicología experimental en los laboratorios de wilhelm wundt en
-el siglo xix
-
- sin embargo la introspección ha tenido una larga y
-tormentosa historia en la que finalmente se ha impuesto una especie de
-neomentalismo a decir del notable investigador de la memoria alan
-paivio 1975 y que tiene ya tres décadas de formulado
-
- a diferencia de
-la introspección anecdótica de los inicios la moderna investigación
-utiliza instrumentos bastante objetivos para que los individuos expresen
-sus estados internos lo cual permite una rigurosa comparación
-inter–subjetiva totalmente compatible con el resto de la ciencia
-
- este
-tipo de dispositivos en formas de informes estandarizados aunque
-imperfectos y mejorables como todas las técnicas científicas hace de la
-introspección metódica una herramienta valiosa para proporcionar datos
-de funciones mentales incluyendo la conciencia capaces de ser
-relacionados con datos neurofisológicos obtenidos en paralelo y en
-tiempo real
-
- buena parte del edificio de la neurociencia cognitiva
-moderna se sustenta en esta aproximación metodológica cuyo éxito es
-indudable
-
- sin embargo se debe repetir díaz 2007 que los informes
-introspectivos son recursos incompletos para revelar los contenidos de
-conciencia y en referencia a la cualidad de la experiencia seguramente
-aún menos reveladores que una metáfora poética la cual llega mucho más
-lejos para comunicar los qualia de la experiencia consciente
-
- de esta
-manera yo también podría argumentar que los recursos introspectivos
-modernos no rompen el misterio pues no revelan fielmente a la
-conciencia
-
- mcginn va mucho más allá al sostener que la introspección es
-de hecho incapaz de revelar la esencia de la conciencia pues ésta tiene
-una estructura fundamental escondida en relación al espacio además de
-que no revela nada de la estructura o función cerebral
-
- es precisamente
-esa reputada esencia la que escapa y seguirá escapando a nuestro
-escrutinio
-
-
-
-el problema del punto de vista en tercera y primera persona ha sido
-ampliamente debatido sobre todo en la filosofía de la ciencia
-cognitiva
-
- es indudable que la investigación sobre los fundamentos
-nerviosos de la conciencia conforma una empresa científica muy peculiar
-porque enfrenta el problema de superponer o identificar los dos puntos
-de vista que aparecen como fenomenológicamente distintos
-
- ahora bien
-las interdisciplinas situadas entre la psicología y la biología
-psicofisiología psicofarmacología neuropsicología neurociencia
-cognitiva psiquiatría biológica etc
-
- han desarrollado una indagación
-cada vez más meticulosa y abundante basada en métodos paralelos que
-recaban datos mediante tareas puntuales al tiempo que obtienen
-información cerebral cada vez más precisa
-
- no existe problema
-metodológico insalvable que impida el cotejo crecientemente preciso de
-los dos conjuntos de datos
-
- el registro de la actividad mental se va
-logrando por el perfeccionamiento creciente de los métodos que dieron
-origen a la psicofísica hacia 1870 y que constituyen un meollo de la
-investigación en ciencia cognitiva
-
- en efecto los tiempos de reacción y
-otras señales que un sujeto animal o humano puede emitir en referencia a
-estados mentales precisos se correlacionan cotidiana y cercanamente con
-señales nerviosas
-
- sin embargo estas correlaciones aunque constituyen
-datos psicofísicos rigurosos no resuelven el problema metafísico de la
-relación mente–cuerpo pues son compatibles con la identidad la
-emergencia el paralelismo o la superveniencia
-
- de esta forma el
-misterio de mcginn se puede entender también como esa imposibilidad que
-no se puede prever que sea resuelta por la ciencia en el futuro próximo
-
-
-sin embargo es importante deslindar este indudable obstáculo de un
-escepticismo o un pesimismo psicobiológico que puede derivarse de él y
-caer fácilmente en un oscurantismo pues no disminuye ni desmerece los
-méritos de esta investigación híbrida e interdisciplinaria y del caudal
-de información que arroja sobre las bases cerebrales de la mente
+,
+no
+tengo
+mayor
+dificultad
+en
+compartir
+el
+asombro
+,
+pues
+cuando
+considero
+o
+medito
+sobre
+el
+problema
+que
+me
+llevó
+y
+me
+mantiene
+en
+la
+investigación
+también
+soy
+presa
+fácil
+de
+extrañeza
+y
+turbación
+.
+
+
+Una
+vez
+expresado
+el
+azoro
+,
+McGinn
+procede
+a
+examinar
+las
+tesis
+tradicionales
+de
+solución
+al
+problema
+mente–cuerpo
+con
+notable
+penetración
+y
+soltura
+.
+
+
+Dadas
+las
+propiedades
+tan
+diferentes
+de
+los
+eventos
+mentales
+y
+los
+neurofisiológicos
+,
+el
+tipo
+de
+materialismo
+que
+identifica
+actividad
+neuronal
+con
+experiencia
 consciente
+le
+es
+difícil
+de
+tragar
+,
+incluso
+de
+comprender
+.
+
+
+Debo
+decir
+que
+en
+cierta
+medida
+comparto
+con
+él
+esa
+sensación
+y
+la
+misma
+conclusión
+.
+
+
+El
+dualismo
+tampoco
+le
+resuelve
+nada
+,
+pues
+implica
+la
+absurda
+posibilidad
+de
+zombies
+cuyo
+cerebro
+permanecería
+intacto
+cuando
+carecen
+de
+conciencia
+,
+o
+bien
+la
+idea
+aún
+más
+insensata
+de
+que
+la
+conciencia
+es
+un
+espectador
+descarnado
+capaz
+de
+desligarse
+del
+cuerpo
+como
+un
+fantasma
+.
+
+
+Todo
+esto
+es
+también
+difícil
+de
+absorber
+y
+aún
+más
+de
+aceptar
+.
+
+
+Más
+tarde
+el
+autor
+examina
+los
+postulados
+de
+un
+dualismo
+no
+teísta
+,
+la
+idea
+de
+dos
+universos
+paralelos
+,
+uno
+material
+y
+el
+otro
+mental
+o
+consciente
+,
+para
+confrontarlos
+con
+la
+objeción
+de
+la
+causalidad
+.
+
+
+Es
+imposible
+,
+en
+efecto
+,
+considerar
+que
+estos
+dos
+universos
+pudieran
+afectarse
+mutuamente
+pues
+se
+violaría
+el
+principio
+de
+conservación
+de
+la
+energía
+.
+
+
+Finalmente
+analiza
+al
+panpsiquismo
+y
+le
+parece
+insostenible
+porque
+para
+explicar
+a
+los
+objetos
+que
+no
+manifiestan
+propiedades
+mentales
+no
+es
+necesario
+imputárselas
+.
+
+
+En
+cambio
+los
+seres
+sensibles
+y
+conscientes
+requieren
+ser
+explicados
+por
+su
+conciencia
+y
+cualquier
+definición
+de
+persona
+implica
+necesariamente
+a
+la
+conciencia
+y
+sus
+efectos
+sobre
+el
+mundo
+a
+través
+del
+comportamiento
+.
+
+
+Habiéndose
+desmarcado
+de
+estas
+soluciones
+tradicionales
+,
+McGinn
+agrega
+que
+existen
+múltiples
+límites
+del
+conocimiento
+en
+vastos
+océanos
+de
+ignorancia
+y
+específicamente
+que
+los
+métodos
+usados
+para
+adquirir
+conocimiento
+por
+parte
+de
+las
+ciencias
+habituales
+no
+son
+adecuados
+ni
+suficientes
+para
+resolver
+la
+naturaleza
+de
+la
+conciencia
+que
+constituye
+el
+meollo
+del
+problema
+mente–cuerpo
+.
+
+
+Nada
+le
+garantiza
+que
+la
+inteligencia
+humana
+sea
+capaz
+de
+resolver
+todos
+los
+problemas
+que
+se
+le
+plantean
+;
+al
+contrario
+,
+todo
+le
+indica
+que
+muchos
+de
+ellos
+se
+presentan
+y
+se
+mantienen
+como
+recalcitrantes
+e
+insolubles
+a
+lo
+largo
+de
+la
+historia
+,
+en
+especial
+los
+problemas
+filosóficos
+centrales
+.
+
+
+Particularmente
+afirma
+que
+los
+conceptos
+sobre
+la
+conciencia
+se
+forman
+a
+partir
+de
+la
+introspección
+y
+los
+conceptos
+sobre
+el
+cerebro
+a
+partir
+de
+la
+ciencia
+habitual
+.
+
+
+Pero
+sostiene
+entonces
+que
+la
+introspección
+no
+dice
+nada
+de
+la
+estructura
+cerebral
+y
+la
+neurociencia
+nada
+de
+la
+conciencia
+.
+
+
+A
+esta
+dicotomía
+segregada
+la
+llama
+cerrazón
+cognitiva
+(cognitive
+closure)
+y
+la
+esgrime
+,
+entre
+otras
+cosas
+,
+para
+no
+invocar
+a
+una
+inteligencia
+superior
+en
+la
+creación
+de
+los
+seres
+conscientes
+.
+
+
+Así
+,
+una
+vez
+más
+confirma
+que
+la
+conciencia
+sería
+un
+fenómeno
+natural
+pero
+hermético
+a
+la
+exploración
+con
+las
+herramientas
+usuales
+de
+la
+inteligencia
+y
+de
+las
+ciencias
+humanas
+.
 
 
 
-mcginn reitera que su argumento es relevante sólo al ámbito de la
-argumentación filosófica y no toca para nada a la investigación
-científica la cual seguirá descubriendo hechos sobre la mente y sobre
-el cerebro aunque no logre penetrar en su conexión más íntima
+McGinn
+plantea
+otro
+argumento
+para
+sostener
+su
+tesis
+misteriosa
+:
+el
+hecho
+de
+que
+el
+universo
+material
+,
+incluidos
+nuestros
+cerebros
+que
+albergan
+o
+producen
+la
+conciencia
+,
+ocurre
+en
+un
+espacio
+dimensional
+,
+en
+tanto
+que
+los
+contenidos
+de
+conciencia
+no
+aparecen
+constreñidos
+al
+espacio
+ni
+aparentan
+tener
+dimensiones
+.
 
- en este
-punto crítico la investigación empírica puede y debe sentirse aludida
-pues la neurociencia cognitiva tiene como objetivo precisamente
-dilucidar en lo posible la relación entre procesos mentales cerebrales
-y conductuales
 
- quienes creemos que un adelanto crucial en la materia
-puede darse precisamente por la interacción fructífera entre la
-filosofía de la mente y la neurociencia cognitiva necesitamos examinar
-la relevancia de la tesis misteriosa pues a primera vista parece cerrar
-y para siempre el camino de la interacción
+En
+consecuencia
+,
+se
+necesitaría
+una
+teoría
+que
+asintiera
+con
+el
+dualismo
+en
+el
+hecho
+de
+que
+la
+conciencia
+no
+es
+espacial
+y
+con
+el
+materialismo
+en
+el
+hecho
+de
+que
+el
+cerebro
+sí
+lo
+es
+.
 
- en este sentido el plantear
-una imposibilidad de resolución del problema mente–cuerpo puede tener
-efectos negativos para la interacción entre las disciplinas
-involucradas aunque no los tenga para la investigación empírica de la
-psicobiología y sus ramales
+
+El
+entendimiento
+de
+la
+conciencia
+requeriría
+entonces
+una
+nueva
+teoría
+del
+espacio
+en
+la
+cual
+el
+cerebro
+serviría
+como
+un
+intermediario
+.
 
 
 
-también difiero de mcginn cuando dice que no se puede afirmar que un
-estado de conciencia como es el tener la experiencia de ver un color
-amarillo esté formado por elementos como el resto de las cosas del
-mundo en este caso por elementos de naturaleza nerviosa pues la
-experiencia subjetiva no puede fracturarse o descomponerse en partes
-como las frases las moléculas o las galaxias
+Y
+si
+bien
+la
+teoría
+le
+parecería
+necesaria
+,
+considera
+que
+no
+hay
+forma
+de
+elaborarla
+y
+por
+lo
+tanto
+quedaremos
+en
+la
+ignorancia
+.
 
- lo que mcginn parece
-negar son las propiedades emergentes en forma general pues por
-definición son adquisiciones holistas que difieren cualitativamente de
-los elementos que las constituyen como sucede con las propiedades
-fisicoquímicas del agua como resultantes de la estereoquímica de la
-molécula h₂o y sus propiedades combinatorias
 
- por esta razón no veo
-dificultad en mantener que los constituyentes elementales de los estados
-de conciencia son ciertas funciones nerviosas no conscientes que dan
-lugar a otras funciones de orden superior capaces de generar un sentir
+Como
+se
+puede
+colegir
+por
+lo
+dicho
+hasta
+ahora
+,
+el
+tono
+general
+de
+McGinn
+es
+pesimista
+:
+estamos
+cognitivamente
+impedidos
+para
+formular
+tal
+teoría
+.
+
+
+
+ 
+
+EL
+MISTERIO
+:
+¿CONTEMPLADO
+O
+ESCUDRIÑADO
+?
+
+
+
+Me
+interesa
+examinar
+la
+posición
+<<misteriosa>>
+de
+McGinn
+por
+varias
+razones
+.
+
+
+La
+primera
+es
+que
+se
+trata
+de
+un
+filósofo
+de
+la
+mente
+cuya
+exposición
+me
+es
+clara
+a
+diferencia
+de
+varias
+posturas
+esgrimidas
+por
+este
+gremio
+de
+profesionales
+,
+pues
+no
+he
+tenido
+una
+preparación
+profesional
+como
+filósofo
+.
+
+
+Si
+bien
+el
+problema
+mente–cuerpo
+es
+el
+meollo
+de
+mi
+interés
+académico
+,
+lo
+he
+abordado
+fundamentalmente
+desde
+las
+ciencias
+del
+cerebro
+y
+de
+la
+conducta
+y
+sus
+implicaciones
+epistemológicas
+.
+
+
+Al
+interesarme
+y
+acercarme
+crecientemente
+en
+la
+filosofía
+me
+he
+encontrado
+entre
+trincheras
+y
+en
+tierra
+de
+nadie
+o
+de
+pocos
+,
+de
+tal
+manera
+que
+para
+los
+filósofos
+soy
+un
+neurocientífico
+con
+inquietudes
+filosóficas
+,
+en
+tanto
+que
+para
+mis
+colegas
+oficiantes
+de
+la
+ciencia
+cerebral
+y
+conductual
+,
+me
+he
+convertido
+en
+un
+filósofo
+con
+formación
+neurobiológica
+.
+
+
+La
+indefinición
+tiene
+más
+desventajas
+que
+ventajas
+,
+pero
+intento
+sacar
+el
+mejor
+provecho
+de
+ella
+,
+quizás
+con
+la
+peregrina
+idea
+de
+que
+tengo
+una
+perspectiva
+de
+las
+dos
+trincheras
+que
+,
+como
+sabemos
+bien
+,
+se
+llevan
+poco
+y
+se
+frecuentan
+menos
+.
+
+
+Prueba
+de
+ello
+es
+que
+no
+solemos
+ver
+neurofisiólogos
+en
+los
+congresos
+de
+filosofía
+o
+filósofos
+de
+la
+mente
+en
+congresos
+de
+neurociencia
+,
+lo
+cual
+es
+lamentable
+.
+
+
+Frecuentemente
+me
+asalta
+la
+idea
+de
+que
+es
+imposible
+desarrollar
+una
+teoría
+híbrida
+,
+es
+decir
+empíricamente
+sustentada
+a
+la
+vez
+que
+filosóficamente
+sólida
+,
+pues
+por
+necesidad
+de
+léxico
+y
+de
+marco
+de
+referencia
+se
+desliza
+el
+discurso
+hacia
+uno
+u
+otro
+lado
+de
+esta
+colina
+situada
+entre
+unas
+trincheras
+que
+ni
+siquiera
+se
+enfrentan
+,
+sino
+que
+en
+buena
+medida
+se
+ignoran
+.
+
+
+Es
+una
+forma
+de
+escepticismo
+epistémico
+que
+no
+incluye
+,
+como
+veremos
+,
+un
+negativismo
+ontológico
+sobre
+la
+naturaleza
+de
+la
+conciencia
+,
+pues
+estoy
+convencido
+de
+que
+si
+Colin
+McGinn
+se
+adentrara
+en
+las
+teorías
+y
+los
+hechos
+sobresalientes
+de
+las
+neurociencias
+cognitivas
+cambiaría
+en
+alguna
+medida
+su
+talante
+derrotista
+.
+
+
+
+Me
+abocaré
+entonces
+a
+comentar
+a
+este
+connotado
+filósofo
+de
+la
+mente
+desde
+la
+perspectiva
+de
+un
+neurocientífico
+y
+psicobiólogo
+aficionado
+a
+la
+filosofía
+en
+el
+marco
+que
+podríamos
+denominar
+una
+ciencia
+cognitiva
+de
+corte
+situacionista
+.
+
+
+Como
+se
+sabe
+,
+esta
+perspectiva
+enfatiza
+el
+contexto
+corporal
+,
+ambiental
+y
+ecológico
+en
+el
+que
+opera
+la
+cognición
+silvestre
+,
+es
+decir
+la
+actividad
+mental
+mediada
+por
+el
+comportamiento
+en
+la
+vida
+diaria
+(Clark
+,
+1997
+;
+González
+,
+2006)
+.
+
+
+Para
+la
+neurociencia
+cognitiva
+,
+interesada
+en
+problemas
+de
+la
+fisiología
+del
+comportamiento
+que
+necesariamente
+involucran
+estímulos
+ambientales
+,
+respuestas
+mensurables
+y
+mediación
+funcional
+del
+cuerpo
+vivo
+y
+en
+acción
+,
+este
+enfoque
+resulta
+una
+postura
+no
+sólo
+adecuada
+y
+natural
+sino
+también
+provechosa
+.
+
+
+
+Para
+empezar
+el
+análisis
+de
+la
+tesis
+misteriosa
+de
+McGinn
+debo
+apuntar
+que
+al
+tratar
+sobre
+el
+correlato
+nervioso
+de
+la
+conciencia
+es
+relevante
+distinguir
+entre
+el
+procesamiento
+de
+información
+que
+se
+relaciona
+con
+el
+contenido
+de
+la
+experiencia
+y
+de
+la
+representación
+conscientes
+,
+y
+su
+cualidad
+o
+qualia
+,
+la
+propiedad
+subjetiva
+de
+esos
+contenidos
+,
+la
+manera
+como
+se
+sienten
+.
+
+
+Una
+distinción
+parecida
+fue
+hecha
+de
+manera
+general
+por
+el
+joven
+e
+influyente
+filósofo
+australiano
+David
+Chalmers
+(1996)
+cuando
+separó
+los
+problemas
+fáciles
+y
+los
+difíciles
+en
+referencia
+a
+la
+conciencia
+.
+
+
+Los
+fáciles
+tienen
+que
+ver
+con
+el
+procesamiento
+de
+información
+y
+atestiguamos
+que
+los
+adelantos
+científicos
+sobre
+ellos
+son
+espectaculares
+.
+
+
+Por
+ejemplo
+,
+con
+el
+refinamiento
+de
+las
+técnicas
+de
+imágenes
+de
+la
+actividad
+regional
+del
+cerebro
+durante
+la
+ejecución
+de
+múltiples
+tareas
+cognitivas
+cuidadosamente
+diseñadas
+y
+evaluadas
+,
+se
+ha
+obtenido
+información
+extensa
+y
+fascinante
+sobre
+la
+localidad
+cerebral
+involucrada
+en
+funciones
+mentales
+tan
+específicas
+y
+diversas
+como
+la
+manipulación
+de
+un
+objeto
+por
+la
+imaginación
+,
+la
+compasión
+,
+la
+emoción
+musical
+o
+el
+éxtasis
+místico
+,
+entre
+muchas
+.
+
+
+El
+adelanto
+en
+la
+comprensión
+de
+estas
+actividades
+mentales
+en
+referencia
+a
+sus
+fundamentos
+cerebrales
+no
+puede
+ponerse
+en
+duda
+,
+aunque
+se
+debe
+decir
+que
+no
+implica
+el
+que
+estas
+funciones
+estén
+definitivamente
+ubicadas
+ni
+que
+exista
+una
+modularidad
+o
+topografía
+funcional
+absoluta
+.
+
+
+La
+manera
+más
+parsimoniosa
+de
+interpretar
+los
+resultados
+que
+surgen
+diariamente
+de
+esta
+neurociencia
+cognitiva
+de
+la
+imagen
+cerebral
+es
+que
+las
+regiones
+que
+se
+activan
+forman
+parte
+de
+redes
+o
+circuitos
+involucrados
+en
+la
+tarea
+o
+la
+actividad
+mental
+en
+operación
+.
+
+
+De
+hecho
+,
+en
+casi
+todos
+los
+estudios
+se
+muestra
+que
+una
+actividad
+mental
+particular
+involucra
+o
+engarza
+a
+varias
+zonas
+cerebrales
+y
+necesita
+de
+su
+enlace
+orquestado
+en
+una
+dinámica
+que
+puede
+tener
+las
+características
+vivaces
+de
+un
+enjambre
+o
+una
+parvada
+(Díaz
+,
+2006)
+.
+
+
+Una
+dificultad
+muy
+relevante
+al
+tema
+de
+este
+tipo
+de
+investigaciones
+es
+que
+no
+es
+posible
+distinguir
+los
+procesamientos
+conscientes
+de
+los
+que
+no
+lo
+son
+,
+lo
+cual
+dificulta
+establecer
+una
+correlación
+más
+precisa
+y
+general
+de
+las
+bases
+o
+fundamentos
+cerebrales
+de
+la
+conciencia
+.
+
+
+
+En
+efecto
+,
+ocurre
+que
+los
+seres
+humanos
+podemos
+procesar
+información
+mental
+de
+manera
+inconsciente
+,
+como
+ocurre
+con
+las
+percepciones
+,
+decisiones
+,
+motivaciones
+y
+mapas
+de
+navegación
+que
+empleamos
+al
+conducir
+un
+auto
+en
+tanto
+estamos
+conscientemente
+más
+involucrados
+en
+una
+conversación
+con
+alguien
+al
+lado
+.
+
+
+Se
+conoce
+bien
+que
+la
+actividad
+cerebral
+de
+alguien
+que
+inicia
+el
+aprendizaje
+de
+un
+juego
+electrónico
+es
+mucho
+más
+intensa
+y
+requiere
+del
+concurso
+de
+muchas
+más
+zonas
+que
+las
+que
+emplea
+cuando
+ya
+domina
+el
+juego
+(Baars
+,
+1995)
+.
+
+
+Al
+igual
+que
+la
+conducción
+de
+un
+automóvil
+,
+el
+sujeto
+necesita
+de
+percepción
+,
+decisión
+,
+empleo
+de
+reglas
+,
+conocimiento
+de
+objetivos
+y
+desarrollo
+de
+destreza
+;
+sin
+embargo
+,
+al
+inicio
+de
+su
+entrenamiento
+emplea
+mayor
+atención
+consciente
+que
+cuando
+ya
+domina
+la
+tarea
+.
+
+
+Al
+igual
+que
+lo
+que
+acontece
+en
+el
+conductor
+de
+un
+auto
+,
+cuando
+ya
+es
+un
+experto
+puede
+proceder
+automáticamente
+en
+tanto
+su
+atención
+se
+desengancha
+de
+la
+tarea
+habitual
+y
+se
+engancha
+en
+otra
+actividad
+mental
+más
+demandante
+o
+llamativa
+.
+
+
+Al
+obtener
+imágenes
+cerebrales
+no
+sorprende
+encontrar
+que
+se
+activan
+las
+zonas
+de
+percepción
+visual
+situadas
+en
+el
+lóbulo
+occipital
+,
+las
+zonas
+de
+la
+decisión
+voluntaria
+situadas
+en
+la
+región
+promotora
+del
+lóbulo
+frontal
+,
+las
+zonas
+de
+control
+del
+movimiento
+de
+las
+manos
+situadas
+en
+la
+corteza
+motora
+,
+las
+zonas
+involucradas
+en
+los
+movimientos
+finos
+,
+como
+el
+núcleo
+caudado
+y
+el
+cerebelo
+.
+
+
+Tampoco
+sorprende
+,
+aunque
+es
+de
+mayor
+dificultad
+de
+interpretación
+,
+que
+la
+intensidad
+de
+la
+activación
+disminuya
+conforme
+se
+adquiere
+la
+destreza
+,
+porque
+suponemos
+que
+con
+el
+aprendizaje
+se
+requiere
+menos
+y
+menos
+actividad
+nerviosa
+.
+
+
+Lo
+que
+no
+se
+logra
+saber
+en
+experimentos
+de
+este
+tipo
+es
+el
+fundamento
+cerebral
+de
+la
+conciencia
+que
+se
+emplea
+en
+la
+ejecución
+,
+pues
+la
+conciencia
+no
+es
+una
+variable
+que
+se
+pueda
+medir
+directamente
+,
+lo
+cual
+es
+un
+hecho
+problemático
+que
+destacan
+tanto
+Chalmers
+como
+McGinn
+.
+
+
+
+En
+este
+sentido
+el
+neurocientífico
+se
+confronta
+con
+una
+dificultad
+que
+si
+bien
+es
+severa
+,
+no
+necesita
+concebir
+como
+un
+misterio
+,
+pues
+este
+tipo
+de
+experimentos
+logran
+acotar
+con
+mayor
+precisión
+las
+variables
+.
+
+
+Y
+si
+bien
+no
+es
+posible
+por
+el
+momento
+obtener
+información
+directa
+de
+la
+conciencia
+que
+está
+participando
+en
+una
+tarea
+,
+sí
+es
+permisible
+,
+por
+ejemplo
+,
+inferir
+que
+la
+atención
+dirigida
+y
+consciente
+es
+mucho
+mayor
+al
+inicio
+de
+la
+tarea
+que
+al
+final
+cuando
+el
+sujeto
+es
+ya
+un
+experto
+.
+
+
+De
+esta
+forma
+se
+puede
+llegar
+a
+la
+razonable
+inferencia
+de
+que
+la
+conciencia
+no
+reside
+en
+un
+sitio
+específico
+del
+cerebro
+sino
+que
+es
+el
+aspecto
 subjetivo
-
- habría dificultad si mantuviéramos que las propiedades
-conscientes resultantes están separadas o descarnadas de la función
-cerebral pero ésta se allana si planteamos que el proceso consciente es
-el aspecto subjetivo de un proceso emergente del cerebro precisamente
-el que mcginn denomina como proceso c y que corresponde a lo que hoy
-día denominamos el correlato nervioso de la conciencia
-
- ha sido muy útil
-el que david chalmers 1996 haya empezado a trazar los requisitos para
-considerar adecuado a tal correlato lo cual depura el listado de los
-mecanismos postulados
-
- en concordancia con la tesis emergente creo que
-mcginn tiene razón cuando afirma que el estado consciente no se puede
-reducir a sus componentes neuronales pero no creo que la tenga al negar
-la posibilidad de que pueda ser significativamente correlacionado con un
-evento neurofisiológico del máximo nivel de integración como podría ser
-la dinámica inter–modular del cerebro y que he propuesto como correlato
-de la conciencia por sus posibles características de parvada o enjambre
-que cumplen cabalmente con los requisitos de chalmers díaz 2006
-
- este
-proceso sería mi candidato a c
+y
+fenomenológico
+de
+una
+función
+nerviosa
+dinámica
+flotante
+entre
+los
+módulos
+que
+la
+coordinan
+y
+enlazan
+.
 
 
-
-ahora bien aun si lográramos demostrar empíricamente que la conciencia
-está indisolublemente ligada a una función nerviosa superior como esa
-lo cual sería un logro formidable el azoro de mcginn puede persistir
-pues es difícil comprender cómo es que dos fenómenos de naturaleza tan
-distinta están acoplados por leyes psicofísicas que aún entonces no
-lograremos vislumbrar
-
- lo que no se podrá negar es que una demostración
-de que estos eventos están ligados por necesidad sería un avance
-sustancial en el entendimiento del problema mente–cuerpo
-
- el reto
-seguirá siendo no sólo el descubrir el correlato neural de la conciencia
-sino el entender cabalmente el cómo la conciencia surge está ligada o
-se presenta en ese proceso y el misterio de mcginn nos ayudará entonces
-a precisar y no desdeñar el requerimiento
-
-
-
- 
-
-mÁs misterios ¿efÍmeros o eternos
-
-
-
-me pregunto ahora si el referido misterio no responde a una determinada
-época y ofrezco un par de ejemplos de que así puede ser
-
- hace años se
-consideraba imposible abordar a fondo el problema de la conciencia por
-el hecho de que la noción del yo era un hecho central de la
-fenomenología que hacía imposible su abordaje objetivo pues el yo es la
-esencia de la subjetividad y al tiempo el agente para emprender un
-estudio objetivo
-
- esta paradoja se consideró insalvable y mcginn la
-sigue considerando impenetrable
-
- sin embargo ha ido ganando terreno en
-los últimos lustros una alternativa conceptual y estoy convencido que
-está logrando superar el obstáculo
-
- se trata de la identificación del
-misterioso e insustancial yo con un sistema cognitivo de
-auto–referencia
-
- el yo sería la representación que tiene una criatura de
-sí misma y estaría constituido por una serie de subsistemas
-filogenéticos y ontogénicos que empiezan en la propriocepción
-fisiológica pasan por la imagen corporal la capacidad de navegación y
-la distinción cuerpo–mundo hasta desembocar en el uso léxico de los
-pronombres en primera persona la memoria autobiográfica la conciencia
-de la muerte y la conciencia moral
-
- tanto el modelo jerárquico como cada
-una de las capacidades de auto–referencia son susceptibles de análisis
-de investigación y de teorización
-
- el yo no ha quedado atrás ni ha
-sido borrado del léxico como sucedió con el flogisto sino que ha sido
-definido y acotado por la investigación de filósofos de la mente como
-josé luis bermúdez 1998 quien echando mano de evidencia empírica
-desde la fisiología hasta la etología y la ciencia cognitiva ha logrado
-formular una teoría y una metodología de acceso a éste el concepto más
-abstracto de la psicología
-
- la confluencia de la filosofía y las
-ciencias de la mente el cerebro y la conducta ha sido clave en este
-logro y me extrañó ver que mcginn en su tratamiento del misterio del
-self no haga referencia alguna a este progreso en el entendimiento
+No
+cabe
+duda
+de
+que
+este
+tipo
+de
+acotaciones
+e
+inferencias
+serán
+cada
+vez
+más
+justificadas
+y
+eficientes
+y
+que
+el
+entendimiento
+de
+las
+funciones
+mentales
+superiores
+,
+incluida
+la
+conciencia
+,
+en
+términos
+de
+su
+correlato
+neurobiológico
+,
+continuará
+ampliándose
+indefinidamente
+.
 
 
 
-propongo ahora un segundo ejemplo de acotación temporal el hecho de que
-no podamos comprender a plenitud cómo es que el cerebro produce o
-alberga a la conciencia no parece ser un problema muy distinto al hecho
-de que no podemos comprender a plenitud qué es la vida
+A
+pesar
+de
+estos
+adelantos
+en
+lo
+que
+se
+refiere
+a
+la
+información
+procesada
+conscientemente
+,
+el
+problema
+mente–cuerpo
+persiste
+si
+consideramos
+ya
+no
+la
+faceta
+de
+información
+propia
+de
+los
+procesos
+conscientes
+,
+sino
+la
+faceta
+cualitativa
+,
+el
+qué
+siente
+el
+sujeto
+experimental
+cuando
+ejecuta
+la
+tarea
+y
+la
+manera
+como
+podemos
+averiguarlo
+para
+establecer
+correlaciones
+con
+la
+actividad
+cerebral
+no
+sólo
+de
+la
+tarea
+,
+sino
+de
+la
+experiencia
+.
 
- en ambos casos
-el problema mayúsculo se ha multiplicado en una miríada de facetas
-particulares sobre las cuales hay suficiente información para entender
-la función con bastante integridad
 
- en el caso de la vida podemos
-desentrañar las funciones del metabolismo la reproducción la
-excitabilidad o el comportamiento en términos de sus mecanismos
-fisiológicos
-
- en el caso de la mente podemos hacer casi otro tanto con
-la percepción la memoria el lenguaje el miedo o el dolor
-
- en uno y
-otro caso se nos escapa un elemento crucial y la misma perplejidad que
-ahora nos atosiga para la conciencia fatigaba a los biólogos de los años
-1920 en referencia a la misteriosa propiedad global de la vida
-
- hoy
-podemos comprender mejor que la vida es una propiedad que resulta de
-otras más básicas como las ya mencionadas
-
- en un futuro próximo podremos
-comprender mejor que la conciencia surge del enlace de módulos de
-actividades mentales más elementales
-
- como en el resto de la ciencia hay
-una mejoría en la comprensión pero no hay una solución final al enigma
-solución que es poco probable que llegue pues con cada descubrimiento
-no sólo se destapan ciertas propiedades sino que al mismo tiempo
-aparecen nuevas incógnitas
-
-
-
-tercer ejemplo quizás el misterio que nos presenta mcginn es en alguna
-medida similar al problema bastante espinoso de la conducta y su
-necesaria base nerviosa
-
- la conducta es un proceso de movimiento
-organizado y altamente diferenciado dotado de motivaciones objetivos
-funciones y significados no manifiestos
-
- sabemos que está producida
-causalmente por funciones nerviosas en las que las actividades de
-neuronas y sinapsis se engarzan en pautas de excitación e inhibición
-sumamente complejas que finalmente desembocan en actos tan variados como
-el ensartar un hilo en una aguja un paso de danza alcanzar un objeto
-adoptar un gesto de alegría emitir un aspaviento de insulto o una
-amenaza con la mano
-
- la conducta tiene una esfera de acción que se sitúa
-entre un organismo y su medio como un intermediario adaptativo y no
-parece tener más constituyentes elementales que las diferentes
-contracciones o estiramientos de grupos musculares que se desenvuelven
-con una precisión y una velocidad sorprendentes
-
- sin embargo una
-exhaustiva descripción física del movimiento nos aclara muy poco sobre
-la conducta pues los movimientos están cargados precisamente de
-motivaciones objetivos funciones y otros significados
-
- a pesar de todo
-ello no parece haber una dificultad infranqueable en considerar que la
-conducta surge de pautas nerviosas de actividad sin las cuales es
-inconcebible
-
- bien me doy cuenta que la conducta difiere de la
-conciencia en el sentido de que no constituye una vivencia subjetiva
-pero también de que se instaura como un proceso emergente con una base
-nerviosa y necesariamente correlacionado con pautas de actividad
-fisiológica
+La
+dicotomía
+entre
+la
+subjetividad
+consciente
+y
+el
+proceso
+objetivo
+neurobiológico
+reaparece
+.
 
 
 
  
 
-el asombro ¿recobrado o desairado
+EL
+PROCESO
+C*
+:
+¿HÍBRIDO
+O
+INCONCEBIBLE
+?
 
 
 
-la noción de un misterio particular en referencia a la naturaleza de la
-conciencia en términos de la biología o de la física ha asaltado a
-muchos de los involucrados en la psicobiolgía y la neurociencia y
-aunque esa vivencia puede resultar desalentadora muchas veces redunda
-en un acicate para realizar o proponer abordajes experimentales cada vez
-más agudos y certeros de las dos facetas involucradas así como teorías
-cada vez más sólidas para enfrentar el problema mente–cuerpo en su
-acepción contemporánea es decir la relación entre la mente consciente y
-la función cerebral
-
- y si bien los filósofos de la mente y los
-neurocientíficos cognitivos pueden seguir tranquilamente su curso de
-acción e ignorarse mutuamente sostengo una vez más que el progreso
-sustancial en este campo podrá fructificar cuando los dos frentes se
-encuentren y acepten lo mucho que hay que aprender el uno del otro
-
- me
-ha sorprendido el comprobar que hay filósofos interesados en el color o
-en la emoción y que no tienen mayor información sobre los datos
-empíricos o neurofisiólogos de las mismas materias que no conocen el
-extenso debate teórico sobre ellas en el ámbito de las humanidades
-
-
-muchas veces he escuchado de unos y otros que de nada les sirve el
-discurso de sus colegas tan cercanos en intereses como lejanos en su
-marco de aproximación
-
- las dos culturas tienen aquí una expresión
-dramática y particularmente deprimente
-
- la tesis misteriosa de mcginn
-más que empantanar la ruta de la investigación psicobiológica parece
-obstaculizar el sendero de esa posible fertilización mutua entre ciencia
-y filosofía en la que confío
-
-
-
-en la mayor parte de este escrito me he referido al abordaje académico
-con el lenguaje lógico que requiere y le es característico
-
- sin embargo
-entiendo mejor el punto de vista de mcginn cuando recobro el azoro de la
-cuestión mente–cuerpo que sin piedad me asalta de vez en cuando
-
- en este
-sentido no queda sino tomar parte en el grupo de los azorados pero
-deslindarnos de quienes como él aceptan el obstáculo por razones que
-les parecen infranqueables
-
- la neurociencia cognitiva tendrá mucho más
-que decir sobre el fundamento cerebral de la conciencia en el futuro y
-no podemos predecir hasta dónde podrá llegar ni plantear obstáculos a
-priori
+Al
+considerar
+los
+argumentos
+que
+esgrime
+McGinn
+,
+no
+me
+queda
+del
+todo
+clara
+la
+razón
+para
+sostener
+un
+misterio
+tan
+hermético
+,
+en
+especial
+porque
+considera
+que
+la
+conciencia
+es
+un
+fenómeno
+natural
+asociado
+a
+otro
+fenómeno
+natural
+:
+el
+proceso
+C^(*)
+del
+cerebro
+.
 
 
-
-y sin embargo debo decir que a pesar de todas las objeciones que he
-levantado hasta este momento desde la perspectiva de un investigador en
-neurociencia cognitiva hay algo en la tesis misteriosa que resuena con
-mi experiencia
-
- ciertamente reconozco que hay límites al conocimiento y
-que el aparato cognitivo humano es deficiente
-
- puede ser que mcginn
-tenga razón al decir que los problemas filosóficos son en realidad
-problemas científicos pero que no tienen una solución viable para
-nuestra inteligencia
-
- sin embargo si fuera filósofo sin ofender a los
-profesionales me sentiría invalidado y hasta anulado por una versión
-fuerte de esta tesis pues según la entiendo implica que no puede haber
-progreso en el conocimiento del problema mente–cuerpo
-
- admito así que
-quizás haya un núcleo duro o imposible de roer en el centro de todos los
-grandes problemas humanos como hemos visto para el yo la vida o la
-conducta sin mencionar a la energía o la cultura pero esto no quiere
-decir que no haya manera de aproximarse o que cualquier abordaje sea
-igualmente torpe o peor aún igualmente inútil
-
-
-
-el propio mcginn 2000 me ha enseñado en su estupenda biografía que
-problemas tan severos como el significado y la naturaleza de la
-semántica han evolucionado notablemente gracias a los aportes de un
-grupo de filósofos del lenguaje en la segunda mitad del siglo xx y que
-ahora sabemos y entendemos mucho más que antes del asunto
-
- de igual
-forma la lectura de la flama misteriosa me refuerza la idea de que hay
-algo ciertamente enigmático que unifica mente y cuerpo o conciencia y
-cerebro algo que debe conformar una unidad y una realidad objetiva que
-reta y se escabulle a nuestro entendimiento
-
- también ha fortalecido mi
-credo en el sentido de que para conceptuar apropiadamente esta unidad
-debemos considerar que la conciencia tiene una base o una raíz orgánica
-nerviosa sumamente peculiar y que el cerebro genera esa propiedad
-natural única en unidad con la cultura y con las peculiaridades únicas y
-distintivas de la conciencia
-
- ¡caramba
-
- todo ello es mucho decir para
-alguien quien como colin mcginn proclama un insondable misterio
+Entiendo
+que
+da
+por
+sentado
+que
+el
+proceso
+C^(*)
+no
+llegará
+a
+ser
+conocido
+por
+la
+ciencia
+aunque
+podría
+mencionar
+varios
+candidatos
+hipotéticos
+bastante
+aceptables
+en
+la
+neurociencia
+contemporánea
+(Metzinger
+,
+2000)
+.
 
 
+Lo
+que
+propone
+como
+inaccesible
+,
+dadas
+las
+propiedades
+de
+ambos
+procesos
+,
+el
+consciente
+y
+el
+cerebral
+,
+es
+el
+modo
+y
+la
+razón
+de
+su
+acoplamiento
+que
+es
+el
+meollo
+del
+problema
+mente–cuerpo
+en
+su
+versión
+actual
+.
 
- 
 
-agradecimientos
+De
+nuevo
+puedo
+comprender
+y
+aun
+compartir
+este
+escepticismo
+y
+ese
+asombro
+,
+pues
+suelo
+confrontarme
+con
+el
+pertinaz
+obstáculo
+al
+entendimiento
+y
+,
+sin
+embargo
+,
+no
+veo
+que
+la
+brecha
+sea
+tan
+amplia
+e
+inaccesible
+pues
+en
+los
+últimos
+lustros
+se
+ha
+mostrado
+,
+por
+ejemplo
+,
+que
+el
+proceso
+consciente
+y
+el
+proceso
+intermodular
+del
+cerebro
+son
+isomórficos
+,
+lo
+cual
+provee
+de
+una
+plataforma
+procedente
+para
+sostener
+y
+analizar
+su
+correlación
+(Díaz
+,
+1998
+,
+2007)
+.
 
-el presente trabajo en una versión más escueta fue presentado en el
-simposio ciencias cognitivas y filosofía de la mente del xiv
-congreso internacional de filosofía llevado a cabo en mazatlán sinaloa
-méxico el 6 de noviembre de 2007 con el título de el misterio de la
-conciencia una respuesta neurofisiológica a mcginn
 
- agradezco a juan
-gonzález gonzález el organizador del simposio su invitación y
+Desde
+luego
+que
+el
+isomorfismo
+no
+es
+más
+que
+un
+paso
+,
+pues
+habría
+que
+especificar
+las
+unidades
+que
+lo
+componen
+para
+poder
+establecer
+puentes
+empíricos
+entre
+lo
+mental
+y
+lo
+neurofisiológico
+.
+
+
+Pero
+esta
+no
+parece
+ser
+una
+tarea
+imposible
+,
+sino
+difícil
+y
+fascinante
+.
+
+
+Tampoco
+comparto
+el
+escepticismo
+radical
+sobre
+las
+soluciones
+metafísicas
+al
+problema
+a
+pesar
+de
+que
+ninguna
+está
+libre
+de
+fallas
+y
+problemas
+,
+pues
+una
+sólida
+teoría
+sobre
+el
+correlato
+cerebral
+de
+la
+conciencia
+debe
+ser
+empíricamente
+probable
+y
+filosóficamente
+posible
+.
+
+
+El
+reto
+de
+tal
+teoría
+es
+entonces
+el
+acoplar
+la
+mejor
+tesis
+filosófica
+con
+la
+más
+heurística
+hipótesis
+biológica
+.
+
+
+Y
+si
+por
+el
+momento
+no
+podemos
+visualizar
+ni
+colegir
+el
+mecanismo
+de
+acoplamiento
+entre
+las
+dos
+facetas
+,
+queda
+mucho
+por
+hacer
+para
+lograr
+correlacionarlas
+adecuadamente
+,
+lo
+cual
+sería
+un
+indudable
+logro
+en
+la
+dilucidación
+de
+la
+conciencia
+.
+
+
+
+Como
+muchos
+otros
+enigmas
+de
+la
+ciencia
+natural
+,
+éste
+en
+particular
+ha
+sido
+un
+poderoso
 aliciente
+metodológico
+.
+
+
+Hay
+ejemplos
+de
+investigaciones
+clásicas
+que
+han
+logrado
+obtener
+datos
+razonablemente
+fidedignos
+mediante
+informes
+estandarizados
+en
+primera
+persona
+de
+estados
+y
+procesos
+mentales
+al
+tiempo
+que
+se
+obtienen
+variables
+neurobiológicas
+y
+hay
+ejemplos
+pertinentes
+que
+he
+esgrimido
+antes
+(Díaz
+,
+2007)
+.
+
+
+El
+campo
+es
+aún
+terreno
+fértil
+pues
+se
+puede
+considerar
+naciente
+.
+
+
+Por
+ejemplo
+,
+pueden
+plantearse
+auto–experimentos
+en
+los
+cuales
+el
+investigador
+examine
+imágenes
+funcionales
+de
+su
+propio
+cerebro
+en
+acción
+al
+tiempo
+que
+experimenta
+actividades
+mentales
+.
+
+
+Podría
+pensarse
+que
+con
+suficiente
+entrenamiento
+este
+autocerebroscopista
+pudiera
+establecer
+ligas
+o
+correlaciones
+recurrentes
+entre
+los
+datos
+de
+su
+introspección
+y
+los
+datos
+que
+observa
+en
+su
+cerebro
+,
+pues
+estaría
+empalmando
+métodos
+en
+primera
+y
+tercera
+persona
+.
+
+
+Esto
+no
+es
+material
+de
+ficción
+y
+de
+hecho
+algo
+así
+ocurre
+en
+experimentos
+de
+neurofeedback
+en
+los
+cuales
+los
+sujetos
+aprenden
+a
+controlar
+su
+actividad
+electroencefalogáfica
+mediante
+el
+cultivo
+de
+ciertos
+estados
+mentales
+que
+se
+correlacionan
+a
+una
+u
+otra
+banda
+del
+EEG
+,
+siempre
+y
+cuando
+tengan
+algún
+acceso
+a
+la
+actividad
+eléctrica
+(Evans
+y
+Abarbanel
+,
+1999)
+.
+
+
+Más
+aún
+,
+hay
+planteamientos
+formales
+de
+empalmar
+una
+metodología
+rigurosa
+en
+primera
+persona
+como
+la
+producción
+de
+informes
+introspectivos
+estructurados
+a
+la
+par
+que
+se
+obtienen
+imágenes
+o
+registros
+de
+actividad
+cerebral
+,
+como
+propuso
+la
+neurofenomenología
+del
+notable
+investigador
+chileno
+de
+la
+cognición
+Francisco
+Varela
+(1996)
+,
+antes
+de
+su
+prematura
+muerte
+.
+
+
+No
+caben
+muchas
+dudas
+de
+que
+éstas
+y
+otras
+posibles
+avenidas
+de
+acceso
+al
+proceso
+psicofísico
+van
+a
+progresar
+en
+el
+futuro
+próximo
+,
+y
+si
+bien
+no
+parece
+que
+McGinn
+ofrezca
+ninguna
+objeción
+a
+este
+o
+cualquier
+otro
+programa
+de
+la
+neurociencia
+cognitva
+,
+da
+la
+impresión
+que
+al
+no
+tomarlos
+en
+cuenta
+,
+la
+brecha
+mente–cuerpo
+permanece
+insalvable
+en
+su
+consideración
+.
+
+
+
+Ahora
+bien
+,
+aunque
+el
+adelanto
+en
+la
+investigación
+psicobiológica
+es
+notorio
+e
+indudable
+,
+el
+problema
+duro
+de
+las
+cualidades
+de
+conciencia
+persiste
+,
+en
+especial
+si
+lo
+formulo
+de
+maneras
+que
+me
+enredan
+otra
+vez
+al
+alevoso
+misterio
+de
+McGinn
+.
+
+
+La
+primera
+tiene
+que
+ver
+directamente
+con
+la
+neurociencia
+y
+la
+he
+planteado
+con
+anterioridad
+(Díaz
+,
+2007)
+.
+
+
+Si
+bien
+aprendemos
+cada
+vez
+más
+de
+los
+roles
+funcionales
+en
+los
+que
+participan
+los
+diferentes
+módulos
+,
+centros
+o
+regiones
+del
+encéfalo
+,
+resulta
+que
+el
+tejido
+nervioso
+que
+los
+constituye
+es
+bastante
+homogéneo
+tanto
+en
+su
+forma
+como
+,
+particularmente
+,
+en
+su
+función
+.
+
+
+Existen
+diferencias
+en
+la
+manera
+como
+están
+armadas
+las
+redes
+de
+células
+nerviosas
+de
+algunas
+áreas
+del
+cerebro
+,
+como
+sucede
+con
+la
+arquitectura
+tisular
+del
+cerebelo
+o
+del
+hipocampo
+.
+
+
+Sin
+embargo
+,
+las
+diferencias
+entre
+las
+regiones
+de
+la
+corteza
+cerebral
+que
+se
+distinguen
+desde
+principios
+del
+siglo
+pasado
+como
+zonas
+de
+Brodmann
+son
+relativamente
+menores
+,
+pues
+toda
+la
+corteza
+del
+cerebro
+,
+que
+sin
+duda
+está
+ligada
+a
+las
+operaciones
+mentales
+conscientes
+,
+está
+estratificada
+en
+las
+mismas
+capas
+y
+ordenada
+en
+similares
+columnas
+en
+toda
+su
+extensión
+.
+
+
+Ciertamente
+no
+se
+pueden
+atribuir
+a
+las
+diferencias
+morfológicas
+las
+enormes
+diferencias
+entre
+contenidos
+y
+cualidades
+mentales
+.
+
+
+Se
+debe
+suponer
+entonces
+que
+la
+diferencia
+es
+funcional
+y
+tiene
+que
+ver
+con
+una
+codificación
+genética
+y
+una
+especificación
+aprendida
+.
+
+
+Aunque
+esto
+es
+razonable
+,
+resulta
+sorprendente
+e
+incompatible
+que
+la
+función
+y
+la
+representación
+neuronal
+de
+las
+funciones
+mentales
+sea
+prácticamente
+idéntica
+en
+todas
+las
+zonas
+del
+cerebro
+.
+
+
+En
+efecto
+:
+las
+neuronas
+usan
+las
+mismas
+señales
+en
+forma
+de
+potenciales
+de
+acción
+y
+potenciales
+sinápticos
+que
+descargan
+cuando
+las
+células
+están
+en
+las
+operaciones
+que
+necesariamente
+subyacen
+a
+toda
+actividad
+mental
+.
+
+
+¿Cómo
+es
+que
+si
+se
+activan
+ciertas
+neuronas
+de
+la
+amígdala
+el
+individuo
+sienta
+miedo
+,
+si
+se
+activan
+otras
+cercanas
+del
+hipocampo
+recuerde
+una
+escena
+de
+su
+pasado
+,
+si
+se
+activan
+otras
+aledañas
+de
+la
+corteza
+temporal
+reconozca
+un
+rostro
+u
+otras
+más
+en
+la
+vecindad
+escuche
+y
+reconozca
+la
+melodía
+de
+un
+oboe
+?
+
+
+Esto
+es
+por
+el
+momento
+ciertamente
+inquietante
+si
+no
+francamente
+misterioso
+.
+
+
+Una
+posibilidad
+es
+que
+,
+como
+muestran
+los
+resultados
+de
+imágenes
+cerebrales
+,
+no
+haya
+localidades
+exclusivas
+para
+determinadas
+tareas
+cognitivas
+,
+pues
+parece
+ser
+que
+es
+una
+función
+de
+enlace
+entre
+varias
+zonas
+lo
+que
+fundamenta
+una
+capacidad
+o
+proceso
+mental
+particular
+.
+
+
+Estamos
+lejos
+de
+comprender
+cómo
+la
+dinámica
+intermodular
+se
+relaciona
+con
+la
+conciencia
+,
+pero
+parece
+ser
+un
+fundamento
+razonable
+.
+
+
+
+Pensemos
+ahora
+en
+el
+misterio
+cualitativo
+de
+otra
+forma
+.
+
+
+Hace
+unos
+años
+me
+basé
+en
+algunos
+experimentos
+de
+pensamiento
+bien
+conocidos
+del
+filósofo
+de
+la
+mente
+Frank
+Jackson
+para
+elaborar
+un
+cuento
+de
+neurociencia–ficción
+en
+el
+que
+la
+protagonista
+,
+llamada
+María
+,
+padece
+agenesia
+congénita
+del
+dolor
+(Díaz
+,
+2000)
+.
+
+
+Intrigada
+hasta
+lo
+indecible
+por
+conocer
+el
+dolor
+y
+dejar
+de
+sentirse
+un
+fenómeno
+,
+María
+se
+convierte
+en
+la
+mayor
+experta
+mundial
+en
+la
+neurofisiología
+del
+dolor
+y
+recibe
+el
+premio
+Nóbel
+por
+sus
+descubrimientos
+.
+
+
+Sin
+embargo
+,
+al
+recibir
+el
+premio
+declara
+no
+saber
+nada
+del
+dolor
+.
+
+
+Esta
+aparente
+paradoja
+es
+factible
+y
+comprensible
+pues
+la
+información
+científica
+objetiva
+y
+en
+tercera
+persona
+proporciona
+una
+visión
+que
+en
+el
+caso
+del
+cerebro
+no
+revela
+directamente
+la
+experiencia
+,
+como
+hemos
+visto
+al
+hacer
+una
+distinción
+entre
+información
+y
+qualia
+y
+luego
+al
+relatar
+los
+experimentos
+de
+imágenes
+cerebrales
+neurocognitivas
+.
+
+
+Pero
+llevé
+la
+ficción
+un
+poco
+más
+allá
+de
+esta
+razonable
+epistemología
+.
+
+
+Desesperada
+por
+conocer
+la
+experiencia
+del
+dolor
+,
+María
+realiza
+un
+experimento
+sobre
+ella
+misma
+en
+el
+cual
+se
+estimula
+mediante
+ondas
+magnéticas
+las
+zonas
+cerebrales
+involucradas
+en
+el
+dolor
+,
+pero
+no
+llega
+a
+sentirlo
+,
+lo
+cual
+vive
+como
+el
+fracaso
+de
+su
+carrera
+.
+
+
+No
+digo
+el
+final
+para
+no
+estropearlo
+por
+completo
+a
+quienes
+deseen
+leerlo
+y
+quizás
+comentarlo
+en
+un
+foro
+abierto
+que
+estableció
+sobre
+el
+tema
+la
+revista
+Ludus
+Vitalis
+.
+
+
+De
+esta
+manera
+,
+otra
+de
+las
+facetas
+difíciles
+o
+misteriosas
+de
+la
+neurociencia
+de
+la
+conciencia
+es
+la
+que
+surge
+al
+cotejar
+dos
+perspectivas
+,
+una
+en
+tercera
+persona
+que
+es
+la
+usual
+en
+el
+método
+científico
+y
+otra
+en
+primera
+persona
+que
+es
+la
+vivencia
+subjetiva
+.
+
+
+Una
+neurociencia
+de
+la
+conciencia
+pretendería
+juntar
+exitosamente
+las
+dos
+perspectivas
+para
+resolver
+el
+problema
+mente–cuerpo
+y
+el
+argumento
+que
+hace
+McGinn
+es
+que
+esto
+es
+imposible
+.
+
+
+Sin
+embargo
+,
+este
+análisis
+un
+poco
+más
+detallado
+revela
+que
+la
+labor
+no
+parece
+inalcanzable
+si
+pretendemos
+sencillamente
+llevar
+a
+cabo
+correlaciones
+entre
+ambas
+facetas
+para
+en
+un
+momento
+ulterior
+buscarles
+la
+razón
+del
+acoplamiento
+.
+
+
+La
+aproximación
+a
+un
+enigma
+mediante
+estratagemas
+sucesivas
+no
+es
+para
+nada
+ajena
+a
+la
+investigación
+científica
+.
+
+
+La
+posición
+de
+nuestro
+filósofo
+requiere
+,
+empero
+,
+otro
+comentario
+en
+referencia
+a
+la
+introspección
+.
 
 
 
  
 
-referencias
+LA
+INTROSPECCIÓN
+:
+¿ESCASA
+O
+DEFECTUOSA
+?
+
+
+
+McGinn
+plantea
+que
+nuestros
+conceptos
+sobre
+la
+conciencia
+se
+derivan
+solamente
+de
+la
+introspección
+.
+
+
+Esto
+sin
+duda
+fue
+así
+hasta
+los
+albores
+de
+la
+psicología
+experimental
+en
+los
+laboratorios
+de
+Wilhelm
+Wundt
+,
+en
+el
+siglo
+XIX
+.
+
+
+Sin
+embargo
+la
+introspección
+ha
+tenido
+una
+larga
+y
+tormentosa
+historia
+en
+la
+que
+finalmente
+se
+ha
+impuesto
+una
+especie
+de
+<<neomentalismo>>
+,
+a
+decir
+del
+notable
+investigador
+de
+la
+memoria
+Alan
+Paivio
+(1975)
+,
+y
+que
+tiene
+ya
+tres
+décadas
+de
+formulado
+.
+
+
+A
+diferencia
+de
+la
+introspección
+anecdótica
+de
+los
+inicios
+,
+la
+moderna
+investigación
+utiliza
+instrumentos
+bastante
+objetivos
+para
+que
+los
+individuos
+expresen
+sus
+estados
+internos
+,
+lo
+cual
+permite
+una
+rigurosa
+comparación
+inter–subjetiva
+,
+totalmente
+compatible
+con
+el
+resto
+de
+la
+ciencia
+.
+
+
+Este
+tipo
+de
+dispositivos
+en
+formas
+de
+informes
+estandarizados
+,
+aunque
+imperfectos
+y
+mejorables
+como
+todas
+las
+técnicas
+científicas
+,
+hace
+de
+la
+introspección
+metódica
+una
+herramienta
+valiosa
+para
+proporcionar
+datos
+de
+funciones
+mentales
+,
+incluyendo
+la
+conciencia
+,
+capaces
+de
+ser
+relacionados
+con
+datos
+neurofisológicos
+obtenidos
+en
+paralelo
+y
+en
+tiempo
+real
+.
+
+
+Buena
+parte
+del
+edificio
+de
+la
+neurociencia
+cognitiva
+moderna
+se
+sustenta
+en
+esta
+aproximación
+metodológica
+cuyo
+éxito
+es
+indudable
+.
+
+
+Sin
+embargo
+,
+se
+debe
+repetir
+(Díaz
+,
+2007)
+que
+los
+informes
+introspectivos
+son
+recursos
+incompletos
+para
+revelar
+los
+contenidos
+de
+conciencia
+y
+,
+en
+referencia
+a
+la
+cualidad
+de
+la
+experiencia
+,
+seguramente
+aún
+menos
+reveladores
+que
+una
+metáfora
+poética
+,
+la
+cual
+llega
+mucho
+más
+lejos
+para
+comunicar
+los
+qualia
+de
+la
+experiencia
+consciente
+.
+
+
+De
+esta
+manera
+yo
+también
+podría
+argumentar
+que
+los
+recursos
+introspectivos
+modernos
+no
+rompen
+el
+misterio
+pues
+no
+revelan
+fielmente
+a
+la
+conciencia
+.
+
+
+McGinn
+va
+mucho
+más
+allá
+al
+sostener
+que
+la
+introspección
+es
+de
+hecho
+incapaz
+de
+revelar
+la
+esencia
+de
+la
+conciencia
+pues
+ésta
+tiene
+una
+estructura
+fundamental
+escondida
+en
+relación
+al
+espacio
+además
+de
+que
+no
+revela
+nada
+de
+la
+estructura
+o
+función
+cerebral
+.
+
+
+Es
+precisamente
+esa
+reputada
+esencia
+la
+que
+escapa
+y
+seguirá
+escapando
+a
+nuestro
+escrutinio
+.
+
+
+
+El
+problema
+del
+punto
+de
+vista
+en
+tercera
+y
+primera
+persona
+ha
+sido
+ampliamente
+debatido
+,
+sobre
+todo
+en
+la
+filosofía
+de
+la
+ciencia
+cognitiva
+.
+
+
+Es
+indudable
+que
+la
+investigación
+sobre
+los
+fundamentos
+nerviosos
+de
+la
+conciencia
+conforma
+una
+empresa
+científica
+muy
+peculiar
+porque
+enfrenta
+el
+problema
+de
+superponer
+o
+identificar
+los
+dos
+puntos
+de
+vista
+que
+aparecen
+como
+fenomenológicamente
+distintos
+.
+
+
+Ahora
+bien
+,
+las
+interdisciplinas
+situadas
+entre
+la
+psicología
+y
+la
+biología
+(psicofisiología
+,
+psicofarmacología
+,
+neuropsicología
+,
+neurociencia
+cognitiva
+,
+psiquiatría
+biológica
+,
+etc
+.
+
+)
+han
+desarrollado
+una
+indagación
+cada
+vez
+más
+meticulosa
+y
+abundante
+basada
+en
+métodos
+paralelos
+que
+recaban
+datos
+mediante
+tareas
+puntuales
+al
+tiempo
+que
+obtienen
+información
+cerebral
+cada
+vez
+más
+precisa
+.
+
+
+No
+existe
+problema
+metodológico
+insalvable
+que
+impida
+el
+cotejo
+crecientemente
+preciso
+de
+los
+dos
+conjuntos
+de
+datos
+.
+
+
+El
+registro
+de
+la
+actividad
+mental
+se
+va
+logrando
+por
+el
+perfeccionamiento
+creciente
+de
+los
+métodos
+que
+dieron
+origen
+a
+la
+psicofísica
+hacia
+1870
+y
+que
+constituyen
+un
+meollo
+de
+la
+investigación
+en
+ciencia
+cognitiva
+.
+
+
+En
+efecto
+,
+los
+tiempos
+de
+reacción
+y
+otras
+señales
+que
+un
+sujeto
+animal
+o
+humano
+puede
+emitir
+en
+referencia
+a
+estados
+mentales
+precisos
+se
+correlacionan
+cotidiana
+y
+cercanamente
+con
+señales
+nerviosas
+.
+
+
+Sin
+embargo
+,
+estas
+correlaciones
+,
+aunque
+constituyen
+datos
+psicofísicos
+rigurosos
+,
+no
+resuelven
+el
+problema
+metafísico
+de
+la
+relación
+mente–cuerpo
+pues
+son
+compatibles
+con
+la
+identidad
+,
+la
+emergencia
+,
+el
+paralelismo
+o
+la
+superveniencia
+.
+
+
+De
+esta
+forma
+,
+el
+misterio
+de
+McGinn
+se
+puede
+entender
+también
+como
+esa
+imposibilidad
+que
+no
+se
+puede
+prever
+que
+sea
+resuelta
+por
+la
+ciencia
+en
+el
+futuro
+próximo
+.
+
+
+Sin
+embargo
+,
+es
+importante
+deslindar
+este
+indudable
+obstáculo
+de
+un
+escepticismo
+o
+un
+pesimismo
+psicobiológico
+que
+puede
+derivarse
+de
+él
+y
+caer
+fácilmente
+en
+un
+oscurantismo
+,
+pues
+no
+disminuye
+ni
+desmerece
+los
+méritos
+de
+esta
+investigación
+híbrida
+e
+interdisciplinaria
+y
+del
+caudal
+de
+información
+que
+arroja
+sobre
+las
+bases
+cerebrales
+de
+la
+mente
+consciente
+.
+
+
+
+McGinn
+reitera
+que
+su
+argumento
+es
+relevante
+sólo
+al
+ámbito
+de
+la
+argumentación
+filosófica
+y
+no
+toca
+para
+nada
+a
+la
+investigación
+científica
+,
+la
+cual
+seguirá
+descubriendo
+hechos
+sobre
+la
+mente
+y
+sobre
+el
+cerebro
+,
+aunque
+no
+logre
+penetrar
+en
+su
+conexión
+más
+íntima
+.
+
+
+En
+este
+punto
+crítico
+la
+investigación
+empírica
+puede
+y
+debe
+sentirse
+aludida
+pues
+la
+neurociencia
+cognitiva
+tiene
+como
+objetivo
+precisamente
+dilucidar
+en
+lo
+posible
+la
+relación
+entre
+procesos
+mentales
+,
+cerebrales
+y
+conductuales
+.
+
+
+Quienes
+creemos
+que
+un
+adelanto
+crucial
+en
+la
+materia
+puede
+darse
+,
+precisamente
+,
+por
+la
+interacción
+fructífera
+entre
+la
+filosofía
+de
+la
+mente
+y
+la
+neurociencia
+cognitiva
+,
+necesitamos
+examinar
+la
+relevancia
+de
+la
+tesis
+misteriosa
+pues
+a
+primera
+vista
+parece
+cerrar
+y
+para
+siempre
+el
+camino
+de
+la
+interacción
+.
+
+
+En
+este
+sentido
+el
+plantear
+una
+imposibilidad
+de
+resolución
+del
+problema
+mente–cuerpo
+puede
+tener
+efectos
+negativos
+para
+la
+interacción
+entre
+las
+disciplinas
+involucradas
+,
+aunque
+no
+los
+tenga
+para
+la
+investigación
+empírica
+de
+la
+psicobiología
+y
+sus
+ramales
+.
+
+
+
+También
+difiero
+de
+McGinn
+cuando
+dice
+que
+no
+se
+puede
+afirmar
+que
+un
+estado
+de
+conciencia
+,
+como
+es
+el
+tener
+la
+experiencia
+de
+ver
+un
+color
+amarillo
+,
+esté
+formado
+por
+elementos
+,
+como
+el
+resto
+de
+las
+cosas
+del
+mundo
+,
+en
+este
+caso
+,
+por
+elementos
+de
+naturaleza
+nerviosa
+,
+pues
+la
+experiencia
+subjetiva
+no
+puede
+fracturarse
+o
+descomponerse
+en
+partes
+,
+como
+las
+frases
+,
+las
+moléculas
+o
+las
+galaxias
+.
+
+
+Lo
+que
+McGinn
+parece
+negar
+son
+las
+propiedades
+emergentes
+en
+forma
+general
+,
+pues
+por
+definición
+son
+adquisiciones
+holistas
+que
+difieren
+cualitativamente
+de
+los
+elementos
+que
+las
+constituyen
+,
+como
+sucede
+con
+las
+propiedades
+fisicoquímicas
+del
+agua
+como
+resultantes
+de
+la
+estereoquímica
+de
+la
+molécula
+H₂O
+y
+sus
+propiedades
+combinatorias
+.
+
+
+Por
+esta
+razón
+no
+veo
+dificultad
+en
+mantener
+que
+los
+constituyentes
+elementales
+de
+los
+estados
+de
+conciencia
+son
+ciertas
+funciones
+nerviosas
+no
+conscientes
+que
+dan
+lugar
+a
+otras
+funciones
+de
+orden
+superior
+capaces
+de
+generar
+un
+sentir
+subjetivo
+.
+
+
+Habría
+dificultad
+si
+mantuviéramos
+que
+las
+propiedades
+conscientes
+resultantes
+están
+separadas
+o
+descarnadas
+de
+la
+función
+cerebral
+,
+pero
+ésta
+se
+allana
+si
+planteamos
+que
+el
+proceso
+consciente
+es
+el
+aspecto
+subjetivo
+de
+un
+proceso
+emergente
+del
+cerebro
+,
+precisamente
+el
+que
+McGinn
+denomina
+como
+proceso
+C^(*)
+y
+que
+corresponde
+a
+lo
+que
+hoy
+día
+denominamos
+el
+correlato
+nervioso
+de
+la
+conciencia
+.
+
+
+Ha
+sido
+muy
+útil
+el
+que
+David
+Chalmers
+(1996)
+haya
+empezado
+a
+trazar
+los
+requisitos
+para
+considerar
+adecuado
+a
+tal
+correlato
+,
+lo
+cual
+depura
+el
+listado
+de
+los
+mecanismos
+postulados
+.
+
+
+En
+concordancia
+con
+la
+tesis
+emergente
+,
+creo
+que
+McGinn
+tiene
+razón
+cuando
+afirma
+que
+el
+estado
+consciente
+no
+se
+puede
+reducir
+a
+sus
+componentes
+neuronales
+,
+pero
+no
+creo
+que
+la
+tenga
+al
+negar
+la
+posibilidad
+de
+que
+pueda
+ser
+significativamente
+correlacionado
+con
+un
+evento
+neurofisiológico
+del
+máximo
+nivel
+de
+integración
+,
+como
+podría
+ser
+la
+dinámica
+inter–modular
+del
+cerebro
+y
+que
+he
+propuesto
+como
+correlato
+de
+la
+conciencia
+por
+sus
+posibles
+características
+de
+parvada
+o
+enjambre
+que
+cumplen
+cabalmente
+con
+los
+requisitos
+de
+Chalmers
+(Díaz
+,
+2006)
+.
+
+
+Este
+proceso
+sería
+mi
+candidato
+a
+C
+.
+
+^(*)
+
+Ahora
+bien
+,
+aun
+si
+lográramos
+demostrar
+empíricamente
+que
+la
+conciencia
+está
+indisolublemente
+ligada
+a
+una
+función
+nerviosa
+superior
+como
+esa
+,
+lo
+cual
+sería
+un
+logro
+formidable
+,
+el
+azoro
+de
+McGinn
+puede
+persistir
+pues
+es
+difícil
+comprender
+cómo
+es
+que
+dos
+fenómenos
+de
+naturaleza
+tan
+distinta
+están
+acoplados
+por
+leyes
+psicofísicas
+que
+aún
+entonces
+no
+lograremos
+vislumbrar
+.
+
+
+Lo
+que
+no
+se
+podrá
+negar
+es
+que
+una
+demostración
+de
+que
+estos
+eventos
+están
+ligados
+por
+necesidad
+sería
+un
+avance
+sustancial
+en
+el
+entendimiento
+del
+problema
+mente–cuerpo
+.
+
+
+El
+reto
+seguirá
+siendo
+no
+sólo
+el
+descubrir
+el
+correlato
+neural
+de
+la
+conciencia
+sino
+el
+entender
+cabalmente
+el
+cómo
+la
+conciencia
+surge
+,
+está
+ligada
+o
+se
+presenta
+en
+ese
+proceso
+y
+el
+misterio
+de
+McGinn
+nos
+ayudará
+entonces
+a
+precisar
+y
+no
+desdeñar
+el
+requerimiento
+.
+
+
+
+ 
+
+MÁS
+MISTERIOS
+:
+¿EFÍMEROS
+O
+ETERNOS
+?
+
+
+
+Me
+pregunto
+ahora
+si
+el
+referido
+misterio
+no
+responde
+a
+una
+determinada
+época
+y
+ofrezco
+un
+par
+de
+ejemplos
+de
+que
+así
+puede
+ser
+.
+
+
+Hace
+años
+se
+consideraba
+imposible
+abordar
+a
+fondo
+el
+problema
+de
+la
+conciencia
+por
+el
+hecho
+de
+que
+la
+noción
+del
+<<Yo>>
+era
+un
+hecho
+central
+de
+la
+fenomenología
+que
+hacía
+imposible
+su
+abordaje
+objetivo
+,
+pues
+el
+Yo
+es
+la
+esencia
+de
+la
+subjetividad
+y
+al
+tiempo
+el
+agente
+para
+emprender
+un
+estudio
+objetivo
+.
+
+
+Esta
+paradoja
+se
+consideró
+insalvable
+y
+McGinn
+la
+sigue
+considerando
+impenetrable
+.
+
+
+Sin
+embargo
+,
+ha
+ido
+ganando
+terreno
+en
+los
+últimos
+lustros
+una
+alternativa
+conceptual
+y
+estoy
+convencido
+que
+está
+logrando
+superar
+el
+obstáculo
+.
+
+
+Se
+trata
+de
+la
+identificación
+del
+misterioso
+e
+insustancial
+<<Yo>>
+con
+un
+sistema
+cognitivo
+de
+auto–referencia
+.
+
+
+El
+Yo
+sería
+la
+representación
+que
+tiene
+una
+criatura
+de
+sí
+misma
+y
+estaría
+constituido
+por
+una
+serie
+de
+subsistemas
+filogenéticos
+y
+ontogénicos
+que
+empiezan
+en
+la
+propriocepción
+fisiológica
+,
+pasan
+por
+la
+imagen
+corporal
+,
+la
+capacidad
+de
+navegación
+y
+la
+distinción
+cuerpo–mundo
+hasta
+desembocar
+en
+el
+uso
+léxico
+de
+los
+pronombres
+en
+primera
+persona
+,
+la
+memoria
+autobiográfica
+,
+la
+conciencia
+de
+la
+muerte
+y
+la
+conciencia
+moral
+.
+
+
+Tanto
+el
+modelo
+jerárquico
+como
+cada
+una
+de
+las
+capacidades
+de
+auto–referencia
+son
+susceptibles
+de
+análisis
+,
+de
+investigación
+y
+de
+teorización
+.
+
+
+El
+<<Yo>>
+no
+ha
+quedado
+atrás
+ni
+ha
+sido
+borrado
+del
+léxico
+como
+sucedió
+con
+el
+flogisto
+,
+sino
+que
+ha
+sido
+definido
+y
+acotado
+por
+la
+investigación
+de
+filósofos
+de
+la
+mente
+como
+José
+Luis
+Bermúdez
+(1998)
+,
+quien
+,
+echando
+mano
+de
+evidencia
+empírica
+desde
+la
+fisiología
+hasta
+la
+etología
+y
+la
+ciencia
+cognitiva
+,
+ha
+logrado
+formular
+una
+teoría
+y
+una
+metodología
+de
+acceso
+a
+éste
+,
+el
+concepto
+más
+abstracto
+de
+la
+psicología
+.
+
+
+La
+confluencia
+de
+la
+filosofía
+y
+las
+ciencias
+de
+la
+mente
+,
+el
+cerebro
+y
+la
+conducta
+,
+ha
+sido
+clave
+en
+este
+logro
+y
+me
+extrañó
+ver
+que
+McGinn
+en
+su
+tratamiento
+del
+misterio
+del
+<<Self>>
+no
+haga
+referencia
+alguna
+a
+este
+progreso
+en
+el
+entendimiento
+.
+
+
+
+Propongo
+ahora
+un
+segundo
+ejemplo
+de
+acotación
+temporal
+:
+El
+hecho
+de
+que
+no
+podamos
+comprender
+a
+plenitud
+cómo
+es
+que
+el
+cerebro
+produce
+o
+alberga
+a
+la
+conciencia
+no
+parece
+ser
+un
+problema
+muy
+distinto
+al
+hecho
+de
+que
+no
+podemos
+comprender
+a
+plenitud
+qué
+es
+la
+vida
+.
+
+
+En
+ambos
+casos
+el
+problema
+mayúsculo
+se
+ha
+multiplicado
+en
+una
+miríada
+de
+facetas
+particulares
+sobre
+las
+cuales
+hay
+suficiente
+información
+para
+entender
+la
+función
+con
+bastante
+integridad
+.
+
+
+En
+el
+caso
+de
+la
+vida
+podemos
+desentrañar
+las
+funciones
+del
+metabolismo
+,
+la
+reproducción
+,
+la
+excitabilidad
+o
+el
+comportamiento
+en
+términos
+de
+sus
+mecanismos
+fisiológicos
+.
+
+
+En
+el
+caso
+de
+la
+mente
+podemos
+hacer
+casi
+otro
+tanto
+con
+la
+percepción
+,
+la
+memoria
+,
+el
+lenguaje
+,
+el
+miedo
+o
+el
+dolor
+.
+
+
+En
+uno
+y
+otro
+caso
+se
+nos
+escapa
+un
+elemento
+crucial
+y
+la
+misma
+perplejidad
+que
+ahora
+nos
+atosiga
+para
+la
+conciencia
+fatigaba
+a
+los
+biólogos
+de
+los
+años
+1920
+en
+referencia
+a
+la
+misteriosa
+propiedad
+global
+de
+la
+vida
+.
+
+
+Hoy
+podemos
+comprender
+mejor
+que
+la
+vida
+es
+una
+propiedad
+que
+resulta
+de
+otras
+más
+básicas
+como
+las
+ya
+mencionadas
+.
+
+
+En
+un
+futuro
+próximo
+podremos
+comprender
+mejor
+que
+la
+conciencia
+surge
+del
+enlace
+de
+módulos
+de
+actividades
+mentales
+más
+elementales
+.
+
+
+Como
+en
+el
+resto
+de
+la
+ciencia
+hay
+una
+mejoría
+en
+la
+comprensión
+pero
+no
+hay
+una
+solución
+final
+al
+enigma
+,
+solución
+que
+es
+poco
+probable
+que
+llegue
+,
+pues
+con
+cada
+descubrimiento
+no
+sólo
+se
+destapan
+ciertas
+propiedades
+sino
+que
+,
+al
+mismo
+tiempo
+,
+aparecen
+nuevas
+incógnitas
+.
+
+
+
+Tercer
+ejemplo
+:
+Quizás
+el
+misterio
+que
+nos
+presenta
+McGinn
+es
+,
+en
+alguna
+medida
+,
+similar
+al
+problema
+bastante
+espinoso
+de
+la
+conducta
+y
+su
+necesaria
+base
+nerviosa
+.
+
+
+La
+conducta
+es
+un
+proceso
+de
+movimiento
+organizado
+y
+altamente
+diferenciado
+,
+dotado
+de
+motivaciones
+,
+objetivos
+,
+funciones
+y
+significados
+no
+manifiestos
+.
+
+
+Sabemos
+que
+está
+producida
+causalmente
+por
+funciones
+nerviosas
+en
+las
+que
+las
+actividades
+de
+neuronas
+y
+sinapsis
+se
+engarzan
+en
+pautas
+de
+excitación
+e
+inhibición
+sumamente
+complejas
+que
+finalmente
+desembocan
+en
+actos
+tan
+variados
+como
+el
+ensartar
+un
+hilo
+en
+una
+aguja
+,
+un
+paso
+de
+danza
+,
+alcanzar
+un
+objeto
+,
+adoptar
+un
+gesto
+de
+alegría
+,
+emitir
+un
+aspaviento
+de
+insulto
+o
+una
+amenaza
+con
+la
+mano
+.
+
+
+La
+conducta
+tiene
+una
+esfera
+de
+acción
+que
+se
+sitúa
+entre
+un
+organismo
+y
+su
+medio
+como
+un
+intermediario
+adaptativo
+y
+no
+parece
+tener
+más
+constituyentes
+elementales
+que
+las
+diferentes
+contracciones
+o
+estiramientos
+de
+grupos
+musculares
+que
+se
+desenvuelven
+con
+una
+precisión
+y
+una
+velocidad
+sorprendentes
+.
+
+
+Sin
+embargo
+,
+una
+exhaustiva
+descripción
+física
+del
+movimiento
+nos
+aclara
+muy
+poco
+sobre
+la
+conducta
+,
+pues
+los
+movimientos
+están
+cargados
+precisamente
+de
+motivaciones
+,
+objetivos
+,
+funciones
+y
+otros
+significados
+.
+
+
+A
+pesar
+de
+todo
+ello
+,
+no
+parece
+haber
+una
+dificultad
+infranqueable
+en
+considerar
+que
+la
+conducta
+surge
+de
+pautas
+nerviosas
+de
+actividad
+sin
+las
+cuales
+es
+inconcebible
+.
+
+
+Bien
+me
+doy
+cuenta
+que
+la
+conducta
+difiere
+de
+la
+conciencia
+en
+el
+sentido
+de
+que
+no
+constituye
+una
+vivencia
+subjetiva
+pero
+también
+de
+que
+se
+instaura
+como
+un
+proceso
+emergente
+con
+una
+base
+nerviosa
+y
+necesariamente
+correlacionado
+con
+pautas
+de
+actividad
+fisiológica
+.
+
+
+
+ 
+
+EL
+ASOMBRO
+:
+¿RECOBRADO
+O
+DESAIRADO
+?
+
+
+
+La
+noción
+de
+un
+misterio
+particular
+en
+referencia
+a
+la
+naturaleza
+de
+la
+conciencia
+en
+términos
+de
+la
+biología
+o
+de
+la
+física
+ha
+asaltado
+a
+muchos
+de
+los
+involucrados
+en
+la
+psicobiolgía
+y
+la
+neurociencia
+,
+y
+aunque
+esa
+vivencia
+puede
+resultar
+desalentadora
+,
+muchas
+veces
+redunda
+en
+un
+acicate
+para
+realizar
+o
+proponer
+abordajes
+experimentales
+cada
+vez
+más
+agudos
+y
+certeros
+de
+las
+dos
+facetas
+involucradas
+,
+así
+como
+teorías
+cada
+vez
+más
+sólidas
+para
+enfrentar
+el
+problema
+mente–cuerpo
+en
+su
+acepción
+contemporánea
+,
+es
+decir
+la
+relación
+entre
+la
+mente
+consciente
+y
+la
+función
+cerebral
+.
+
+
+Y
+si
+bien
+los
+filósofos
+de
+la
+mente
+y
+los
+neurocientíficos
+cognitivos
+pueden
+seguir
+tranquilamente
+su
+curso
+de
+acción
+e
+ignorarse
+mutuamente
+,
+sostengo
+una
+vez
+más
+que
+el
+progreso
+sustancial
+en
+este
+campo
+podrá
+fructificar
+cuando
+los
+dos
+frentes
+se
+encuentren
+y
+acepten
+lo
+mucho
+que
+hay
+que
+aprender
+el
+uno
+del
+otro
+.
+
+
+Me
+ha
+sorprendido
+el
+comprobar
+que
+hay
+filósofos
+interesados
+en
+el
+color
+o
+en
+la
+emoción
+y
+que
+no
+tienen
+mayor
+información
+sobre
+los
+datos
+empíricos
+,
+o
+neurofisiólogos
+de
+las
+mismas
+materias
+que
+no
+conocen
+el
+extenso
+debate
+teórico
+sobre
+ellas
+en
+el
+ámbito
+de
+las
+humanidades
+.
+
+
+Muchas
+veces
+he
+escuchado
+de
+unos
+y
+otros
+que
+de
+nada
+les
+sirve
+el
+discurso
+de
+sus
+colegas
+tan
+cercanos
+en
+intereses
+como
+lejanos
+en
+su
+marco
+de
+aproximación
+.
+
+
+Las
+dos
+culturas
+tienen
+aquí
+una
+expresión
+dramática
+y
+particularmente
+deprimente
+.
+
+
+La
+tesis
+misteriosa
+de
+McGinn
+,
+más
+que
+empantanar
+la
+ruta
+de
+la
+investigación
+psicobiológica
+,
+parece
+obstaculizar
+el
+sendero
+de
+esa
+posible
+fertilización
+mutua
+entre
+ciencia
+y
+filosofía
+en
+la
+que
+confío
+.
+
+
+
+En
+la
+mayor
+parte
+de
+este
+escrito
+me
+he
+referido
+al
+abordaje
+académico
+con
+el
+lenguaje
+lógico
+que
+requiere
+y
+le
+es
+característico
+.
+
+
+Sin
+embargo
+entiendo
+mejor
+el
+punto
+de
+vista
+de
+McGinn
+cuando
+recobro
+el
+azoro
+de
+la
+cuestión
+mente–cuerpo
+que
+sin
+piedad
+me
+asalta
+de
+vez
+en
+cuando
+.
+
+
+En
+este
+sentido
+no
+queda
+sino
+tomar
+parte
+en
+el
+grupo
+de
+los
+azorados
+,
+pero
+deslindarnos
+de
+quienes
+,
+como
+él
+,
+aceptan
+el
+obstáculo
+por
+razones
+que
+les
+parecen
+infranqueables
+.
+
+
+La
+neurociencia
+cognitiva
+tendrá
+mucho
+más
+que
+decir
+sobre
+el
+fundamento
+cerebral
+de
+la
+conciencia
+en
+el
+futuro
+y
+no
+podemos
+predecir
+hasta
+dónde
+podrá
+llegar
+ni
+plantear
+obstáculos
+a
+priori
+.
+
+
+
+Y
+sin
+embargo
+debo
+decir
+que
+,
+a
+pesar
+de
+todas
+las
+objeciones
+que
+he
+levantado
+hasta
+este
+momento
+,
+desde
+la
+perspectiva
+de
+un
+investigador
+en
+neurociencia
+cognitiva
+,
+hay
+algo
+en
+la
+tesis
+misteriosa
+que
+resuena
+con
+mi
+experiencia
+.
+
+
+Ciertamente
+reconozco
+que
+hay
+límites
+al
+conocimiento
+y
+que
+el
+aparato
+cognitivo
+humano
+es
+deficiente
+.
+
+
+Puede
+ser
+que
+McGinn
+tenga
+razón
+al
+decir
+que
+los
+problemas
+filosóficos
+son
+en
+realidad
+problemas
+científicos
+pero
+que
+no
+tienen
+una
+solución
+viable
+para
+nuestra
+inteligencia
+.
+
+
+Sin
+embargo
+,
+si
+fuera
+filósofo
+(sin
+ofender
+a
+los
+profesionales)
+,
+me
+sentiría
+invalidado
+y
+hasta
+anulado
+por
+una
+versión
+fuerte
+de
+esta
+tesis
+pues
+,
+según
+la
+entiendo
+,
+implica
+que
+no
+puede
+haber
+progreso
+en
+el
+conocimiento
+del
+problema
+mente–cuerpo
+.
+
+
+Admito
+así
+que
+quizás
+haya
+un
+núcleo
+duro
+o
+imposible
+de
+roer
+en
+el
+centro
+de
+todos
+los
+grandes
+problemas
+humanos
+,
+como
+hemos
+visto
+para
+el
+Yo
+,
+la
+vida
+o
+la
+conducta
+,
+sin
+mencionar
+a
+la
+energía
+o
+la
+cultura
+,
+pero
+esto
+no
+quiere
+decir
+que
+no
+haya
+manera
+de
+aproximarse
+o
+que
+cualquier
+abordaje
+sea
+igualmente
+torpe
+o
+,
+peor
+aún
+,
+igualmente
+inútil
+.
+
+
+
+El
+propio
+McGinn
+(2000)
+me
+ha
+enseñado
+en
+su
+estupenda
+biografía
+que
+problemas
+tan
+severos
+como
+el
+significado
+y
+la
+naturaleza
+de
+la
+semántica
+han
+evolucionado
+notablemente
+gracias
+a
+los
+aportes
+de
+un
+grupo
+de
+filósofos
+del
+lenguaje
+en
+la
+segunda
+mitad
+del
+siglo
+XX
+y
+que
+ahora
+sabemos
+y
+entendemos
+mucho
+más
+que
+antes
+del
+asunto
+.
+
+
+De
+igual
+forma
+,
+la
+lectura
+de
+La
+Flama
+Misteriosa
+me
+refuerza
+la
+idea
+de
+que
+hay
+algo
+ciertamente
+enigmático
+que
+unifica
+mente
+y
+cuerpo
+o
+conciencia
+y
+cerebro
+,
+algo
+que
+debe
+conformar
+una
+unidad
+y
+una
+realidad
+objetiva
+que
+reta
+y
+se
+escabulle
+a
+nuestro
+entendimiento
+.
+
+
+También
+ha
+fortalecido
+mi
+credo
+en
+el
+sentido
+de
+que
+para
+conceptuar
+apropiadamente
+esta
+unidad
+debemos
+considerar
+que
+la
+conciencia
+tiene
+una
+base
+o
+una
+raíz
+orgánica
+nerviosa
+sumamente
+peculiar
+y
+que
+el
+cerebro
+genera
+esa
+propiedad
+natural
+única
+en
+unidad
+con
+la
+cultura
+y
+con
+las
+peculiaridades
+únicas
+y
+distintivas
+de
+la
+conciencia
+.
+
+
+¡Caramba
+!
+
+
+:
+todo
+ello
+es
+mucho
+decir
+para
+alguien
+quien
+,
+como
+Colin
+McGinn
+,
+proclama
+un
+insondable
+misterio
+.
+
+
+
+ 
+
+AGRADECIMIENTOS
+
+El
+presente
+trabajo
+,
+en
+una
+versión
+más
+escueta
+,
+fue
+presentado
+en
+el
+simposio
+<<Ciencias
+Cognitivas
+y
+Filosofía
+de
+la
+Mente>>
+del
+XIV
+Congreso
+Internacional
+de
+Filosofía
+llevado
+a
+cabo
+en
+Mazatlán
+,
+Sinaloa
+,
+México
+,
+el
+6
+de
+noviembre
+de
+2007
+,
+con
+el
+título
+de
+<<El
+misterio
+de
+la
+conciencia
+:
+una
+respuesta
+neurofisiológica
+a
+McGinn
+.
+
+>>
+Agradezco
+a
+Juan
+González
+González
+,
+el
+organizador
+del
+simposio
+,
+su
+invitación
+y
+aliciente
+.
+
+
+
+ 
+
+REFERENCIAS
 
 1
-
- baars bj
-
- in the theatre of consciousness the workspace of the mind
+.
 
 
-new york oxford university press 1997
+Baars
+BJ
+.
 
-         links 
+
+In
+the
+theatre
+of
+consciousness
+:
+The
+workspace
+of
+the
+mind
+.
+
+
+New
+York
+:
+Oxford
+University
+Press
+;
+1997
+.
+
+        [ Links ]
 
 2
+.
 
- bermúdez jl
 
- the paradox of self–consciousness
+Bermúdez
+JL
+.
 
- cambridge mit press
+
+The
+paradox
+of
+self–consciousness
+.
+
+
+Cambridge
+:
+MIT
+Press
+;
 1998
+.
 
-         links 
+        [ Links ]
 
 3
-
- chalmers d
-
- the conscious mind in search of a fundamental theory
+.
 
 
-new york oxford university press 1996
+Chalmers
+D
+.
 
-         links 
+
+The
+conscious
+mind
+:
+In
+search
+of
+a
+fundamental
+theory
+.
+
+
+New
+York
+:
+Oxford
+University
+Press
+;
+1996
+.
+
+        [ Links ]
 
 4
-
- clark a
-
- being there putting brain body and world together again
+.
 
 
-cambridge mit press 1997
+Clark
+A
+.
 
-         links 
+
+Being
+there
+:
+Putting
+brain
+,
+body
+and
+world
+together
+again
+.
+
+
+Cambridge
+:
+MIT
+Press
+;
+1997
+.
+
+        [ Links ]
 
 5
+.
 
- díaz jl
 
- el dolor de maría
+Díaz
+JL
+.
 
- un cuento de neurociencia ficción
 
- ludus
-vitalis 2000712181–187         links 
+El
+dolor
+de
+María
+.
+
+
+Un
+cuento
+de
+neurociencia
+ficción
+.
+
+
+Ludus
+Vitalis
+2000
+;7(12)
+:181–187        [ Links ]
 
 6
+.
 
- díaz jl
 
- la ordenación piramidal del cerebro y el enjambre de la
+Díaz
+JL
+.
+
+
+La
+ordenación
+piramidal
+del
+cerebro
+y
+el
+enjambre
+de
+la
 conciencia
+.
 
- primera y segunda partes
 
- salud mental
-2006292–37–121–10
+Primera
+y
+segunda
+partes
+.
 
-         links 
+
+Salud
+Mental
+2006
+;29(2–3)
+:7–12
+,1–10
+.
+
+        [ Links ]
 
 7
+.
 
- díaz jl
 
- la conciencia viviente
+Díaz
+JL
+.
 
- méxico fondo de cultura económica
+
+La
+conciencia
+viviente
+.
+
+
+México
+:
+Fondo
+de
+Cultura
+Económica
+;
 2006
+.
 
-         links 
+        [ Links ]
 
 8
+.
 
- evans jr abarbanel a editores introduction to quantitative eeg and
+
+Evans
+JR
+,
+Abarbanel
+A
+(editores)
+Introduction
+to
+quantitative
+EEG
+and
 neurofeedback
+.
 
- amsterdam elsevier science technology books
+
+Amsterdam
+:
+Elsevier
+Science
+&
+Technology
+Books
+;
 1999
+.
 
-         links 
+        [ Links ]
 
 9
+.
 
- gonzález jc editor
 
- perspectivas contemporáneas sobre la cognición
-categorización conceptualización
+González
+JC
+(editor)
+.
 
- méxico siglo xxi y uam
+
+Perspectivas
+contemporáneas
+sobre
+la
+cognición
+,
+categorización
+,
+conceptualización
+.
+
+
+México
+:
+Siglo
+XXI
+y
+UAM
+;
 2006
+.
 
-         links 
+        [ Links ]
 
 10
+.
 
- mcginn c
 
- can we solve the mind–body problem
+McGinn
+C
+.
 
- mind
-198998349–366
 
-         links 
+Can
+we
+solve
+the
+mind–body
+problem
+?
+
+
+Mind
+1989
+;98
+:349–366
+.
+
+        [ Links ]
 
 11
-
- mcginn c
-
- the mysterious flame
-
- conscious minds in a material world
+.
 
 
-new york basic books 1999
+McGinn
+C
+.
 
-         links 
+
+The
+mysterious
+flame
+.
+
+
+Conscious
+minds
+in
+a
+material
+world
+.
+
+
+New
+York
+:
+Basic
+Books
+;
+1999
+.
+
+        [ Links ]
 
 12
+.
 
- mcginn c
 
- the making of a philosopher
+McGinn
+C
+.
 
- new york harper collins
+
+The
+making
+of
+a
+philosopher
+.
+
+
+New
+York
+:
+Harper
+&
+Collins
+;
 2002
+.
 
-         links 
+        [ Links ]
 
 13
-
- metzinger t ed
-
+.
 
 
- the neural correlates of consciousness
+Metzinger
+T
+(ed
+.
+
+)
+.
 
 
-cambridge mit press 2000
+The
+neural
+correlates
+of
+consciousness
+.
 
-         links 
+
+Cambridge
+:
+MIT
+Press
+;
+2000
+.
+
+        [ Links ]
 
 14
+.
 
- nagel t
 
- what is like to be a bat
+Nagel
+T
+.
 
- philosophical review
-197483435–450
 
-         links 
+<<What
+is
+like
+to
+be
+a
+bat
+?
+
+>>
+Philosophical
+Review
+1974
+;83
+:435–450
+.
+
+        [ Links ]
 
 15
+.
 
- paivio s
 
- neomentalism
+Paivio
+,
+S
+.
 
- canadian j psychology
-197529263–291
 
-         links 
+<<Neomentalism>>
+.
+
+
+Canadian
+J
+Psychology
+1975
+;29
+:263–291
+.
+
+        [ Links ]
 
 16
+.
 
- varela f
 
- neurophenomenology a methodological remedy to the hard
+Varela
+F
+.
+
+
+Neurophenomenology
+:
+A
+methodological
+remedy
+to
+the
+hard
 problem
+.
 
- j consciousness studies 19963330–350
 
-         links 
+J
+Consciousness
+Studies
+1996
+;3
+:330–350
+.
 
-creative commons license todo el contenido de esta revista excepto
-dónde está identificado está bajo una licencia creative commons
+        [ Links ]
 
-calz
+[Creative
+Commons
+License] Todo
+el
+contenido
+de
+esta
+revista
+,
+excepto
+dónde
+está
+identificado
+,
+está
+bajo
+una
+Licencia
+Creative
+Commons
 
- méxicoxochimilco 101 colonia san lorenzo huipulco méxico
-distrito federal mx 14370 5255 41605128
+Calz
+.
 
-perezhimp
+
+México-Xochimilco
+#
+101
+,
+Colonia
+San
+Lorenzo
+Huipulco
+,
+México
+,
+Distrito
+Federal
+,
+MX
+,
+14370
+,
+(52-55)
+4160-5128
+[]
+perezh@imp
+.
 
 edu
+.
 
 mx

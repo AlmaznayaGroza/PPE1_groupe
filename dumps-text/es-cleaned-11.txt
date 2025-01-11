@@ -1,31 +1,72 @@
  
 
-
+[]
 
 fr
 
- français fr
- english en
- español es
+-
+Français
+(fr)
+-
+English
+(en)
+-
+Español
+(es)
 
-thème
+Thème
 
-se connecter
+Se
+connecter
 
-mes bibliothèques mon historique mes requêtes mes auteurs mes alertes
+Mes
+bibliothèques
+Mon
+historique
+Mes
+requêtes
+Mes
+auteurs
+Mes
+alertes
 
+[]
 
+Votre
+assistant
+de
+recherche
+en
+Sciences
+Humaines
+et
+Sociales
 
-votre assistant de recherche
-en sciences humaines et sociales
+D
+Documents
 
-d documents
+Documents
+Sources
+Sujets
 
-documents sources sujets
+Recherche
+avancée
 
-recherche avancée
+[]
+démonstration
 
- démonstration
-
-référentiels api à propos mentions légales contact mises à
+Référentiels
+|
+API
+|
+À
+propos
+|
+Mentions
+légales
+|
+Contact
+|
+Mises
+à
 jour

@@ -1,112 +1,508 @@
-saltar grupo de enlaces
+Saltar
+grupo
+de
+enlaces
 
-toggle navigation
+Toggle
+navigation
 
+Webdianoia
+
+-
+Hª
+de
+la
+Filosofía
+
+-
+Filosofía
+griega
+
+-
+Filosofía
+medieval
+
+-
+Filosofía
+moderna
+
+-
+Filosofía
+contemporánea
+-
+Filósofos/as
+-
+Metodología
+
+-
+Glosario
+filosófico
+
+-
+Resumen
+,
+análisis
+y
+comentario
+de
+texto
+
+-
+Textos
+básicos
+
+-
+Cronología
+básica
+
+-
+Bibliografía
+
+-
+Ejercicios
+-
+Otras
+secciones
+
+-
+Currículo
+de
+Filosofía
+
+-
+Selectividad
+-
+EBAU
+
+-
+
+
+-
+Redes
+y
+Blog
+
+-
+Colaboraciones
+
+-
+
+
+-
+Enlaces
+de
+interés
+
+-
 webdianoia
+en
+galego
+-
+Descargas
 
- hª de la filosofía
- filosofía griega
- filosofía medieval
- filosofía moderna
- filosofía contemporánea
- filósofosas
- metodología
- glosario filosófico
- resumen análisis y comentario de texto
- textos básicos
- cronología básica
- bibliografía
- ejercicios
- otras secciones
- currículo de filosofía
- selectividad ebau
- 
- redes y blog
- colaboraciones
- 
- enlaces de interés
- webdianoia en galego
- descargas
+Glosario
 
+[Logo
+de
+webdianoia]
+
+Conciencia
+-
+Glosario
+de
+filosofía
+
+A
+|
+B
+|
+C
+|
+D
+|
+E
+|
+F
+|
+G
+|
+H
+|
+I
+|
+J
+|
+K
+|
+L
+|
+M
+|
+N
+|
+O
+|
+P
+|
+Q
+|
+R
+|
+S
+|
+T
+|
+U
+|
+V
+|
+Y
+
+Si
+una
+palabra
+no
+aparece
+en
+el
+listado
+de
+términos
+mostrado
+es
+que
+no
+se
+encuentra
+definida
+en
+el
 glosario
-
-logo de webdianoia
-
-conciencia glosario de filosofía
-
-a b c d e f g h i j k l m n o p q r 
-s t u v y
-
-si una palabra no aparece en el listado de términos mostrado es que no
-se encuentra definida en el glosario
+.
 
 
+
+Conciencia
+
+Del
+latÃ­n
+"conscientia"
+,
+tÃ©rmino
+que
+remite
+etimolÃ³gicamente
+al
+
+"saber
+algo
+dÃ¡ndose
+uno
+cuenta
+de
+que
+sabe"
+.
+
+
+
+Llamamos
+conciencia
+a
+un
+proceso
+activo
+(no
+una
+"cosa"
+o
+un
+"lugar"
+
+en
+la
+mente
+o
+en
+el
+cerebro)
+que
+se
+puede
+asimilar
+a
+la
+experiencia
+
+subjetiva
+del
+conocimiento
+de
+sÃ­
+mismo
+y
+de
+la
+realidad
+.
+
+
+Tal
+
+experiencia
+incluye
+las
+sensaciones
+,
+percepciones
+,
+recuerdos
+y
+
+pensamientos
+,
+por
+lo
+que
+dicho
+proceso
+supone
+la
+atenciÃ³n
+,
+la
+
+memoria
+y
+el
+pensamiento
+.
+
+
+
+Se
+suelen
+distinguir
+varios
+grados
+o
+niveles
+de
+conciencia
+,
+que
+van
+
+desde
+el
+estado
+de
+vigilia
+(cuando
+estamos
+despiertos)
+al
+de
+la
 
 conciencia
- del latÃ­n conscientia tÃ©rmino que remite etimolÃ³gicamente al
- saber algo dÃ¡ndose uno cuenta de que sabe
+onÃ­rica
+(cuando
+dormimos)
+.
 
 
- llamamos conciencia a un proceso activo no una cosa o un lugar
- en la mente o en el cerebro que se puede asimilar a la experiencia
- subjetiva del conocimiento de sÃ­ mismo y de la realidad
+Podemos
+definir
+,
+ademÃ¡s
+,
 
- tal
- experiencia incluye las sensaciones percepciones recuerdos y
- pensamientos por lo que dicho proceso supone la atenciÃ³n la
- memoria y el pensamiento
+algunos
+de
+estos
+estados
+,
+como
+alteraciones
+de
+la
+conciencia
+(como
+
+ocurre
+cuando
+soÃ±amos)
+,
+o
+como
+estados
+alterados
+de
+conciencia
+
+(como
+los
+producidos
+por
+la
+embriaguez
+o
+por
+el
+consumo
+de
+
+determinadas
+sustancias)
+.
 
 
- se suelen distinguir varios grados o niveles de conciencia que van
- desde el estado de vigilia cuando estamos despiertos al de la
- conciencia onÃ­rica cuando dormimos
 
- podemos definir ademÃ¡s
- algunos de estos estados como alteraciones de la conciencia como
- ocurre cuando soÃ±amos o como estados alterados de conciencia
- como los producidos por la embriaguez o por el consumo de
- determinadas sustancias
+En
+filosofÃ­a
+la
+conciencia
+fue
+asimilada
+,
+bien
+al
+conocimiento
+de
+sÃ­
+
+mismo
+(conciencia
+reflexiva)
+,
+bien
+al
+conocimiento
+de
+la
+realidad
+
+exterior
+,
+del
+mundo
+de
+los
+objetos
+(conciencia
+representativa)
+.
 
 
- en filosofÃ­a la conciencia fue asimilada bien al conocimiento de sÃ­
- mismo conciencia reflexiva bien al conocimiento de la realidad
- exterior del mundo de los objetos conciencia representativa
+En
 
- en
- descartes la conciencia se identificarÃ¡ con el yo con la realidad
- sustancial del individuo iniciando una corriente interpretativa que
- llega hasta la actualidad dentro de ella husserl entiende que la
- conciencia es necesariamente conciencia de algo e insistiendo en
- ese ser conciencia de subraya su carÃ¡cter intencional
+Descartes
+la
+conciencia
+se
+identificarÃ¡
+con
+el
+yo
+,
+con
+la
+realidad
+
+sustancial
+del
+individuo
+,
+iniciando
+una
+corriente
+interpretativa
+que
+
+llega
+hasta
+la
+actualidad
+;
+dentro
+de
+ella
+,
+Husserl
+entiende
+que
+la
+
+conciencia
+es
+necesariamente
+"conciencia
+de"
+algo
+e
+,
+insistiendo
+en
+
+ese
+ser
+"conciencia
+de"
+,
+subraya
+su
+carÃ¡cter
+intencional
+.
 
 
 
-volver
+Volver
 
  
 
-ver lista de términos definidos
+Ver
+lista
+de
+términos
+definidos
 
-© 2001 
+©
+2001
+-
 
 webdianoia
+.
 
 com
 
-polÃ­tica de privacidad
+PolÃ­tica
+de
+Privacidad
 
-polÃ­tica de cookies
+PolÃ­tica
+de
+Cookies
 
-reglas de uso
+Reglas
+de
+uso
 
-quiÃ©nes somos
+QuiÃ©nes
+somos
 
-aviso legal
+Aviso
+legal
 
-tÃ©rminos y condiciones
+TÃ©rminos
+y
+condiciones
 
-mapa del sitio
+Mapa
+del
+sitio
 
-crÃ©ditos
+CrÃ©ditos
 
-contacto
+Contacto

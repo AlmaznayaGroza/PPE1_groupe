@@ -1,833 +1,3235 @@
-ir al contenido
+Ir
+al
+contenido
 
-menú principal
+Menú
+principal
 
-menú principal
+Menú
+principal
 
-mover a la barra lateral
+mover
+a
+la
+barra
+lateral
 
 ocultar
 
-navegación
+Navegación
 
- portada
- portal de la comunidad
- actualidad
- cambios recientes
- páginas nuevas
- página aleatoria
- ayuda
- notificar un error
+-
+Portada
+-
+Portal
+de
+la
+comunidad
+-
+Actualidad
+-
+Cambios
+recientes
+-
+Páginas
+nuevas
+-
+Página
+aleatoria
+-
+Ayuda
+-
+Notificar
+un
+error
 
- wikipedia la enciclopedia libre
+[]
+[Wikipedia]
+[La
+enciclopedia
+libre]
 
-buscar
+Buscar
 
-buscar
+Buscar
 
-apariencia
+Apariencia
 
- donaciones
- crear una cuenta
- acceder
+-
+Donaciones
+-
+Crear
+una
+cuenta
+-
+Acceder
 
-herramientas personales
+Herramientas
+personales
 
- donaciones
- crear una cuenta
- acceder
+-
+Donaciones
+-
+Crear
+una
+cuenta
+-
+Acceder
 
-páginas para editores desconectados más información
+Páginas
+para
+editores
+desconectados
+más
+información
 
- contribuciones
- discusión
+-
+Contribuciones
+-
+Discusión
 
+Contenidos
+
+mover
+a
+la
+barra
+lateral
+
+ocultar
+
+-
+
+
+Inicio
+-
+
+
+1
+Término
+-
+
+
+2
+Conciencia
+en
+humanos
+-
+
+
+3
+Conciencia
+en
+animales
+-
+
+
+4
+Conciencia
+en
+la
+inteligencia
+artificial
+-
+
+
+5
+Véase
+también
+-
+
+
+6
+Referencias
+-
+
+
+7
+Bibliografía
+-
+
+
+8
+Enlaces
+externos
+
+Cambiar
+a
+la
+tabla
+de
 contenidos
 
-mover a la barra lateral
+Conciencia
 
-ocultar
+75
+idiomas
 
- 
- inicio
- 
- 1 término
- 
- 2 conciencia en humanos
- 
- 3 conciencia en animales
- 
- 4 conciencia en la inteligencia artificial
- 
- 5 véase también
- 
- 6 referencias
- 
- 7 bibliografía
- 
- 8 enlaces externos
+-
+አማርኛ
+-
+العربية
+-
+ܐܪܡܝܐ
+-
+Asturianu
+-
+Azərbaycanca
+-
+Беларуская
+-
+Беларуская
+(тарашкевіца)
+-
+Български
+-
+বাংলা
+-
+Bosanski
+-
+Català
+-
+Čeština
+-
+Чӑвашла
+-
+Dansk
+-
+Deutsch
+-
+English
+-
+Esperanto
+-
+Euskara
+-
+فارسی
+-
+Suomi
+-
+Français
+-
+Gaeilge
+-
+Galego
+-
+עברית
+-
+हिन्दी
+-
+Hrvatski
+-
+Magyar
+-
+Հայերեն
+-
+Bahasa
+Indonesia
+-
+Ido
+-
+Italiano
+-
+日本語
+-
+Қазақша
+-
+ಕನ್ನಡ
+-
+한국어
+-
+Kurdî
+-
+Кыргызча
+-
+Latina
+-
+Lietuvių
+-
+Latviešu
+-
+मराठी
+-
+Bahasa
+Melayu
+-
+Nederlands
+-
+Norsk
+bokmål
+-
+Oromoo
+-
+ਪੰਜਾਬੀ
+-
+Polski
+-
+Português
+-
+Română
+-
+Русский
+-
+Русиньскый
+-
+Саха
+тыла
+-
+سنڌي
+-
+Srpskohrvatski
+/
+српскохрватски
+-
+Simple
+English
+-
+Slovenčina
+-
+ChiShona
+-
+Shqip
+-
+Српски
+/
+srpski
+-
+Svenska
+-
+Kiswahili
+-
+Тоҷикӣ
+-
+ไทย
+-
+Tagalog
+-
+Türkçe
+-
+Татарча
+/
+tatarça
+-
+Українська
+-
+اردو
+-
+Oʻzbekcha
+/
+ўзбекча
+-
+Tiếng
+Việt
+-
+Winaray
+-
+吴语
+-
+ייִדיש
+-
+中文
+-
+粵語
 
-cambiar a la tabla de contenidos
+Editar
+enlaces
 
-conciencia
-
-75 idiomas
-
- አማርኛ
- العربية
- ܐܪܡܝܐ
- asturianu
- azərbaycanca
- Беларуская
- Беларуская тарашкевіца
- Български
- বাংলা
- bosanski
- català
- Čeština
- Чӑвашла
- dansk
- deutsch
- english
- esperanto
- euskara
- فارسی
- suomi
- français
- gaeilge
- galego
- עברית
- हिन्दी
- hrvatski
- magyar
- Հայերեն
- bahasa indonesia
- ido
- italiano
- 日本語
- Қазақша
- ಕನ್ನಡ
- 한국어
- kurdî
- Кыргызча
- latina
- lietuvių
- latviešu
- मराठी
- bahasa melayu
- nederlands
- norsk bokmål
- oromoo
- ਪੰਜਾਬੀ
- polski
- português
- română
- Русский
- Русиньскый
- Саха тыла
- سنڌي
- srpskohrvatski српскохрватски
- simple english
- slovenčina
- chishona
- shqip
- Српски srpski
- svenska
- kiswahili
- Тоҷикӣ
- ไทย
- tagalog
- türkçe
- Татарча tatarça
- Українська
- اردو
- oʻzbekcha ўзбекча
- tiếng việt
- winaray
- 吴语
- ייִדיש
- 中文
- 粵語
-
-editar enlaces
-
- artículo
- discusión
+-
+Artículo
+-
+Discusión
 
 español
 
- leer
- editar
- ver historial
+-
+Leer
+-
+Editar
+-
+Ver
+historial
 
-herramientas
+Herramientas
 
-herramientas
+Herramientas
 
-mover a la barra lateral
-
-ocultar
-
-acciones
-
- leer
- editar
- ver historial
-
-general
-
- lo que enlaza aquí
- cambios en enlazadas
- subir archivo
- páginas especiales
- enlace permanente
- información de la página
- citar esta página
- obtener url acortado
- descargar código qr
-
-imprimirexportar
-
- crear un libro
- descargar como pdf
- versión para imprimir
-
-en otros proyectos
-
- wikimedia commons
- wikiquote
- elemento de wikidata
-
-apariencia
-
-mover a la barra lateral
+mover
+a
+la
+barra
+lateral
 
 ocultar
 
-de wikipedia la enciclopedia libre
+Acciones
+
+-
+Leer
+-
+Editar
+-
+Ver
+historial
+
+General
+
+-
+Lo
+que
+enlaza
+aquí
+-
+Cambios
+en
+enlazadas
+-
+Subir
+archivo
+-
+Páginas
+especiales
+-
+Enlace
+permanente
+-
+Información
+de
+la
+página
+-
+Citar
+esta
+página
+-
+Obtener
+URL
+acortado
+-
+Descargar
+código
+QR
+
+Imprimir/exportar
+
+-
+Crear
+un
+libro
+-
+Descargar
+como
+PDF
+-
+Versión
+para
+imprimir
+
+En
+otros
+proyectos
+
+-
+Wikimedia
+Commons
+-
+Wikiquote
+-
+Elemento
+de
+Wikidata
+
+Apariencia
+
+mover
+a
+la
+barra
+lateral
+
+ocultar
+
+De
+Wikipedia
+,
+la
+enciclopedia
+libre
+
++-----------------------------------+-----------------------------------+
+|
+[]
+|
+Se
+ha
+sugerido
+que
+este
+artículo
+|
+|
+|
+o
+sección
+sea
+fusionado
+con
+|
+|
+|
+Conciencia
+(psicología)
+.
 
 
- se ha sugerido que este artículo 
- o sección sea fusionado con 
- conciencia psicología
-
- para más 
- información véase la discusión
-
- 
- 
- una vez que hayas realizado la 
- fusión de contenidos pide la 
- fusión de historiales aquí
-
- 
- este aviso fue puesto el 12 de 
- febrero de 2017
-
- 
+Para
+más
+|
+|
+|
+información
+,
+véase
+la
+discusión
+.
 
 
-para otros usos de este término véase conciencia desambiguación
+|
+|
+|
+|
+|
+|
+Una
+vez
+que
+hayas
+realizado
+la
+|
+|
+|
+fusión
+de
+contenidos
+,
+pide
+la
+|
+|
+|
+fusión
+de
+historiales
+aquí
+.
 
 
-
-no debe confundirse con consciencia
-
-
-
-la conciencia del latín conscientia conocimiento compartido y este
-de cum scientĭa con conocimiento el mismo origen que tiene
-consciencia ser conscientes de ello se define en términos generales
-como el conocimiento que un ser tiene de sí mismo y de su entorno
-
-
-también puede referirse a la moral o a la recepción normal de los
-estímulos del interior y el exterior por parte de un organismo
-
-
-
-existe debate sobre en qué consiste exactamente la conciencia
-
- en el
-área de la inteligencia artificial se ha trabajado la idea de crear
-máquinas o programas suficientemente complejos como para dar lugar a una
-conciencia artificialcita requerida pero algunos han negado la
-posibilidad de que una computadora pueda dar lugar a algo genuinamente
-indistinguible de una conciencia
-
- el test de turing propuesto en 1950
-aborda ese problema hasta 2020 ningún programador había conseguido con
-éxito superar satisfactoriamente esta prueba en 2014 un bot
-conversacional logró engañar gran parte de un jurado de humanos
-
- sin
-embargo el objetivo de dicho test no es que un programa tenga
-conciencia sino que nos haga creer que la tiene
+|
+|
+|
+Este
+aviso
+fue
+puesto
+el
+12
+de
+|
+|
+|
+febrero
+de
+2017
+.
 
 
+|
++-----------------------------------+-----------------------------------+
 
+Para
+otros
+usos
+de
+este
 término
-
-editar
-
-el término conciencia se utiliza para distintos aspectos
-
- el primero y de uso más extenso se refiere a la captación
- reconocimiento del sentido y la relevancia de cualquier aspecto de
- la realidad o de uno a mismo a
-
- el término conciencia no tiene
- por qué ser simplemente intelectual
-
- dentro del mismo es posible
- diferenciar dos aspectos importantes
- el psicológico se refiere a la percepción de un objeto
- situación o de uno mismo por lo que este acto de conciencia
- puede confundirse con el de autoconciencia
-
-
- el gnoseológicometafísico la gnoseología es la rama de la
- filosofía que estudia el origen la naturaleza y los límites del
- conocimiento humano en general
-
- su denominación se remonta a la
- antigua grecia donde filósofos se han ocupado de estudiar
- cuestiones de la vida de los seres humanos
-
- se puede definir
- como la teoría general del conocimiento que se refleja en la
- concordancia del pensamiento entre el sujeto y el objeto
-
- en
- este contexto el objeto es algo externo a la mente una idea
- un fenómeno un concepto etc
-
- el objetivo de la gnoseología es
- reflexionar sobre el origen la naturaleza o la esencia y los
- límites del conocimiento del acto cognitivo acción de
- conocer por el sujeto
-
- la metafísica es una rama de la
- filosofía que estudia la naturaleza y la realidad además de
- aquellos aspectos de la realidad que son inaccesibles a la
- investigación científica es decir lo inmaterial
-
- según
- immanuel kant una afirmación metafísica se produce cuando se
- traban los combates sin fin de la razón y para aristóteles
- metafísica es la filosofía que trata las causas primeras
- abordando también la teología y cosmología
-
- todo esto engloba el
- significado de gnoseológicometafísico que puede definirse como
- la dependencia de la conciencia en el propio sujeto o el mismo
- yo
+,
+véase
+Conciencia
+(desambiguación)
+.
 
 
 
- el segundo es el reconocimiento de aquello que está bien y de lo que
- está mal esto es la capacidad de dirimir casos de conciencia
-
-
- desde un sentido moral también es posible hablar de la toma de
- conciencia social o política que se puede definir como el
- conocimiento que tiene una persona sobre los demás integrantes de su
- comunidad y la concienciación ecológica que es la aceptación y el
- intento por cambiar los aspectos negativos producidos por el ser
- humano en la naturaleza
+No
+debe
+confundirse
+con
+consciencia
+.
 
 
 
-conciencia en humanos
-
-editar
-
-artículos principales conciencia psicología y conciencia
-psiquiatría
-
-
-
-en la especie homo sapiens la conciencia implica varios procesos
-cognitivos interrelacionados
-
- se traduce del griego sy‧néi‧dē‧sis de
-syn con y éi‧dē‧sis conocimiento de modo que significa
-coconocimiento o conocimiento con uno mismo
-
- conciencia se refiere al
-saber de sí mismo al conocimiento que el humano tiene de su propia
-existencia estados o actos
-
-
-
-la conciencia en psiquiatría puede también definirse como el estado
-cognitivo no abstracto que permite la interactuación interpretación y
-asociación con los estímulos externos denominados realidad
-
- la
-conciencia requiere del uso de los sentidos como medio de conectividad
-entre los estímulos externos y sus asociaciones
-
-
-
-los humanos adultos sanos tienen conciencia sensitiva y conciencia
-abstracta aunque también el pensamiento abstracto se presentaría en
-otras especies animales hasta un punto que debe
-clarificarse
-
-1​2​ filósofos como aristóteles afirmaron y
-trataron de demostrar que el ser humano es un animal racional a
-diferencia de los demás
-
-3​
-
-conciencia en animales
-
-editar
-
-artículo principal etología
-
-el 7 de julio de 2012 científicos prominentes de diferentes ramas de
-las neurociencias entre ellos david edelman del instituto de
-neurociencia en la jolla california philip low de la universidad de
-stanford y christof koch del instituto de tecnología de california se
-dieron cita en la universidad de cambridge para celebrar la conferencia
-conmemorativa francis crick4​ la cual trató sobre la conciencia en
-humanos y animales
-
- al finalizar las conferencias se firmó en presencia
-de stephen hawking la cambridge declaration on consciousness5​
-declaración de cambridge sobre la conciencia6​ la cual resumió
-los hallazgos más importantes de la investigación allí expuesta y
-discutida
-
- decidimos llegar a un consenso y hacer una declaración para el
- público que no es científico
-
- es obvio para todos en este salón que
- los animales tienen conciencia pero no es obvio para el resto del
- mundo
-
- no es obvio para el resto del mundo occidental ni el lejano
- oriente
-
- no es algo obvio para la sociedad
+La
+conciencia
+(del
+latín
+conscientia
+,
+«conocimiento
+compartido»
+,
+y
+este
+de
+cum
+scientĭa
+,
+«con
+conocimiento»
+,
+el
+mismo
+origen
+que
+tiene
+consciencia
+,
+ser
+conscientes
+de
+ello)
+se
+define
+,
+en
+términos
+generales
+,
+como
+el
+conocimiento
+que
+un
+ser
+tiene
+de
+sí
+mismo
+y
+de
+su
+entorno
+.
 
 
+También
+puede
+referirse
+a
+la
+moral
+o
+a
+la
+recepción
+normal
+de
+los
+estímulos
+del
+interior
+y
+el
+exterior
+por
+parte
+de
+un
+organismo
+.
 
- philip low en la presentación de la declaración de cambridge sobre la
- conciencia 7 de julio de 2012
 
-algunos estudios han hablado de altos niveles de conciencia en algunas
-especies de animales comparándolos con niveles
+
+Existe
+debate
+sobre
+en
+qué
+consiste
+exactamente
+la
+conciencia
+.
+
+
+En
+el
+área
+de
+la
+inteligencia
+artificial
+se
+ha
+trabajado
+la
+idea
+de
+crear
+máquinas
+o
+programas
+suficientemente
+complejos
+como
+para
+dar
+lugar
+a
+una
+conciencia
+artificial
+,^([cita requerida])
+pero
+algunos
+han
+negado
+la
+posibilidad
+de
+que
+una
+computadora
+pueda
+dar
+lugar
+a
+algo
+genuinamente
+indistinguible
+de
+una
+conciencia
+.
+
+
+El
+test
+de
+Turing
+propuesto
+en
+1950
+aborda
+ese
+problema
+,
+hasta
+2020
+ningún
+programador
+había
+conseguido
+con
+éxito
+superar
+satisfactoriamente
+esta
+prueba
+(en
+2014
+un
+bot
+conversacional
+,
+logró
+engañar
+gran
+parte
+de
+un
+jurado
+de
+humanos)
+.
+
+
+Sin
+embargo
+,
+el
+objetivo
+de
+dicho
+test
+no
+es
+que
+un
+programa
+tenga
+conciencia
+,
+sino
+que
+nos
+haga
+creer
+que
+la
+tiene
+.
+
+
+
+Término
+
+[editar]
+
+El
+término
+conciencia
+se
+utiliza
+para
+distintos
+aspectos
+:
+
+-
+El
+primero
+y
+de
+uso
+más
+extenso
+,
+se
+refiere
+a
+la
+captación
+,
+
+reconocimiento
+del
+sentido
+y
+la
+relevancia
+de
+cualquier
+aspecto
+de
+
+la
+realidad
+o
+de
+uno
+(a)
+mismo
+(a)
+.
+
+
+El
+término
+conciencia
+no
+tiene
+
+por
+qué
+ser
+simplemente
+intelectual
+.
+
+
+Dentro
+del
+mismo
+,
+es
+posible
+
+diferenciar
+dos
+aspectos
+importantes
+:
+
+-
+El
+psicológico
+:
+se
+refiere
+a
+la
+percepción
+de
+un
+objeto
+,
+
+situación
+o
+de
+uno
+mismo
+,
+por
+lo
+que
+este
+acto
+de
+conciencia
+
+puede
+confundirse
+con
+el
+de
+autoconciencia
+.
+
+
+
+-
+El
+gnoseológico-metafísico
+:
+La
+gnoseología
+es
+la
+rama
+de
+la
+
+filosofía
+que
+estudia
+el
+origen
+,
+la
+naturaleza
+y
+los
+límites
+del
+
+conocimiento
+humano
+en
+general
+.
+
+
+Su
+denominación
+se
+remonta
+a
+la
+
+antigua
+Grecia
+,
+donde
+filósofos
+se
+han
+ocupado
+de
+estudiar
+
+cuestiones
+de
+la
+vida
+de
+los
+seres
+humanos
+.
+
+
+Se
+puede
+definir
+
+como
+la
+teoría
+general
+del
+conocimiento
+,
+que
+se
+refleja
+en
+la
+
+concordancia
+del
+pensamiento
+entre
+el
+sujeto
+y
+el
+objeto
+.
+
+
+En
+
+este
+contexto
+,
+el
+objeto
+es
+algo
+externo
+a
+la
+mente
+,
+una
+idea
+,
+
+un
+fenómeno
+,
+un
+concepto
+,
+etc
+.
+
+
+El
+objetivo
+de
+la
+gnoseología
+es
+
+reflexionar
+sobre
+el
+origen
+,
+la
+naturaleza
+o
+la
+esencia
+,
+y
+los
+
+límites
+del
+conocimiento
+,
+del
+acto
+cognitivo
+(acción
+de
+
+conocer)
+,
+por
+el
+sujeto
+.
+
+
+La
+metafísica
+es
+una
+rama
+de
+la
+
+filosofía
+que
+estudia
+la
+naturaleza
+y
+la
+realidad
+,
+además
+de
+
+aquellos
+aspectos
+de
+la
+realidad
+que
+son
+inaccesibles
+a
+la
+
+investigación
+científica
+,
+es
+decir
+,
+lo
+inmaterial
+.
+
+
+Según
+
+Immanuel
+Kant
+,
+una
+afirmación
+metafísica
+se
+produce
+cuando
+se
+
+traban
+los
+combates
+sin
+fin
+de
+la
+razón
+y
+para
+Aristóteles
+,
+
+metafísica
+es
+la
+filosofía
+que
+trata
+las
+causas
+primeras
+
+abordando
+también
+la
+teología
+y
+cosmología
+.
+
+
+Todo
+esto
+engloba
+el
+
+significado
+de
+gnoseológico-metafísico
+,
+que
+puede
+definirse
+como
+
+la
+dependencia
+de
+la
+conciencia
+en
+el
+propio
+sujeto
+o
+el
+mismo
+
+yo
+.
+
+
+
+-
+El
+segundo
+es
+el
+reconocimiento
+de
+aquello
+que
+está
+bien
+y
+de
+lo
+que
+
+está
+mal
+,
+esto
+es
+,
+la
+capacidad
+de
+dirimir
+casos
+de
+conciencia
+.
+
+
+
+Desde
+un
+sentido
+moral
+,
+también
+es
+posible
+hablar
+de
+la
+toma
+de
+
+conciencia
+social
+o
+política
+,
+que
+se
+puede
+definir
+como
+el
+
+conocimiento
+que
+tiene
+una
+persona
+sobre
+los
+demás
+integrantes
+de
+su
+
+comunidad
+,
+y
+la
+concienciación
+ecológica
+,
+que
+es
+la
+aceptación
+y
+el
+
+intento
+por
+cambiar
+los
+aspectos
+negativos
+producidos
+por
+el
+ser
+
+humano
+en
+la
+naturaleza
+.
+
+
+
+Conciencia
+en
 humanos
 
-7​8​9​10​11​
+[editar]
 
-muchos de ellos urracas elefantes son capaces de reconocerse en un
-espejo o lloran a sus muertos elefantes y por ejemplo la universidad
-de saint andrews florida descubrió que los delfines de hocico de
-botella se identifican entre ellos usando nombres propios esto es se
-consideran individuos diferenciados entre ellos
-
-12​
-
-conciencia en la inteligencia artificial
-
-editar
-
-artículo principal inteligencia artificial
-
-existen dudas sobre la naturaleza de la conciencia y cómo se relaciona
-ella con la inteligencia artificial y no se sabe con seguridad si la
-conciencia como fenómeno cognitivo es sólo el resultado de la
-complejidad computacional o neuronal en los seres vivos o es un
-fenómeno emergente de la interacción de la materia
+Artículos
+principales
+:
+Conciencia
+(psicología)
+y
+Conciencia
+(psiquiatría)
+.
 
 
 
-roger penrose se ha ocupado del problema de la realidad física de la
-inteligencia y ha analizado diversas pretensiones teóricas por parte de
-la inteligencia artificial de simular o construir artefactos que posean
-algún tipo de conciencia
+En
+la
+especie
+Homo
+sapiens
+,
+la
+conciencia
+implica
+varios
+procesos
+cognitivos
+interrelacionados
+.
 
-13​14​ penrose clasifica las posturas
-actuales ante la cuestión de si la conciencia es o no computable
+
+Se
+traduce
+del
+griego
+sy‧néi‧dē‧sis
+,
+de
+syn
+-
+'
+con
+'
+-
+y
+éi‧dē‧sis
+-
+'
+conocimiento
+'
+-
+,
+de
+modo
+que
+significa
+co-conocimiento
+,
+o
+conocimiento
+con
+uno
+mismo
+.
+
+
+Conciencia
+se
+refiere
+al
+saber
+de
+sí
+mismo
+,
+al
+conocimiento
+que
+el
+humano
+tiene
+de
+su
+propia
+existencia
+,
+estados
+o
+actos
+.
+
+
+
+La
+conciencia
+en
+psiquiatría
+puede
+también
+definirse
+como
+el
+estado
+cognitivo
+no
+abstracto
+que
+permite
+la
+interactuación
+,
+interpretación
+y
+asociación
+con
+los
+estímulos
+externos
+,
+denominados
+realidad
+.
+
+
+La
+conciencia
+requiere
+del
+uso
+de
+los
+sentidos
+como
+medio
+de
+conectividad
+entre
+los
+estímulos
+externos
+y
+sus
+asociaciones
+.
+
+
+
+Los
+humanos
+adultos
+sanos
+tienen
+conciencia
+sensitiva
+y
+conciencia
+abstracta
+,
+aunque
+también
+el
+pensamiento
+abstracto
+se
+presentaría
+en
+otras
+especies
+animales
+,
+hasta
+un
+punto
+que
+debe
+clarificarse
+.
+
+^([1])​^([2])​
+Filósofos
+como
+Aristóteles
+afirmaron
+y
+trataron
+de
+demostrar
+que
+el
+ser
+humano
+es
+un
+animal
+racional
+a
+diferencia
+de
+los
+demás
+.
+
+^([3])​
+
+Conciencia
+en
+animales
+
+[editar]
+
+Artículo
+principal
+:
+Etología
+
+El
+7
+de
+julio
+de
+2012
+,
+científicos
+prominentes
+de
+diferentes
+ramas
+de
+las
+neurociencias
+,
+entre
+ellos
+David
+Edelman
+del
+Instituto
+de
+Neurociencia
+en
+La
+Jolla
+,
+California
+;
+Philip
+Low
+,
+de
+la
+Universidad
+de
+Stanford
+,
+y
+Christof
+Koch
+,
+del
+Instituto
+de
+Tecnología
+de
+California
+,
+se
+dieron
+cita
+en
+la
+Universidad
+de
+Cambridge
+para
+celebrar
+la
+Conferencia
+Conmemorativa
+Francis
+Crick
+,^([4])​
+la
+cual
+trató
+sobre
+la
+conciencia
+en
+humanos
+y
+animales
+.
+
+
+Al
+finalizar
+las
+conferencias
+se
+firmó
+,
+en
+presencia
+de
+Stephen
+Hawking
+,
+la
+Cambridge
+Declaration
+On
+Consciousness^([5])​
+(Declaración
+de
+Cambridge
+sobre
+la
+Conciencia^([6])​)
+,
+la
+cual
+resumió
+los
+hallazgos
+más
+importantes
+de
+la
+investigación
+allí
+expuesta
+y
+discutida
+:
+
+
+"Decidimos
+llegar
+a
+un
+consenso
+y
+hacer
+una
+declaración
+para
+el
+
+público
+que
+no
+es
+científico
+.
+
+
+Es
+obvio
+,
+para
+todos
+en
+este
+salón
+,
+que
+
+los
+animales
+tienen
+conciencia
+,
+pero
+no
+es
+obvio
+para
+el
+resto
+del
+
+mundo
+.
+
+
+No
+es
+obvio
+para
+el
+resto
+del
+mundo
+occidental
+ni
+el
+lejano
+
+Oriente
+.
+
+
+No
+es
+algo
+obvio
+para
+la
+sociedad
+.
+
+"
+
+
+Philip
+Low
+,
+en
+la
+presentación
+de
+la
+Declaración
+de
+Cambridge
+sobre
+la
+
+Conciencia
+,
+7
+de
+julio
+de
+2012
+
+Algunos
+estudios
+han
+hablado
+de
+altos
+niveles
+de
+conciencia
+en
+algunas
+especies
+de
+animales
+,
+comparándolos
+con
+niveles
+humanos
+.
+
+^([7])​^([8])​^([9])​^([10])​^([11])​
+
+Muchos
+de
+ellos
+(urracas
+,
+elefantes)
+son
+capaces
+de
+reconocerse
+en
+un
+espejo
+o
+lloran
+a
+sus
+muertos
+(elefantes)
+y
+,
+por
+ejemplo
+,
+la
+Universidad
+de
+Saint
+Andrews
+(Florida)
+descubrió
+que
+los
+delfines
+de
+hocico
+de
+botella
+se
+identifican
+entre
+ellos
+usando
+nombres
+propios
+,
+esto
+es
+,
+se
+consideran
+individuos
+diferenciados
+entre
+ellos
+.
+
+^([12])​
+
+Conciencia
+en
+la
+inteligencia
+artificial
+
+[editar]
+
+Artículo
+principal
+:
+Inteligencia
+artificial
+
+Existen
+dudas
+sobre
+la
+naturaleza
+de
+la
+conciencia
+y
+cómo
+se
+relaciona
+ella
+con
+la
+inteligencia
+artificial
+,
+y
+no
+se
+sabe
+con
+seguridad
+si
+la
+conciencia
+como
+fenómeno
+cognitivo
+es
+sólo
+el
+resultado
+de
+la
+complejidad
+computacional
+(o
+neuronal
+en
+los
+seres
+vivos)
+o
+es
+un
+fenómeno
+emergente
+de
+la
+interacción
+de
+la
+materia
+.
+
+
+
+Roger
+Penrose
+se
+ha
+ocupado
+del
+problema
+de
+la
+realidad
+física
+de
+la
+inteligencia
+y
+ha
+analizado
+diversas
+pretensiones
+teóricas
+por
+parte
+de
+la
+inteligencia
+artificial
+de
+simular
+o
+construir
+artefactos
+que
+posean
+algún
+tipo
+de
+conciencia
+.
+
+^([13])​^([14])​
+Penrose
+clasifica
+las
+posturas
+actuales
+ante
+la
+cuestión
+de
+si
+la
+conciencia
+es
+o
+no
+computable
 algorítmicamente
+:
 
-a
+A
+.
 
- todo pensamiento es un proceso de computación es decir en
-particular la percepción de uno mismo y la autoconciencia son procesos
-emergentes que son resultado directo de la computación o algoritmo
+
+Todo
+pensamiento
+es
+un
+proceso
+de
+computación
+,
+es
+decir
+,
+en
+particular
+la
+percepción
+de
+uno
+mismo
+y
+la
+autoconciencia
+son
+procesos
+emergentes
+que
+son
+resultado
+directo
+de
+la
+computación
+o
+algoritmo
 adecuados
+.
 
 
 
-b
-
- la conciencia es una consecuencia del tipo de acción física que
-ocurre en el cerebro y aunque cualquier acción física puede simularse
-apropiada a través de medios computacionales el hecho de que se lleve a
-cabo un proceso de simulación computacional del cerebro no comportaría
-por sí mismo la aparición auténtica de la autoconciencia
+B
+.
 
 
-
-c
-
- la realización de cierta actividad física en el cerebro es lo que
-lleva a la aparición de la autoconciencia en el ser humano sin embargo
-aunque puede ser reproducida artificialmente dicha acción no puede
-simularse algorítmicamente
-
-
-
-d
-
- la conciencia de tipo humano no puede entenderse propiamente en
-términos físicos computacionales o científicos de otro tipo
-
-
-
-el punto de vista d no niega la posibilidad de comprensión científica de
-la conciencia sino su comprensión a través de mecanismos artificiales
-
-
-muchos investigadores del campo de la inteligencia artificial en
-particular los más optimistas sobre sus logros se adhieren a la postura
+La
+conciencia
+es
+una
+consecuencia
+del
+tipo
+de
+acción
+física
+que
+ocurre
+en
+el
+cerebro
+,
+y
+aunque
+cualquier
+acción
+física
+puede
+simularse
+apropiada
 a
+través
+de
+medios
+computacionales
+,
+el
+hecho
+de
+que
+se
+lleve
+a
+cabo
+un
+proceso
+de
+simulación
+computacional
+del
+cerebro
+no
+comportaría
+,
+por
+sí
+mismo
+,
+la
+aparición
+auténtica
+de
+la
+autoconciencia
+.
 
- john searle sería más bien un partidario de la postura b y el propio
-penrose ha argumentado fuertemente en su trabajo por la postura c
-relacionándola con varios otros problemas abiertos de la física como la
-teoría cuántica de la gravedad
+
+
+C
+.
+
+
+La
+realización
+de
+cierta
+actividad
+física
+en
+el
+cerebro
+es
+lo
+que
+lleva
+a
+la
+aparición
+de
+la
+autoconciencia
+en
+el
+ser
+humano
+;
+sin
+embargo
+,
+aunque
+puede
+ser
+reproducida
+artificialmente
+,
+dicha
+acción
+no
+puede
+simularse
+algorítmicamente
+.
 
 
 
-véase también
+D
+.
 
-editar
 
- conciencia filosofía
- conciencia psicología
- ángel del hombro
- estados alterados de conciencia
- gnosis
- hilozoísmo
- psique
- púrusha
- super yo
+La
+conciencia
+de
+tipo
+humano
+no
+puede
+entenderse
+propiamente
+en
+términos
+físicos
+,
+computacionales
+o
+científicos
+de
+otro
+tipo
+.
 
-referencias
 
-editar
+
+El
+punto
+de
+vista
+D
+no
+niega
+la
+posibilidad
+de
+comprensión
+científica
+de
+la
+conciencia
+,
+sino
+su
+comprensión
+a
+través
+de
+mecanismos
+artificiales
+.
+
+
+Muchos
+investigadores
+del
+campo
+de
+la
+inteligencia
+artificial
+,
+en
+particular
+los
+más
+optimistas
+sobre
+sus
+logros
+,
+se
+adhieren
+a
+la
+postura
+A
+.
+
+
+John
+Searle
+sería
+más
+bien
+un
+partidario
+de
+la
+postura
+B
+,
+y
+el
+propio
+Penrose
+ha
+argumentado
+fuertemente
+en
+su
+trabajo
+por
+la
+postura
+C
+,
+relacionándola
+con
+varios
+otros
+problemas
+abiertos
+de
+la
+física
+como
+la
+teoría
+cuántica
+de
+la
+gravedad
+.
+
+
+
+Véase
+también
+
+[editar]
+
+-
+conciencia
+(filosofía)
+-
+conciencia
+(psicología)
+-
+ángel
+del
+hombro
+-
+estados
+alterados
+de
+conciencia
+-
+gnosis
+-
+hilozoísmo
+-
+psique
+-
+púrusha
+-
+super
+yo
+
+Referencias
+
+[editar]
 
 1
+.
 
- ↑ los orangutanes tienen inventiva
 
- neofronteras
+↑
+«Los
+orangutanes
+tienen
+inventiva»
+.
 
- 5 de julio de
- 2007
 
- consultado el 8 de junio de 2011
+NeoFronteras
+.
+
+
+5
+de
+julio
+de
+
+2007
+.
+
+
+Consultado
+el
+8
+de
+junio
+de
+2011
+.
 
  
 2
-
- ↑ los ratones tienen pensamiento abstracto
-
- los tiempos
-
- 29 de
- marzo de 2008
-
- archivado desde el original el 13 de enero de 2012
+.
 
 
- consultado el 8 de junio de 2011
+↑
+«Los
+Ratones
+tienen
+Pensamiento
+Abstracto»
+.
+
+
+Los
+Tiempos
+.
+
+
+29
+de
+
+marzo
+de
+2008
+.
+
+
+Archivado
+desde
+el
+original
+el
+13
+de
+enero
+de
+2012
+.
+
+
+
+Consultado
+el
+8
+de
+junio
+de
+2011
+.
 
  
 3
-
- ↑ aristóteles
-
- de la facultad motriz y que ésta no se identifica
- con ninguna de las facultades estudiadas hasta el momento
-
- acerca
- del alma tomás calvo martínez trad
+.
 
 
+↑
+Aristóteles
+.
 
- biblioteca clásica gredos
+
+«De
+la
+facultad
+motriz
+y
+que
+ésta
+no
+se
+identifica
+
+con
+ninguna
+de
+las
+facultades
+estudiadas
+hasta
+el
+momento»
+.
 
 
- p
+Acerca
+
+del
+alma
+(Tomás
+Calvo
+Martínez
+,
+trad
+.
+
+)
+.
+
+
+Biblioteca
+Clásica
+Gredos
+.
+
+
+
+p
+.
 
  108
+.
 
  
 4
+.
 
- ↑ httpfcmconference
 
-orgimgfcmcprogram
+↑
+[http
+://fcmconference
+.
 
-pdf fcmconference
+org/img/FCMCProgram
+.
+
+pdf
+fcmconference
+.
 
 org
 5
+.
 
- ↑
- httpfcmconference
 
-orgimgcambridgedeclarationonconsciousness
+↑
+
+http
+://fcmconference
+.
+
+org/img/CambridgeDeclarationOnConsciousness
+.
 
 pdf
 6
+.
 
- ↑
- httpsweb
+
+↑
+
+https
+://web
+.
 
 archive
+.
 
-orgweb20120914040924httpmataderos
+org/web/20120914040924/http
+://mataderos
+.
 
-cldeclaraciondecambridge
+cl/declaracion-de-cambridge/
 7
+.
 
- ↑ estudio de primates tambalea concepto de lo humano
 
- el
- universal
+↑
+«Estudio
+de
+primates
+‘tambalea’
+concepto
+de
+lo
+humano»
+.
 
- 18 de octubre de 2007
 
- consultado el 8 de junio de 2011
+El
+
+Universal
+.
+
+
+18
+de
+octubre
+de
+2007
+.
+
+
+Consultado
+el
+8
+de
+junio
+de
+2011
+.
 
  
 8
+.
 
- ↑ los elefantes reconocen su propia imagen ante un espejo
 
- el
- mundo españa
+↑
+«Los
+elefantes
+reconocen
+su
+propia
+imagen
+ante
+un
+espejo»
+.
 
- 30 de octubre de 2006
 
- consultado el 8 de junio de
- 2011
+El
+
+Mundo
+(España)
+.
+
+
+30
+de
+octubre
+de
+2006
+.
+
+
+Consultado
+el
+8
+de
+junio
+de
+
+2011
+.
 
  
 9
+.
 
- ↑ los elefantes lloran a sus muertos
 
- el mundo españa
+↑
+«Los
+elefantes
+lloran
+a
+sus
+muertos»
+.
 
- 27 de
- octubre de 2005
 
- consultado el 8 de junio de 2011
+El
+Mundo
+(España)
+.
+
+
+27
+de
+
+octubre
+de
+2005
+.
+
+
+Consultado
+el
+8
+de
+junio
+de
+2011
+.
 
  
 10
-
- ↑ las urracas son capaces de reconocerse en el espejo según un
- reciente descubrimiento
-
- 20 minutos
-
- 3 de agosto de 2008
+.
 
 
- consultado el 8 de junio de 2011
+↑
+«Las
+urracas
+son
+capaces
+de
+reconocerse
+en
+el
+espejo
+,
+según
+un
+
+reciente
+descubrimiento»
+.
+
+
+20
+minutos
+.
+
+
+3
+de
+agosto
+de
+2008
+.
+
+
+
+Consultado
+el
+8
+de
+junio
+de
+2011
+.
 
  
 11
-
- ↑ animal behaviour – pigs learn what a mirror image represents and
- use it to obtain information
-
- sciencedirect
+.
 
 
- doi10
+↑
+Animal
+Behaviour
+–
+Pigs
+learn
+what
+a
+mirror
+image
+represents
+and
 
-1016j
+use
+it
+to
+obtain
+information
+.
+
+
+ScienceDirect
+.
+
+
+
+doi
+:10
+.
+
+1016/j
+.
 
 anbehav
+.
 
 2009
+.
 
 07
+.
 
 027
+.
 
- consultado el 8 de junio de
- 2011
+
+Consultado
+el
+8
+de
+junio
+de
+
+2011
+.
 
  
 12
+.
 
- ↑ los delfines tienen nombres propios
 
- bbc mundo
+↑
+«Los
+delfines
+tienen
+nombres
+propios»
+.
 
- 9 de mayo de
- 2006
+
+BBC
+Mundo
+.
+
+
+9
+de
+mayo
+de
+
+2006
+.
 
  
 13
+.
 
- ↑ penrose 1991
+
+↑
+Penrose
+,
+1991
+.
 
 
 14
-
- ↑ penrose 1996
-
+.
 
 
-bibliografía
+↑
+Penrose
+,
+1996
+.
 
-editar
 
- daido ubalde soko
 
- la marisma dorada
+Bibliografía
+
+[editar]
+
+-
+Daido
+Ubalde
+,
+Soko
+.
+
+
+La
+marisma
+dorada
+.
 
  
- penrose roger la mente del emperador nuevo mondadori 1991 isbn
- 8439717865
+-
+PENROSE
+,
+Roger
+,
+La
+mente
+del
+emperador
+nuevo
+,
+Mondadori
+,
+1991
+,
+ISBN
+
+84-397-1786-5
+.
 
 
- penrose roger las sombras de la mente hacia una compresión
- científica de la consciencia editorial crítica 1996 isbn
- 8474237718
+-
+PENROSE
+,
+Roger
+,
+Las
+sombras
+de
+la
+mente
+:
+hacia
+una
+compresión
 
+científica
+de
+la
+consciencia
+,
+Editorial
+Crítica
+,
+1996
+,
+ISBN
 
-
-conciencia y fenomenología
-
- husserl e
-
- ideas relativas a una fenomenología pura y una
- filosofía fenomenológica trad
-
- gaos j
-
- fondo de cultura
- económica
-
- méxico 1967 1986
-
- isbn 8439717865
-
-
- ponty m
-
- fenomenología de la percepción 
-
- parís gallimard 1945
-
-
- isbn 8439717865
-
-
-
-enlaces externos
-
-editar
-
- wikiquote alberga frases célebres de o sobre conciencia
-
-
- wikcionario tiene definiciones y otra información sobre
- conciencia
-
-
- declaración de cambridge sobre la conciencia vídeo
-
-
- control de autoridades proyectos wikimedia 
- wd datos q193526 
- commonscat multimedia 
- conscience q193526 
- wikiquote citas célebres 
- conciencia 
- 
- 
- 
- identificadores 
- ndl 00569868 
- nkc ph126318 
- diccionarios y enciclopedias 
- britannica url 
- identificadores médicos 
- mesh d003242 
- umls c0009790 
-
-
- wd datos q193526
- commonscat multimedia conscience q193526
- wikiquote citas célebres conciencia
+84-7423-771-8
+.
 
 
 
-obtenido de
-httpses
+Conciencia
+y
+fenomenología
+
+-
+HUSSERL
+,
+E
+.
+
+
+,
+Ideas
+relativas
+a
+una
+fenomenología
+pura
+y
+una
+
+filosofía
+fenomenológica
+,
+trad
+.
+
+
+Gaos
+,
+J
+.
+
+
+,
+Fondo
+de
+Cultura
+
+Económica
+.
+
+
+México
+,
+1967
+,
+1986
+.
+
+
+ISBN
+84-397-1786-5
+.
+
+
+-
+PONTY
+,
+M
+.
+
+
+,
+Fenomenología
+de
+la
+percepción
+.
+
+
+París
+:
+Gallimard
+,
+1945
+.
+
+
+
+ISBN
+84-397-1786-5
+.
+
+
+
+Enlaces
+externos
+
+[editar]
+
+-
+[]
+Wikiquote
+alberga
+frases
+célebres
+de
+o
+sobre
+Conciencia
+.
+
+
+-
+[]
+Wikcionario
+tiene
+definiciones
+y
+otra
+información
+sobre
+
+conciencia
+.
+
+
+-
+Declaración
+de
+Cambridge
+sobre
+la
+Conciencia
+(vídeo)
+
++
+:---------------------------------
+:+
+:----------------------------------+
+|
+Control
+de
+autoridades
+|
+-
+Proyectos
+Wikimedia
+|
+|
+|
+-
+[Wd]
+Datos
+:
+Q193526
+|
+|
+|
+-
+[Commonscat]
+Multimedia
+:
+|
+|
+|
+Conscience
+/
+Q193526
+|
+|
+|
+-
+[Wikiquote]
+Citas
+célebres
+:
+|
+|
+|
+Conciencia
+|
+|
+|
+|
+|
+|
+-------------------------------
+|
+|
+|
+|
+|
+|
+-
+Identificadores
+|
+|
+|
+-
+NDL
+:
+00569868
+|
+|
+|
+-
+NKC
+:
+ph126318
+|
+|
+|
+-
+Diccionarios
+y
+enciclopedias
+|
+|
+|
+-
+Britannica
+:
+url
+|
+|
+|
+-
+Identificadores
+médicos
+|
+|
+|
+-
+MeSH
+:
+D003242
+|
+|
+|
+-
+UMLS
+:
+C0009790
+|
++-----------------------------------+-----------------------------------+
+
+-
+[Wd]
+Datos
+:
+Q193526
+-
+[Commonscat]
+Multimedia
+:
+Conscience
+/
+Q193526
+-
+[Wikiquote]
+Citas
+célebres
+:
+Conciencia
+
+[]
+
+Obtenido
+de
+«https
+://es
+.
 
 wikipedia
+.
 
-orgwindex
+org/w/index
+.
 
 php
+?
 
-titleconcienciaoldid162848871
+title=Conciencia&oldid=162848871»
 
-categorías
+Categorías
+:
 
- conciencia
- ego
- procesos nerviosos superiores
- neurociencia
+-
+Conciencia
+-
+Ego
+-
+Procesos
+nerviosos
+superiores
+-
+Neurociencia
 
-categorías ocultas
+Categorías
+ocultas
+:
 
- wikipediafusionar
- wikipediaartículos con pasajes que requieren referencias
- wikipediapáginas con enlaces mágicos de isbn
+-
+Wikipedia
+:Fusionar
+-
+Wikipedia
+:Artículos
+con
+pasajes
+que
+requieren
+referencias
+-
+Wikipedia
+:Páginas
+con
+enlaces
+mágicos
+de
+ISBN
 
- esta página se editó por última vez el 5 oct 2024 a las 1529
+-
+Esta
+página
+se
+editó
+por
+última
+vez
+el
+5
+oct
+2024
+a
+las
+15
+:29
+.
 
 
- el texto está disponible bajo la licencia creative commons
- atribucióncompartirigual 4
+-
+El
+texto
+está
+disponible
+bajo
+la
+Licencia
+Creative
+Commons
 
-0 pueden aplicarse cláusulas
- adicionales
+Atribución-CompartirIgual
+4
+.
 
- al usar este sitio aceptas nuestros términos de uso y
- nuestra política de privacidad
+0
+;
+pueden
+aplicarse
+cláusulas
+
+adicionales
+.
 
 
- wikipedia® es una marca registrada de la fundación wikimedia una
- organización sin ánimo de lucro
+Al
+usar
+este
+sitio
+aceptas
+nuestros
+términos
+de
+uso
+y
+
+nuestra
+política
+de
+privacidad
+.
 
 
 
- política de privacidad
- acerca de wikipedia
- limitación de responsabilidad
- código de conducta
- desarrolladores
- estadísticas
- declaración de cookies
- versión para móviles
+Wikipedia®
+es
+una
+marca
+registrada
+de
+la
+Fundación
+Wikimedia
+,
+una
 
- wikimedia foundation
- powered by mediawiki
+organización
+sin
+ánimo
+de
+lucro
+.
+
+
+
+-
+Política
+de
+privacidad
+-
+Acerca
+de
+Wikipedia
+-
+Limitación
+de
+responsabilidad
+-
+Código
+de
+conducta
+-
+Desarrolladores
+-
+Estadísticas
+-
+Declaración
+de
+cookies
+-
+Versión
+para
+móviles
+
+-
+[Wikimedia
+Foundation]
+-
+[Powered
+by
+MediaWiki]

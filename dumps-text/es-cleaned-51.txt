@@ -1,245 +1,807 @@
-ir al contenido principal ir al menú de navegación principal ir al pie
-de página del sitio
+Ir
+al
+contenido
+principal
+Ir
+al
+menú
+de
+navegación
+principal
+Ir
+al
+pie
+de
+página
+del
+sitio
 
-open menu
+Open
+Menu
 
-folia humanistica
+[Folia
+Humanistica]
 
- acerca de
- sobre la revista
- envíos
- equipo editorial
- contacto
- actual
- archivos
- información para autores
- avisos
+-
+Acerca
+de
 
-buscar
+-
+Sobre
+la
+revista
 
- registrarse
- entrar
+-
+Envíos
+
+-
+Equipo
+editorial
+
+-
+Contacto
+-
+Actual
+-
+Archivos
+-
+Información
+para
+autores
+-
+Avisos
+
+Buscar
+
+-
+Registrarse
+-
+Entrar
 
 1
+.
 
- inicio 
+
+Inicio
+/
 2
+.
 
- archivos 
+
+Archivos
+/
 3
+.
 
- núm
 
- 7 2017 folia humanística número 7
+Núm
+.
 
- octubrenoviembre 2017
- 
+
+7
+(2017)
+:
+Folia
+Humanística
+Número
+7
+.
+
+
+-
+Octubre-noviembre
+2017
+
+/
 4
-
- tema del día
-
-¿manipular la consciencia
-
- una perspectiva bioética
-
-autoresas
-
- bernabé robles del olmo servicio de neurología del parc sanitari
- sant joan de déu
-
-doi
-
-httpsdoi
-
-org10
-
-308600029
-
-palabras clave
-
-consciencia manipulación potenciación cognitiva ética
-
-resumen
-
-manipular la consciencia ha sido un anhelo ancestral de los sapiens que
-ha llevado a desarrollar diferentes métodos grupales ritos ritmos
-danzas arengas incluso intoxicaciones colectivas e individuales
-hipnosis tortura lemas logos para inducir modular o alterar la
-percepción o la voluntad
-
- desde el siglo pasado la investigación
-farmacológica y biotecnológica persigue la llamada “mejora cognitiva”
+.
 
 
-también se ha conseguido mediante neurotecnologías detectar actividad
-cortical no aparente en pacientes en estado vegetativo poner de
-manifiesto mentiras en testimonios e incluso borrar o insertar
-recuerdos
+Tema
+del
+día
+
+¿Manipular
+la
+consciencia
+?
 
 
-este último hecho es objeto de análisis en el presente artículo
-
- nos
-centramos en dos retos fundamentales que la neurociencia
-intervencionista nos plantea el primero científico se trata de
-determinar cuánto hay de cierto y cuánto de fraude en esa prometida
-“mejora” en las diferentes propuestas
-
- relacionado con el primero el
-segundo es ético de contenido y poliédrico de forma
-
- por un lado se
-puede cuestionar a qué llamamos mejora así como sus potenciales
-consecuencias sobre la libertad individual la intimidad y la igualdad
-de oportunidades
-
- por otro lado los entusiastas de esta
-“neuropotenciación” la consideran inevitable para el desarrollo del
-“homo tecnologicus”
-
-
-
-biografía del autora
-
-bernabé robles del olmo servicio de neurología del parc sanitari sant joan de déu
-
-jefe de servicio de neurología del parc sanitari sant joan de déu
-
-
-especialista en enfermedades cerebrovasculares universidad de santiago
-de compostela
-
-
-master universitario en bioética universidad ramón llull
-
-
-comisión permanente del comité de bioética de cataluña
-
-
-
-descargas
-
- pdf
-
-publicado
-
-20190506
-
-cómo citar
-
-robles del olmo b
-
- 2019
-
- ¿manipular la consciencia
-
- una perspectiva
+Una
+perspectiva
 bioética
 
- folia humanística 7 1–27
+Autores/as
 
- httpsdoi
+-
+Bernabé
+Robles
+del
+Olmo
+Servicio
+de
+Neurología
+del
+Parc
+Sanitari
 
-org10
+Sant
+Joan
+de
+Déu
 
-308600029
+DOI
+:
 
-más formatos de cita
+https
+://doi
+.
 
- acm
- acs
- apa
- abnt
- chicago
- harvard
- ieee
- mla
- turabian
- vancouver
+org/10
+.
 
-descargar cita
+30860/0029
 
- endnotezoteromendeley ris
- bibtex
+Palabras
+clave
+:
 
-número
+consciencia
+,
+manipulación
+,
+potenciación
+cognitiva
+,
+ética
 
-núm
+Resumen
 
- 7 2017 folia humanística número 7
+Manipular
+la
+consciencia
+ha
+sido
+un
+anhelo
+ancestral
+de
+los
+Sapiens
+que
+ha
+llevado
+a
+desarrollar
+diferentes
+métodos
+grupales
+(ritos
+,
+ritmos
+,
+danzas
+,
+arengas
+,
+incluso
+intoxicaciones
+colectivas)
+e
+individuales
+(hipnosis
+,
+tortura
+,
+lemas
+,
+logos)
+para
+inducir
+,
+modular
+o
+alterar
+la
+percepción
+o
+la
+voluntad
+.
 
- octubrenoviembre 2017
 
-sección
+Desde
+el
+siglo
+pasado
+,
+la
+investigación
+farmacológica
+y
+biotecnológica
+persigue
+la
+llamada
+“mejora
+cognitiva”
+.
 
-tema del día
 
+También
+se
+ha
+conseguido
+,
+mediante
+neurotecnologías
+,
+detectar
+actividad
+cortical
+no
+aparente
+en
+pacientes
+en
+estado
+vegetativo
+,
+poner
+de
+manifiesto
+mentiras
+en
+testimonios
+e
+,
+incluso
+,
+borrar
+o
+insertar
+recuerdos
+.
+
+
+Este
+último
+hecho
+es
+objeto
+de
+análisis
+en
+el
+presente
+artículo
+.
+
+
+Nos
+centramos
+en
+dos
+retos
+fundamentales
+que
+la
+neurociencia
+intervencionista
+nos
+plantea
+:
+el
+primero
+científico
+,
+se
+trata
+de
+determinar
+cuánto
+hay
+de
+cierto
+y
+cuánto
+de
+fraude
+en
+esa
+prometida
+“mejora”
+en
+las
+diferentes
+propuestas
+.
+
+
+Relacionado
+con
+el
+primero
+,
+el
+segundo
+es
+ético
+de
+contenido
+y
+poliédrico
+de
+forma
+.
+
+
+Por
+un
+lado
+,
+se
+puede
+cuestionar
+a
+qué
+llamamos
+mejora
+,
+así
+como
+sus
+potenciales
+consecuencias
+sobre
+la
+libertad
+individual
+,
+la
+intimidad
+y
+la
+igualdad
+de
+oportunidades
+.
+
+
+Por
+otro
+lado
+,
+los
+entusiastas
+de
+esta
+“neuropotenciación”
+la
+consideran
+inevitable
+para
+el
+desarrollo
+del
+“homo
+tecnologicus”
+.
+
+
+
+Biografía
+del
+autor/a
+
+Bernabé
+Robles
+del
+Olmo
+,
+Servicio
+de
+Neurología
+del
+Parc
+Sanitari
+Sant
+Joan
+de
+Déu
+
+Jefe
+de
+Servicio
+de
+Neurología
+del
+Parc
+Sanitari
+Sant
+Joan
+de
+Déu
+.
+
+
+Especialista
+en
+Enfermedades
+Cerebrovasculares
+(Universidad
+de
+Santiago
+de
+Compostela)
+.
+
+
+Master
+Universitario
+en
+Bioética
+Universidad
+Ramón
+Llull
+.
+
+
+Comisión
+Permanente
+del
+Comité
+de
+Bioética
+de
+Cataluña
+
+[]
+
+Descargas
+
+-
+PDF
+
+Publicado
+
+2019-05-06
+
+Cómo
+citar
+
+Robles
+del
+Olmo
+,
+B
+.
+
+
+(2019)
+.
+
+
+¿Manipular
+la
+consciencia
+?
+
+
+Una
+perspectiva
+bioética
+.
+
+
+Folia
+Humanística
+,
+(7)
+,
+1–27
+.
+
+
+https
+://doi
+.
+
+org/10
+.
+
+30860/0029
+
+Más
+formatos
+de
+cita
+
+-
+ACM
+-
+ACS
+-
+APA
+-
+ABNT
+-
+Chicago
+-
+Harvard
+-
+IEEE
+-
+MLA
+-
+Turabian
+-
+Vancouver
+
+Descargar
+cita
+
+-
+Endnote/Zotero/Mendeley
+(RIS)
+-
+BibTeX
+
+Número
+
+Núm
+.
+
+
+7
+(2017)
+:
+Folia
+Humanística
+Número
+7
+.
+
+
+-
+Octubre-noviembre
+2017
+
+Sección
+
+Tema
+del
+día
+
+Licencia
+
+La
+Revista
+Folia
+Humanística
+se
+adhiere
+a
+Creative
+Common
+en
+la
+modalidad
+:
+Reconocimiento
+–
+NoComercial
+–
+CompartirIgual
+(by-nc-sa)
+:
+No
+se
+permite
+un
+uso
+comercial
+de
+la
+obra
+original
+ni
+de
+las
+posibles
+obras
+derivadas
+,
+la
+distribución
+de
+las
+cuales
+se
+debe
+hacer
+con
+una
 licencia
-
-la revista folia humanística se adhiere a creative common en la
-modalidad reconocimiento – nocomercial – compartirigual byncsa no
-se permite un uso comercial de la obra original ni de las posibles obras
-derivadas la distribución de las cuales se debe hacer con una licencia
-igual a la que regula la obra original
+igual
+a
+la
+que
+regula
+la
+obra
+original
+.
 
 
 
 descripcion
 
+[]
+
+La
+revista
+internacional Folia
+Humanística
+,
+de
+la Fundación
+Letamendi
+Forns
+,
+publica
+manuscritos
+de
+calidad
+revisados
+por
+pares
+con
+el
+doble
+objetivo
+de
+,
+por
+un
+lado
+,
+fomentar
+la
+reflexión
+y
+el
+debate
+público
+en
+el
+ámbito
+de
+la
+Salud
+,
+Ciencias
+Sociales
+y
+Humanidades
+,
+y
+por
+el
+otro
+,
+fomentar
+la
+colaboración
+entre
+distintos
+equipos
+nacionales
+e
+internacionales
+que
+dinamicen
+el
+diálogo
+entre
+filosofía
+de
+la
+medicina
+,
+la
+salud
+pública
+y
+la
+justicia
+social
+.
 
 
-la revista internacional folia humanística de la fundación letamendi
-forns publica manuscritos de calidad revisados por pares con el doble
-objetivo de por un lado fomentar la reflexión y el debate público en
-el ámbito de la salud ciencias sociales y humanidades y por el otro
-fomentar la colaboración entre distintos equipos nacionales e
-internacionales que dinamicen el diálogo entre filosofía de la medicina
-la salud pública y la justicia social
 
+Idioma
 
-
-idioma
-
- español españa
- english
+-
+Español
+(España)
+-
+English
 
 indexada
 
-indexada en
+Indexada
+en
 
  
 
-
-
- 
-
-
+[]
 
  
 
-enviar un artículo
+[]
 
-enviar un artículo
+ 
 
-información
+Enviar
+un
+artículo
 
- para lectoresas
- para autoresas
- para bibliotecariosas
+Enviar
+un
+artículo
+
+Información
+
+-
+Para
+lectores/as
+-
+Para
+autores/as
+-
+Para
+bibliotecarios/as
 
 rrss
 
-número actual
+Número
+actual
 
- logo atom
- logo rss2
- logo rss1
+-
+[Logo
+Atom]
+-
+[Logo
+RSS2]
+-
+[Logo
+RSS1]
 
-folia humanística
+Folia
+Humanística
 
-issn 24622753
+ISSN
+2462-2753
 
-más información acerca del sistema de publicación de la plataforma y
-del flujo de trabajo de ojspkp
+[Más
+información
+acerca
+del
+sistema
+de
+publicación
+,
+de
+la
+plataforma
+y
+del
+flujo
+de
+trabajo
+de
+OJS/PKP
+.
 
-
+]

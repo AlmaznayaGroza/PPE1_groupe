@@ -1,315 +1,1513 @@
- 1 término
- 
- 2 conciencia en humanos
- 
- 3 conciencia en animales
- 
- 4 conciencia en la inteligencia artificial
- 
- 5 véase también
 
-cambiar a la tabla de contenidos
+1
+Término
+-
 
+
+2
+Conciencia
+en
+humanos
+-
+
+
+3
+Conciencia
+en
+animales
+-
+
+
+4
+Conciencia
+en
+la
+inteligencia
+artificial
+-
+
+
+5
+Véase
+también
+---------------
+Cambiar
+a
+la
+tabla
+de
+contenidos
+
+Conciencia
+
+75
+idiomas
+---------------
+|
+[]
+|
+Se
+ha
+sugerido
+que
+este
+artículo
+|
+|
+|
+o
+sección
+sea
+fusionado
+con
+|
+|
+|
+Conciencia
+(psicología)
+.
+
+
+Para
+más
+|
+|
+|
+información
+,
+véase
+la
+discusión
+.
+
+
+|
+|
+|
+|
+---------------
++-----------------------------------+-----------------------------------+
+
+Para
+otros
+usos
+de
+este
+término
+,
+véase
+Conciencia
+(desambiguación)
+.
+
+
+
+No
+debe
+confundirse
+con
+consciencia
+.
+
+
+
+La
+conciencia
+(del
+latín
+conscientia
+,
+«conocimiento
+compartido»
+,
+y
+este
+de
+cum
+scientĭa
+,
+«con
+conocimiento»
+,
+el
+mismo
+origen
+que
+tiene
+consciencia
+,
+ser
+conscientes
+de
+ello)
+se
+define
+,
+en
+términos
+generales
+,
+---------------
+estímulos
+del
+interior
+y
+el
+exterior
+por
+parte
+de
+un
+organismo
+.
+
+
+
+Existe
+debate
+sobre
+en
+qué
+consiste
+exactamente
+la
+conciencia
+.
+
+
+En
+el
+área
+de
+la
+inteligencia
+artificial
+se
+ha
+trabajado
+la
+idea
+de
+crear
+máquinas
+o
+programas
+suficientemente
+complejos
+como
+para
+dar
+lugar
+a
+una
+conciencia
+artificial
+,^([cita requerida])
+pero
+algunos
+han
+negado
+la
+posibilidad
+de
+que
+una
+computadora
+pueda
+dar
+lugar
+a
+algo
+genuinamente
+indistinguible
+de
+una
+conciencia
+.
+
+
+El
+test
+de
+Turing
+propuesto
+en
+1950
+aborda
+ese
+problema
+,
+hasta
+2020
+ningún
+programador
+había
+conseguido
+con
+éxito
+superar
+satisfactoriamente
+esta
+prueba
+(en
+2014
+un
+bot
+conversacional
+,
+logró
+engañar
+gran
+parte
+de
+un
+jurado
+de
+humanos)
+.
+
+
+Sin
+embargo
+,
+el
+objetivo
+de
+dicho
+test
+no
+es
+que
+un
+programa
+tenga
+conciencia
+,
+sino
+que
+nos
+haga
+creer
+que
+la
+tiene
+.
+
+
+
+Término
+---------------
+[editar]
+
+El
+término
+conciencia
+se
+utiliza
+para
+distintos
+aspectos
+:
+
+-
+El
+primero
+y
+de
+uso
+más
+extenso
+,
+se
+refiere
+a
+la
+captación
+,
+
+reconocimiento
+del
+sentido
+y
+la
+relevancia
+de
+cualquier
+aspecto
+de
+
+la
+realidad
+o
+de
+uno
+(a)
+mismo
+(a)
+.
+
+
+El
+término
+conciencia
+no
+tiene
+
+por
+qué
+ser
+simplemente
+intelectual
+.
+
+
+Dentro
+del
+mismo
+,
+es
+posible
+
+diferenciar
+dos
+aspectos
+importantes
+:
+
+-
+El
+psicológico
+:
+se
+refiere
+a
+la
+percepción
+de
+un
+objeto
+,
+
+situación
+o
+de
+uno
+mismo
+,
+por
+lo
+que
+este
+acto
+de
 conciencia
 
-75 idiomas
-
- se ha sugerido que este artículo 
- o sección sea fusionado con 
- conciencia psicología
-
- para más 
- información véase la discusión
-
- 
- 
-
-
-
-para otros usos de este término véase conciencia desambiguación
-
-
-
-no debe confundirse con consciencia
-
-
-
-la conciencia del latín conscientia conocimiento compartido y este
-de cum scientĭa con conocimiento el mismo origen que tiene
-consciencia ser conscientes de ello se define en términos generales
-
-estímulos del interior y el exterior por parte de un organismo
-
-
-
-existe debate sobre en qué consiste exactamente la conciencia
-
- en el
-área de la inteligencia artificial se ha trabajado la idea de crear
-máquinas o programas suficientemente complejos como para dar lugar a una
-conciencia artificialcita requerida pero algunos han negado la
-posibilidad de que una computadora pueda dar lugar a algo genuinamente
-indistinguible de una conciencia
-
- el test de turing propuesto en 1950
-aborda ese problema hasta 2020 ningún programador había conseguido con
-éxito superar satisfactoriamente esta prueba en 2014 un bot
-conversacional logró engañar gran parte de un jurado de humanos
-
- sin
-embargo el objetivo de dicho test no es que un programa tenga
-conciencia sino que nos haga creer que la tiene
-
-
-
-término
-
-editar
-
-el término conciencia se utiliza para distintos aspectos
-
- el primero y de uso más extenso se refiere a la captación
- reconocimiento del sentido y la relevancia de cualquier aspecto de
- la realidad o de uno a mismo a
-
- el término conciencia no tiene
- por qué ser simplemente intelectual
-
- dentro del mismo es posible
- diferenciar dos aspectos importantes
- el psicológico se refiere a la percepción de un objeto
- situación o de uno mismo por lo que este acto de conciencia
- puede confundirse con el de autoconciencia
-
-
- el gnoseológicometafísico la gnoseología es la rama de la
- filosofía que estudia el origen la naturaleza y los límites del
-
- abordando también la teología y cosmología
-
- todo esto engloba el
- significado de gnoseológicometafísico que puede definirse como
- la dependencia de la conciencia en el propio sujeto o el mismo
- yo
-
-
-
- el segundo es el reconocimiento de aquello que está bien y de lo que
- está mal esto es la capacidad de dirimir casos de conciencia
-
-
- desde un sentido moral también es posible hablar de la toma de
- conciencia social o política que se puede definir como el
- conocimiento que tiene una persona sobre los demás integrantes de su
- comunidad y la concienciación ecológica que es la aceptación y el
- intento por cambiar los aspectos negativos producidos por el ser
- humano en la naturaleza
-
-
-
-conciencia en humanos
-
-editar
-
-artículos principales conciencia psicología y conciencia
-psiquiatría
-
-
-
-en la especie homo sapiens la conciencia implica varios procesos
-cognitivos interrelacionados
-
- se traduce del griego sy‧néi‧dē‧sis de
-syn con y éi‧dē‧sis conocimiento de modo que significa
-coconocimiento o conocimiento con uno mismo
-
- conciencia se refiere al
-saber de sí mismo al conocimiento que el humano tiene de su propia
-existencia estados o actos
-
-
-
-la conciencia en psiquiatría puede también definirse como el estado
-cognitivo no abstracto que permite la interactuación interpretación y
-asociación con los estímulos externos denominados realidad
-
- la
-conciencia requiere del uso de los sentidos como medio de conectividad
-entre los estímulos externos y sus asociaciones
-
-
-
-los humanos adultos sanos tienen conciencia sensitiva y conciencia
-abstracta aunque también el pensamiento abstracto se presentaría en
-otras especies animales hasta un punto que debe
-
-diferencia de los demás
-
-3​
-
-conciencia en animales
-
-editar
-
-stanford y christof koch del instituto de tecnología de california se
-dieron cita en la universidad de cambridge para celebrar la conferencia
-conmemorativa francis crick4​ la cual trató sobre la conciencia en
-humanos y animales
-
- al finalizar las conferencias se firmó en presencia
-de stephen hawking la cambridge declaration on consciousness5​
-declaración de cambridge sobre la conciencia6​ la cual resumió
-los hallazgos más importantes de la investigación allí expuesta y
-discutida
-
- decidimos llegar a un consenso y hacer una declaración para el
- público que no es científico
-
- es obvio para todos en este salón que
- los animales tienen conciencia pero no es obvio para el resto del
- mundo
-
- no es obvio para el resto del mundo occidental ni el lejano
- oriente
-
- no es algo obvio para la sociedad
-
-
-
- philip low en la presentación de la declaración de cambridge sobre la
- conciencia 7 de julio de 2012
-
-algunos estudios han hablado de altos niveles de conciencia en algunas
-especies de animales comparándolos con niveles
+puede
+confundirse
+con
+el
+de
+autoconciencia
+.
+
+
+
+-
+El
+gnoseológico-metafísico
+:
+La
+gnoseología
+es
+la
+rama
+de
+la
+
+filosofía
+que
+estudia
+el
+origen
+,
+la
+naturaleza
+y
+los
+límites
+del
+---------------
+
+abordando
+también
+la
+teología
+y
+cosmología
+.
+
+
+Todo
+esto
+engloba
+el
+
+significado
+de
+gnoseológico-metafísico
+,
+que
+puede
+definirse
+como
+
+la
+dependencia
+de
+la
+conciencia
+en
+el
+propio
+sujeto
+o
+el
+mismo
+
+yo
+.
+
+
+
+-
+El
+segundo
+es
+el
+reconocimiento
+de
+aquello
+que
+está
+bien
+y
+de
+lo
+que
+
+está
+mal
+,
+esto
+es
+,
+la
+capacidad
+de
+dirimir
+casos
+de
+conciencia
+.
+
+
+
+Desde
+un
+sentido
+moral
+,
+también
+es
+posible
+hablar
+de
+la
+toma
+de
+
+conciencia
+social
+o
+política
+,
+que
+se
+puede
+definir
+como
+el
+
+conocimiento
+que
+tiene
+una
+persona
+sobre
+los
+demás
+integrantes
+de
+su
+
+comunidad
+,
+y
+la
+concienciación
+ecológica
+,
+que
+es
+la
+aceptación
+y
+el
+
+intento
+por
+cambiar
+los
+aspectos
+negativos
+producidos
+por
+el
+ser
+
+humano
+en
+la
+naturaleza
+.
+
+
+
+Conciencia
+en
 humanos
 
-7​8​9​10​11​
+[editar]
 
-consideran individuos diferenciados entre ellos
-
-12​
-
-conciencia en la inteligencia artificial
-
-editar
-
-artículo principal inteligencia artificial
-
-existen dudas sobre la naturaleza de la conciencia y cómo se relaciona
-ella con la inteligencia artificial y no se sabe con seguridad si la
-conciencia como fenómeno cognitivo es sólo el resultado de la
-complejidad computacional o neuronal en los seres vivos o es un
-fenómeno emergente de la interacción de la materia
+Artículos
+principales
+:
+Conciencia
+(psicología)
+y
+Conciencia
+(psiquiatría)
+.
 
 
 
-inteligencia y ha analizado diversas pretensiones teóricas por parte de
-la inteligencia artificial de simular o construir artefactos que posean
-algún tipo de conciencia
+En
+la
+especie
+Homo
+sapiens
+,
+la
+conciencia
+implica
+varios
+procesos
+cognitivos
+interrelacionados
+.
 
-13​14​ penrose clasifica las posturas
-actuales ante la cuestión de si la conciencia es o no computable
-algorítmicamente
 
+Se
+traduce
+del
+griego
+sy‧néi‧dē‧sis
+,
+de
+syn
+-
+'
+con
+'
+-
+y
+éi‧dē‧sis
+-
+'
+conocimiento
+'
+-
+,
+de
+modo
+que
+significa
+co-conocimiento
+,
+o
+conocimiento
+con
+uno
+mismo
+.
+
+
+Conciencia
+se
+refiere
+al
+saber
+de
+sí
+mismo
+,
+al
+conocimiento
+que
+el
+humano
+tiene
+de
+su
+propia
+existencia
+,
+estados
+o
+actos
+.
+
+
+
+La
+conciencia
+en
+psiquiatría
+puede
+también
+definirse
+como
+el
+estado
+cognitivo
+no
+abstracto
+que
+permite
+la
+interactuación
+,
+interpretación
+y
+asociación
+con
+los
+estímulos
+externos
+,
+denominados
+realidad
+.
+
+
+La
+conciencia
+requiere
+del
+uso
+de
+los
+sentidos
+como
+medio
+de
+conectividad
+entre
+los
+estímulos
+externos
+y
+sus
+asociaciones
+.
+
+
+
+Los
+humanos
+adultos
+sanos
+tienen
+conciencia
+sensitiva
+y
+conciencia
+abstracta
+,
+aunque
+también
+el
+pensamiento
+abstracto
+se
+presentaría
+en
+otras
+especies
+animales
+,
+hasta
+un
+punto
+que
+debe
+---------------
+diferencia
+de
+los
+demás
+.
+
+^([3])​
+
+Conciencia
+en
+animales
+
+[editar]
+---------------
+Stanford
+,
+y
+Christof
+Koch
+,
+del
+Instituto
+de
+Tecnología
+de
+California
+,
+se
+dieron
+cita
+en
+la
+Universidad
+de
+Cambridge
+para
+celebrar
+la
+Conferencia
+Conmemorativa
+Francis
+Crick
+,^([4])​
+la
+cual
+trató
+sobre
+la
+conciencia
+en
+humanos
+y
+animales
+.
+
+
+Al
+finalizar
+las
+conferencias
+se
+firmó
+,
+en
+presencia
+de
+Stephen
+Hawking
+,
+la
+Cambridge
+Declaration
+On
+Consciousness^([5])​
+(Declaración
+de
+Cambridge
+sobre
+la
+Conciencia^([6])​)
+,
+la
+cual
+resumió
+los
+hallazgos
+más
+importantes
+de
+la
+investigación
+allí
+expuesta
+y
+discutida
+:
+---------------
+
+"Decidimos
+llegar
 a
+un
+consenso
+y
+hacer
+una
+declaración
+para
+el
 
- todo pensamiento es un proceso de computación es decir en
-particular la percepción de uno mismo y la autoconciencia son procesos
-emergentes que son resultado directo de la computación o algoritmo
+público
+que
+no
+es
+científico
+.
+
+
+Es
+obvio
+,
+para
+todos
+en
+este
+salón
+,
+que
+
+los
+animales
+tienen
+conciencia
+,
+pero
+no
+es
+obvio
+para
+el
+resto
+del
+
+mundo
+.
+
+
+No
+es
+obvio
+para
+el
+resto
+del
+mundo
+occidental
+ni
+el
+lejano
+
+Oriente
+.
+
+
+No
+es
+algo
+obvio
+para
+la
+sociedad
+.
+
+"
+
+
+Philip
+Low
+,
+en
+la
+presentación
+de
+la
+Declaración
+de
+Cambridge
+sobre
+la
+
+Conciencia
+,
+7
+de
+julio
+de
+2012
+
+Algunos
+estudios
+han
+hablado
+de
+altos
+niveles
+de
+conciencia
+en
+algunas
+especies
+de
+animales
+,
+comparándolos
+con
+niveles
+humanos
+.
+
+^([7])​^([8])​^([9])​^([10])​^([11])​
+---------------
+consideran
+individuos
+diferenciados
+entre
+ellos
+.
+
+^([12])​
+
+Conciencia
+en
+la
+inteligencia
+artificial
+
+[editar]
+---------------
+Artículo
+principal
+:
+Inteligencia
+artificial
+
+Existen
+dudas
+sobre
+la
+naturaleza
+de
+la
+conciencia
+y
+cómo
+se
+relaciona
+ella
+con
+la
+inteligencia
+artificial
+,
+y
+no
+se
+sabe
+con
+seguridad
+si
+la
+conciencia
+como
+fenómeno
+cognitivo
+es
+sólo
+el
+resultado
+de
+la
+complejidad
+computacional
+(o
+neuronal
+en
+los
+seres
+vivos)
+o
+es
+un
+fenómeno
+emergente
+de
+la
+interacción
+de
+la
+materia
+.
+
+
+---------------
+inteligencia
+y
+ha
+analizado
+diversas
+pretensiones
+teóricas
+por
+parte
+de
+la
+inteligencia
+artificial
+de
+simular
+o
+construir
+artefactos
+que
+posean
+algún
+tipo
+de
+conciencia
+.
+
+^([13])​^([14])​
+Penrose
+clasifica
+las
+posturas
+actuales
+ante
+la
+cuestión
+de
+si
+la
+conciencia
+es
+o
+no
+computable
+algorítmicamente
+:
+
+A
+.
+
+
+Todo
+pensamiento
+es
+un
+proceso
+de
+computación
+,
+es
+decir
+,
+en
+particular
+la
+percepción
+de
+uno
+mismo
+y
+la
+autoconciencia
+son
+procesos
+emergentes
+que
+son
+resultado
+directo
+de
+la
+computación
+o
+algoritmo
 adecuados
+.
 
 
 
-b
-
- la conciencia es una consecuencia del tipo de acción física que
-ocurre en el cerebro y aunque cualquier acción física puede simularse
-apropiada a través de medios computacionales el hecho de que se lleve a
-cabo un proceso de simulación computacional del cerebro no comportaría
-por sí mismo la aparición auténtica de la autoconciencia
+B
+.
 
 
-
-c
-
- la realización de cierta actividad física en el cerebro es lo que
-lleva a la aparición de la autoconciencia en el ser humano sin embargo
-aunque puede ser reproducida artificialmente dicha acción no puede
-simularse algorítmicamente
-
-
-
-d
-
- la conciencia de tipo humano no puede entenderse propiamente en
-términos físicos computacionales o científicos de otro tipo
-
-
-
-el punto de vista d no niega la posibilidad de comprensión científica de
-la conciencia sino su comprensión a través de mecanismos artificiales
-
-
-muchos investigadores del campo de la inteligencia artificial en
-particular los más optimistas sobre sus logros se adhieren a la postura
-
-editar
-
- conciencia filosofía
- conciencia psicología
- ángel del hombro
- estados alterados de conciencia
- gnosis
- hilozoísmo
-
- 8474237718
-
-
-
-conciencia y fenomenología
-
- husserl e
-
- ideas relativas a una fenomenología pura y una
-
-editar
-
- wikiquote alberga frases célebres de o sobre conciencia
-
-
- wikcionario tiene definiciones y otra información sobre
- conciencia
-
-
- declaración de cambridge sobre la conciencia vídeo
-
-
-
- conscience q193526 
- wikiquote citas célebres 
- conciencia 
- 
- 
-
- wd datos q193526
- commonscat multimedia conscience q193526
- wikiquote citas célebres conciencia
+La
+conciencia
+es
+una
+consecuencia
+del
+tipo
+de
+acción
+física
+que
+ocurre
+en
+el
+cerebro
+,
+y
+aunque
+cualquier
+acción
+física
+puede
+simularse
+apropiada
+a
+través
+de
+medios
+computacionales
+,
+el
+hecho
+de
+que
+se
+lleve
+a
+cabo
+un
+proceso
+de
+simulación
+computacional
+del
+cerebro
+no
+comportaría
+,
+por
+sí
+mismo
+,
+la
+aparición
+auténtica
+de
+la
+autoconciencia
+.
 
 
 
-obtenido de
-httpses
+C
+.
+
+
+La
+realización
+de
+cierta
+actividad
+física
+en
+el
+cerebro
+es
+lo
+que
+lleva
+a
+la
+aparición
+de
+la
+autoconciencia
+en
+el
+ser
+humano
+;
+sin
+embargo
+,
+aunque
+puede
+ser
+reproducida
+artificialmente
+,
+dicha
+acción
+no
+puede
+simularse
+algorítmicamente
+.
+
+
+
+D
+.
+
+
+La
+conciencia
+de
+tipo
+humano
+no
+puede
+entenderse
+propiamente
+en
+términos
+físicos
+,
+computacionales
+o
+científicos
+de
+otro
+tipo
+.
+
+
+
+El
+punto
+de
+vista
+D
+no
+niega
+la
+posibilidad
+de
+comprensión
+científica
+de
+la
+conciencia
+,
+sino
+su
+comprensión
+a
+través
+de
+mecanismos
+artificiales
+.
+
+
+Muchos
+investigadores
+del
+campo
+de
+la
+inteligencia
+artificial
+,
+en
+particular
+los
+más
+optimistas
+sobre
+sus
+logros
+,
+se
+adhieren
+a
+la
+postura
+---------------
+[editar]
+
+-
+conciencia
+(filosofía)
+-
+conciencia
+(psicología)
+-
+ángel
+del
+hombro
+-
+estados
+alterados
+de
+conciencia
+-
+gnosis
+-
+hilozoísmo
+---------------
+
+84-7423-771-8
+.
+
+
+
+Conciencia
+y
+fenomenología
+
+-
+HUSSERL
+,
+E
+.
+
+
+,
+Ideas
+relativas
+a
+una
+fenomenología
+pura
+y
+una
+---------------
+[editar]
+
+-
+[]
+Wikiquote
+alberga
+frases
+célebres
+de
+o
+sobre
+Conciencia
+.
+
+
+-
+[]
+Wikcionario
+tiene
+definiciones
+y
+otra
+información
+sobre
+
+conciencia
+.
+
+
+-
+Declaración
+de
+Cambridge
+sobre
+la
+Conciencia
+(vídeo)
+
++
+:---------------------------------
+:+
+:----------------------------------+
+---------------
+|
+|
+Conscience
+/
+Q193526
+|
+|
+|
+-
+[Wikiquote]
+Citas
+célebres
+:
+|
+|
+|
+Conciencia
+|
+|
+|
+|
+|
+|
+-------------------------------
+|
+---------------
+-
+[Wd]
+Datos
+:
+Q193526
+-
+[Commonscat]
+Multimedia
+:
+Conscience
+/
+Q193526
+-
+[Wikiquote]
+Citas
+célebres
+:
+Conciencia
+
+[]
+
+Obtenido
+de
+«https
+://es
+.
 
 wikipedia
+.
 
-orgwindex
+org/w/index
+.
 
 php
+?
 
-titleconcienciaoldid162848871
+title=Conciencia&oldid=162848871»
 
-categorías
+Categorías
+:
 
- conciencia
- ego
- procesos nerviosos superiores
+-
+Conciencia
+-
+Ego
+-
+Procesos
+nerviosos
+superiores

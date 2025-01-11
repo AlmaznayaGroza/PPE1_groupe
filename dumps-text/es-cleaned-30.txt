@@ -1,2470 +1,6418 @@
-salto rápido al contenido de la página
+Salto
+rápido
+al
+contenido
+de
+la
+página
 
- navegación principal
- contenido principal
- barra lateral
+-
+Navegación
+principal
+-
+Contenido
+principal
+-
+Barra
+lateral
 
- registrarse
- entrar
+-
+Registrarse
+-
+Entrar
 
-toggle navigation
+Toggle
+navigation
+
+[]
+
+-
+Inicio
+-
+Num
+.
 
 
+Actual
+-
+Num
+.
 
- inicio
- num
 
- actual
- num
+Anteriores
+-
+Envíos
+-
+Acerca
+de
 
- anteriores
- envíos
- acerca de
- sobre la revista
- equipo editorial
- contacto
- política de protección de datos
- política de cookies
- política de privacidad
- info
+-
+Sobre
+la
+revista
 
- autores
- consideraciones generales
- preparación del manuscrito
- proceso de revisión del manuscrito
+-
+Equipo
+editorial
 
-artículos generales
+-
+Contacto
+
+-
+Política
+de
+protección
+de
+datos
+
+-
+Política
+de
+cookies
+
+-
+Política
+de
+privacidad
+-
+Info
+.
+
+
+Autores
+
+-
+Consideraciones
+generales
+
+-
+Preparación
+del
+manuscrito
+
+-
+Proceso
+de
+Revisión
+del
+Manuscrito
+
+Artículos
+Generales
 
 10
+.
 
-37382jomts
+37382/jomts
+.
 
 v5i2
+.
 
 1135
 
-17 enero 2024
+17
+enero
+2024
 
-consciencia y dolor una mirada desde la fisioterapia i las teorías de la consciencia y el problema real del paciente con dolor
+Consciencia
+y
+Dolor
+:
+una
+mirada
+desde
+la
+Fisioterapia
+(I)
+:
+Las
+Teorías
+de
+la
+Consciencia
+y
+el
+problema
+real
+del
+paciente
+con
+dolor
 
- eduardo fondevilasuárez
- enrique velasco
- rafael escamilla ugarte
- mar florescortés
- Álvaro pinteño
- rubén tovarochovo
+-
+Eduardo
+Fondevila-Suárez
+,
+-
+Enrique
+Velasco
+,
+-
+Rafael
+Escamilla
+Ugarte
+,
+-
+Mar
+Flores-Cortés
+,
+-
+Álvaro
+Pinteño
+,
+-
+Rubén
+Tovar-Ochovo
 
-ver filiaciones
+Ver
+filiaciones
 
-rafael escamilla ugarte
-a1s5esess23universitat de valencia
+Rafael
+Escamilla
+Ugarte
+a
+:1
+:{s
+:5
+:"es_ES"
+;s
+:23
+:"Universitat
+de
+Valencia"
+;}
 
-conscienciadolorneurocienciafilosofiapluralismo
+ConscienciaDolorNeurocienciaFilosofiaPluralismo
 
-vol
-
- 5 núm
-
- 2 2023 diciembre
-
-  métricas
-
-resumen
-
-objetivos si el dolor es una sensación relacionado con perturbaciones
-corporales o una percepción relacionado con las diferentes
-evaluaciones del paciente es una pregunta que en principio la
-fisioterapia no tiene la responsabilidad de responder como tampoco lo
-es resolver el problema de la consciencia
-
- sin embargo el dolor es un
-fenómeno consciente y esto tiene unas implicaciones científicas y
-clínicas importantes que no podemos seguir soslayando durante más
-tiempo ni en la consulta ni en el laboratorio
-
- nos preguntamos entonces
-qué luz puede arrojar el estudio de las teorías de la consciencia y del
-dolor para aproximarnos al problema real del paciente con dolor de una
-manera rigurosa y ética
+Vol
+.
 
 
-
-métodos se realizó una revisión crítica de la neurociencia de la
-consciencia y del dolor y de la filosofía de la mente y del dolor
-tomando la estructura del superventas being you a new science of
-consciousness seth 2021 en relación con el marco teórico de la
-fisioterapia y su aplicación en la práctica clínica y la investigación
+5
+Núm
+.
 
 
+2
+(2023)
+:
+Diciembre
 
-resultados la hot se relaciona con el evaluativismo y la educación en
-neurociencia del dolor
+ 
+Métricas
 
- el imperativismo y la teoría corporal guardan
-relación con la gnwt
+Resumen
 
-  desde la iit se propone un marco de tipo
-pluralista para disolver las aporías y paradojas que se presentan en el
-campo del dolor así como para delimitar el alcance de nuestras
+Objetivos
+:
+Si
+el
+dolor
+es
+una
+sensación
+(relacionado
+con
+perturbaciones
+corporales)
+o
+una
+percepción
+(relacionado
+con
+las
+diferentes
+evaluaciones
+del
+paciente)
+es
+una
+pregunta
+que
+,
+en
+principio
+,
+la
+Fisioterapia
+no
+tiene
+la
+responsabilidad
+de
+responder
+,
+como
+tampoco
+lo
+es
+resolver
+el
+problema
+de
+la
+consciencia
+.
+
+
+Sin
+embargo
+,
+el
+dolor
+es
+un
+fenómeno
+consciente
+y
+esto
+tiene
+unas
+implicaciones
+científicas
+y
+clínicas
+importantes
+que
+no
+podemos
+seguir
+soslayando
+durante
+más
+tiempo
+,
+ni
+en
+la
+consulta
+ni
+en
+el
+laboratorio
+.
+
+
+Nos
+preguntamos
+entonces
+qué
+luz
+puede
+arrojar
+el
+estudio
+de
+las
+Teorías
+de
+la
+Consciencia
+y
+del
+dolor
+para
+aproximarnos
+al
+problema
+real
+del
+paciente
+con
+dolor
+de
+una
+manera
+rigurosa
+y
+ética
+.
+
+
+
+Métodos
+:
+Se
+realizó
+una
+revisión
+crítica
+de
+la
+neurociencia
+de
+la
+consciencia
+y
+del
+dolor
+y
+de
+la
+filosofía
+de
+la
+mente
+y
+del
+dolor
+,
+tomando
+la
+estructura
+del
+superventas
+Being
+You
+:
+A
+new
+science
+of
+consciousness
+(Seth
+,
+2021)
+,
+en
+relación
+con
+el
+marco
+teórico
+de
+la
+Fisioterapia
+y
+su
+aplicación
+en
+la
+práctica
+clínica
+y
+la
+investigación
+.
+
+
+
+Resultados
+:
+La
+HOT
+se
+relaciona
+con
+el
+evaluativismo
+y
+la
+Educación
+en
+Neurociencia
+del
+Dolor
+.
+
+
+El
+imperativismo
+y
+la
+Teoría
+Corporal
+guardan
+relación
+con
+la
+GNWT
+.
+
+ 
+Desde
+la
+IIT
+se
+propone
+un
+marco
+de
+tipo
+pluralista
+para
+disolver
+las
+aporías
+y
+paradojas
+que
+se
+presentan
+en
+el
+campo
+del
+dolor
+,
+así
+como
+para
+delimitar
+el
+alcance
+de
+nuestras
 intervenciones
+.
 
 
 
-conclusiones  con el cuerpo de conocimiento actual científico y
-filosófico no se puede estudiar seriamente el dolor dejando de lado
-sistemáticamente el asunto de la consciencia
+Conclusiones
+: 
+Con
+el
+cuerpo
+de
+conocimiento
+actual
+,
+científico
+y
+filosófico
+,
+no
+se
+puede
+estudiar
+seriamente
+el
+dolor
+dejando
+de
+lado
+sistemáticamente
+el
+asunto
+de
+la
+consciencia
+.
 
- las teorías de la
-consciencia desde una perspectiva pluralista pueden arrojar luz sobre
-problemas acuciantes en el campo tanto a nivel clínico como
+
+Las
+Teorías
+de
+la
+Consciencia
+,
+desde
+una
+perspectiva
+pluralista
+,
+pueden
+arrojar
+luz
+sobre
+problemas
+acuciantes
+en
+el
+campo
+,
+tanto
+a
+nivel
+clínico
+como
 investigador
-
- quizá no para obtener respuestas pero sin duda para
-ayudar plantear las preguntas correctas
+.
 
 
+Quizá
+no
+para
+obtener
+respuestas
+,
+pero
+sin
+duda
+para
+ayudar
+plantear
+las
+preguntas
+correctas
+.
 
-artÍculo completo
 
-  cómo citar
+
+ARTÍCULO
+COMPLETO
+
+ 
+Cómo
+citar
 
 1
+.
 
 
 
-fondevilasuárez e velasco e escamilla ugarte r florescortés m
-pinteño Álvaro tovarochovo r
+Fondevila-Suárez
+E
+,
+Velasco
+E
+,
+Escamilla
+Ugarte
+R
+,
+Flores-Cortés
+M
+,
+Pinteño
+Álvaro
+,
+Tovar-Ochovo
+R
+.
 
- consciencia y dolor una mirada desde la
-fisioterapia i las teorías de la consciencia y el problema real del
-paciente con dolor
 
- move internet
+Consciencia
+y
+Dolor
+:
+una
+mirada
+desde
+la
+Fisioterapia
+(I)
+:
+Las
+Teorías
+de
+la
+Consciencia
+y
+el
+problema
+real
+del
+paciente
+con
+dolor
+.
 
- 17 de enero de 2024 citado 10 de
-enero de 20255254264
 
- disponible en
-httpspublicaciones
+MOVE
+[Internet]
+.
+
+
+17
+de
+enero
+de
+2024
+[citado
+10
+de
+enero
+de
+2025]
+;5(2)
+:542-64
+.
+
+
+Disponible
+en
+:
+https
+://publicaciones
+.
 
 lasallecampus
+.
 
-esindex
+es/index
+.
 
-phpmovearticleview1135
+php/MOVE/article/view/1135
 
-más formatos de cita
+Más
+formatos
+de
+cita
 
-apa chicago harvard vancouver
+APA
+Chicago
+Harvard
+Vancouver
 
-descargar cita
+Descargar
+cita
 
-endnotezoteromendeley ris bibtex
+Endnote/Zotero/Mendeley
+(RIS)
+BibTeX
 
   
 
-  referencias
+ 
+Referencias
 
-aydede m 2019 pain the stanford encyclopedia of philosophy spring
-2019 edition edward n
+Aydede
+,
+M
+(2019)
+"Pain"
+,
+The
+Stanford
+Encyclopedia
+of
+Philosophy
+(Spring
+2019
+Edition)
+,
+Edward
+N
+.
 
- zalta ed
 
- url 
-httpsplato
+Zalta
+(ed
+.
+
+)
+,
+URL
+=
+<https
+://plato
+.
 
 stanford
+.
 
-eduarchivesspr2019entriespain
+edu/archives/spr2019/entries/pain/>
+.
 
 
 
-aydede m
+Aydede
+,
+M
+.
 
- 2005
 
- pain new essays on its nature and the methodology of
-its study
+(2005)
+.
 
- boston mit press
 
- doi
-httpsdoi
+Pain
+:
+new
+essays
+on
+its
+nature
+and
+the
+methodology
+of
+its
+study
+.
 
-org10
 
-7551mitpress5211
+Boston
+:
+MIT
+Press
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+7551/mitpress/5211
+.
 
 001
+.
 
 0001
 
-bain d
-
- 2017 the routledge handbook of philosophy of pain
-
- edited by
-jennifer corns
-
- oxon routledge
-
- doi
-httpsdoi
-
-org10
-
-43249781351115865
-
-bassham g
-
- 2016 the philosophy book
-
- new york sterling publishing
-co
-
- inc
+Bain
+,
+D
+.
 
 
+(2017)
+The
+Routledge
+Handbook
+of
+Philosophy
+of
+Pain
+.
 
-bennet m
 
- dennett d
+Edited
+by
+Jennifer
+Corns
+.
 
- hacker p searle j
 
- 2008
+Oxon
+:
+Routledge
+.
 
- la naturaleza de la
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+4324/9781351115865
+
+Bassham
+,
+G
+.
+
+
+(2016)
+The
+Philosophy
+Book
+.
+
+
+New
+York
+:
+Sterling
+Publishing
+Co
+.
+
+
+,
+Inc
+.
+
+
+
+Bennet
+,
+M
+.
+
+
+,
+Dennett
+,
+D
+.
+
+
+,
+Hacker
+P
+,
+Searle
+J
+.
+
+
+(2008)
+.
+
+
+La
+naturaleza
+de
+la
 conciencia
-
- cerebro mente y lenguaje
-
- barcelona paidós
+.
 
 
-
-bueno g 1992
-
- teoría del cierre categorial
-
- oviedo pentalfa
-
-
-
-bunge m
-
- 1991
-
- a philosophical perspective on the mindbody problem
-or why neuroscientists and psychologists should care about philosophy
+Cerebro
+,
+mente
+y
+lenguaje
+.
 
 
-proceedings of the american philosophical society 1354 513523
+Barcelona
+:
+Paidós
+.
 
 
 
-bunge m
-
- 2011
-
- el problema mentecerebro
-
- un enfoque psicológico
+Bueno
+,
+G
+(1992)
+.
 
 
-madrid tecnos
+Teoría
+del
+cierre
+categorial
+.
+
+
+Oviedo
+:
+Pentalfa
+.
 
 
 
-burke r
+Bunge
+,
+M
+.
 
- 2007
 
- sir charles sherrington s the integrative action of
-the nervous system a centenary appreciation
+(1991)
+.
 
- brain a journal of
-neurology 130pt 4 887–894
 
- httpsdoi
+A
+philosophical
+perspective
+on
+the
+mind-body
+problem
+or
+Why
+neuroscientists
+and
+psychologists
+should
+care
+about
+philosophy
+.
 
-org10
 
-1093brainawm022 doi
-httpsdoi
+Proceedings
+of
+the
+American
+Philosophical
+Society
+,
+135(4)
+,
+513-523
+.
 
-org10
 
-1093brainawm022
 
-cassell e
+Bunge
+,
+M
+.
 
- 2004 the nature of suffering the nature of suffering
-and the goals of medicine 2nd edn new york 2004 oxford
-academic
 
-httpsdoi
+(2011)
+.
 
-org10
 
-1093acprofoso9780195156164
+El
+problema
+mente-cerebro
+.
+
+
+Un
+enfoque
+psicológico
+.
+
+
+Madrid
+:
+Tecnos
+.
+
+
+
+Burke
+,
+R
+.
+
+
+(2007)
+.
+
+
+Sir
+Charles
+Sherrington
+'
+s
+the
+integrative
+action
+of
+the
+nervous
+system
+:
+a
+centenary
+appreciation
+.
+
+
+Brain
+:
+a
+journal
+of
+neurology
+,
+130(Pt
+4)
+,
+887–894
+.
+
+
+https
+://doi
+.
+
+org/10
+.
+
+1093/brain/awm022
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1093/brain/awm022
+
+Cassell
+,
+E
+.
+
+
+(2004)
+
+'
+The
+Nature
+of
+Suffering
+'
+
+,
+The
+Nature
+of
+Suffering
+and
+the
+Goals
+of
+Medicine
+,
+2nd
+edn
+(New
+York
+,
+2004
+;
+Oxford
+Academic
+.
+
+https
+://doi
+.
+
+org/10
+.
+
+1093/acprof
+:oso/9780195156164
+.
 
 003
+.
 
-0003 doi
-httpsdoi
+0003
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1093acprofoso9780195156164
+1093/acprof
+:oso/9780195156164
+.
 
 001
+.
 
 0001
 
-chalmers d
-
- 1995 facing up to the hard problem of consciousness
-
- j
-conscious stud 2 200219
+Chalmers
+,
+D
+.
 
 
+(1995)
+Facing
+up
+to
+the
+Hard
+Problem
+of
+Consciousness
+.
 
-chiu i
 
- m
+J
+Conscious
+Stud
+2
+,
+200-219
+.
 
- von hehn c
 
- a
 
- woolf c
+Chiu
+,
+I
+.
 
- j
 
- 2012
+M
+.
 
- neurogenic
-inflammation and the peripheral nervous system in host defense and
+
+,
+von
+Hehn
+,
+C
+.
+
+
+A
+.
+
+
+,
+&
+Woolf
+,
+C
+.
+
+
+J
+.
+
+
+(2012)
+.
+
+
+Neurogenic
+inflammation
+and
+the
+peripheral
+nervous
+system
+in
+host
+defense
+and
 immunopathology
+.
 
- nature neuroscience 158 1063–1067
+
+Nature
+neuroscience
+,
+15(8)
+,
+1063–1067
+.
 
 
-httpsdoi
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1038nn
+1038/nn
+.
 
-3144 doi httpsdoi
+3144
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1038nn
+1038/nn
+.
 
 3144
 
-chen q shen p zhang b chen y zheng c 2023
+Chen
+Q
+,
+Shen
+P
+,
+Zhang
+B
+,
+Chen
+Y
+,
+Zheng
+C
+(2023)
+.
 
- a metaanalysis of the
-risk factors for lateral epicondylitis
 
- j hand ther
+A
+meta-analysis
+of
+the
+risk
+factors
+for
+lateral
+epicondylitis
+.
 
 
-12s0894113023000753
+J
+Hand
+Ther
+.
 
-doi10
 
-1016j
+12
+:S0894-1130(23)00075-3
+.
+
+doi
+:10
+.
+
+1016/j
+.
 
 jht
+.
 
 2023
+.
 
 05
+.
+
+013
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+jht
+.
+
+2023
+.
+
+05
+.
 
 013
 
- doi
-httpsdoi
-
-org10
-
-1016j
-
-jht
-
-2023
-
-05
-
-013
-
-churchland p 1983 consciousness the transmutation of a concept
+Churchland
+,
+P
+(1983)
+Consciousness
+:
+The
+transmutation
+of
+a
+concept
+.
 
 
-pacific philosophical quarterly 641 8095
+Pacific
+Philosophical
+Quarterly
+,
+64(1)
+,
+80-95
+.
 
- doi
-httpsdoi
 
-org10
+DOI
+:
+https
+://doi
+.
 
-1111j
+org/10
+.
 
-14680114
+1111/j
+.
+
+1468-0114
+.
 
 1983
+.
 
 tb00186
+.
 
 x
 
-coghill r
-
- 2020
-
- the distributed nociceptive system a framework for
-understanding pain
-
- trends in neurosciences 4310780–794
+Coghill
+,
+R
+.
 
 
-httpsdoi
+(2020)
+.
 
-org10
 
-1016j
+The
+Distributed
+Nociceptive
+System
+:
+A
+Framework
+for
+Understanding
+Pain
+.
+
+
+Trends
+in
+neurosciences
+,
+43(10)
+:780–794
+.
+
+
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
 
 tins
+.
 
 2020
+.
 
 07
+.
 
-004 doi
-httpsdoi
+004
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1016j
+1016/j
+.
 
 tins
+.
 
 2020
+.
 
 07
+.
 
 004
 
-cohen m
+Cohen
+,
+M
+.
 
- quintner j
 
- van rysewyk s
+,
+Quintner
+,
+J
+.
 
- 2018
 
- reconsidering the
-international association for the study of pain definition of pain
+,
+&
+van
+Rysewyk
+,
+S
+.
 
- pain
-reports 32 e634
 
- httpsdoi
+(2018)
+.
 
-org10
 
-1097pr9
+Reconsidering
+the
+International
+Association
+for
+the
+Study
+of
+Pain
+definition
+of
+pain
+.
 
-0000000000000634 doi
-httpsdoi
 
-org10
+Pain
+reports
+,
+3(2)
+,
+e634
+.
 
-1097pr9
+
+https
+://doi
+.
+
+org/10
+.
+
+1097/PR9
+.
+
+0000000000000634
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/PR9
+.
 
 0000000000000634
 
-cohen m
+Cohen
+,
+M
+.
 
- weisman a
 
- quintner j
+,
+Weisman
+A
+.
 
- 2022 pain is not a thing how
-that error affects language and logic in pain medicine
 
- j pain
+,
+Quintner
+J
+.
 
- 2022
-aug23812831293
 
- doi 10
+(2022)
+Pain
+is
+Not
+a
+"thing"
+:
+How
+That
+Error
+Affects
+Language
+and
+Logic
+in
+Pain
+Medicine
+.
 
-1016j
 
-jpain
+J
+Pain
+.
+
 
 2022
+Aug
+;23(8)
+:1283-1293
+.
+
+
+doi
+:
+10
+.
+
+1016/j
+.
+
+jpain
+.
+
+2022
+.
 
 03
+.
+
+235
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+jpain
+.
+
+2022
+.
+
+03
+.
 
 235
 
- doi
-httpsdoi
+Cohen
+,
+M
+.
 
-org10
 
-1016j
+,
+Quintner
+,
+J
+.
+
+
+,
+&
+Weisman
+,
+A
+.
+
+
+(2023)
+.
+
+
+"Nociplastic
+Pain"
+:
+A
+Challenge
+to
+Nosology
+and
+to
+Nociception
+.
+
+
+The
+journal
+of
+pain
+,
+S1526-5900(23)00483-2
+.
+
+
+Advance
+online
+publication
+.
+
+
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
 
 jpain
-
-2022
-
-03
-
-235
-
-cohen m
-
- quintner j
-
- weisman a
-
- 2023
-
- nociplastic pain a
-challenge to nosology and to nociception
-
- the journal of pain
-s1526590023004832
-
- advance online publication
-
-
-httpsdoi
-
-org10
-
-1016j
-
-jpain
+.
 
 2023
+.
 
 07
+.
 
-019 doi
-httpsdoi
+019
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1016j
+1016/j
+.
 
 jpain
+.
 
 2023
+.
 
 07
+.
 
 019
 
-cook j
+Cook
+,
+J
+.
 
-l
+L
+.
 
- the opioid epidemic
 
-2022 best pract res clin obstet
-gynaecol
+The
+opioid
+epidemic
+.
 
- 85pt b5358
+(2022)
+Best
+Pract
+Res
+Clin
+Obstet
+Gynaecol
+.
 
- doi 10
 
-1016j
+85(Pt
+B)
+:53-58
+.
 
-bpobgyn
 
-2022
-
-07
-
-003
-
- doi
-httpsdoi
-
-org10
-
-1016j
-
-bpobgyn
-
-2022
-
-07
-
-003
-
-corns j
-
- 2017 ed
-
- the routledge handbook of philosophy of pain
-
-
-oxon routledge ed
-
- doi httpsdoi
-
-org10
-
-43249781315742205
-
-corns j
-
- 2020 the complex reality of pain
-
- oxon routledge ed
-
- doi
-httpsdoi
-
-org10
-
-43249780429342981
-
-craig a
-
-d
-
- 2009
-
- how do you feelnow
-
- the anterior insula and human
-awareness
-
- nat rev neurosci
-
-1015970
-
- doi 10
-
-1038nrn2555
-
- doi
-httpsdoi
-
-org10
-
-1038nrn2555
-
-craig a
-
- 2023
-
- a new view of pain as a homeostatic emotion
-
- trends
-neurosci
-
- 2663037
-
- doi 10
-
-1016s0166223603001231
-
- doi
-httpsdoi
-
-org10
-
-1016s0166223603001231
-
-de ridder d adhia d vanneste s
-
- 2021
-
- the anatomy of pain and
-suffering in the brain and its clinical implications
-
- neurosci biobehav
-rev
-
- 2021 nov130125146
-
- doi 10
-
-1016j
-
-neubiorev
-
-2021
-
-08
-
-013
-
- doi
-httpsdoi
-
-org10
-
-1016j
-
-neubiorev
-
-2021
-
-08
-
-013
-
-de ridder d
-
- vanneste s
-
- smith m
-
- adhia d
-
- 2022 pain and the triple
-network model
-
- front neurol
-
- 713757241
-
- doi
+doi
+:
 10
+.
 
-3389fneur
+1016/j
+.
+
+bpobgyn
+.
 
 2022
+.
+
+07
+.
+
+003
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+bpobgyn
+.
+
+2022
+.
+
+07
+.
+
+003
+
+Corns
+,
+J
+.
+
+
+(2017)
+(Ed)
+.
+
+
+The
+Routledge
+Handbook
+of
+Philosophy
+of
+Pain
+.
+
+
+Oxon
+:
+Routledge
+Ed
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+4324/9781315742205
+
+Corns
+,
+J
+.
+
+
+(2020)
+The
+Complex
+Reality
+of
+Pain
+.
+
+
+Oxon
+:
+Routledge
+Ed
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+4324/9780429342981
+
+Craig
+A
+.
+
+D
+.
+
+
+(2009)
+.
+
+
+How
+do
+you
+feel--now
+?
+
+
+The
+anterior
+insula
+and
+human
+awareness
+.
+
+
+Nat
+Rev
+Neurosci
+.
+
+
+;10(1)
+:59-70
+.
+
+
+doi
+:
+10
+.
+
+1038/nrn2555
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1038/nrn2555
+
+Craig
+,
+A
+.
+
+
+(2023)
+.
+
+
+A
+New
+View
+of
+Pain
+as
+a
+Homeostatic
+Emotion
+.
+
+
+Trends
+Neurosci
+.
+
+
+26(6)
+:303-7
+.
+
+
+doi
+:
+10
+.
+
+1016/s0166-2236(03)00123-1
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/S0166-2236(03)00123-1
+
+De
+Ridder
+D
+,
+Adhia
+D
+,
+Vanneste
+S
+.
+
+
+(2021)
+.
+
+
+The
+anatomy
+of
+pain
+and
+suffering
+in
+the
+brain
+and
+its
+clinical
+implications
+.
+
+
+Neurosci
+Biobehav
+Rev
+.
+
+
+2021
+Nov
+;130
+:125-146
+.
+
+
+doi
+:
+10
+.
+
+1016/j
+.
+
+neubiorev
+.
+
+2021
+.
+
+08
+.
+
+013
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+neubiorev
+.
+
+2021
+.
+
+08
+.
+
+013
+
+De
+Ridder
+D
+.
+
+
+,
+Vanneste
+S
+.
+
+
+,
+Smith
+M
+.
+
+
+,
+Adhia
+D
+.
+
+
+(2022)
+Pain
+and
+the
+Triple
+Network
+Model
+.
+
+
+Front
+Neurol
+.
+
+
+7
+;13
+:757241
+.
+
+
+doi
+:
+10
+.
+
+3389/fneur
+.
+
+2022
+.
+
+757241
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+3389/fneur
+.
+
+2022
+.
 
 757241
 
- doi
-httpsdoi
+Falguera
+,
+J
+.
 
-org10
 
-3389fneur
+L
+.
 
+
+,
+Martínez-Vidal
+,
+C
+.
+
+
+,
+Rosen
+,
+G
+.
+
+
+(2022)
+"Abstract
+Objects"
+,
+The
+Stanford
+Encyclopedia
+of
+Philosophy
+(Summer
 2022
+Edition)
+,
+Edward
+N
+.
 
-757241
 
-falguera j
+Zalta
+(ed
+.
 
- l
-
- martínezvidal c
-
- rosen g
-
- 2022 abstract
-objects the stanford encyclopedia of philosophy summer 2022 edition
-edward n
-
- zalta ed
-
- url 
-httpsplato
+)
+,
+URL
+=
+<https
+://plato
+.
 
 stanford
+.
 
-eduarchivessum2022entriesabstractobjects
+edu/archives/sum2022/entries/abstract-objects/>
+.
 
 
 
-fleming s
+Fleming
+,
+S
+.
 
- frith c
 
- goodale m
+,
+Frith
+,
+C
+.
 
- 2023 the integrated information
-theory of consciousness as pseudoscience
 
- psyarxiv
+&
+Goodale
+,
+M
+.
 
- advance online
+
+(2023)
+The
+integrated
+information
+theory
+of
+consciousness
+as
+pseudoscience
+.
+
+
+PsyArXiv
+.
+
+
+Advance
+online
 publication
-
- retrieved october 30 2023
-
- 10
-
-31234osf
-
-iozsr78
-
-fordyce w
-
-e
-
- 1976
-
- behavioral concepts in chronic pain and illnes
-
- st
-louis mo mosby
+.
 
 
-
-fox m
-
-d
-
- snyder a
-
-z
-
- vincent j
-
-l
-
- corbetta m
-
- van essen d
-
-c
+Retrieved
+October
+30
+,
+2023
+.
 
 
-raichle m
-
-e
-
- 2005
-
- the human brain is intrinsically organized into
-dynamic anticorrelated functional networks
-
- proc natl acad sci u s a
-
-
-51022796738
-
- doi 10
-
-1073pnas
-
-0504136102
-
- doi
-httpsdoi
-
-org10
-
-1073pnas
-
-0504136102
-
-fransson p
-
- 2006
-
- how default is the default mode of brain function
-
-
-further evidence from intrinsic bold signal fluctuations
-
-
-neuropsychologia
-
-4414283645
-
- doi
 10
+.
 
-1016j
+31234/osf
+.
+
+io/zsr78
+
+Fordyce
+,
+W
+.
+
+E
+.
+
+
+(1976)
+.
+
+
+Behavioral
+Concepts
+in
+Chronic
+Pain
+and
+Illnes
+.
+
+
+St
+Louis
+,
+MO
+:
+Mosby
+.
+
+
+
+Fox
+M
+.
+
+D
+.
+
+
+,
+Snyder
+A
+.
+
+Z
+.
+
+
+,
+Vincent
+J
+.
+
+L
+.
+
+
+,
+Corbetta
+M
+.
+
+
+,
+Van
+Essen
+D
+.
+
+C
+.
+
+
+,
+Raichle
+M
+.
+
+E
+.
+
+
+(2005)
+.
+
+
+The
+human
+brain
+is
+intrinsically
+organized
+into
+dynamic
+,
+anticorrelated
+functional
+networks
+.
+
+
+Proc
+Natl
+Acad
+Sci
+U
+S
+A
+.
+
+
+5
+;102(27)
+:9673-8
+.
+
+
+doi
+:
+10
+.
+
+1073/pnas
+.
+
+0504136102
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1073/pnas
+.
+
+0504136102
+
+Fransson
+P
+.
+
+
+(2006)
+.
+
+
+How
+default
+is
+the
+default
+mode
+of
+brain
+function
+?
+
+
+Further
+evidence
+from
+intrinsic
+BOLD
+signal
+fluctuations
+.
+
+
+Neuropsychologia
+.
+
+44(14)
+:2836-45
+.
+
+
+doi
+:
+10
+.
+
+1016/j
+.
 
 neuropsychologia
+.
 
 2006
+.
 
 06
+.
+
+017
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+neuropsychologia
+.
+
+2006
+.
+
+06
+.
 
 017
 
- doi
-httpsdoi
+Gerrans
+,
+P
+(2020)
+.
 
-org10
 
-1016j
+Pain
+Asymbolia
+as
+Depersonalization
+for
+Pain
+Experience
+.
 
-neuropsychologia
 
-2006
+An
+Interoceptive
+Active
+Inference
+Account
+.
 
-06
 
-017
+Frontiers
+in
+psychology
+,
+11
+,
+523710
+.
 
-gerrans p 2020
 
- pain asymbolia as depersonalization for pain
-experience
+https
+://doi
+.
 
- an interoceptive active inference account
+org/10
+.
 
- frontiers in
-psychology 11 523710
-
- httpsdoi
-
-org10
-
-3389fpsyg
+3389/fpsyg
+.
 
 2020
+.
 
-523710 doi
-httpsdoi
+523710
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-3389fpsyg
+3389/fpsyg
+.
 
 2020
+.
 
 523710
 
-gifford l
-
- 2014 aches and pains
-
- falmouth cns press
-
+Gifford
+,
+L
+.
 
 
-gifford l butler d
+(2014)
+Aches
+and
+Pains
+.
 
- 1997
 
- the integration of pain sciences into
-clinical practice
+Falmouth
+:
+CNS
+Press
+.
 
- journal of hand therapy official journal of the
-american society of hand therapists
 
- 10286–95
 
- doi
+Gifford
+,
+L
+,
+&
+Butler
+,
+D
+.
+
+
+(1997)
+.
+
+
+The
+integration
+of
+pain
+sciences
+into
+clinical
+practice
+.
+
+
+Journal
+of
+hand
+therapy
+:
+official
+journal
+of
+the
+American
+Society
+of
+Hand
+Therapists
+.
+
+
+10(2)
+:86–95
+.
+
+
+doi
+:
 10
+.
 
-1016s0894113097800634 doi
-httpsdoi
+1016/s0894-1130(97)80063-4
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1016s0894113097800634
+1016/S0894-1130(97)80063-4
 
-goebel a
-
- krock e
-
- gentry c
-
- israel m
-
- jurczak a
-
- urbina c
-
-
-sandor k
-
- vastani n
-
- maurer m
-
- cuhadar u
-
- sensi s
-
- nomura y
+Goebel
+,
+A
+.
 
 
-menezes j
-
- baharpoor a
-
- brieskorn l
-
- sandström a
-
- tour j
+,
+Krock
+,
+E
+.
 
 
-kadetoff d
+,
+Gentry
+,
+C
+.
 
- haglund l
 
- kosek e
+,
+Israel
+,
+M
+.
 
- bevan s
 
- svensson c
+,
+Jurczak
+A
+.
 
- 
-andersson d
 
- 2021 passive transfer of fibromyalgia symptoms from
-patients to mice
+,
+Urbina
+,
+C
+.
 
- j clin invest
 
- 113113e144201
+,
+Sandor
+,
+K
+.
 
- doi
+
+,
+Vastani
+,
+N
+.
+
+
+,
+Maurer
+,
+M
+.
+
+
+,
+Cuhadar
+,
+U
+.
+
+
+,
+Sensi
+,
+S
+.
+
+
+,
+Nomura
+,
+Y
+.
+
+
+,
+Menezes
+,
+J
+.
+
+
+,
+Baharpoor
+,
+A
+.
+
+
+,
+Brieskorn
+,
+L
+.
+
+
+,
+Sandström
+,
+A
+.
+
+
+,
+Tour
+,
+J
+.
+
+
+,
+Kadetoff
+,
+D
+.
+
+
+,
+Haglund
+,
+L
+.
+
+
+,
+Kosek
+,
+E
+.
+
+
+,
+Bevan
+,
+S
+.
+
+
+,
+Svensson
+,
+C
+.
+
+
+&
+Andersson
+D
+.
+
+
+(2021)
+Passive
+transfer
+of
+fibromyalgia
+symptoms
+from
+patients
+to
+mice
+.
+
+
+J
+Clin
+Invest
+.
+
+
+1
+;131(13)
+:e144201
+.
+
+
+doi
+:
 10
+.
 
-1172jci144201
+1172/JCI144201
+.
 
- doi httpsdoi
 
-org10
+DOI
+:
+https
+://doi
+.
 
-1172jci144201
+org/10
+.
 
-goebel a
+1172/JCI144201
 
- 2016 autoantibody pain
+Goebel
+,
+A
+.
 
- autoimmun rev
 
- 1565527
+(2016)
+Autoantibody
+pain
+.
 
- doi
+
+Autoimmun
+Rev
+.
+
+
+15(6)
+:552-7
+.
+
+
+doi
+:
 10
+.
 
-1016j
+1016/j
+.
 
 autrev
+.
 
 2016
+.
 
 02
+.
+
+011
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+autrev
+.
+
+2016
+.
+
+02
+.
 
 011
 
- doi
-httpsdoi
-
-org10
-
-1016j
-
-autrev
-
-2016
-
-02
-
-011
-
-goldberg b
-
- reuter k
-
- sytsma j
-
- 2022
-
- the history of the concept
-of pain how the experts came to be out of touch with the folk
-
- in hens
-k
-
- de block a
-
- eds advances in experimental philosophy of medicine
+Goldberg
+,
+B
+.
 
 
-doi httpsdoi
-
-org10
-
-50409781350281554
-
-ch009
-
-gomezmarin a
-
- 2022
-
- being you a new science of consciousness
-
- book
-reviews
-
- journal of consciousness studies
+,
+Reuter
+,
+K
+.
 
 
+,
+Sytsma
+,
+J
+.
 
-gomezmarin a
 
- 2023
+(2022)
+.
 
- the consciousness of neuroscience
 
- eneuro
-1011 eneuro
+The
+history
+of
+the
+concept
+of
+pain
+:
+How
+the
+experts
+came
+to
+be
+out
+of
+touch
+with
+the
+folk
+.
 
-043423
+
+in
+Hens
+,
+K
+.
+
+
+,
+De
+Block
+,
+A
+.
+
+
+(eds)
+Advances
+in
+Experimental
+Philosophy
+of
+Medicine
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+5040/9781350281554
+.
+
+ch-009
+
+Gomez-Marin
+,
+A
+.
+
+
+(2022)
+.
+
+
+Being
+You
+:
+A
+New
+Science
+of
+Consciousness
+.
+
+
+Book
+Reviews
+.
+
+
+Journal
+of
+Consciousness
+Studies
+.
+
+
+
+Gomez-Marin
+A
+.
+
+
+(2023)
+.
+
+
+The
+Consciousness
+of
+Neuroscience
+.
+
+
+eNeuro
+,
+10(11)
+,
+ENEURO
+.
+
+0434-23
+.
+
+2023
+.
+
+
+doi
+:
+10
+.
+
+1523/ENEURO
+.
+
+0434-23
+.
+
+2023
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1523/ENEURO
+.
+
+0434-23
+.
 
 2023
 
- doi 10
-
-1523eneuro
-
-043423
-
-2023 doi
-httpsdoi
-
-org10
-
-1523eneuro
-
-043423
-
-2023
-
-hardcastle v
-
- 1999 the myth of pain philosophical psychopathology
+Hardcastle
+,
+V
+.
 
 
-boston mit press
+(1999)
+The
+Myth
+of
+Pain
+(Philosophical
+Psychopathology)
+.
 
- doi httpsdoi
 
-org10
+Boston
+:
+MIT
+Press
+.
 
-7551mitpress4832
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+7551/mitpress/4832
+.
 
 001
+.
 
 0001
 
-jacobson h 2017
-
- the routledge handbook of philosophy of pain
-
- edited
-by jennifer corns
-
- oxon routledge
+Jacobson
+,
+H
+(2017)
+.
 
 
+The
+Routledge
+Handbook
+of
+Philosophy
+of
+Pain
+.
 
-jessop j
 
- 1993 current anaesthesia and critical care 4 6469
+Edited
+by
+Jennifer
+Corns
+.
 
- doi
-httpsdoi
 
-org10
+Oxon
+:
+Routledge
+.
 
-1016s0953711205801802
 
-kent p
 
- haines t
+Jessop
+,
+J
+.
 
- o sullivan p
 
- smith a
+(1993)
+Current
+Anaesthesia
+and
+Critical
+Care
+;
+4
+,
+64-69
+.
 
- campbell a
 
- schutze
-r
+DOI
+:
+https
+://doi
+.
 
- attwell s
+org/10
+.
 
- caneiro j
+1016/S0953-7112(05)80180-2
 
- p
+Kent
+,
+P
+.
 
- laird r
 
- o sullivan k
+,
+Haines
+,
+T
+.
 
- mcgregor
+
+,
+O
+'
+Sullivan
+,
+P
+.
+
+
+,
+Smith
+,
+A
+.
+
+
+,
+Campbell
+,
+A
+.
+
+
+,
+Schutze
+,
+R
+.
+
+
+,
+Attwell
+,
+S
+.
+
+
+,
+Caneiro
+,
+J
+.
+
+
+P
+.
+
+
+,
+Laird
+,
+R
+.
+
+
+,
+O
+'
+Sullivan
+,
+K
+.
+
+
+,
+McGregor
+,
+A
+.
+
+
+,
+Hartvigsen
+,
+J
+.
+
+
+,
+Lee
+,
+D
+.
+
+
+A
+.
+
+
+,
+Vickery
+,
+A
+.
+
+
+,
+Hancock
+,
+M
+.
+
+
+,
+&
+RESTORE
+trial
+team
+(2023)
+.
+
+
+Cognitive
+functional
+therapy
+with
+or
+without
+movement
+sensor
+biofeedback
+versus
+usual
+care
+for
+chronic
+,
+disabling
+low
+back
+pain
+(RESTORE)
+:
 a
+randomised
+,
+controlled
+,
+three-arm
+,
+parallel
+group
+,
+phase
+3
+,
+clinical
+trial
+.
 
- hartvigsen j
 
- lee d
-
- a
-
- vickery a
-
- hancock m
-
- restore
-trial team 2023
-
- cognitive functional therapy with or without movement
-sensor biofeedback versus usual care for chronic disabling low back
-pain restore a randomised controlled threearm parallel group
-phase 3 clinical trial
-
- lancet london england 40110391
+Lancet
+(London
+,
+England)
+,
+401(10391)
+,
 1866–1877
-
- httpsdoi
-
-org10
-
-1016s0140673623004415 doi
-httpsdoi
-
-org10
-
-1016s0140673623004415
-
-kim h
-
- poth n
-
- reuter k
-
- sytsma j
-
- 2016
-
- where is your pain
+.
 
 
-a crosscultural comparison of the concept of pain in americans and
-south koreans
+https
+://doi
+.
 
- studia philosophica estonia 91 136169
+org/10
+.
 
- doi
+1016/S0140-6736(23)00441-5
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/S0140-6736(23)00441-5
+
+Kim
+,
+H
+.
+
+
+,
+Poth
+,
+N
+.
+
+
+,
+Reuter
+,
+K
+.
+
+
+,
+&
+Sytsma
+,
+J
+.
+
+
+(2016)
+.
+
+
+Where
+is
+your
+pain
+?
+
+
+A
+Cross-cultural
+Comparison
+of
+the
+Concept
+of
+Pain
+in
+Americans
+and
+South
+Koreans
+.
+
+
+Studia
+Philosophica
+Estonia
+,
+9(1)
+,
+136-169
+.
+
+
+doi
 10
+.
 
-12697spe
-
-2016
-
-9
-
-1
-
-06 doi httpsdoi
-
-org10
-
-12697spe
+12697/spe
+.
 
 2016
+.
 
 9
+.
 
 1
+.
+
+06
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+12697/spe
+.
+
+2016
+.
+
+9
+.
+
+1
+.
 
 06
 
-klein c
-
- martínez m
-
- 2018 imperativism and pain intensity
-
-
-philosophy of pain – unpleasantness emotion and deviance eds
-
- d
+Klein
+,
+C
+.
 
 
-bain m
-
- brady and j
-
- corns
-
- oxon routledge
-
- doi
-httpsdoi
-
-org10
-
-432497813511158652
-
-klein c
-
- 2015 what the body commands the imperative theory of pain
+&
+Martínez
+,
+M
+.
 
 
-massachusetts mit
+(2018)
+Imperativism
+and
+Pain
+Intensity
+.
 
 
+Philosophy
+of
+Pain
+–
+Unpleasantness
+,
+Emotion
+,
+and
+Deviance
+(eds
+.
 
- doi
-httpsdoi
 
-org10
+D
+.
 
-7551mitpress10480
+
+Bain
+,
+M
+.
+
+
+Brady
+and
+J
+.
+
+
+Corns)
+.
+
+
+Oxon
+:
+Routledge
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+4324/9781351115865-2
+
+Klein
+,
+C
+.
+
+
+(2015)
+What
+the
+Body
+Commands
+:
+The
+imperative
+Theory
+of
+Pain
+.
+
+
+Massachusetts
+:
+MIT
+.
+
+
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+7551/mitpress/10480
+.
 
 001
+.
 
 0001
 
-klein c
-
- 2015b
-
- what pain asymbolia really shows
-
- mind 124
-494493516
-
- 10
-
-1093mindfzu185 doi
-httpsdoi
-
-org10
-
-1093mindfzu185
-
-kleinbaum dg kupper ll morgenstern h
-
- 1982 epidemiologic research
-principles and quantitative methods
-
- belmont lifetime learning
-publications
+Klein
+,
+C
+.
 
 
+(2015b)
+.
 
-kosek e
 
- cohen m
+What
+Pain
+Asymbolia
+Really
+Shows
+.
 
- baron r
 
- gebhart g
+Mind
+124
+(494)
+:493-516
+.
 
- mico j rice a
 
- rief
-w
-
- sluka a
-
- 2016 do we need a third mechanistic descriptor for
-chronic pain states
-
- pain
-
- 157713821386
-
- doi
 10
+.
 
-1097j
+1093/mind/fzu185
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1093/mind/fzu185
+
+Kleinbaum
+,
+DG
+,
+Kupper
+LL
+,
+Morgenstern
+H
+.
+
+
+(1982)
+Epidemiologic
+research
+:
+Principles
+and
+quantitative
+methods
+.
+
+
+Belmont
+:
+Lifetime
+Learning
+Publications
+.
+
+
+
+Kosek
+,
+E
+.
+
+
+,
+Cohen
+,
+M
+.
+
+
+,
+Baron
+,
+R
+.
+
+
+,
+Gebhart
+,
+G
+.
+
+
+,
+Mico
+,
+J
+,
+Rice
+,
+A
+.
+
+
+,
+Rief
+,
+W
+.
+
+
+&
+Sluka
+,
+A
+.
+
+
+(2016)
+Do
+we
+need
+a
+third
+mechanistic
+descriptor
+for
+chronic
+pain
+states
+?
+
+
+Pain
+.
+
+
+157(7)
+:1382-1386
+.
+
+
+doi
+:
+10
+.
+
+1097/j
+.
 
 pain
+.
+
+0000000000000507
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/j
+.
+
+pain
+.
 
 0000000000000507
 
- doi
-httpsdoi
+Kraus
+,
+A
+.
 
-org10
 
-1097j
+,
+Buckley
+,
+K
+.
 
-pain
 
-0000000000000507
+&
+Salinas
+I
+:
+(2021)
+Sensing
+the
+world
+and
+its
+dangers
+:
+An
+evolutionary
+perspective
+in
+neuroimmunology
+.
 
-kraus a
 
- buckley k
-
- salinas i 2021 sensing the world and its
-dangers an evolutionary perspective in neuroimmunology
-
- 10e66706
-
- doi
 10
+:e66706
+.
 
-7554elife
 
- 66706
+doi
+:
+10
+.
 
- doi httpsdoi
+7554/eLife
+.
 
-org10
 
-7554elife
+66706
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+7554/eLife
+.
 
 66706
 
-kuhn t
-
- 1962
-
- the structure of scientific revolutionsla estructura
-de las revoluciones científicas
-
- international encyclopedia of unified
-science 22 7778
+Kuhn
+,
+T
+.
 
 
+(1962)
+.
 
-lacagnina m
 
- heijnen c
+The
+Structure
+of
+Scientific
+Revolutions/La
+estructura
+de
+las
+revoluciones
+científicas
+.
 
- watkins l
 
- grace p
+International
+Encyclopedia
+of
+Unified
+Science
+,
+2(2)
+,
+77-78
+.
 
- 2021
 
- autoimmune
-regulation of chronic pain
 
- pain rep
+Lacagnina
+,
+M
+.
 
- 961e905
 
- doi
+,
+Heijnen
+,
+C
+.
+
+
+,
+Watkins
+,
+L
+.
+
+
+,
+&
+Grace
+,
+P
+.
+
+
+(2021)
+.
+
+
+Autoimmune
+regulation
+of
+chronic
+pain
+.
+
+
+Pain
+Rep
+.
+
+
+9
+;6(1)
+:e905
+.
+
+
+doi
+:
 10
+.
 
-1097pr9
+1097/PR9
+.
+
+0000000000000905
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/PR9
+.
 
 0000000000000905
 
- doi
-httpsdoi
-
-org10
-
-1097pr9
-
-0000000000000905
-
-lane e
-
- magel j
-
- thackeray a
-
- greene t
-
- fino n
-
- puentedura e
-louw a
-
- maddox d
-
- fritz j
-
- 2022 effectiveness of training
-physical therapists in pain neuroscience education for patients with
-chronic spine pain a clusterrandomized trial
-
- pain
-
- 1635852860
+Lane
+,
+E
+.
 
 
-doi 10
+,
+Magel
+,
+J
+.
 
-1097j
+
+,
+Thackeray
+,
+A
+.
+
+
+,
+Greene
+,
+T
+.
+
+
+,
+Fino
+,
+N
+.
+
+
+,
+Puentedura
+,
+E
+,
+Louw
+,
+A
+.
+
+
+,
+Maddox
+,
+D
+.
+
+
+&
+Fritz
+,
+J
+.
+
+
+(2022)
+Effectiveness
+of
+training
+physical
+therapists
+in
+pain
+neuroscience
+education
+for
+patients
+with
+chronic
+spine
+pain
+:
+a
+cluster-randomized
+trial
+.
+
+
+Pain
+.
+
+
+163(5)
+:852-860
+.
+
+
+doi
+:
+10
+.
+
+1097/j
+.
 
 pain
+.
+
+0000000000002436
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/j
+.
+
+pain
+.
 
 0000000000002436
 
- doi
-httpsdoi
+Letheby
+,
+C
+.
 
-org10
 
-1097j
+(2021)
+Philosophy
+of
+Psychedelics
+.
 
-pain
 
-0000000000002436
+Oxford
+:
+Oxford
+University
+Press
+.
 
-letheby c
 
- 2021 philosophy of psychedelics
+DOI
+:
+https
+://doi
+.
 
- oxford oxford university
-press
+org/10
+.
 
- doi httpsdoi
-
-org10
-
-1093med9780198843122
+1093/med/9780198843122
+.
 
 001
+.
 
 0001
 
-louw a
+Louw
+,
+A
+.
 
- zimney k
 
- puentedura e
+,
+Zimney
+,
+K
+.
 
- diener i
 
- 2016
+,
+Puentedura
+,
+E
+.
 
- the efficacy
-of pain neuroscience education on musculoskeletal pain a systematic
-review of the literature
 
- physiother theory pract
+&
+Diener
+,
+I
+.
 
- 32533255
 
- doi
+(2016)
+.
+
+
+The
+efficacy
+of
+pain
+neuroscience
+education
+on
+musculoskeletal
+pain
+:
+A
+systematic
+review
+of
+the
+literature
+.
+
+
+Physiother
+Theory
+Pract
+.
+
+
+32(5)
+:332-55
+.
+
+
+doi
+:
 10
+.
 
-108009593985
+1080/09593985
+.
 
 2016
+.
+
+1194646
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1080/09593985
+.
+
+2016
+.
 
 1194646
 
- doi
-httpsdoi
-
-org10
-
-108009593985
-
-2016
-
-1194646
-
-martínez m
-
- 2010
-
- imperative content and the painfulness of pain
+Martínez
+,
+M
+.
 
 
-phenomenology and the cognitive sciences 1067–90
-
- doi
-httpsdoi
-
-org10
-
-1007s1109701091720
-
-melzack r
-
- wall p
-
- 1988 the challenge of pain
-
- westminster
-penguin books ltd
+(2010)
+.
 
 
+Imperative
+content
+and
+the
+painfulness
+of
+pain
+.
 
-melzack r
 
- wall p
+Phenomenology
+and
+the
+Cognitive
+Sciences
+,
+10
+:67–90
+.
 
- and ty t
 
- 1982
+DOI
+:
+https
+://doi
+.
 
- acute pain in an emergency
-clinic latency of onset and descriptor patterns related to different
+org/10
+.
+
+1007/s11097-010-9172-0
+
+Melzack
+,
+R
+.
+
+
+&
+Wall
+,
+P
+.
+
+
+(1988)
+The
+Challenge
+of
+pain
+.
+
+
+Westminster
+:
+Penguin
+Books
+Ltd
+.
+
+
+
+Melzack
+,
+R
+.
+
+
+,
+Wall
+,
+P
+.
+
+
+,
+and
+Ty
+,
+T
+.
+
+
+(1982)
+.
+
+
+Acute
+pain
+in
+an
+emergency
+clinic
+:
+Latency
+of
+onset
+and
+descriptor
+patterns
+related
+to
+different
 injuries
+.
 
- pain 14133–43
 
- doi
-httpsdoi
+Pain
+,
+14(1)
+:33–43
+.
 
-org10
 
-10160304395982900781
+DOI
+:
+https
+://doi
+.
 
-merskey h
+org/10
+.
 
- 2004
+1016/0304-3959(82)90078-1
 
- nociception in kyoto
+Merskey
+,
+H
+.
 
- pain 143159
 
- doi
-httpsdoi
+(2004)
+.
 
-org10
 
-1016j
+Nociception
+in
+Kyoto
+.
+
+
+Pain
+143
+:159
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
 
 pain
+.
 
 2009
+.
 
 01
+.
 
 032
 
-moscoso j
-
- 2015 pain
-
- is it all in the mind
-
- 231215
-
-moseley g
-
- 2002 combined physiotherapy and education is efficacious
-for chronic low back pain
-
- aust
-
- j
-
- physiol
-
- doi
-httpsdoi
-
-org10
-
-1016s0004951414601690
-
-núñezcortés r
-
- salazarméndez j
-
- calatayud j
-
- malfliet a
+Moscoso
+,
+J
+.
 
 
-lluch e mendezrebolledo g
-
- guzmánmuñoz e
-
- lópezbueno r
+(2015)
+Pain
+.
 
 
-susomartí l
+Is
+it
+All
+in
+the
+Mind
+?
 
- 2023 the optimal dose of pain neuroscience education
-added to an exercise programme for patients with chronic spinal pain a
-systematic review and doseresponse metaanalysis
 
- pain
+;
+23(1)
+:21-5
 
- nov 30
+Moseley
+,
+G
+.
 
- doi
-10
 
-1097j
-
+(2002)
+Combined
+physiotherapy
+and
+education
+is
+efficacious
+for
+chronic
+low
+back
 pain
+.
 
-0000000000003126
 
- doi
-httpsdoi
+Aust
+.
 
-org10
 
-1097j
+J
+.
 
+
+Physiol
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/S0004-9514(14)60169-0
+
+Núñez-Cortés
+,
+R
+.
+
+
+,
+Salazar-Méndez
+,
+J
+.
+
+
+,
+Calatayud
+,
+J
+.
+
+
+,
+Malfliet
+,
+A
+.
+
+
+,
+Lluch
+,
+E
+,
+,
+Mendez-Rebolled
+,o
+G
+.
+
+
+,
+Guzmán-Muñoz
+,
+E
+.
+
+
+,
+López-Bueno
+,
+R
+.
+
+
+,
+Suso-Martí
+,
+L
+.
+
+
+(2023)
+The
+optimal
+dose
+of
 pain
-
-0000000000003126
-
-owesen e
-
- 2022 the bodily theory of pain
-
- review of philosophy 
-psychology
-
- doi 10
-
-1007s1316402200646 doi
-httpsdoi
-
-org10
-
-1007s1316402200646w
-
-párraga j
-
- castellanos a 2023
-
- a manifesto in defense of pain
-complexity a critical review of essential insights in pain
 neuroscience
-
- j clin med
-
- 1412227080
-
- doi 10
-
-3390jcm12227080
-
- doi
-httpsdoi
-
-org10
-
-3390jcm12227080
-
-platón 2010
-
- el sofista
-
- madrid alianza editorial
-
+education
+added
+to
+an
+exercise
+programme
+for
+patients
+with
+chronic
+spinal
+pain
+:
+A
+systematic
+review
+and
+dose-response
+meta-analysis
+.
 
 
-raja s
-
-n
-
- carr d
-
-b
-
- cohen m
-
- finnerup n
-
-b
-
- flor h
-
- gibson s
-keefe f
-
-j
-
- mogil j
-
-s
-
- ringkamp m
-
- sluka k
-
-a
-
- song x
-
-j
-
- stevens
-b
-
- sullivan m
-
-d
-
- tutelman p
-
-r
-
- ushida t
-
- vader k
-
- 2020 the
-revised international association for the study of pain definition of
-pain concepts challenges and compromises
-
- pain
-
- 1161919761982
+Pain
+.
 
 
-doi 10
+Nov
+30
+.
 
-1097j
+
+doi
+:
+10
+.
+
+1097/j
+.
 
 pain
+.
+
+0000000000003126
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/j
+.
+
+pain
+.
+
+0000000000003126
+
+Owesen
+,
+E
+.
+
+
+(2022)
+The
+Bodily
+Theory
+of
+Pain
+.
+
+
+Review
+of
+Philosophy
+&
+Psychology
+.
+
+
+doi
+:
+10
+.
+
+1007/s13164-022-00646
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1007/s13164-022-00646-w
+
+Párraga
+,
+J
+.
+
+
+&
+Castellanos
+,
+A
+(2023)
+.
+
+
+A
+Manifesto
+in
+Defense
+of
+Pain
+Complexity
+:
+A
+Critical
+Review
+of
+Essential
+Insights
+in
+Pain
+Neuroscience
+.
+
+
+J
+Clin
+Med
+.
+
+
+14
+;12(22)
+:7080
+.
+
+
+doi
+:
+10
+.
+
+3390/jcm12227080
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+3390/jcm12227080
+
+Platón
+(2010)
+.
+
+
+El
+Sofista
+.
+
+
+Madrid
+:
+Alianza
+Editorial
+.
+
+
+
+Raja
+,
+S
+.
+
+N
+.
+
+
+,
+Carr
+,
+D
+.
+
+B
+.
+
+
+,
+Cohen
+,
+M
+.
+
+
+,
+Finnerup
+,
+N
+.
+
+B
+.
+
+
+,
+Flor
+,
+H
+.
+
+
+,
+Gibson
+,
+S
+,
+Keefe
+,
+F
+.
+
+J
+.
+
+
+,
+Mogil
+,
+J
+.
+
+S
+.
+
+
+,
+Ringkamp
+,
+M
+.
+
+
+,
+Sluka
+K
+.
+
+A
+.
+
+
+,
+Song
+,
+X
+.
+
+J
+.
+
+
+,
+Stevens
+,
+B
+.
+
+
+,
+Sullivan
+,
+M
+.
+
+D
+.
+
+
+,
+Tutelman
+,
+P
+.
+
+R
+.
+
+
+,
+Ushida
+,
+T
+.
+
+
+,
+Vader
+,
+K
+.
+
+
+(2020)
+The
+revised
+International
+Association
+for
+the
+Study
+of
+Pain
+definition
+of
+pain
+:
+concepts
+,
+challenges
+,
+and
+compromises
+.
+
+
+Pain
+.
+
+
+1
+;161(9)
+:1976-1982
+.
+
+
+doi
+:
+10
+.
+
+1097/j
+.
+
+pain
+.
+
+0000000000001939
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1097/j
+.
+
+pain
+.
 
 0000000000001939
 
- doi
-httpsdoi
+Reuter
+,
+K
+.
 
-org10
 
-1097j
+,
+Phillips
+,
+D
+.
 
+
+&
+Sytsma
+,
+J
+.
+
+
+(2014)
+.
+
+
+Hallucinating
 pain
-
-0000000000001939
-
-reuter k
-
- phillips d
-
- sytsma j
-
- 2014
-
- hallucinating pain
+.
 
 
-advances in experimental philosophy of mind 7599
+Advances
+in
+experimental
+philosophy
+of
+mind
+,
+75-99
+.
 
 
 
-reuter k
+Reuter
+,
+K
+.
 
- 2017 the developmental challenge to the paradox of pain
+
+(2017)
+The
+developmental
+challenge
+to
+the
+paradox
+of
+pain
+.
 
 
-erkenntnis 822 265–283
+Erkenntnis
+,
+82(2)
+:
+265–283
+.
 
- doi
-httpsdoi
 
-org10
+DOI
+:
+https
+://doi
+.
 
-1007s1067001698168
+org/10
+.
 
-robinson h
+1007/s10670-016-9816-8
 
- 2020 dualism the stanford encyclopedia of philosophy
-fall 2020 edition edward n
+Robinson
+,
+H
+.
 
- zalta ed
 
- url 
-httpsplato
+(2020)
+"Dualism"
+,
+The
+Stanford
+Encyclopedia
+of
+Philosophy
+(Fall
+2020
+Edition)
+,
+Edward
+N
+.
+
+
+Zalta
+(ed
+.
+
+)
+,
+URL
+=
+<https
+://plato
+.
 
 stanford
+.
 
-eduarchivesfall2020entriesdualism
+edu/archives/fall2020/entries/dualism/>
 
-rovelli c
-
- 2018 el orden del tiempo
-
- barcelona anagrama
-
+Rovelli
+,
+C
+.
 
 
-schaffer j
+(2018)
+El
+orden
+del
+tiempo
+.
 
- 2018 monism the stanford encyclopedia of philosophy
-winter 2018 edition edward n
 
- zalta ed
+Barcelona
+:
+Anagrama
+.
 
- url 
-httpsplato
+
+
+Schaffer
+,
+J
+.
+
+
+(2018)
+,
+"Monism"
+,
+The
+Stanford
+Encyclopedia
+of
+Philosophy
+(Winter
+2018
+Edition)
+,
+Edward
+N
+.
+
+
+Zalta
+(ed
+.
+
+)
+,
+URL
+=
+<https
+://plato
+.
 
 stanford
+.
 
-eduarchiveswin2018entriesmonism
+edu/archives/win2018/entries/monism/>
+.
 
 
 
-schaffer j
+Schaffer
+,
+J
+.
 
- 2010
 
- monism the priority of the whole
+(2010)
+.
 
- philosophical
-review 1193176
 
- doi httpsdoi
+Monism
+:
+The
+Priority
+Of
+The
+Whole
+.
 
-org10
 
-1215003181082009025
+Philosophical
+Review
+119
+:31-76
+.
 
-searle j
 
- 1992 the rediscovery of the mind
+DOI
+:
+https
+://doi
+.
 
- massachussets mit
+org/10
+.
 
- doi
-httpsdoi
+1215/00318108-2009-025
 
-org10
+Searle
+J
+.
 
-7551mitpress5834
+
+(1992)
+The
+Rediscovery
+of
+the
+Mind
+.
+
+
+Massachussets
+:
+MIT
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+7551/mitpress/5834
+.
 
 001
+.
 
 0001
 
-seeley w
+Seeley
+W
+.
 
-w
-
- menon v
-
- schatzberg a
-
-f
-
- keller j
-
- glover g
-
-h
-
- kenna
-h
-
- reiss a
-
-l
-
- greicius m
-
-d
-
- 2007
-
- dissociable intrinsic connectivity
-networks for salience processing and executive control
-
- j neurosci
+W
+.
 
 
-28279234956
+,
+Menon
+V
+.
 
-doi10
 
-1523jneurosci
+,
+Schatzberg
+A
+.
 
-558706
+F
+.
+
+
+,
+Keller
+J
+.
+
+
+,
+Glover
+G
+.
+
+H
+.
+
+
+,
+Kenna
+H
+.
+
+
+,
+Reiss
+A
+.
+
+L
+.
+
+
+,
+Greicius
+M
+.
+
+D
+.
+
+
+(2007)
+.
+
+
+Dissociable
+intrinsic
+connectivity
+networks
+for
+salience
+processing
+and
+executive
+control
+.
+
+
+J
+Neurosci
+.
+
+
+28
+;27(9)
+:2349-56
+.
+
+doi
+:10
+.
+
+1523/JNEUROSCI
+.
+
+5587-06
+.
+
+2007
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1523/JNEUROSCI
+.
+
+5587-06
+.
 
 2007
 
- doi
-httpsdoi
-
-org10
-
-1523jneurosci
-
-558706
-
-2007
-
-seth a
-
- 2023
-
- la creación del yo una nueva ciencia de la conciencia
+Seth
+,
+A
+.
 
 
-madrid sexto piso
-
-seth a
-
- bayne t
-
- 2022
-
- theories of consciousness
-
- nat rev
-neurosci
-
- 237439452
-
- doi 10
-
-1038s41583022005874
-
- doi
-httpsdoi
-
-org10
-
-1038s41583022005874
-
-seth a
-
- hohwy j
-
- 2021 predictive processing as an empirical theory
-for consciousness science
-
- cogn neurosci
-
- 1228990
+(2023)
+.
 
 
-doi10
+La
+creación
+del
+yo
+:
+una
+nueva
+ciencia
+de
+la
+conciencia
+.
 
-108017588928
+
+Madrid
+:
+Sexto
+Piso
+
+Seth
+,
+A
+.
+
+
+&
+,
+Bayne
+,
+T
+.
+
+
+(2022)
+.
+
+
+Theories
+of
+consciousness
+.
+
+
+Nat
+Rev
+Neurosci
+.
+
+
+23(7)
+:439-452
+.
+
+
+doi
+:
+10
+.
+
+1038/s41583-022-00587-4
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1038/s41583-022-00587-4
+
+Seth
+,
+A
+.
+
+
+,
+Hohwy
+,
+J
+.
+
+
+(2021)
+Predictive
+processing
+as
+an
+empirical
+theory
+for
+consciousness
+science
+.
+
+
+Cogn
+Neurosci
+.
+
+
+12(2)
+:89-90
+.
+
+
+doi
+:10
+.
+
+1080/17588928
+.
 
 2020
+.
+
+1838467
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1080/17588928
+.
+
+2020
+.
 
 1838467
 
- doi
-httpsdoi
-
-org10
-
-108017588928
-
-2020
-
-1838467
-
-seth a
-
- 2021 being you a new science of consciuosness
-
- london faber
-and faber ed
+Seth
+,
+A
+.
 
 
+(2021)
+Being
+You
+:
+A
+New
+Science
+Of
+Consciuosness
+.
 
-seth a
 
-k
+London
+:
+Faber
+and
+Faber
+Ed
+.
 
-2013
 
- interoceptive inference emotion and the embodied
+
+Seth
+A
+.
+
+K
+.
+
+(2013)
+.
+
+
+Interoceptive
+inference
+,
+emotion
+,
+and
+the
+embodied
 self
+.
 
- trends cogn sci
 
-171156573
+Trends
+Cogn
+Sci
+.
 
-doi10
+17(11)
+:565-73
+.
 
-1016j
+doi
+:10
+.
+
+1016/j
+.
 
 tics
+.
 
 2013
+.
 
 09
+.
+
+007
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1016/j
+.
+
+tics
+.
+
+2013
+.
+
+09
+.
 
 007
 
- doi
-httpsdoi
-
-org10
-
-1016j
-
-tics
-
-2013
-
-09
-
-007
-
-sherrington c 1906
-
- the integrative action of the nervous system
+Sherrington
+,
+C
+(1906)
+.
 
 
-london archibald constable co
+The
+Integrative
+Action
+of
+the
+Nervous
+System
+.
+
+
+London
+:
+Archibald
+Constable
+&
+Co
+.
 
 
 
-sloane n
-
- wyner a
-
- 1993 eds
-
- claude shannon collected papers
-
- new
-york ieee press
-
- doi httpsdoi
-
-org10
-
-11099780470544242
-
-stoljar d
-
- 2023 physicalism the stanford encyclopedia of
-philosophy summer 2023 edition edward n
-
- zalta uri nodelman eds
+Sloane
+,
+N
+.
 
 
-url 
-httpsplato
+&
+Wyner
+,
+A
+.
+
+
+(1993)
+Eds
+.
+
+
+Claude
+Shannon
+:
+Collected
+Papers
+.
+
+
+New
+York
+:
+IEEE
+Press
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1109/9780470544242
+
+Stoljar
+D
+.
+
+
+(2023)
+,
+"Physicalism"
+,
+The
+Stanford
+Encyclopedia
+of
+Philosophy
+(Summer
+2023
+Edition)
+,
+Edward
+N
+.
+
+
+Zalta
+&
+Uri
+Nodelman
+(eds
+.
+
+)
+,
+URL
+=
+<https
+://plato
+.
 
 stanford
+.
 
-eduarchivessum2023entriesphysicalism
-
-
-
-sui j
-
- humphreys g
-
-w
-
- 2015
-
- the integrative self how selfreference
-integrates perception and memory
-
- trends cogn sci
+edu/archives/sum2023/entries/physicalism/>
+.
 
 
-1912719728
 
-doi10
+Sui
+J
+.
 
-1016j
+
+,
+Humphreys
+G
+.
+
+W
+.
+
+
+(2015)
+.
+
+
+The
+Integrative
+Self
+:
+How
+Self-Reference
+Integrates
+Perception
+and
+Memory
+.
+
+
+Trends
+Cogn
+Sci
+.
+
+
+19(12)
+:719-728
+.
+
+doi
+:10
+.
+
+1016/j
+.
 
 tics
+.
 
 2015
+.
 
 08
+.
 
-01 doi
-httpsdoi
+01
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1016j
+1016/j
+.
 
 tics
+.
 
 2015
+.
 
 08
+.
 
 015
 
-thacker m moseley l
-
- 2017 the routledge handbook of philosophy of
-pain
-
- edited by jennifer corns
-
- oxon routledge
-
-
-
-tononi g koch c
-
- 2015 consciousness here there and everywhere
+Thacker
+,
+M
+&
+Moseley
+,
+L
+.
 
 
-philos trans r soc lond b biol sci
+(2017)
+The
+Routledge
+Handbook
+of
+Philosophy
+of
+Pain
+.
 
- 19370166820140167
 
- doi
+Edited
+by
+Jennifer
+Corns
+.
+
+
+Oxon
+:
+Routledge
+.
+
+
+
+Tononi
+,
+G
+&
+Koch
+,
+C
+.
+
+
+(2015)
+Consciousness
+:
+here
+,
+there
+and
+everywhere
+?
+
+
+Philos
+Trans
+R
+Soc
+Lond
+B
+Biol
+Sci
+.
+
+
+19
+;370(1668)
+:20140167
+.
+
+
+doi
+:
 10
+.
 
-1098rstb
+1098/rstb
+.
 
 2014
+.
+
+0167
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+1098/rstb
+.
+
+2014
+.
 
 0167
 
- doi httpsdoi
-
-org10
-
-1098rstb
-
-2014
-
-0167
-
-traeger a
-
- c
-
- lee h
-
- hübscher m
-
- skinner i
-
- w
-
- moseley g
-
- l
+Traeger
+,
+A
+.
 
 
-nicholas m
-
- k
-
- henschke n
-
- refshauge k
-
- m
-
- blyth f
-
- m
-
- main c
+C
+.
 
 
-j
+,
+Lee
+,
+H
+.
 
- hush j
 
- m
+,
+Hübscher
+,
+M
+.
 
- lo s
 
- mcauley j
+,
+Skinner
+,
+I
+.
 
- h
 
- 2019
+W
+.
 
- effect of intensive
-patient education vs placebo patient education on outcomes in patients
-with acute low back pain a randomized clinical trial
 
- jama neurology
-762 161–169
+,
+Moseley
+,
+G
+.
 
- httpsdoi
 
-org10
+L
+.
 
-1001jamaneurol
+
+,
+Nicholas
+,
+M
+.
+
+
+K
+.
+
+
+,
+Henschke
+,
+N
+.
+
+
+,
+Refshauge
+,
+K
+.
+
+
+M
+.
+
+
+,
+Blyth
+,
+F
+.
+
+
+M
+.
+
+
+,
+Main
+,
+C
+.
+
+
+J
+.
+
+
+,
+Hush
+,
+J
+.
+
+
+M
+.
+
+
+,
+Lo
+,
+S
+.
+
+
+,
+&
+McAuley
+,
+J
+.
+
+
+H
+.
+
+
+(2019)
+.
+
+
+Effect
+of
+Intensive
+Patient
+Education
+vs
+Placebo
+Patient
+Education
+on
+Outcomes
+in
+Patients
+With
+Acute
+Low
+Back
+Pain
+:
+A
+Randomized
+Clinical
+Trial
+.
+
+
+JAMA
+neurology
+,
+76(2)
+,
+161–169
+.
+
+
+https
+://doi
+.
+
+org/10
+.
+
+1001/jamaneurol
+.
 
 2018
+.
 
-3376 doi
-httpsdoi
+3376
+DOI
+:
+https
+://doi
+.
 
-org10
+org/10
+.
 
-1001jamaneurol
+1001/jamaneurol
+.
 
 2018
+.
 
 3376
 
-vélez j
-
- 1999
-
- majjima nikaya
-
- los sermones medios del buddha
+Vélez
+,
+J
+.
 
 
-barcelona kairós
+(1999)
+.
+
+
+Majjima
+Nikaya
+.
+
+
+Los
+sermones
+medios
+del
+Buddha
+.
+
+
+Barcelona
+:
+Kairós
+.
 
 
 
-wall p
+Wall
+,
+P
+.
 
-d
-
- 1979
-
- on the relation of injury to pain
-
- pain
-
- 6253264
+D
+.
 
 
-doi httpsdoi
-
-org10
-
-10160304395979900472
-
-zimney k
-
- van bogaert w
-
- louw a
-
- 2023 the biology of chronic pain
-and its implications for pain neuroscience education state of the art
+(1979)
+.
 
 
-j clin med
+On
+the
+relation
+of
+injury
+to
+pain
+.
 
- 2112134199
 
- doi 10
+Pain
+.
 
-3390jcm12134199
 
- doi
-httpsdoi
+6
+:253-264
+.
 
-org10
 
-3390jcm12134199
+DOI
+:
+https
+://doi
+.
 
-cómo citar
+org/10
+.
+
+1016/0304-3959(79)90047-2
+
+Zimney
+,
+K
+.
+
+
+,
+Van
+Bogaert
+W
+.
+
+
+&
+Louw
+,
+A
+.
+
+
+(2023)
+The
+Biology
+of
+Chronic
+Pain
+and
+Its
+Implications
+for
+Pain
+Neuroscience
+Education
+:
+State
+of
+the
+Art
+.
+
+
+J
+Clin
+Med
+.
+
+
+21
+;12(13)
+:4199
+.
+
+
+doi
+:
+10
+.
+
+3390/jcm12134199
+.
+
+
+DOI
+:
+https
+://doi
+.
+
+org/10
+.
+
+3390/jcm12134199
+
+Cómo
+citar
 
 ×
 
-move
+[MOVE]
 
-revista científica orientada al movimiento terapéutico
+Revista
+científica
+orientada
+al
+movimiento
+terapéutico
 
-open access
+Open
+Access
 
-eissn 26956330
+eISSN
+:
+2695-6330
 
-enviar un artículo
+Enviar
+un
+artículo
 
-enviar un artículo
+Enviar
+un
+artículo
 
-volúmenes por año
+Volúmenes
+por
+año
 
 2024
 
-volumen 6 número 1
+Volumen
+6
+:
+Número
+1
 
 2023
 
-vol
+Vol
+.
 
- 5 núm
 
- 2 2023 diciembre
+5
+Núm
+.
 
-volumen 5 número 1
+
+2
+(2023)
+:
+Diciembre
+
+Volumen
+5
+:
+Número
+1
 
 2022
 
-volumen 4 número 2
+Volumen
+4
+:
+Número
+2
 
-volumen 4 número 1
+Volumen
+4
+:
+Número
+1
 
 2021
 
-volumen 3 número 2
+Volumen
+3
+:
+Número
+2
 
-volumen 3 número 1
+Volumen
+3
+:
+Número
+1
 
 2020
 
-volumen 2 número 2
+Volumen
+2
+:
+Número
+2
 
-volumen 2 número 1
+Volumen
+2
+:
+Número
+1
 
 2019
 
-volumen 1 número 1
+Volumen
+1
+:
+Número
+1
 
-gscitation
+gsCitation
 
-palabras clave
+Palabras
+clave
 
-indexada en
+Indexada
+en
 
-latindex
+[Latindex]
 
-dialnet
+[DIALNET]
 
-número actual
+Número
+actual
 
- logo atom
- logo rss2
- logo rss1
+-
+[Logo
+Atom]
+-
+[Logo
+RSS2]
+-
+[Logo
+RSS1]
 
-© copyright 2023 
-
- todos los derechos reservados
-
- centro superior de
-estudios universitarios la salle cseuls
-
- universidad autónoma de
-madrid
-
- todos los contenidos y artículos de la revista move y cseu la
-salle is licensed under a creative commons
-reconocimientonocomercialsinobraderivada 4
-
-0 internacional license
-
+©
+Copyright
+2023
+-
+.
 
 
-licencia de creative commons
+Todos
+los
+derechos
+reservados
+.
+
+
+Centro
+Superior
+de
+Estudios
+Universitarios
+La
+Salle
+(CSEULS)
+.
+
+
+Universidad
+Autónoma
+de
+Madrid
+.
+
+
+Todos
+los
+contenidos
+y
+artículos
+de
+la
+revista
+MOVE
+y CSEU
+La
+Salle is
+licensed
+under
+a Creative
+Commons
+Reconocimiento-NoComercial-SinObraDerivada
+4
+.
+
+0
+Internacional
+License
+.
+
+
+
+[Licencia
+de
+Creative
+Commons]
 
  
 
-política de protección de datos  politica de privacidad  política de
-cookies  accesibilidad
+Política
+de
+Protección
+de
+Datos - Politica
+de
+privacidad - Política
+de
+cookies - Accesibilidad
 
-themes by openjournaltheme
+Themes
+by
+Openjournaltheme
+.
 
 com
 
-citado por
+Citado
+por
 
- total desde 2020
- 
- citas 185 179
- Índice h 6 6
- Índice i10 2 1
+
+Total
+Desde
+2020
+
+------------
+-------
+------------
+
+Citas
+185
+179
+
+Índice
+h
+6
+6
+
+Índice
+i10
+2
+1
 
 0
 

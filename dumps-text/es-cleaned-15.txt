@@ -1,360 +1,1473 @@
-logo chile psicologos
+[logo
+chile
+psicologos]
 
- especialistas
- aranceles
- descuentos
- realiza un test
- blog
- contacto
+-
+Especialistas
+-
+Aranceles
+
+-
+Descuentos
+-
+Realiza
+un
+test
+-
+Blog
+-
+Contacto
+
+[][]
+
+-
+Especialistas
+-
+Aranceles
+
+-
+Descuentos
+-
+Realiza
+un
+test
+-
+Blog
+-
+Contacto
+
+Ingresar
+
+Reservar
+
+Reserva
+una
+Hora
+
+[]
+
+No
+podemos
+procesar
+tu
+pago
+.
 
 
-
- especialistas
- aranceles
- descuentos
- realiza un test
- blog
- contacto
-
-ingresar
-
-reservar
-
-reserva una hora
-
-
-
-no podemos procesar tu pago
-
- inténtalo de nuevo
-
-
-
-atrÁs
-
-siguiente
-
-confirmar reserva
-
-volver a intentar
-
-
-
-¡reserva realizada
-
- 🎉
-
-su número de confirmación
-
- agregar a google calendar
-
- agregar a ical calendar
-
- hacer otra reserva
-
- finalizar
-
-chile psicologos
-
-reservar
-
- ingresar
- especialistas
- aranceles
- descuentos
- realiza un test
- blog
- contacto
+Inténtalo
+de
+nuevo
+.
 
 
 
- ingresar
- especialistas
- aranceles
- descuentos
- realiza un test
- blog
- contacto
+ATRÁS
 
-encuentra un psicólogo y reserva hora
+SIGUIENTE
 
-selecciona un servicio tu previsión y modalidad en que deseas la
+CONFIRMAR
+RESERVA
+
+VOLVER
+A
+INTENTAR
+
+[]
+
+¡Reserva
+realizada
+!
+
+
+🎉
+
+Su
+número
+de
+confirmación
+:
+
+[]
+Agregar
+a
+Google
+Calendar
+
+[]
+Agregar
+a
+iCal
+Calendar
+
+[]
+Hacer
+otra
+reserva
+
+[]
+Finalizar
+
+[chile
+psicologos]
+
+Reservar
+
+-
+INGRESAR
+-
+Especialistas
+-
+Aranceles
+
+-
+Descuentos
+-
+Realiza
+un
+test
+-
+Blog
+-
+Contacto
+
+[][]
+
+-
+INGRESAR
+-
+Especialistas
+-
+Aranceles
+
+-
+Descuentos
+-
+Realiza
+un
+test
+-
+Blog
+-
+Contacto
+
+Encuentra
+un
+psicólogo
+y
+reserva
+hora
+
+Selecciona
+un
+servicio
+,
+tu
+previsión
+y
+modalidad
+en
+que
+deseas
+la
 atención
 
- 
-
- listingtype
-
-name 
- prev
- next
-
-choice
-
-label label
-
-choice
-
-label label
-
-choice
-
-label label
-
-buscar
+-
 
 
 
- citas online 
+{{
+listingType
+.
+
+name
+}}
+-
+prev
+-
+next
+
+{{choice
+.
+
+label}}
+{{label}}
+
+{{choice
+.
+
+label}}
+{{label}}
+
+{{choice
+.
+
+label}}
+{{label}}
+
+Buscar
+
+[]
+
+
+Citas
+Online
+
+
+[]
+
+
+Citas
+Presenciales
+
+
+[]
+
+4
+,9/5
+⭐⭐⭐⭐⭐
+
++2
+mil
+Reseñas
+
+[]
+
+
+Bajos
+Aranceles
+
+
+[]
+
+
+Fonasa
+e
+Isapre
+
+
+Los
+estados
+de
+conciencia
+en
+psicología
+
+[]
+
+Nuestro
+cerebro
+establece
+contacto
+con
+el
+ambiente
+para
+poder
+desenvolvernos
+en
+él
+,
+esto
+se
+lleva
+a
+cabo
+mediante
+dos
+sistemas
+:
+el
+sistema
+de
+la
+consciencia
+y
+el
+sistema
+de
+percepción
+;
+La
+percepción
+incluye
+la
+capacidad
+para
+recibir
+información
+auditiva
+,
+visual
+,
+olfativa
+,
+gustativa
+y
+táctil
+.
+
+
+Conocer
+los
+estados
+de
+conciencia
+y
+sus
+características
+es
+importante
+para
+discernir
+entre
+niveles
+normales
+de
+conocimiento
+en
+determinadas
+circunstancias
+y
+patologías
+que
+requieren
+atención
+inmediata
+.
 
 
 
- citas presenciales 
+Conciencia
+
+[Estado
+de
+consciencia]
+
+Se
+trata
+del
+acto
+psíquico
+de
+percibir
+los
+estímulos
+internos
+y
+externos
+haciendo
+posible
+que
+las
+personas
+podamos
+sentir
+,
+pensar
+,
+decidir
+y
+actuar
+de
+forma
+unitaria
+conformando
+lo
+que
+se
+denomina
+un
+“Yo
+total”
+.
+
+
+Además
+,
+permite
+el
+reconocimiento
+de
+la
+propia
+experiencia
+como
+estructura
+de
+la
+organización
+de
+la
+vida
+y
+el
+ser
+.
 
 
 
-495 ⭐⭐⭐⭐⭐
+ 
 
-2 mil reseñas
+La
+conciencia
+permite
+identificar
+que
+los
+fenómenos
+que
+suceden
+dentro
+de
+nuestro
+aparato
+cognitivo
+son
+propios
+y
+hace
+posible
+diferenciarlos
+y
+a
+los
+estímulos
+del
+entorno
+.
+
+
+Por
+lo
+tanto
+,
+la
+conciencia
+no
+puede
+considerarse
+una
+simple
+función
+debido
+a
+que
+sin
+esta
+no
+sería
+posible
+integrar
+ninguna
+de
+las
+funciones
+cognitivas
+que
+se
+dan
+en
+el
+sistema
+nervioso
+y
+cuentan
+un
+filtro
+que
+permite
+discriminar
+y
+seleccionar
+los
+estímulos
+que
+sean
+relevantes
+.
+
+ 
+
+ 
+
+Asimismo
+,
+si
+el
+campo
+de
+conciencia
+exagera
+su
+apertura
+puede
+ocurrir
+una
+inundación
+de
+estímulos
+por
+lo
+que
+la
+información
+sensorial
+perdería
+su
+beneficio
+.
+
+
+No
+obstante
+,
+en
+su
+funcionamiento
+natural
+este
+campo
+varía
+a
+lo
+largo
+del
+día
+estrechándose
+ante
+la
+fatiga
+,
+el
+sueño
+o
+la
+monotonía
+de
+estímulos
+y
+ampliándose
+en
+momentos
+de
+mayor
+interés
+o
+de
+estimulación
+más
+intensa
+;
+el
+punto
+eficiente
+se
+encuentra
+en
+un
+rango
+determinado
+donde
+se
+mantiene
+la
+capacidad
+para
+el
+procesamiento
+.
 
 
 
- bajos aranceles 
-
-
-
- fonasa e isapre 
-
-los estados de conciencia en psicología
-
-
-
-nuestro cerebro establece contacto con el ambiente para poder
-desenvolvernos en él esto se lleva a cabo mediante dos sistemas el
-sistema de la consciencia y el sistema de percepción la percepción
-incluye la capacidad para recibir información auditiva visual
-olfativa gustativa y táctil
-
- conocer los estados de conciencia y sus
-características es importante para discernir entre niveles normales de
-conocimiento en determinadas circunstancias y patologías que requieren
-atención inmediata
-
-
-
+Niveles
+principales
+de
 conciencia
 
-estado de consciencia
-
-se trata del acto psíquico de percibir los estímulos internos y externos
-haciendo posible que las personas podamos sentir pensar decidir y
-actuar de forma unitaria conformando lo que se denomina un “yo total”
-
-
-además permite el reconocimiento de la propia experiencia como
-estructura de la organización de la vida y el ser
-
-
-
- 
-
-la conciencia permite identificar que los fenómenos que suceden dentro
-de nuestro aparato cognitivo son propios y hace posible diferenciarlos y
-a los estímulos del entorno
-
- por lo tanto la conciencia no puede
-considerarse una simple función debido a que sin esta no sería posible
-integrar ninguna de las funciones cognitivas que se dan en el sistema
-nervioso y cuentan un filtro que permite discriminar y seleccionar los
-estímulos que sean relevantes
-
- 
-
- 
-
-asimismo si el campo de conciencia exagera su apertura puede ocurrir
-una inundación de estímulos por lo que la información sensorial perdería
-su beneficio
-
- no obstante en su funcionamiento natural este campo varía
-a lo largo del día estrechándose ante la fatiga el sueño o la monotonía
-de estímulos y ampliándose en momentos de mayor interés o de
-estimulación más intensa el punto eficiente se encuentra en un rango
-determinado donde se mantiene la capacidad para el procesamiento
-
-
-
-niveles principales de conciencia
-
 1
+.
 
- el conocimiento es un estado de vigilia en el que se puede recibir y
- comprender todo lo que sucede en el ambiente hablar moverse y
- responder
+
+El
+conocimiento
+es
+un
+estado
+de
+vigilia
+en
+el
+que
+se
+puede
+recibir
+y
+
+comprender
+todo
+lo
+que
+sucede
+en
+el
+ambiente
+,
+hablar
+,
+moverse
+y
+
+responder
+.
 
 
 2
-
- cuando una persona puede percibir su entorno pero no puede responder
- con normalidad se encuentra en un estado de conocimiento reducido
- por ejemplo cuando acabamos de despertar puede no responder tiene
- la mirada fija y es posible que no presente expresiones faciales
+.
 
 
- posiblemente no recuerde lo que sucedió
+Cuando
+una
+persona
+puede
+percibir
+su
+entorno
+pero
+no
+puede
+responder
+
+con
+normalidad
+se
+encuentra
+en
+un
+estado
+de
+conocimiento
+reducido
+,
+
+por
+ejemplo
+,
+cuando
+acabamos
+de
+despertar
+,
+puede
+no
+responder
+,
+tiene
+
+la
+mirada
+fija
+y
+es
+posible
+que
+no
+presente
+expresiones
+faciales
+.
+
+
+
+Posiblemente
+no
+recuerde
+lo
+que
+sucedió
+.
 
 
 3
+.
 
- la pérdida de conocimiento se da cuando una persona no responde a lo
- que sucede a su alrededor y no está “despierto”
 
- algunas de sus
- formas son el desmayo el coma y la anestesia general
+La
+pérdida
+de
+conocimiento
+se
+da
+cuando
+una
+persona
+no
+responde
+a
+lo
+
+que
+sucede
+a
+su
+alrededor
+y
+no
+está
+“despierto”
+.
+
+
+Algunas
+de
+sus
+
+formas
+son
+el
+desmayo
+,
+el
+coma
+y
+la
+anestesia
+general
+.
 
 
 
  
 
-alteración del estado de conciencia
-
-es la situación de un paciente que se encuentra ante fallas o lesiones
-neurológicas su capacidad para interactuar y comprender la realidad y
-la pérdida de funciones motoras conscientes e inconscientes
-
- los
-trastornos de la conciencia suelen ser intermitentes o fluctuantes
-cuando se debe a daños en áreas del sistema nervioso como la corteza
-cerebral se pueden recuperar las áreas afectadas y recobrar la
+Alteración
+del
+estado
+de
 conciencia
 
- de la misma forma en enfermedades crónicas de la corteza
-cerebral la conciencia es de las primeras funciones en recuperarse
-cuando los daños son reversibles
+Es
+la
+situación
+de
+un
+paciente
+que
+se
+encuentra
+ante
+fallas
+o
+lesiones
+neurológicas
+,
+su
+capacidad
+para
+interactuar
+y
+comprender
+la
+realidad
+y
+la
+pérdida
+de
+funciones
+motoras
+conscientes
+e
+inconscientes
+.
+
+
+Los
+trastornos
+de
+la
+conciencia
+suelen
+ser
+intermitentes
+o
+fluctuantes
+,
+cuando
+se
+debe
+a
+daños
+en
+áreas
+del
+sistema
+nervioso
+como
+la
+corteza
+cerebral
+se
+pueden
+recuperar
+las
+áreas
+afectadas
+y
+recobrar
+la
+conciencia
+.
+
+
+De
+la
+misma
+forma
+,
+en
+enfermedades
+crónicas
+de
+la
+corteza
+cerebral
+la
+conciencia
+es
+de
+las
+primeras
+funciones
+en
+recuperarse
+cuando
+los
+daños
+son
+reversibles
+.
 
 
 
-estados de conciencia
+Estados
+de
+conciencia
 
-en relación a los niveles de conciencia se encuentran los estados de
-conciencia que tienen lugar ante determinadas alteraciones de la
-conciencia o psicopatología de la función y pueden ser transitorios o
-mantenerse por un largo periodo de tiempo
+En
+relación
+a
+los
+niveles
+de
+conciencia
+se
+encuentran
+los
+estados
+de
+conciencia
+,
+que
+tienen
+lugar
+ante
+determinadas
+alteraciones
+de
+la
+conciencia
+o
+psicopatología
+de
+la
+función
+y
+pueden
+ser
+transitorios
+o
+mantenerse
+por
+un
+largo
+periodo
+de
+tiempo
+.
 
- asimismo la conciencia se
-desvanece por sueño profundo o estados como la anestesia general y se
-relaciona directamente con determinadas estructuras cerebrales según el
-funcionamiento de cada una de ellas
+
+Asimismo
+,
+la
+conciencia
+se
+desvanece
+por
+sueño
+profundo
+o
+estados
+como
+la
+anestesia
+general
+y
+se
+relaciona
+directamente
+con
+determinadas
+estructuras
+cerebrales
+según
+el
+funcionamiento
+de
+cada
+una
+de
+ellas
+.
 
 
 
+Coma
+
+El
+término
+proviene
+del
+significado
+“sueño
+profundo”
+y
+se
+caracteriza
+por
+una
+ausencia
+total
+de
+vigilia
+,
+relaciones
+y
+del
+fenómeno
+despertar
+que
+en
+raras
+ocasiones
+dura
+más
+de
+cuatro
+semanas
+y
+puede
+alargarse
+durante
+meses
+o
+incluso
+años
+.
+
+
+Su
+estadio
+más
+grave
+es
+la
+falla
+cerebral
+y
+neurológica
+que
+podría
+evolucionar
+a
+favor
+o
+llevar
+a
+un
+estado
+vegetativo
+o
+de
+muerte
+cerebral
+.
+
+
+
+Estado
+vegetativo
+
+Es
+la
+recuperación
+del
+estado
+de
+vigilia
+con
+pérdida
+del
+contenido
+de
+conciencia
+tras
+un
+estado
+de
 coma
-
-el término proviene del significado “sueño profundo” y se caracteriza
-por una ausencia total de vigilia relaciones y del fenómeno despertar
-que en raras ocasiones dura más de cuatro semanas y puede alargarse
-durante meses o incluso años
-
- su estadio más grave es la falla cerebral
-y neurológica que podría evolucionar a favor o llevar a un estado
-vegetativo o de muerte cerebral
-
-
-
-estado vegetativo
-
-es la recuperación del estado de vigilia con pérdida del contenido de
-conciencia tras un estado de coma se mantienen las funciones
-cardiorrespiratorias y el buen estado de los pares craneales
-
- por otra
-parte el estado vegetativo permanente es de más de 12 meses en daño
-encefálico traumático y sólo más de tres meses en el no traumático
+,
+se
+mantienen
+las
+funciones
+cardiorrespiratorias
+y
+el
+buen
+estado
+de
+los
+pares
+craneales
+.
 
 
+Por
+otra
+parte
+,
+el
+estado
+vegetativo
+permanente
+es
+de
+más
+de
+12
+meses
+en
+daño
+encefálico
+traumático
+y
+sólo
+más
+de
+tres
+meses
+en
+el
+no
+traumático
+.
 
-estado de conciencia mínima 
-
-se da por alteraciones globales de conciencia que incluye elementos de
-la vigilia se puede apreciar como estados intermitentes de conciencia
-de sí mismo o del medio ambiente
 
 
+Estado
+de
+conciencia
+mínima 
 
-delirium
+Se
+da
+por
+alteraciones
+globales
+de
+conciencia
+que
+incluye
+elementos
+de
+la
+vigilia
+,
+se
+puede
+apreciar
+como
+estados
+intermitentes
+de
+conciencia
+de
+sí
+mismo
+o
+del
+medio
+ambiente
+.
 
-alteración de la cognición en la que ocurre una disminución de la
-atención pensamiento desorganizado cambios en el contenido de
-conciencia y la evolución del estado es fluctuante
 
- se presentan a la
-vez elementos de despertar y cierto nivel de percepción de sí mismo y
-del entorno
+
+Delirium
+
+Alteración
+de
+la
+cognición
+en
+la
+que
+ocurre
+una
+disminución
+de
+la
+atención
+,
+pensamiento
+desorganizado
+,
+cambios
+en
+el
+contenido
+de
+conciencia
+y
+la
+evolución
+del
+estado
+es
+fluctuante
+.
+
+
+Se
+presentan
+a
+la
+vez
+elementos
+de
+despertar
+y
+cierto
+nivel
+de
+percepción
+de
+sí
+mismo
+y
+del
+entorno
+.
 
 
 
  
 
-síndrome de enclaustramiento
+Síndrome
+de
+enclaustramiento
 
-no se trata de una alteración del estado de conciencia pero puede
-confundirse con una
+No
+se
+trata
+de
+una
+alteración
+del
+estado
+de
+conciencia
+pero
+puede
+confundirse
+con
+una
+.
 
- se conserva la vigilia y el contenido de conciencia
-en presencia de cuadriplejia y anartria por una lesión en la
-protuberancia ventral
 
- se pueden mantener capacidades como los
-movimientos oculares verticales y parpadeo
+Se
+conserva
+la
+vigilia
+y
+el
+contenido
+de
+conciencia
+en
+presencia
+de
+cuadriplejia
+y
+anartria
+por
+una
+lesión
+en
+la
+protuberancia
+ventral
+.
+
+
+Se
+pueden
+mantener
+capacidades
+como
+los
+movimientos
+oculares
+verticales
+y
+parpadeo
+.
 
 
 
  
 
-obnubilación
+Obnubilación
 
-es una alteración moderada de la vigilia donde la atención se enfoca
-sólo en un punto fijo
+Es
+una
+alteración
+moderada
+de
+la
+vigilia
+donde
+la
+atención
+se
+enfoca
+sólo
+en
+un
+punto
+fijo
+.
 
 
 
-estupor
+Estupor
 
-se caracteriza por una pérdida de las respuestas a órdenes verbales pero
-mantiene una reacción normal ante el dolor y puede discriminar dónde se
-recibe el estímulo doloroso
+Se
+caracteriza
+por
+una
+pérdida
+de
+las
+respuestas
+a
+órdenes
+verbales
+pero
+mantiene
+una
+reacción
+normal
+ante
+el
+dolor
+y
+puede
+discriminar
+dónde
+se
+recibe
+el
+estímulo
+doloroso
+.
 
 
 
-somnolencia
+Somnolencia
 
-tendencia al sueño que se da de forma natural se conservan respuestas
-apropiadas ante órdenes verbales simples y complejas del mismo modo que
-los estímulos dolorosos pero con una disminución de la comprensión el
-razonamiento y la coherencia
+Tendencia
+al
+sueño
+que
+se
+da
+de
+forma
+natural
+,
+se
+conservan
+respuestas
+apropiadas
+ante
+órdenes
+verbales
+simples
+y
+complejas
+,
+del
+mismo
+modo
+que
+los
+estímulos
+dolorosos
+pero
+con
+una
+disminución
+de
+la
+comprensión
+,
+el
+razonamiento
+y
+la
+coherencia
+.
 
 
 
  
 
-mutismo aquinético
+Mutismo
+aquinético
 
-se conserva el estado de vigilia pero no ejerce respuestas a los
-estímulos ausencia de reflejos anormales o de espasmos de este modo
-se confirma que las vías corticoespinales se mantienen en buen estado
+Se
+conserva
+el
+estado
+de
+vigilia
+pero
+no
+ejerce
+respuestas
+a
+los
+estímulos
+,
+ausencia
+de
+reflejos
+anormales
+o
+de
+espasmos
+,
+de
+este
+modo
+,
+se
+confirma
+que
+las
+vías
+corticoespinales
+se
+mantienen
+en
+buen
+estado
+.
 
 
 
-coma inducido o iatrogénico
+Coma
+inducido
+o
+iatrogénico
 
-es un estado de coma que se causa por sedantes que se efectúa en caso de
-una patología o lesión cerebral que aumente la presión intracraneana
-reducen el metabolismo y el flujo cerebral a favor de las funciones que
-ocurren en el tallo cerebral
+Es
+un
+estado
+de
+coma
+que
+se
+causa
+por
+sedantes
+que
+se
+efectúa
+en
+caso
+de
+una
+patología
+o
+lesión
+cerebral
+que
+aumente
+la
+presión
+intracraneana
+,
+reducen
+el
+metabolismo
+y
+el
+flujo
+cerebral
+a
+favor
+de
+las
+funciones
+que
+ocurren
+en
+el
+tallo
+cerebral
+.
 
- un ejemplo de estos casos que no se debe
-a una patología neurológica se da cuando se necesita ventilación
-mecánica para un paciente que durará más de lo habitual
+
+Un
+ejemplo
+,
+de
+estos
+casos
+que
+no
+se
+debe
+a
+una
+patología
+neurológica
+se
+da
+cuando
+se
+necesita
+ventilación
+mecánica
+para
+un
+paciente
+que
+durará
+más
+de
+lo
+habitual
+.
 
 
 
@@ -362,348 +1475,1191 @@ mecánica para un paciente que durará más de lo habitual
 
  
 
-comparte
+Comparte
+:
+
+[]
+
+[]
+
+[]
+
+[]
+
+Realiza
+un
+Test
+:
+
+[]
+
+Test
+de
+Traumas
+:
+profundiza
+tu
+autoconocimiento
+en
+10
+minutos
+
+[]
+
+Test
+de
+Inteligencia
+:
+¿Cuál
+es
+tu
+inteligencia
+predominante
+?
 
 
 
+[]
+
+Test
+de
+ansiedad
+:
+preguntas
+para
+averiguar
+tu
+grado
+de
+agitación
+
+[]
+
+Test
+Online
+:
+Test
+Vocacional
+.
 
 
+Duración
+:20
+minutos
+
+[]
+
+Test
+Online
+:
+Trastorno
+Obsesivo
+Compulsivo
+
+[]
+
+Test
+Online
+:
+Adicciones
+
+[]
+
+Test
+Online
+:
+Problemas
+de
+Pareja
+
+[]
+
+Test
+Online
+:
+Fobia
+Social
+
+[]
+
+Test
+de
+Depresión
+–
+Chile
+Psicólogos
+
+[]
+
+Crisis
+De
+Pánico
+:
+Test
+Online
+Con
+Resultado
+Inmediato
+
+Para
+leer
+:
+
+[Una
+figura
+solitaria
+se
+sienta
+en
+un
+banco
+del
+parque
+,
+mirando
+pensativamente
+a
+la
+distancia
+mientras
+la
+suave
+luz
+del
+sol
+se
+filtra
+a
+través
+de
+lo
+.
 
 
+.
 
 
-realiza un test
+.
 
+]
 
+Como
+afrontar
+la
+soledad
+sin
+sentirte
+incompleto
 
-test de traumas profundiza tu autoconocimiento en 10 minutos
-
-
-
-test de inteligencia ¿cuál es tu inteligencia predominante
-
-
-
-
-
-test de ansiedad preguntas para averiguar tu grado de agitación
-
-
-
-test online test vocacional
-
- duración20 minutos
-
-
-
-test online trastorno obsesivo compulsivo
-
-
-
-test online adicciones
-
-
-
-test online problemas de pareja
-
-
-
-test online fobia social
-
-
-
-test de depresión – chile psicólogos
-
-
-
-crisis de pánico test online con resultado inmediato
-
-para leer
-
-una figura solitaria se sienta en un banco del parque mirando
-pensativamente a la distancia mientras la suave luz del sol se filtra a
-través de lo
-
-
-
-
-
-
-
-como afrontar la soledad sin sentirte incompleto
-
-un paisaje tranquilo al amanecer con cálidos naranjas y suaves rosas en
-el cielo un cuerpo de agua sereno piedras lisas y flores en flor que
+[Un
+paisaje
+tranquilo
+al
+amanecer
+con
+cálidos
+naranjas
+y
+suaves
+rosas
+en
+el
+cielo
+,
+un
+cuerpo
+de
+agua
+sereno
+,
+piedras
+lisas
+y
+flores
+en
+flor
+que
 simb
+.
 
 
+.
 
 
+.
+
+]
+
+Pasos
+para
+mejorar
+tu
+relacion
+contigo
+mismo
+
+[Un
+jardín
+sereno
+rodeado
+de
+una
+cerca
+blanca
+,
+lleno
+de
+flores
+coloridas
+y
+vegetación
+verde
+,
+que
+transmite
+paz
+y
+bienestar
+.
+
+]
+
+Por
+que
+es
+importante
+poner
+limites
+y
+como
+hacerlo
+
+[Una
+persona
+está
+sentada
+en
+un
+escritorio
+desordenado
+,
+mirando
+pensativamente
+una
+larga
+lista
+de
+tareas
+mientras
+sostiene
+una
+taza
+de
+café
+,
+rodeada
+.
 
 
-
-pasos para mejorar tu relacion contigo mismo
-
-un jardín sereno rodeado de una cerca blanca lleno de flores coloridas
-y vegetación verde que transmite paz y bienestar
+.
 
 
+.
 
-por que es importante poner limites y como hacerlo
+]
 
-una persona está sentada en un escritorio desordenado mirando
-pensativamente una larga lista de tareas mientras sostiene una taza de
-café rodeada
+Como
+dejar
+de
+procrastinar
+y
+alcanzar
+tus
+metas
 
-
-
-
-
-
-
-como dejar de procrastinar y alcanzar tus metas
-
-un reloj de arena con granos de arena cayendo lentamente frente a una
-carretera recta que se pierde en el horizonte todo en tonos suaves y
+[Un
+reloj
+de
+arena
+con
+granos
+de
+arena
+cayendo
+lentamente
+,
+frente
+a
+una
+carretera
+recta
+que
+se
+pierde
+en
+el
+horizonte
+,
+todo
+en
+tonos
+suaves
+y
 melanc
+.
 
 
+.
 
 
+.
+
+]
+
+Que
+hacer
+cuando
+te
+sientes
+atrapado
+en
+la
+rutina
+
+[Un
+grupo
+diverso
+de
+personas
+sonrientes
+de
+pie
+juntas
+en
+un
+entorno
+brillante
+y
+soleado
+con
+flores
+en
+plena
+floración
+,
+simbolizando
+la
+autoestima
+y
+.
 
 
-
-que hacer cuando te sientes atrapado en la rutina
-
-un grupo diverso de personas sonrientes de pie juntas en un entorno
-brillante y soleado con flores en plena floración simbolizando la
-autoestima y
+.
 
 
+.
+
+]
+
+Como
+fortalecer
+tu
+autoestima
+de
+manera
+efectiva
+
+[Una
+persona
+sentada
+frente
+a
+una
+computadora
+en
+una
+oficina
+desordenada
+,
+rodeada
+de
+documentos
+y
+una
+taza
+de
+café
+,
+con
+expresión
+de
+tensión
+y
+preoc
+.
 
 
+.
 
 
+.
 
-como fortalecer tu autoestima de manera efectiva
+]
 
-una persona sentada frente a una computadora en una oficina
-desordenada rodeada de documentos y una taza de café con expresión de
-tensión y preoc
+Estrategias
+para
+gestionar
+el
+estres
+en
+el
+trabajo
 
-
-
-
-
-
-
-estrategias para gestionar el estres en el trabajo
-
-un camino que se adentra en un bosque sereno rodeado de hojas caídas y
-luz suave filtrándose entre los árboles simbolizando el viaje hacia la
+[Un
+camino
+que
+se
+adentra
+en
+un
+bosque
+sereno
+,
+rodeado
+de
+hojas
+caídas
+y
+luz
+suave
+filtrándose
+entre
+los
+árboles
+,
+simbolizando
+el
+viaje
+hacia
+la
 san
+.
 
 
+.
 
 
+.
+
+]
+
+Pasos
+para
+superar
+una
+ruptura
+sin
+sentirte
+perdido
+
+[Una
+persona
+se
+encuentra
+triunfante
+en
+la
+cima
+de
+una
+montaña
+al
+amanecer
+,
+con
+los
+brazos
+levantados
+,
+rodeada
+de
+colores
+suaves
+y
+cálidos
+que
+evoca
+.
 
 
-
-pasos para superar una ruptura sin sentirte perdido
-
-una persona se encuentra triunfante en la cima de una montaña al
-amanecer con los brazos levantados rodeada de colores suaves y cálidos
-que evoca
+.
 
 
+.
+
+]
+
+Claves
+para
+encontrar
+motivacion
+cuando
+todo
+parece
+dificil
+
+[Una
+cadena
+rota
+en
+primer
+plano
+,
+con
+un
+camino
+abierto
+y
+un
+cielo
+despejado
+de
+fondo
+,
+rodeado
+de
+paisajes
+naturales
+que
+evocan
+tranquilidad
+y
+liber
+.
 
 
+.
 
 
+.
 
-claves para encontrar motivacion cuando todo parece dificil
+]
 
-una cadena rota en primer plano con un camino abierto y un cielo
-despejado de fondo rodeado de paisajes naturales que evocan
-tranquilidad y liber
+Como
+dejar
+de
+preocuparte
+por
+el
+que
+diran
 
-
-
-
-
-
-
-como dejar de preocuparte por el que diran
-
-un camino iluminado rodeado de naturaleza vibrante con una brújula y
-un pequeño trampolín simbolizando el crecimiento personal y la
-superación de
-
-
-
-
-
-
-
-tips para vencer el miedo al fracaso
-
-un amanecer pacífico sobre un lago tranquilo con azules pastel y
-cálidos amarillos reflejándose en el agua suaves ondulaciones y
-delicadas flores
-
-
-
-
-
-
-
-como controlar tus pensamientos negativos y vivir en paz
-
-una figura pacífica se sienta en un exuberante entorno verde con la
-suave luz del sol filtrándose a través de los árboles con un diario y
-una taz
+[Un
+camino
+iluminado
+rodeado
+de
+naturaleza
+vibrante
+,
+con
+una
+brújula
+y
+un
+pequeño
+trampolín
+,
+simbolizando
+el
+crecimiento
+personal
+y
+la
+superación
+de
+.
 
 
+.
 
 
+.
+
+]
+
+Tips
+para
+vencer
+el
+miedo
+al
+fracaso
+
+[Un
+amanecer
+pacífico
+sobre
+un
+lago
+tranquilo
+,
+con
+azules
+pastel
+y
+cálidos
+amarillos
+reflejándose
+en
+el
+agua
+,
+suaves
+ondulaciones
+y
+delicadas
+flores
+.
 
 
+.
 
-por que te sientes agotado emocionalmente y como solucionarlo
 
-una familia diversa sentada en un entorno acogedor conversando y
-sonriendo rodeada de plantas verdes y luz suave que evoca armonía y
+.
+
+]
+
+Como
+controlar
+tus
+pensamientos
+negativos
+y
+vivir
+en
+paz
+
+[Una
+figura
+pacífica
+se
+sienta
+en
+un
+exuberante
+entorno
+verde
+,
+con
+la
+suave
+luz
+del
+sol
+filtrándose
+a
+través
+de
+los
+árboles
+,
+con
+un
+diario
+y
+una
+taz
+.
+
+
+.
+
+
+.
+
+]
+
+Por
+que
+te
+sientes
+agotado
+emocionalmente
+y
+como
+solucionarlo
+
+[Una
+familia
+diversa
+sentada
+en
+un
+entorno
+acogedor
+,
+conversando
+y
+sonriendo
+,
+rodeada
+de
+plantas
+verdes
+y
+luz
+suave
+que
+evoca
+armonía
+y
 comunicación
+.
 
 
+.
 
 
+.
+
+]
+
+Como
+manejar
+los
+conflictos
+familiares
+con
+calma
+
+[Un
+grupo
+de
+jóvenes
+adultos
+está
+reunido
+en
+un
+parque
+soleado
+,
+participando
+en
+una
+conversación
+positiva
+,
+rodeados
+de
+exuberante
+vegetación
+,
+irradi
+.
 
 
-
-como manejar los conflictos familiares con calma
-
-un grupo de jóvenes adultos está reunido en un parque soleado
-participando en una conversación positiva rodeados de exuberante
-vegetación irradi
+.
 
 
+.
 
+]
 
+Tecnicas
+para
+superar
+la
+inseguridad
+en
+tu
+vida
+diaria
 
-
-
-tecnicas para superar la inseguridad en tu vida diaria
-
-un grupo diverso de profesionales en una oficina moderna participando
-en una discusión de apoyo mostrando lenguaje corporal positivo y
+[Un
+grupo
+diverso
+de
+profesionales
+en
+una
+oficina
+moderna
+,
+participando
+en
+una
+discusión
+de
+apoyo
+,
+mostrando
+lenguaje
+corporal
+positivo
+y
 expresione
+.
+
+
+.
+
+
+.
+
+]
+
+Acoso
+Laboral
+:
+Cómo
+Defenderte
+y
+Recuperar
+Tu
+Espacio
+Seguro
+
+[Una
+ilustración
+realista
+de
+un
+cerebro
+rodeado
+de
+símbolos
+de
+inteligencia
+como
+libros
+,
+rompecabezas
+y
+engranajes
+,
+con
+un
+fondo
+brillante
+y
+atractivo
+.
+
+]
+
+IQ
+Promedio
+:
+¿Qué
+Significa
+Realmente
+Ser
+Inteligente
+?
 
 
 
-
-
-
-
-acoso laboral cómo defenderte y recuperar tu espacio seguro
-
-una ilustración realista de un cerebro rodeado de símbolos de
-inteligencia como libros rompecabezas y engranajes con un fondo
-brillante y atractivo
-
-
-
-iq promedio ¿qué significa realmente ser inteligente
-
-
-
-un grupo de profesionales involucrados en una discusión alrededor de
-una mesa con papeles de evaluación y gráficos en una oficina moderna
+[Un
+grupo
+de
+profesionales
+involucrados
+en
+una
+discusión
+alrededor
+de
+una
+mesa
+con
+papeles
+de
+evaluación
+y
+gráficos
+en
+una
+oficina
+moderna
+,
 destacan
+.
 
 
+.
 
 
+.
+
+]
+
+Tests
+Psicológicos
+Laborales
+:
+Lo
+Que
+las
+Empresas
+Buscan
+en
+un
+Candidato
+
+[Una
+persona
+se
+sienta
+sola
+en
+un
+banco
+del
+parque
+,
+mirando
+pensativamente
+a
+la
+distancia
+entre
+la
+exuberante
+vegetación
+,
+con
+la
+suave
+luz
+del
+sol
+f
+.
 
 
-
-tests psicológicos laborales lo que las empresas buscan en un candidato
-
-una persona se sienta sola en un banco del parque mirando
-pensativamente a la distancia entre la exuberante vegetación con la
-suave luz del sol f
+.
 
 
+.
 
+]
 
+Crisis
+Existencial
+:
+Cuando
+Todo
+Pierde
+Sentido
+y
+Cómo
+Encontrarlo
+de
+Nuevo
 
+[Un
+paisaje
+sereno
+al
+amanecer
+,
+con
+suaves
+nubes
+y
+suaves
+olas
+,
+que
+transmite
+tranquilidad
+y
+esperanza
+en
+un
+estilo
+realista
+.
 
+]
 
-crisis existencial cuando todo pierde sentido y cómo encontrarlo de nuevo
+Malos
+Pensamientos
+:
+Por
+Qué
+Aparecen
+y
+Cómo
+Recuperar
+la
+Paz
+Mental
 
-un paisaje sereno al amanecer con suaves nubes y suaves olas que
-transmite tranquilidad y esperanza en un estilo realista
+Frecuentes
 
+-
+Quienes
+Somos
+-
+Aranceles
+-
+Realiza
+un
+Test
+-
+Descuentos
 
+Tests
+Psicológicos
 
-malos pensamientos por qué aparecen y cómo recuperar la paz mental
+-
+Test
+de
+Ansiedad
+-
+Test
+de
+Depresión
+-
+Test
+Vocacional
+-
+Test
+de
+Traumas
 
-frecuentes
+Enlaces
+Rápidos
 
- quienes somos
- aranceles
- realiza un test
- descuentos
+-
+Área
+de
+Profesionales
+-
+Psicólogos
+por
+Fonasa
+-
+Psicólogos
+Fonasa
+en
+Santiago
+-
+Psicólogos
+Fonasa
+en
+Providencia
 
-tests psicológicos
+Facebook
+[]
+Twitter
+[]
+Youtube
+[]
+Whatsapp
+[]
+Instagram
+[]
+Linkedin
+[]
+Tiktok
+[]
 
- test de ansiedad
- test de depresión
- test vocacional
- test de traumas
+Paseo
+Bulnes
+317
+of
+611
+,
+Santiago
+/
+Rafael
+Cañas
+16
+of
+J
+,
+Providencia
+/
++56227547318
 
-enlaces rápidos
+[]
 
- Área de profesionales
- psicólogos por fonasa
- psicólogos fonasa en santiago
- psicólogos fonasa en providencia
+Frecuentes
 
-facebook twitter youtube whatsapp instagram linkedin 
-tiktok 
+-
+Quienes
+Somos
+-
+Aranceles
+-
+Realiza
+un
+Test
+-
+Descuentos
 
-paseo bulnes 317 of 611 santiago rafael cañas 16 of j providencia 56227547318
+[]
 
+Tests
+Psicológicos
 
+-
+Test
+de
+Ansiedad
+-
+Test
+de
+Depresión
+-
+Test
+Vocacional
+-
+Test
+de
+Traumas
 
-frecuentes
+[]
 
- quienes somos
- aranceles
- realiza un test
- descuentos
+Enlaces
+Rápidos
 
+-
+Área
+de
+Profesionales
+-
+Psicólogos
+por
+Fonasa
+-
+Psicólogos
+Fonasa
+en
+Santiago
+-
+Psicólogos
+Fonasa
+en
+Providencia
 
+[]
 
-tests psicológicos
+Facebook
+[]
+Twitter
+[]
+Youtube
+[]
+Linkedin
+[]
+Tiktok
+[]
+Phone-square-alt
+[]
 
- test de ansiedad
- test de depresión
- test vocacional
- test de traumas
-
-
-
-enlaces rápidos
-
- Área de profesionales
- psicólogos por fonasa
- psicólogos fonasa en santiago
- psicólogos fonasa en providencia
-
-
-
-facebook twitter youtube linkedin tiktok phonesquarealt
-
-
-carrito
+Carrito

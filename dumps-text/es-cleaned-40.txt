@@ -1,220 +1,813 @@
-saltar al contenido
+Saltar
+al
+contenido
 
-cio
+[CIO]
 
- inicio
- nosotros
- quiénes somos
- equipo profesional
- ¿por qué recibir tratamiento en el cio
+-
+Inicio
+-
+Nosotros
 
+-
+Quiénes
+somos
 
- ¿dónde estamos
+-
+Equipo
+profesional
 
-
- especialidades
- oncología clínica
- psicooncología
- nutrición
- fisiatría
- medicina paliativa
- medicina interna
- servicios asistenciales
- salas de quimioterapia
- unidad de mezclas intravenosas
- enfriamiento capilar
- sala de fisiatría
- servicios de soporte
- terapias de apoyo
- procura de medicamentos
- atención integral
- cartelera
- contacto
- solicitar cita
-
-menú cerrar
-
- inicio
- nosotros
- quiénes somos
- equipo profesional
- ¿por qué recibir tratamiento en el cio
+-
+¿Por
+qué
+recibir
+tratamiento
+en
+el
+CIO
+?
 
 
- ¿dónde estamos
+
+-
+¿Dónde
+estamos
+?
 
 
- especialidades
- oncología clínica
- psicooncología
- nutrición
- fisiatría
- medicina paliativa
- medicina interna
- servicios asistenciales
- salas de quimioterapia
- unidad de mezclas intravenosas
- enfriamiento capilar
- sala de fisiatría
- servicios de soporte
- terapias de apoyo
- procura de medicamentos
- atención integral
- cartelera
- contacto
- solicitar cita
+-
+Especialidades
 
-consciencia cerebro y dolor
+-
+Oncología
+clínica
+
+-
+Psicooncología
+
+-
+Nutrición
+
+-
+Fisiatría
+
+-
+Medicina
+Paliativa
+
+-
+Medicina
+Interna
+-
+Servicios
+asistenciales
+
+-
+Salas
+de
+quimioterapia
+
+-
+Unidad
+de
+mezclas
+intravenosas
+
+-
+Enfriamiento
+capilar
+
+-
+Sala
+de
+fisiatría
+-
+Servicios
+de
+soporte
+
+-
+Terapias
+de
+apoyo
+
+-
+Procura
+de
+medicamentos
+
+-
+Atención
+Integral
+-
+Cartelera
+-
+Contacto
+-
+Solicitar
+cita
+
+Menú
+Cerrar
+
+-
+Inicio
+-
+Nosotros
+
+-
+Quiénes
+somos
+
+-
+Equipo
+profesional
+
+-
+¿Por
+qué
+recibir
+tratamiento
+en
+el
+CIO
+?
+
+
+
+-
+¿Dónde
+estamos
+?
+
+
+-
+Especialidades
+
+-
+Oncología
+clínica
+
+-
+Psicooncología
+
+-
+Nutrición
+
+-
+Fisiatría
+
+-
+Medicina
+Paliativa
+
+-
+Medicina
+Interna
+-
+Servicios
+asistenciales
+
+-
+Salas
+de
+quimioterapia
+
+-
+Unidad
+de
+mezclas
+intravenosas
+
+-
+Enfriamiento
+capilar
+
+-
+Sala
+de
+fisiatría
+-
+Servicios
+de
+soporte
+
+-
+Terapias
+de
+apoyo
+
+-
+Procura
+de
+medicamentos
+
+-
+Atención
+Integral
+-
+Cartelera
+-
+Contacto
+-
+Solicitar
+cita
+
+Consciencia
+,
+cerebro
+y
+dolor
 
 1
+.
 
- inicio
+
+Inicio>
 2
+.
 
- artículos
+
+Artículos>
 3
+.
 
- consciencia cerebro y dolor
 
-en este momento estás viendo consciencia cerebro y dolor
+Consciencia
+,
+cerebro
+y
+dolor
 
- autor de la entradalic
+[En
+este
+momento
+estás
+viendo
+Consciencia
+,
+cerebro
+y
+dolor]
 
- susana pereira
- publicación de la entrada21 de noviembre de 2021
- categoría de la entradaartículos psicooncología
+-
+Autor
+de
+la
+entrada
+:Lic
+.
 
-la consciencia representa la experiencia subjetiva tanto de estímulos
-sensoriales percibidos como de eventos internos y son la memoria y el
-lenguaje los que favorecen la intersubjetividad de poder pensar en forma
+
+Susana
+Pereira
+-
+Publicación
+de
+la
+entrada
+:21
+de
+noviembre
+de
+2021
+-
+Categoría
+de
+la
+entrada
+:Artículos
+/
+Psicooncología
+
+La
+consciencia
+representa
+la
+experiencia
+subjetiva
+tanto
+de
+estímulos
+sensoriales
+percibidos
+como
+de
+eventos
+internos
+,
+y
+son
+la
+memoria
+y
+el
+lenguaje
+los
+que
+favorecen
+la
+intersubjetividad
+de
+poder
+pensar
+en
+forma
 consciente
+.
 
 
 
-el dolor por su parte es una expresión de una incomodidad corporal que
-sostenida en el cuerpo termina causando pérdida de la movilidad de la
-fuerza muscular y la tolerancia al esfuerzo
+El
+dolor
+por
+su
+parte
+es
+una
+expresión
+de
+una
+incomodidad
+corporal
+que
+sostenida
+en
+el
+cuerpo
+termina
+causando
+pérdida
+de
+la
+movilidad
+,
+de
+la
+fuerza
+muscular
+y
+la
+tolerancia
+al
+esfuerzo
+.
 
  
 
-la consciencia del dolor genera un incremento de la sensibilidad en la
-zona dolorosa reduce la movilidad voluntaria para proteger la zona
-dolorosa ello genera un círculo vicioso que degenera en la interrupción
-de una función muscular que a su vez incrementa el dolor
+La
+consciencia
+del
+dolor
+genera
+un
+incremento
+de
+la
+sensibilidad
+en
+la
+zona
+dolorosa
+,
+reduce
+la
+movilidad
+voluntaria
+para
+proteger
+la
+zona
+dolorosa
+,
+ello
+genera
+un
+Círculo
+Vicioso
+que
+degenera
+en
+la
+interrupción
+de
+una
+función
+muscular
+que
+a
+su
+vez
+incrementa
+el
+dolor
+.
 
  
 
-para romper el círculo será necesario buscar ayuda en el equipo
-multidisciplinario en el médico tratante fisiatra fisioterapeuta
-psicólogo este último le ayudará en el manejo de técnicas de
-distracción cognitiva relajación y visualización para lograr controlar
-la experiencia subjetiva elaborada a partir de la percepción de la
-limitación que el dolor genera
+Para
+romper
+el
+círculo
+será
+necesario
+buscar
+ayuda
+en
+el
+equipo
+multidisciplinario
+,
+en
+el
+médico
+tratante
+,
+fisiatra
+,
+fisioterapeuta
+,
+psicólogo
+;
+este
+último
+le
+ayudará
+en
+el
+manejo
+de
+técnicas
+de
+distracción
+cognitiva
+,
+relajación
+y
+visualización
+para
+lograr
+controlar
+la
+experiencia
+subjetiva
+elaborada
+a
+partir
+de
+la
+percepción
+de
+la
+limitación
+que
+el
+dolor
+genera
+.
 
  
 
-todo dolor tiene un componente físico y uno psicológico este último
-puede ser controlado en gran medida por el paciente si trabaja en las
-técnicas adecuadas para ello pudiendo lograr alivio y un control
-parcial de su situación
+Todo
+dolor
+tiene
+un
+componente
+físico
+y
+uno
+psicológico
+,
+este
+último
+puede
+ser
+controlado
+en
+gran
+medida
+por
+el
+paciente
+si
+trabaja
+en
+las
+técnicas
+adecuadas
+para
+ello
+;
+pudiendo
+lograr
+alivio
+y
+un
+control
+parcial
+de
+su
+situación
+.
 
 
 
-también podría gustarte
+También
+podría
+gustarte
 
-lee más sobre el artículo vivir el duelo de una amputación
+[Lee
+más
+sobre
+el
+artículo
+Vivir
+el
+duelo
+de
+una
+amputación]
 
-vivir el duelo de una amputación
+Vivir
+el
+duelo
+de
+una
+amputación
 
-5 de octubre de 2021
+5
+de
+octubre
+de
+2021
 
-lee más sobre el artículo para ti cuidador familiar de un niño o
-adolescente con diagnóstico de cáncer
+[Lee
+más
+sobre
+el
+artículo
+Para
+ti
+,
+cuidador
+,
+familiar
+de
+un
+niño
+o
+adolescente
+con
+diagnóstico
+de
+cáncer]
 
-para ti cuidador familiar de un niño o adolescente con diagnóstico de cáncer
+Para
+ti
+,
+cuidador
+,
+familiar
+de
+un
+niño
+o
+adolescente
+con
+diagnóstico
+de
+cáncer
 
-26 de abril de 2022
+26
+de
+abril
+de
+2022
 
-lee más sobre el artículo vulnerabilidad de los pacientes con cáncer al
-covid19
+[Lee
+más
+sobre
+el
+artículo
+Vulnerabilidad
+de
+los
+pacientes
+con
+cáncer
+al
+Covid-19]
 
-vulnerabilidad de los pacientes con cáncer al covid19
+Vulnerabilidad
+de
+los
+pacientes
+con
+cáncer
+al
+Covid-19
 
-13 de mayo de 2022
+13
+de
+mayo
+de
+2022
 
-Últimas publicaciones
+Últimas
+publicaciones
 
- ¿cómo explico que tengo cáncer a un hijo menor de 4 años
-
-
- ¿cómo explico que tengo cáncer a un hijo adolescente
-
-
- ¿cómo explico que tengo cáncer a las personas mayores de mi familia
-
-
- vulnerabilidad de los pacientes con cáncer al covid19
- para ti cuidador familiar de un niño o adolescente con diagnóstico
- de cáncer
-
-categoría
-
- artículos
- nutrición
- oncología clínica
- psicooncología
- noticias
- testimonios
-
-comentarios recientes
-
-cio
-
-direccióncentro san ignacio piso 2 torre copérnico la castellana
-caracas
+-
+¿Cómo
+explico
+que
+tengo
+cáncer
+a
+un
+hijo
+menor
+de
+4
+años
+?
 
 
+-
+¿Cómo
+explico
+que
+tengo
+cáncer
+a
+un
+hijo
+adolescente
+?
 
-correo aintegralciove
+
+-
+¿Cómo
+explico
+que
+tengo
+cáncer
+a
+las
+personas
+mayores
+de
+mi
+familia
+?
+
+
+-
+Vulnerabilidad
+de
+los
+pacientes
+con
+cáncer
+al
+Covid-19
+-
+Para
+ti
+,
+cuidador
+,
+familiar
+de
+un
+niño
+o
+adolescente
+con
+diagnóstico
+
+de
+cáncer
+
+Categoría
+
+-
+Artículos
+
+-
+Nutrición
+
+-
+Oncología
+clínica
+
+-
+Psicooncología
+-
+Noticias
+-
+Testimonios
+
+Comentarios
+recientes
+
+[CIO]
+
+[Dirección]Centro
+San
+Ignacio
+,
+Piso
+2
+,
+Torre
+Copérnico
+,
+La
+Castellana
+,
+Caracas
+.
+
+
+
+[Correo]
+aintegral@ciove
+.
 
 com
 
-teléfono0212 263
+[Teléfono](0212)
+263
+.
 
-3232 – fax0212 264
+3232
+–
+Fax
+:(0212)
+264
+.
 
 3909
 
-especialidades
+Especialidades
 
-oncología clínica
+Oncología
+Clínica
 
-psicooncología
+Psicooncología
 
-nutrición
+Nutrición
 
+Fisiatría
+
+Medicina
+Paliativa
+
+Medicina
+Interna
+
+Servicios
+asistenciales
+
+Salas
+de
+quimioterapia
+
+Unidad
+de
+mezclas
+intravenosas
+
+Enfriamiento
+capilar
+
+Sala
+de
 fisiatría
 
-medicina paliativa
+Servicios
+de
+soporte
 
-medicina interna
+Terapias
+de
+apoyo
 
-servicios asistenciales
+Procura
+de
+medicamentos
 
-salas de quimioterapia
+Atención
+integral
 
-unidad de mezclas intravenosas
-
-enfriamiento capilar
-
-sala de fisiatría
-
-servicios de soporte
-
-terapias de apoyo
-
-procura de medicamentos
-
-atención integral
-
-© 2021 todos los derechos reservados centro integral de oncología
+©
+2021
+Todos
+los
+derechos
+reservados
+-
+Centro
+Integral
+de
+Oncología
