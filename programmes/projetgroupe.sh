@@ -1,6 +1,5 @@
 # TODO
 ## lien 8 sov (aspiré)
-## codes d'erreurs
 ## dumps avec 0 occurrence du mot
 
 #!/bin/bash
