@@ -133,7 +133,7 @@ echo "<!DOCTYPE html>
             </div>
             <nav class=\"tabs is-centered is-toggle is-toggle-rounded\">
                 <ul>
-                    <li><a href=\"index.html\"><span>Accueil</span></a></li>
+                    <li><a href=\"../index.html\"><span>Accueil</span></a></li>
                     <li class=\"is-active\"><a href=\"tableau.html\"><span>Tableau</span></a></li>
                 </ul>
             </nav>

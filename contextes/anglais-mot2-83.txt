@@ -474,3 +474,15 @@ Lee, M., Sanz, L.R.D., Barra, A. et al. Quantifying arousal and
 awareness in altered states of consciousness using interpretable deep
 learning. Nat Commun 13, 1064 (2022).
 https://doi.org/10.1038/s41467-022-28451-0
+---------------
+    Brain Informatics (2024)
+
+-   Critical dynamics in spontaneous EEG predict anesthetic-induced loss of consciousness and perturbational complexity
+
+    -   Charlotte Maschke
+---------------
+    Communications Biology (2024)
+
+-   PerBrain: a multimodal approach to personalized tracking of evolving state-of-consciousness in brain-injured patients: protocol of an international, multicentric, observational study
+
+    -   L. Willacker

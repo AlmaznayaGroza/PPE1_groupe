@@ -596,21 +596,3 @@ Cite this article
 Seth, A.K., Bayne, T. Theories of consciousness. Nat Rev Neurosci 23,
 439–452 (2022). https://doi.org/10.1038/s41583-022-00587-4
 
----------------
-This article is cited by
-
--   Revolutionizing treatment for disorders of consciousness: a multidisciplinary review of advancements in deep brain stimulation
-
-    -   Yi Yang
----------------
-    Military Medical Research (2024)
-
--   Measuring the dynamic balance of integration and segregation underlying consciousness, anesthesia, and sleep in humans
-
-    -   Hyunwoo Jang
----------------
-    Nature Communications (2024)
-
--   Local orchestration of distributed functional patterns supporting loss and restoration of consciousness in the primate brain
-
-    -   Andrea I. Luppi

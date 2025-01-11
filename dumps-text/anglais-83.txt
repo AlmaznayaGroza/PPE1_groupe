@@ -72,8 +72,6 @@ article
 
 -   24k Accesses
 
--   53 Citations
-
 -   75 Altmetric
 
 -   Metrics details
@@ -1917,6 +1915,32 @@ Sorry, a shareable link is not currently available for this article.
 Copy to clipboard
 
 Provided by the Springer Nature SharedIt content-sharing initiative
+
+This article is cited by
+
+-   Accurate depth of anesthesia monitoring based on EEG signal complexity and frequency features
+
+    -   Tianning Li
+    -   Yi Huang
+    -   Yan Li
+
+    Brain Informatics (2024)
+
+-   Critical dynamics in spontaneous EEG predict anesthetic-induced loss of consciousness and perturbational complexity
+
+    -   Charlotte Maschke
+    -   Jordan O’Byrne
+    -   Stefanie Blain-Moraes
+
+    Communications Biology (2024)
+
+-   PerBrain: a multimodal approach to personalized tracking of evolving state-of-consciousness in brain-injured patients: protocol of an international, multicentric, observational study
+
+    -   L. Willacker
+    -   T. M. Raiser
+    -   J. D. Sitt
+
+    BMC Neurology (2022)
 
 Download PDF []
 

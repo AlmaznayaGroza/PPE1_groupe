@@ -18458,7 +18458,7 @@ org/w/index
 php
 ?
 
-title=Consciousness&oldid=1267759625"
+title=Consciousness&oldid=1268788893"
 
 Categories
 :
