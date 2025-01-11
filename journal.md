@@ -75,3 +75,14 @@ J'ai aussi terminé le script make_pals_corpus, qui appelle un autre script qui 
 ## (Maïwenn) 11/01 - Modification du script pals et utilisation du script cooccurrents
 
 Je me suis rendue compte que le script de nettoyage suffisait à mettre un mot par ligne et à mettre une ligne vide entre chaque phrase, j'ai donc enlevé le grep dans le make_pals_corpus et j'ai décidé de simplement concaténer tous les fichiers cleaned obtenus pour avoir les fichiers dump-langue et contexte-langue. J'en ai profité pour tester le script cooccurrents sur le fichier contexte-anglais, ce qui fonctionnait bien. J'ai tenté de réfléchir par rapport au wordcloud et comment modifier le script pour qu'il puisse générer un wordcloud selon les spécificités mais je n'ai pas réussi. A la place, j'ai décidé de générer le wordcloud à partir du fichier contexte-langue dans le dossier pals puisqu'il contient uniquement les bouts de page où notre mot cible est entouré d'un contexte. Le nuage de mots généré contient ainsi les mots les plus pertinents même si leur taille n'est pas relative à leur spécificité mais à leur fréquence.
+
+
+## (Géraldine) 09-10/01
+
+Travail sur le site: création de la page index.html et des pages secondaires, utilisation du framework Bootstrap
+
+
+## (Géraldine) 11/01
+
+Amélioration de plusieurs scripts (clean.sh, make_pals_corpus.sh)
+Modification de ma liste d'URLs
