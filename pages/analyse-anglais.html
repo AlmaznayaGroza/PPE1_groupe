@@ -61,12 +61,18 @@
     </nav>
     <div style="height:50px"></div>
        <section class="container py-5 pt-30 mt-30">
+
         <h2 class="text-center mb-4" style="color: #7b62a3;">Analyse des Résultats</h2>
           <div class="d-flex justify-content-center" style="gap: 15px; margin-bottom: 20px;">
                 <a href="./analyse-anglais.html" type="button" class="btn btn-primary btn-lg">Anglais</a>
                 <a href="./analyse-russe.html" type="button" class="btn btn-primary btn-lg">Russe</a>
                 <a href="./analyse-espagnol.html" type="button" class="btn btn-primary btn-lg">Espagnol</a>
             </div>
+             <div style="height: 100px; display: flex-column; justify-content: center; align-items: center;">
+                <p></p>
+                <p  class="text-center fst-italic">Pour ces analyses nous avons utilisé trois outils : la librairie python wordcloud, iTrameur, et le script python cooccurrents.py de PALS. Le nuage de mots créé par wordcloud permet de visualiser les mots les plus fréquents du corpus pour chaque mot cible. iTrameur permet de visualiser les mots co-occurrents à notre mot-cible les plus fréquents. Enfin, le script PALS cooccurrents.py permet de déterminer les co-occurrents les plus spécifiques à notre mot-cible (c'est-à-dire les co-occurrents qui n'apparaissent quasiment que dans le contexte du mot-cible)</p>
+            </div>
+        </div>
         <div class="chart-container mb-5">
             <h3 class="text-center mb-3">Nuage de Mots</h3>
             <h4 class="text-center">Anglais</h4>
