@@ -98,3 +98,4 @@ J'ai modifié le script pour appeler le script python cooccurrences.py pour qu'i
 - Modification sur les script html du site
 - Modification et relecture de certains scripts
 - Génération des nuages de mots + Génération d'un graphe selon les cooccurrences
+- Terminer l'analyse
