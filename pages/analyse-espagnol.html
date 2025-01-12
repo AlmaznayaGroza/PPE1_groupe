@@ -11,6 +11,9 @@
         body { background-color: #fefbf5; font-family: 'Arial', sans-serif; }
         .navbar, footer { background-color: #9c7bbf; color: white; }
         .chart-container { background-color: white; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
+        .btn-primary { background-color: #9c7bbf ; border-color: #7b62a3}
+        .btn-primary:hover { background-color: #7b62a3 }
+        .btn-primary:active { background-color: #7b62a3 !important }
         footer { text-align: center; }
     </style>
 </head>
@@ -58,6 +61,11 @@
     <div style="height:50px"></div>
        <section class="container py-5 pt-30 mt-30">
         <h2 class="text-center mb-4" style="color: #7b62a3;">Analyse des Résultats</h2>
+          <div class="d-flex justify-content-center" style="gap: 15px; margin-bottom: 20px;">
+                <a href="./analyse-anglais.html" type="button" class="btn btn-primary btn-lg">Anglais</a>
+                <a href="./analyse-russe.html" type="button" class="btn btn-primary btn-lg">Russe</a>
+                <a href="./analyse-espagnol.html" type="button" class="btn btn-primary btn-lg">Espagnol</a>
+            </div>
         <div class="chart-container mb-5">
            <div class="chart-container mb-5">
             <h3 class="text-center mb-3">Nuage de Mots</h3>
