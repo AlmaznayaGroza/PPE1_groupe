@@ -62,13 +62,13 @@ fi
 
 # Exécution des commandes Python
 echo "Traitement des cooccurrences pour le premier ensemble de variantes..."
-if ! python3 programmes/cooccurrents.py "$DOSSIER_SOURCE/contexte-mot1-$CODE_LANGUE.txt" --target "($VARIANTES1)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$OUTPUT-mot1.txt"; then
+if ! python3 programmes/cooccurrents.py "$DOSSIER_SOURCE/contexte-mot1-$CODE_LANGUE.txt" --target "($VARIANTES1)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$DOSSIER_SOURCE/$OUTPUT-mot1.txt"; then
     echo "Erreur lors de l'exécution du script Python pour le premier mot"
     exit 1
 fi
 
 echo "Traitement des cooccurrences pour le second ensemble de variantes..."
-if ! python3 programmes/cooccurrents.py "$DOSSIER_SOURCE/contexte-mot2-$CODE_LANGUE.txt" --target "($VARIANTES2)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$OUTPUT-mot2.txt"; then
+if ! python3 programmes/cooccurrents.py "$DOSSIER_SOURCE/contexte-mot2-$CODE_LANGUE.txt" --target "($VARIANTES2)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$DOSSIER_SOURCE/$OUTPUT-mot2.txt"; then
     echo "Erreur lors de l'exécution du script Python pour le second mot"
     exit 1
 fi
