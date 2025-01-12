@@ -83,10 +83,10 @@ La Revista
 [] []
 
 -   Es noticia
--   Muface Internacional
--   Impuestos MIR
--   Mutuas
--   MIR 2025
+-   Electromedicina
+-   Indicación enfermera
+-   MIR y empleo
+-   Exámenes Medicina
 
 -   [Linkedin]
 -   [Tritter/X]
@@ -363,14 +363,14 @@ datos y declaraciones procedentes de instituciones oficiales y
 profesionales sanitarios. No obstante, ante cualquier duda relacionada
 con su salud, consulte con su especialista sanitario correspondiente.
 
--   [] El Gobierno emite la orden que prorroga Muface 3 meses pero con
-    condiciones
+-   [] Los funcionarios del Muface que sí compensa: "Dependemos
+    totalmente de él"
 -   [] La letra pequeña del plan de estabilización del SNS lo extiende
     casi a 2026
--   [] Joan Ferràs, director médico del Hospital Vithas Valencia 9 de
-    Octubre
--   [] Muface reestructura su atención rural en las tres comunidades más
-    pobladas
+-   [] DKV se despide de Muface ampliando sus fechas de cobertura a
+    mutualistas
+-   [] Urgencias ha duplicado los pacientes que atiende en apenas seis
+    años
 
 ------------------------------------------------------------------------
 
@@ -398,4 +398,4 @@ una formación especializada para su correcta interpretación
 -   Política de cookies
 -   Inscripción actividades
 
-agencia digital []  | 323WCM25
+agencia digital []  | 323WCM22
