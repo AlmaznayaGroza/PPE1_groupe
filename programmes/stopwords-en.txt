@@ -389,7 +389,6 @@ go
 goes
 going
 gone
-good
 goods
 got
 gotten
