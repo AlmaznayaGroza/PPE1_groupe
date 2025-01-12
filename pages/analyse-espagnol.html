@@ -67,10 +67,6 @@
                 <a href="./analyse-russe.html" type="button" class="btn btn-primary btn-lg">Russe</a>
                 <a href="./analyse-espagnol.html" type="button" class="btn btn-primary btn-lg">Espagnol</a>
             </div>
-            <div style="height: 100px; display: flex-column; justify-content: center; align-items: center;">
-                <p></p>
-                <p  class="text-center fst-italic">Pour ces analyses nous avons utilisé trois outils : la librairie python wordcloud, iTrameur, et le script python cooccurrents.py de PALS. Le nuage de mots créé par wordcloud permet de visualiser les mots les plus fréquents du corpus pour chaque mot cible. iTrameur permet de visualiser les mots co-occurrents à notre mot-cible les plus fréquents. Enfin, le script PALS cooccurrents.py permet de déterminer les co-occurrents les plus spécifiques à notre mot-cible (c'est-à-dire les co-occurrents qui n'apparaissent quasiment que dans le contexte du mot-cible).</p>
-            </div>
         <div class="chart-container mb-5">
            <div class="chart-container mb-5">
             <h3 class="text-center mb-3">Nuage de Mots</h3>
@@ -80,18 +76,10 @@
                 <img src="../imgs/wordcloud-mot2-es" class="img-fluid float-right" style="width: 35%">
             </div>
         </div>
-          <div class="chart-container mb-5">
-            <h3 class="text-center mb-3">iTrameur</h3>
-            <h4 class="text-center">Espagnol</h4>
-            <div style="height: 300px; display: flex; justify-content: center; align-items: center;">
-                <img src="../imgs/graph-mot1-anglais.png" class="img-fluid float-left" style="height: 100%">
-                <img src="../imgs/graph-mot2-anglais.png" class="img-fluid float-right" style="height: 100%">
-            </div>
-             </div>
         <div class="chart-container mb-5">
             <h3 class="text-center mb-3">Graphiques d'Analyse</h3>
             <h4 class="text-center">Espagnol</h4>
-            <div style="height: 300px; display: flex; justify-content: center; align-items: center;">
+            <div style="height: 300px; display: flex-column; justify-content: center; align-items: center;">
                 <img src="../imgs/graph-mot1-espagnol.png" class="img-fluid float-left" style="height: 100%">
                 <img src="../imgs/graph-mot2-espagnol.png" class="img-fluid float-right" style="height: 100%">
             </div>
@@ -99,8 +87,18 @@
         <div class="chart-container mb-5">
             <h3 class="text-center mb-3">Conclusion</h3>
             <h4 class="text-center">Espagnol</h4>
-            <div style="height: 300px; display: flex-column; justify-content: center; align-items: center;">
-                <p class="text-center">Texte</p>
+            <div style="height: 300px; display: flex-column; justify-content: center; align-items: center; text-align: center;">
+                <p></p>
+<p>Dans ces nuages de mots et dans les graphiques, nous cherchons à analyser les termes qui entourent nos deux mots principaux: "conciencia" à droite et "consciencia" à gauche.</p>
+
+<p>Les mots associés à "conciencia" sont "consciencia","consciente", "mente", "experiencia", "ampliada", "disminucion" et "primaria".
+Le mot "conciencia" est un terme général qui englobe plusieurs aspects: le savoir, l'expérience et la spiritualité (l'état de conscience). </p>
+
+<p> Tandis que le mot "consciencia" lui est entouré des termes "teoria", "persona", "conciencia", "problema", "superior","cerebro".
+Le mot "consciencia" met en avant l'aspect philosophique, théorique de la conscience.</p>
+
+<p>Pour conclure bien que les deux termes, soient presque identique, il existe une légère différence sur l'impact du mot : "conciencia" va être utilisé de manière plus général tandis que "consciencia" va être utilisé dans des aspects plus théoriques.</p>
+
             </div>
         </div>
     </section>
