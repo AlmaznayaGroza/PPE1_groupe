@@ -1978,115 +1978,113 @@ García L
 
 Historico - Articulos de NPunto
 
-[PDF versión] VEGETARISMO Y GESTACIÓN
-Robles González, L - 01/02/2019
-
-------------------------------------------------------------------------
-
-[PDF versión] EMBARAZO DE RIESGO
-Ruiz Salvador, I - 12/04/2021
-
-------------------------------------------------------------------------
-
-[PDF versión] ABORDAJE TERAPÉUTICO DEL PACIENTE CON DOLOR CRÓNICO
-Hierro Fuster, E - 31/10/2024
-
-------------------------------------------------------------------------
-
-[PDF versión] FUNCIÓN ASISTENCIAL EN ATENCIÓN PRIMARIA
-Milena Lucena, M. - 23/10/2019
-
-------------------------------------------------------------------------
-
-[PDF versión] ATENDER Y EDUCAR LA SEXUALIDAD EN LA INFANCIA Y LA
-ADOLESCENCIA DESDE LA ENFERMERÍA COMUNITARIA
-Cano Lozano, L - 31/05/2024
-
-------------------------------------------------------------------------
-
-[PDF versión] ACTUACIÓN DE ENFERMERÍA: SEGURIDAD DEL PACIENTE EN
-QUIRÓFANO.
-Fernández Mingorance B. - 02/04/2018
-
-------------------------------------------------------------------------
-
-[PDF versión] ENFERMERÍA EN LA COLECISTECTOMÍA POR COLANGIOGRAFÍA
-MEDIANTE LAPAROSCOPIA.
-Jiménez Ternero J.V. - 02/04/2018
-
-------------------------------------------------------------------------
-
-[PDF versión] ANILLOS INTRACORNEALES COMO TRATAMIENTO PARA EL
-QUERATOCONO. REVISIÓN BIBLIOGRÁFICA.
-Fuentes Fuentes R. - 02/04/2018
-
-------------------------------------------------------------------------
-
-[PDF versión] REVISIÓN BIBLIOGRÁFICA - INTERVENCIÓN ENFERMERA EN
-PACIENTE INCONSCIENTE EN DOMICILIO (DE ETIOLOGÍA HIPONATRÉMICA GRAVE)
-Redondo Castán, L.C - 29/03/2022
-
-------------------------------------------------------------------------
-
-[PDF versión] FRENILLO CORTO LINGUAL
-Dominguez Moreno, I - 01/09/2018
-
-------------------------------------------------------------------------
-
-[PDF versión] DIABETES MELLITUS GESTACIONAL
-Fernández Huerta, M.L - 01/02/2019
-
-------------------------------------------------------------------------
-
-[PDF versión] I CONGRESO INTERNACIONAL SOBRE LOS TRASTORNOS DEL
-NEURODESARROLLO. UNA PROPUESTA AL DÍA COMPLETA DESDE UNA PERSPECTIVA
-FUNCIONAL
-NPunto - 01/04/2019
-
-------------------------------------------------------------------------
-
-[PDF versión] FRACTURA ACCIDENTAL MIENTRAS PRACTICABA DEPORTE.
+[PDF versión] FRACTURA DE RADIO EN PACIENTE PEDIÁTRICO POR CAÍDA
+ACCIDENTAL.
 Vaca Villar A. - 02/04/2018
 
 ------------------------------------------------------------------------
 
-[PDF versión] ACTUALIZACIÓN EN EL TRATAMIENTO DEL SÍNDROME DE
-APLASTAMIENTO
-Ranera Díaz, F.F - 01/01/2019
+[PDF versión] HIPOFRACCIONAMIENTO EXTREMO EN CÁNCER DE PRÓSTATA
+Linares Mesa, N.A - 19/01/2021
 
 ------------------------------------------------------------------------
 
-[PDF versión] CASO CLÍNICO: SÍNDROME DE WOLF- HIRSCHORN EN UN RECIÉN
-NACIDO
-Martos Martos, M - 01/09/2018
+[PDF versión] EMPLEO DEL ARÁNDANO ROJO PARA LA PREVENCIÓN DE LAS
+INFECCIONES URINARIAS RECURRENTES DURANTE LA GESTACIÓN
+Dominguez Garcia, G - 01/09/2018
 
 ------------------------------------------------------------------------
 
-[PDF versión] TRASTORNOS ALIMENTICIOS Y DE LA INGESTIÓN DE ALIMENTOS
-INCLUIDOS EN EL DSM-V
-Ramírez Garrido, L - 23/07/2024
+[PDF versión] ATENCIÓN A LOS PACIENTES CON TRASTORNO LÍMITE DE
+PERSONALIDAD EN URGENCIAS
+Aliño Dies, M., González Gualda, L.M., Sánchez García, M.D. - 30/09/2024
 
 ------------------------------------------------------------------------
 
-[PDF versión] ENTREVISTA PREQUIRÚRGICA TELEFÓNICA COMO ESTRATEGIA DE
-SEGURIDAD.
-Solís García A.M. - 02/04/2018
+[PDF versión] ANOREXIA NERVIOSA EN MUJER ADULTA QUE ACUDE A URGENCIAS:
+CASO CLÍNICO
+Vallecillo Troncoso, J - 15/05/2018
 
 ------------------------------------------------------------------------
 
-[PDF versión] CIRUGÍA COLORRECTAL: CONSIDERACIONES DE ENFERMERÍA.
-Serrano Blanco M.D. - 02/04/2018
+[PDF versión] REVISIÓN BIBLIOGRÁFICA - SÍNDROME DE ABSTINENCIA NEONATAL
+Benítez Florido, A - 29/03/2022
 
 ------------------------------------------------------------------------
 
-[PDF versión] LA DEPRESIÓN Y LOS ESTILOS DE VIDA SALUDABLE
-Viñuales Chueca, B - 08/09/2022
+[PDF versión] MANEJO DEL GEP POR EL PERSONAL DE ENFERMERÍA.
+Porras Díaz , C - 15/05/2018
 
 ------------------------------------------------------------------------
 
-[PDF versión] MONITORIZACIÓN DE CONSTANTES VITALES EN LA UNIDAD DE
-CUIDADOS INTENSIVOS
-Ramírez Garrido, L - 29/09/2023
+[PDF versión] VALORACIÓN DE LAS PAUTAS NUTRICIONALES EN LA UNIDAD DE
+CUIDADOS INTENSIVOS.
+Estrella González, I - 15/05/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] REVISIÓN BIBLIOGRÁFICA DEL USO DEL TÉ VERDE PARA
+PREVENCIÓN DEL CÁNCER DE MAMA
+Villalon Rivero, M - 15/05/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] INTUBACIÓN BRONQUIAL SELECTIVA CON TUBO DE DOBLE LUZ EN
+PACIENTES CON TRAQUEOSTOMÍA.
+Sillero Sillero B. - 02/04/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] REVISIÓN BIBLIOGRÁFICA - SALUD DIGITAL Y COVID-19
+Gracia Gómez, C - 15/09/2020
+
+------------------------------------------------------------------------
+
+[PDF versión] ESTUDIO DE UN CASO DE ACALASIA EN URGENCIAS.
+Rodríguez Arjona R. - 02/04/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] CUIDADOS DE ENFERMERÍA PRE-QUIRÚRGICOS: PARTO.
+Chávez Barroso C. - 02/04/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] ACTUACIÓN ENFERMERA DURANTE LOCALIZACIÓN GAMMAGRÁFICA DEL
+GANGLIO CENTINELA
+Ribera Perianes, J - 01/09/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] ¿GRANULOMA UMBILICAL O URACO? FISTULOGRAFÍA PARA
+DIAGNÓSTICO DIFERENCIAL. A PROPÓSITO DE UN CASO.
+Galiana Baca A.N. - 02/04/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] FASE POSOPERATORIA DE LA TIMPANOPLASTIA: UN CASO CLÍNICO.
+Abad Ortega D. - 02/04/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] PRESCRIPCIÓN ENFERMERA EN URGENCIAS Y EMERGENCIAS
+Vico Moya, N - 01/07/2019
+
+------------------------------------------------------------------------
+
+[PDF versión] ONCOLOGÍA INFANTIL: TRATAMIENTO BIO-PSICO-SOCIAL PARA UN
+PROBLEMA MULTIMIDENSIONAL
+Urmeneta Roncal, C - 29/12/2023
+
+------------------------------------------------------------------------
+
+[PDF versión] CRISIS ASMÁTICA
+Martinez Sela, M - 01/06/2018
+
+------------------------------------------------------------------------
+
+[PDF versión] IRRADIACIÓN PARCIAL EN CÁNCER DE MAMA
+Linares Mesa, N.A - 30/11/2022
 
 ------------------------------------------------------------------------
 
