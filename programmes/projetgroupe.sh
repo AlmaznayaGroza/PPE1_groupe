@@ -6,7 +6,7 @@ OUTPUT=$2
 LANGUE=$3
 FICHIER1=$4
 FICHIER2=$5
-SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
+#SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 
 # Traitement des arguments 4 et 5 (fichiers de variantes)
 # Si pas d'arguments 4 et 5, demander à l'utilisateur de saisir les mots

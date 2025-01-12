@@ -1,26 +1,77 @@
 #!/bin/bash
 
 LANGUE=$1
-MOT1=$2
-MOT2=$3
-FILE=$4
+DOSSIER=$2
+FICHIER1=$3
+FICHIER2=$4
 CONTEXT_WORDS=30
 
-
-# Si les arguments sont des fichiers, concaténer leur contenu et l'assigner à la variable variantes, sinon assigner le mot entré en argument à la variable variantes
-if [[ -f "$MOT1" ]]; then
-    VARIANTES1=($(cat "$MOT1"))
-else
-    VARIANTES1="$MOT1"
+# Vérification des arguments
+if [ ! -d "$DOSSIER" ]; then
+    echo "Erreur : le dossier '$DOSSIER' n'existe pas."
+    exit 1
 fi
 
-if [[ -f "$MOT2" ]]; then
-    VARIANTES2=($(cat "$MOT2"))
+# if [[ -f "$MOT1" ]]; then
+#     VARIANTES1=($(cat "$MOT1"))
+# else
+#     VARIANTES1="$MOT1"
+# fi
+
+# if [[ -f "$MOT2" ]]; then
+#     VARIANTES2=($(cat "$MOT2"))
+# else
+#     VARIANTES2="$MOT2"
+# fi
+
+
+if [[ -f "$FICHIER1" && -f "$FICHIER2" ]]; then
+    VARIANTES_FILE1="$FICHIER1"
+    VARIANTES_FILE2="$FICHIER2"
+    MOT1=""
+    MOT2=""
+    echo "Fichiers détectés : $FICHIER1 et $FICHIER2"
 else
-    VARIANTES2="$MOT2"
+    while [[ -z "$MOT1" ]]; do
+        echo "Veuillez entrer le premier mot pour la recherche :"
+        read MOT1
+        MOT1=$(echo "$MOT1" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
+        if [[ -z "$MOT1" ]]; then
+            echo "Erreur : veuillez entrer un mot 1."
+        fi
+    done
+    echo "Premier mot après conversion : $MOT1"
+
+    while [[ -z "$MOT2" ]]; do
+        echo "Veuillez entrer le deuxième mot pour la recherche :"
+        read MOT2
+        MOT2=$(echo "$MOT2" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
+        if [[ -z "$MOT2" ]]; then
+            echo "Erreur : le mot ne peut pas être vide. Veuillez réessayer."
+        fi
+    done
+    echo "Deuxième mot après conversion : $MOT2"
+
+    VARIANTES_FILE1=""
+    VARIANTES_FILE2=""
 fi
 
+# Confirmation des valeurs des arguments
+echo "MOT1 : $MOT1"
+echo "MOT2 : $MOT2"
+echo "VARIANTES_FILE1 : $VARIANTES_FILE1"
+echo "VARIANTES_FILE2 : $VARIANTES_FILE2"
 
+
+# Création du dossier pour les concordanciers
+mkdir -p ./concordances
+
+# Parcours des fichiers commençant par $LANGUE- dans le dossier
+for FILE in "$DOSSIER/${LANGUE}"-*.txt; do
+    if [ ! -f "$FILE" ]; then
+        echo "Aucun fichier trouvé correspondant à '$LANGUE-*' dans le dossier '$DOSSIER'."
+        continue
+    fi
 
     BASENAME=$(basename "$FILE" .txt)
 
@@ -84,8 +135,6 @@ fi
 </body>
 </html>" >> "$OUTPUT_FILE1"
 
-    #echo "Concordancier généré pour $BASENAME avec Groupe 1 dans $OUTPUT_FILE1"
-
     # Gérer les variantes du deuxième groupe (VARIANTES2)
     OUTPUT_FILE2="./concordances/${BASENAME}-group2-concordance.html"
     echo "<!DOCTYPE html>
@@ -143,7 +192,6 @@ fi
 </body>
 </html>" >> "$OUTPUT_FILE2"
 
-    #echo "Concordancier généré pour $BASENAME avec Groupe 2 dans $OUTPUT_FILE2"
+done
 
-
-#echo "Tous les concordanciers ont été générés dans le dossier ./concordances"
+echo "Tous les concordanciers ont été générés dans le dossier ./concordances"
