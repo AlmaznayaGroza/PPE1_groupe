@@ -1,71 +1,85 @@
 #!/bin/bash
 
-FICHIER=$1
-OUTPUT=$2
-FICHIER1=$3
-FICHIER2=$4
-
-# Traitement des arguments 4 et 5 (fichiers de variantes ou mots à saisir)
-if [[ -f "$FICHIER1" && -f "$FICHIER2" ]]; then
-    VARIANTES_FILE1="$FICHIER1"
-    VARIANTES_FILE2="$FICHIER2"
-    MOT1=""
-    MOT2=""
-    echo "Fichiers détectés : $FICHIER1 et $FICHIER2"
-else
-    while [[ -z "$MOT1" ]]; do
-        echo "Veuillez entrer le premier mot pour la recherche :"
-        read MOT1
-        MOT1=$(echo "$MOT1" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
-        if [[ -z "$MOT1" ]]; then
-            echo "Erreur : veuillez entrer un mot 1."
-        fi
-    done
-    echo "Premier mot après conversion : $MOT1"
-
-    while [[ -z "$MOT2" ]]; do
-        echo "Veuillez entrer le deuxième mot pour la recherche :"
-        read MOT2
-        MOT2=$(echo "$MOT2" | tr '[:upper:]' '[:lower:]' | xargs)  # Nettoyage des espaces inutiles
-        if [[ -z "$MOT2" ]]; then
-            echo "Erreur : le mot ne peut pas être vide. Veuillez réessayer."
-        fi
-    done
-    echo "Deuxième mot après conversion : $MOT2"
-
-    VARIANTES_FILE1=""
-    VARIANTES_FILE2=""
+# Vérification des arguments obligatoires
+if [ $# -lt 4 ]; then
+    echo "Usage: $0 DOSSIER_SOURCE CODE_LANGUE OUTPUT VARIANTES1 VARIANTES2 [STOPWORDS]"
+    echo "  DOSSIER_SOURCE : dossier contenant les fichiers texte à analyser"
+    echo "  CODE_LANGUE : code de la langue (ex: ru)"
+    echo "  OUTPUT : préfixe pour les fichiers de sortie"
+    echo "  VARIANTES1 : fichier des variantes du premier mot"
+    echo "  VARIANTES2 : fichier des variantes du deuxième mot"
+    echo "  STOPWORDS : fichier de stopwords (optionnel)"
+    exit 1
 fi
 
-# Confirmation des valeurs des arguments
-echo "MOT1 : $MOT1"
-echo "MOT2 : $MOT2"
-echo "VARIANTES_FILE1 : $VARIANTES_FILE1"
-echo "VARIANTES_FILE2 : $VARIANTES_FILE2"
+# Récupération des arguments
+DOSSIER_SOURCE=$1
+CODE_LANGUE=$2
+OUTPUT=$3
+VARIANTES_FILE1=$4
+VARIANTES_FILE2=$5
+STOPWORDS=$6
 
-# Préparation des variantes pour MOT1
-if [[ -n "$VARIANTES_FILE1" ]]; then
-    VARIANTES1=$(cat "$VARIANTES_FILE1" | tr '\n' '|' | sed 's/|$//')
-else
-    VARIANTES1="$MOT1"
+# Vérification du dossier source
+if [ ! -d "$DOSSIER_SOURCE" ]; then
+    echo "Erreur : le dossier source '$DOSSIER_SOURCE' n'existe pas"
+    exit 1
 fi
 
-# Préparation des variantes pour MOT2
-if [[ -n "$VARIANTES_FILE2" ]]; then
-    VARIANTES2=$(cat "$VARIANTES_FILE2" | tr '\n' '|' | sed 's/|$//')
-else
-    VARIANTES2="$MOT2"
+# Vérification du dossier de sortie
+OUTPUT_DIR=$(dirname "$OUTPUT")
+if [ ! -d "$OUTPUT_DIR" ]; then
+    echo "Création du dossier de sortie : $OUTPUT_DIR"
+    mkdir -p "$OUTPUT_DIR" || {
+        echo "Erreur : impossible de créer le dossier de sortie '$OUTPUT_DIR'"
+        exit 1
+    }
 fi
 
-# Exécution de la commande Python pour MOT1
-echo "Exécution pour MOT1/VARIANTES1 : $VARIANTES1"
-python3 programmes/cooccurrents.py "$FICHIER" --target "($VARIANTES1)" --match-mode regex > "$OUTPUT-mot1.txt"
+# Vérification des fichiers de variantes
+for fichier in "$VARIANTES_FILE1" "$VARIANTES_FILE2"; do
+    if [ ! -r "$fichier" ]; then
+        echo "Erreur : le fichier de variantes '$fichier' n'existe pas ou n'est pas lisible"
+        exit 1
+    fi
+done
 
-# Exécution de la commande Python pour MOT2
-echo "Exécution pour MOT2/VARIANTES2 : $VARIANTES2"
-python3 programmes/cooccurrents.py "$FICHIER" --target "($VARIANTES2)" --match-mode regex > "$OUTPUT-mot2.txt"
+# Vérification du fichier stopwords
+if [[ -n "$STOPWORDS" ]]; then
+    if [ ! -f "$STOPWORDS" ]; then
+        echo "Erreur : le fichier stopwords '$STOPWORDS' n'existe pas"
+        exit 1
+    fi
+    echo "Utilisation du fichier stopwords : $STOPWORDS"
+else
+    echo "Aucun fichier stopwords spécifié"
+fi
 
-# Résultats
-echo "Résultats générés :"
-echo "  - $OUTPUT-mot1.txt (pour MOT1/VARIANTES1)"
-echo "  - $OUTPUT-mot2.txt (pour MOT2/VARIANTES2)"
+# Préparation des variantes
+VARIANTES1=$(cat "$VARIANTES_FILE1" | tr '\n' '|' | sed 's/|$//')
+VARIANTES2=$(cat "$VARIANTES_FILE2" | tr '\n' '|' | sed 's/|$//')
+
+# Création d'un fichier temporaire pour concaténer tous les fichiers de la langue
+TMP_FILE=$(mktemp)
+trap 'rm -f "$TMP_FILE"' EXIT
+
+# Concaténation de tous les fichiers de la langue spécifiée
+echo "Concaténation des fichiers ${CODE_LANGUE}-*.txt..."
+cat "$DOSSIER_SOURCE/${CODE_LANGUE}"-*.txt > "$TMP_FILE"
+
+# Exécution des commandes Python
+echo "Traitement des cooccurrences pour le premier ensemble de variantes..."
+if ! python3 programmes/cooccurrents.py "$TMP_FILE" --target "($VARIANTES1)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$OUTPUT-mot1.txt"; then
+    echo "Erreur lors de l'exécution du script Python pour le premier mot"
+    exit 1
+fi
+
+echo "Traitement des cooccurrences pour le second ensemble de variantes..."
+if ! python3 programmes/cooccurrents.py "$TMP_FILE" --target "($VARIANTES2)" --match-mode regex ${STOPWORDS:+--stopwords "$STOPWORDS"} > "$OUTPUT-mot2.txt"; then
+    echo "Erreur lors de l'exécution du script Python pour le second mot"
+    exit 1
+fi
+
+echo "Résultats générés avec succès :"
+echo "  - $OUTPUT-mot1.txt"
+echo "  - $OUTPUT-mot2.txt"

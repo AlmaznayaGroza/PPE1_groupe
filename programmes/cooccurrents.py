@@ -264,9 +264,20 @@ def run(
     context_length: int = 10,
     min_frequency: int = 1,
     min_cofrequency: int = 1,
-    ignore_sentences : bool = False,
+    ignore_sentences: bool = False,
     tool_emulation: str = 'None',
+    stopwords: str = None,  # nouveau paramètre
 ) -> None:
+
+    # Chargement des stopwords si un fichier est fourni
+    stopwords_set = set()
+    if stopwords:
+        try:
+            with open(stopwords, 'r', encoding='utf-8') as f:
+                stopwords_set = {line.strip() for line in f if line.strip()}
+            print(f"Loaded {len(stopwords_set)} stopwords from {stopwords}", file=sys.stderr)
+        except Exception as e:
+            print(f"WARNING: Could not read stopwords file: {e}", file=sys.stderr)
 
     if tool_emulation == 'itrameur':
         given_punctuations = punctuations
@@ -346,7 +357,9 @@ def run(
 
     n_firsts = (n_firsts if n_firsts > 0 else len(data))
     for token, tok_F, tok_f, tok_specif in data[:n_firsts]:
-        print(token, T, t, tok_F, tok_f, f'{tok_specif:.2f}', sep='\t')
+        # On n'affiche pas les lignes correspondant aux stopwords
+        if token not in stopwords_set:
+            print(token, T, t, tok_F, tok_f, f'{tok_specif:.2f}', sep='\t')
 
 
 def main(argv=None):
@@ -405,6 +418,11 @@ def main(argv=None):
         '--ignore-sentences',
         action='store_true',
         help='Ignore sentence bounds when counting cooccurrents.',
+    )
+    parser.add_argument(
+        '--stopwords',
+        type=str,
+        help='File containing stopwords to exclude from results (one word per line)'
     )
 
     args = parser.parse_args(argv)

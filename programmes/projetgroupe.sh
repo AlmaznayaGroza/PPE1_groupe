@@ -1,7 +1,3 @@
-# TODO
-## lien 8 sov (aspiré)
-## dumps avec 0 occurrence du mot
-
 #!/bin/bash
 
 
@@ -118,46 +114,107 @@ fi
 echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>
-    <title>Tableau des URLs</title>
     <meta charset=\"UTF-8\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css\" rel=\"stylesheet\">
+    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js\"></script>
+    <title>Conscience | Projet de groupe PPE1</title>
+    <style>
+        body { background-color: #fefbf5; }
+        .navbar, footer { background-color: #9c7bbf; color: white; }
+        .table-container { box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: white; border-radius: 10px; padding: 20px; }
+        .table { border-radius: 10px; overflow: hidden; }
+        .table-primary { background-color: #f4f1e0; color: #7b62a3; }
+        .btn-primary { background-color: #9c7bbf ; border-color: #7b62a3}
+    </style>
 </head>
-<body>
-    <section class=\"section has-background-primary-light\">
+<body style=\"padding-top: 70px;\">
+    <nav class=\"navbar navbar-expand-lg navbar-light fixed-top\">
         <div class=\"container\">
-            <div class=\"hero has-text-centered\">
-                <div class=\"hero-body\">
-                    <h1 class=\"title is-2 has-text-primary-dark\">Programmation et Projet Encadré</h1>
-                </div>
-            </div>
-            <nav class=\"tabs is-centered is-toggle is-toggle-rounded\">
-                <ul>
-                    <li><a href=\"../index.html\"><span>Accueil</span></a></li>
-                    <li class=\"is-active\"><a href=\"tableau.html\"><span>Tableau</span></a></li>
+            <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarNav\">
+                <span class=\"navbar-toggler-icon\"></span>
+            </button>
+            <div class=\"collapse navbar-collapse justify-content-center\" id=\"navbarNav\">
+                <ul class=\"navbar-nav\">
+                    <li class=\"nav-item\">
+                        <a class=\"nav-link\" href=\"../index.html\">Accueil</a>
+                    </li>
+                    <li class=\"nav-item vertical-separator\"></li>
+                    <li class=\"nav-item\">
+                        <a class=\"nav-link\" href=\"../pages/apropos.html\">Qui sommes-nous?</a>
+                    </li>
+                    <li class=\"nav-item vertical-separator\"></li>
+                    <li class=\"nav-item dropdown\">
+                        <a class=\"nav-link dropdown-toggle active\" href=\"tableaux.html\" id=\"navbarDropdown\" role=\"button\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\">
+                            Tableaux
+                        </a>
+                        <ul class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">
+                            <li><a class=\"dropdown-item\" href=\"../tableaux/anglais.html\">Anglais</a></li>
+                            <li><a class=\"dropdown-item\" href=\"../tableaux/espagnol.html\">Espagnol</a></li>
+                            <li><a class=\"dropdown-item\" href=\"../tableaux/russe.html\">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class=\"nav-item vertical-separator\"></li>
+                    <li class=\"nav-item dropdown\">
+                        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\">
+                            Concordanciers
+                        </a>
+                        <ul class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">
+                            <li><a class=\"dropdown-item\" href=\"\">Anglais</a></li>
+                            <li><a class=\"dropdown-item\" href=\"\">Espagnol</a></li>
+                            <li><a class=\"dropdown-item\" href=\"\">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class=\"nav-item vertical-separator\"></li>
+                    <li class=\"nav-item dropdown\">
+                        <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdown\" role=\"button\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\">
+                            Nuages de mots
+                        </a>
+                        <ul class=\"dropdown-menu\" aria-labelledby=\"navbarDropdown\">
+                            <li><a class=\"dropdown-item\" href=\"\">Anglais</a></li>
+                            <li><a class=\"dropdown-item\" href=\"\">Espagnol</a></li>
+                            <li><a class=\"dropdown-item\" href=\"\">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class=\"nav-item vertical-separator\"></li>
+                    <li class=\"nav-item\">
+                        <a class=\"nav-link\" href=\"../pages/analyse.html\">Analyse</a>
+                    </li>
                 </ul>
-            </nav>
-            <div class=\"table-container mt-4\">
-                <table class=\"table is-bordered is-striped is-hoverable is-fullwidth\">
-                    <h2 class=\"subtitle is-4 has-text-centered has-text-primary-dark\">Résultats de l'analyse des URLs</h2>
-                    <thead>
-                        <tr>
-                            <th>#</th>
-                            <th>URL</th>
-                            <th>Code HTTP</th>
-                            <th>Encodage</th>
-                            <th>Nombre de mots</th>
-                            <th>Aspiration</th>
-                            <th>Dump</th>
-                            <th>Occurrences du mot ${HEADER1}</th>
-                            <th>Occurrences du mot ${HEADER2}</th>
-                            <th>Contextes du mot ${HEADER1}</th>
-                            <th>Contextes du mot ${HEADER2}</th>
-                            <th>Concordances du mot ${HEADER1}</th>
-                            <th>Concordances du mot ${HEADER2}</th>
-                        </tr>
-                    </thead>
-                    <tbody>"
+            </div>
+        </div>
+    </nav>
+    
+    <section class=\"py-3\">
+        <div class=\"container text-center\">
+            <div class=\"d-flex justify-content-center\" style=\"gap: 15px; margin-bottom: 20px;\">
+                <a href=\"../tableaux/anglais.html\" type=\"button\" class=\"btn btn-primary btn-lg\">Anglais</a>
+                <a href=\"../tableaux/russe.html\" type=\"button\" class=\"btn btn-primary btn-lg\">Russe</a>
+                <a href=\"../tableaux/espagnol.html\" type=\"button\" class=\"btn btn-primary btn-lg\">Espagnol</a>
+            </div>
+    
+            <div class=\"table-container\">
+                <div class=\"table-responsive\">
+                    <table class=\"table table-bordered\">
+                        <h2 class=\"text-center mb-3 mt-1\" style=\"color: #4a148c;\">Résultats du traitement des URLs (${HEADER2})</h2>
+                        <thead style=\"background-color: #f4e9f7; color: #7b62a3; text-align: center; vertical-align: middle;\">
+                            <tr>
+                                <th>#</th>
+                                <th>URL</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>Nombre de mots</th>
+                                <th>Aspiration</th>
+                                <th>Dump</th>
+                                <th>Occurrences de ${HEADER1}</th>
+                                <th>Occurrences de ${HEADER2}</th>
+                                <th>Contextes pour ${HEADER1}</th>
+                                <th>Contextes pour ${HEADER2}</th>
+                                <th>Concordances pour ${HEADER1}</th>
+                                <th>Concordances pour ${HEADER2}</th>
+                            </tr>
+                        </thead>
+                        <tbody>"
 
 # Initialisation du numéro de ligne
 lineno=1
@@ -361,7 +418,7 @@ while read -r URL; do
 
     echo "<tr>
         <td>$lineno</td>
-        <td><a class=\"has-text-primary\" href=\"$URL\">$URL</a></td>
+        <td style=\"text-align: left;\"><a class=\"has-text-primary\" href=\"$URL\">$URL</a></td>
         <td>$http_code</td>
         <td>$encodage_display</td>
         <td>$nb_mots_display</td>
@@ -378,11 +435,22 @@ while read -r URL; do
     ((lineno++))
 done < "$FICHIER"
 
-echo "				</tbody>
-                </table>
+echo "				    </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </section>
+
+    <footer class=\"text-center py-3 mt-5\" style=\"padding-bottom: 10px;\">
+        <p>Programmation et Projet encadré 1 | 2024</p>
+        <p style=\"margin-bottom: 5px;\">
+            <a href=\"https://github.com/AlmaznayaGroza/PPE1_groupe\" target=\"_blank\" style=\"text-decoration: none; color: #F9E79F; font-weight: bold; font-size: 1rem;\">
+                <img src=\"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\" alt=\"GitHub\" style=\"height: 20px; vertical-align: middle; margin-right: 8px;\">
+                Notre dépôt GitHub
+            </a>
+        </p>
+    </footer>
 </body>
 </html>"
 } > "$OUTPUT"
