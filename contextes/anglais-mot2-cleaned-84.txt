@@ -1,5 +1,6 @@
 
-(Top)
+(Top
+)
 -
 
 
@@ -71,7 +72,8 @@ scholar ·
 |
 JSTOR
 (July
-2011)
+2011
+)
 (Learn
 how
 and
@@ -105,7 +107,9 @@ politics
 of
 consciousness
 
-[edit]
+
+[edit
+]
 
 Consciousness
 typically
@@ -148,7 +152,11 @@ term
 .
 
 
-^([1])
+^
+(
+[1
+]
+)
 For
 Marx
 ,
@@ -224,7 +232,12 @@ of
 mind
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 
 In
 the
@@ -249,7 +262,9 @@ consciousness
 False
 consciousness
 
-[edit]
+
+[edit
+]
 
 Main
 article
@@ -361,14 +376,21 @@ ruling
 class
 .
 
-^([4])
+
+^
+(
+[4
+]
+)
 
 Consciousness
 and
 the
 political-economy
 
-[edit]
+
+[edit
+]
 
 For
 Marx
@@ -484,7 +506,8 @@ the
 most
 
 part
-unconscious)
+unconscious
+)
 belief
 and
 value
@@ -541,10 +564,17 @@ ideological
 pressures
 .
 
-^([5])
+
+^
+(
+[5
+]
+)
 
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Critical
@@ -642,7 +672,9 @@ Retrieved
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Outline
@@ -659,7 +691,9 @@ Marxists
 
 org
 
-[]
+
+[
+]
 
 Retrieved
 from

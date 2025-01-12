@@ -1,5 +1,7 @@
+
 [Spartan
-Christianity]
+Christianity
+]
 
 The
 Evil
@@ -131,7 +133,8 @@ north
 continually
 (Genesis
 6
-:5)
+:5
+)
 .
 
 
@@ -470,7 +473,9 @@ endorsed
 by
 the
 Church
-(Guilt/Shame/Conscience/Fear)
+
+(Guilt/Shame/Conscience/Fear
+)
 have
 been
 taken
@@ -581,8 +586,10 @@ action
 
  
 
+
 [evil
-conscience]
+conscience
+]
 
 Application
 
@@ -822,7 +829,9 @@ Men
 
 ---------------
 
-[]Author
+
+[
+]Author
 spartanchristianityPosted
 on
 August

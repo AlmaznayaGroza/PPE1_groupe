@@ -6,6 +6,7 @@ to
 stress
 less
 
+
 [Bad
 conscience
 for
@@ -29,7 +30,8 @@ look
 straight
 into
 the
-wall]
+wall
+]
 
 Bad
 conscience
@@ -754,6 +756,7 @@ Read
 more
 →
 
+
 [Bad
 conscience
 for
@@ -777,7 +780,8 @@ look
 straight
 into
 the
-wall]
+wall
+]
 
 Bad
 conscience
@@ -796,6 +800,7 @@ more
 Read
 more
 →
+
 
 [bad
 conscience
@@ -818,12 +823,14 @@ by
 picture
 of
 manhole
-cover]
+cover
+]
 
 ---------------
 Read
 more
 →
+
 
 [Bad
 conscience
@@ -835,7 +842,8 @@ when
 someone
 gives
 you
-guilt]
+guilt
+]
 
 Feeling
 Guilty

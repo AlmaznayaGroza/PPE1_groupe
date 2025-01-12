@@ -32,7 +32,9 @@ PhD|October
 2021|No
 Comments
 ---------------
-[Print] Print
+
+[Print
+] Print
 
 The
 Modern
@@ -310,7 +312,8 @@ Jesus
 (Romans
 
 2
-:14-15)
+:14-15
+)
 
 Many
 Catholics
@@ -488,7 +491,8 @@ is
 “Catholics”
 for
 Choice
-(CFC)
+(CFC
+)
 ,
 whose
 mission
@@ -555,7 +559,8 @@ with
 church
 teaching”²
 (emphasis
-added)
+added
+)
 .
 
 
@@ -855,6 +860,7 @@ permit
 
 
 
+
 [natural
 law
 gives
@@ -866,7 +872,9 @@ conscience
 which
 then
 makes
-decisions][natural
+decisions
+]
+[natural
 law
 gives
 moral
@@ -877,7 +885,8 @@ conscience
 which
 then
 makes
-decisions]
+decisions
+]
 
 ---------------
 It
@@ -1064,7 +1073,9 @@ to
 reject
 authoritative
 teachings”
-(¶1783)
+
+(¶1783
+)
 .
 
 
@@ -1163,7 +1174,8 @@ root
 causes
 (Catechism
 ,
-¶1792)
+¶1792
+)
 :
 
 ---------------
@@ -1383,20 +1395,25 @@ divine
 law”
 (¶1751
 ,
-1778)
+1778
+)
 .
 
 
 
  
 
+
 [decision
 making
 ;
-conscience][decision
+conscience
+]
+[decision
 making
 ;
-conscience]
+conscience
+]
 
 Conscience
 and
@@ -1464,7 +1481,8 @@ Humanae
 (“Declaration
 on
 Religious
-Freedom”)
+Freedom”
+)
 in
 support
 of
@@ -1577,7 +1595,8 @@ result
 of
 habitual
 sin”
-(¶16‑17)
+(¶16‑17
+)
 .
 
 
@@ -1679,7 +1698,8 @@ itself
 .
 
 
-(¶14)
+(¶14
+)
 
 Conscience
 does
@@ -2065,7 +2085,9 @@ determinant
 Endnotes
 :
 
-[1]
+
+[1
+]
 Catechism
 of
 the
@@ -2093,7 +2115,9 @@ com/conscience
 
 
 
-[2]
+
+[2
+]
 Steve
 Askin
 .
@@ -2110,7 +2134,8 @@ Conscience
 of
 “Catholics”
 for
-Choice]
+Choice
+]
 ,
 Spring
 1994
@@ -2146,7 +2171,9 @@ to
 
 ---------------
 
-[4]
+
+[4
+]
 Patrick
 B
 .
@@ -2234,12 +2261,15 @@ Spring/Summer
 1993
 ,
 page
-54]
+54
+]
 .
 
 
 
-[8]
+
+[8
+]
 Dignitatis
 Humanae
 ,
@@ -2409,7 +2439,9 @@ page
 
 
 
-[9]
+
+[9
+]
 The
 Bible
 contains
@@ -2443,7 +2475,8 @@ and
 1
 Peter
 3
-:16)
+:16
+)
 ,
 and
 who
@@ -2456,7 +2489,8 @@ become
 (1
 Timothy
 4
-:2)
+:2
+)
 .
 
 
@@ -2471,7 +2505,8 @@ conscience”
 (1
 Corinthians
 8
-:7)
+:7
+)
 ,
 a
 “wounded
@@ -2479,7 +2514,8 @@ conscience”
 (1
 Corinthians
 8
-:12)
+:12
+)
 ,
 a
 “good”
@@ -2503,7 +2539,8 @@ and
 Timothy
 1
 :5
-,19)
+,19
+)
 ;
 a
 “clear”
@@ -2517,7 +2554,8 @@ and
 1
 Timothy
 3
-:9)
+:9
+)
 ,
 and
 a
@@ -2529,7 +2567,8 @@ or
 defiled
 (Titus
 1
-:15)
+:15
+)
 .
 
 

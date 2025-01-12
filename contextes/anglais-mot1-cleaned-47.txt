@@ -1,4 +1,6 @@
-[]
+
+[
+]
 
 Examining
 the
@@ -10,7 +12,8 @@ Making
 Moral
 Decisions
 
- [Examining
+ 
+[Examining
 the
 Role
 of
@@ -18,11 +21,16 @@ Conscience
 in
 Making
 Moral
-Decisions]
+Decisions
+]
 
-[]
+
+[
+]
 ---------------
-[]
+
+[
+]
 
 Q
 :
@@ -225,7 +233,8 @@ hear
 God
 speaking”
 (CCC
-1777)
+1777
+)
 .
 
 
@@ -439,7 +448,8 @@ of
 the
 Creator”
 (CCC
-1783)
+1783
+)
 .
 
 
@@ -521,7 +531,8 @@ in
 religious
 matters”
 (CCC
-1782)
+1782
+)
 .
 
 
@@ -653,7 +664,8 @@ for
 through
 natural
 family
-planning)
+planning
+)
 ,
 then
 there
@@ -670,7 +682,8 @@ is
 an
 issue
 of
-a)
+a
+)
 not
 knowing
 or
@@ -686,9 +699,11 @@ by
 asking
 someone
 who
-knows)
+knows
+)
 ,
-b)
+b
+)
 lacking
 the
 will
@@ -826,4 +841,6 @@ org/wp-content/uploads/2017/06/bulldog-catholic-ask-father-mike-blog-examining-t
 
 jpg200px200px
 
-[]
+
+[
+]

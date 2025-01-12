@@ -1,5 +1,6 @@
 Popular
-[]
+[
+]
 
 
 '
@@ -380,13 +381,15 @@ com-
 ,"
 "together
 ,"
-"jointly")
+"jointly"
+)
 and
 the
 verb
 scire
 ("to
-know")
+know"
+)
 ,
 and
 the
@@ -491,6 +494,7 @@ middle
 \sh\
 sound
 .
+
 
 )
 For
@@ -720,7 +724,8 @@ selfless
 listening
 to
 his
-conscience)
+conscience
+)
 .
 
 
@@ -858,7 +863,8 @@ guilt
 or
 a
 guilty
-conscience)
+conscience
+)
 .
 
 
@@ -872,7 +878,8 @@ fully
 (or
 at
 least
-semi-)
+semi-
+)
 conscious
 of
 the
@@ -961,7 +968,8 @@ word
 science
 (also
 a
-noun)
+noun
+)
 ,
 and
 as

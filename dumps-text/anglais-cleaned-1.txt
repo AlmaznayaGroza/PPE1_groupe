@@ -2,20 +2,17 @@ top
 of
 page
 
-[]
 
-[]
-
-[]
-
--
+[
+]
 
 
--
+[
+]
 
 
--
-
+[
+]
 
 -
 
@@ -26,7 +23,18 @@ page
 -
 
 
-[]
+-
+
+
+-
+
+
+-
+
+
+
+[
+]
 
 Why
 Donating
@@ -290,9 +298,13 @@ GUILTY
 CONSCIENCE/BAD
 CONSCIENCE
 
-[]
 
-[]
+[
+]
+
+
+[
+]
 
 Guilt
 or
@@ -376,7 +388,8 @@ Friedrich
 Nietzsche
 (1844
 -
-1900)
+1900
+)
 .
 
 
@@ -479,7 +492,8 @@ s
 behavior
 (1856
 -
-1939)
+1939
+)
 .
 
 
@@ -992,7 +1006,8 @@ Conscience
 
 
 
-1)
+1
+)
 The
 first
 step
@@ -1009,7 +1024,8 @@ surrender
 to
 the
 truth
-(Repentance)
+(Repentance
+)
 .
 
 
@@ -1085,7 +1101,8 @@ effects
 .
 
 
-2)
+2
+)
 The
 second
 step
@@ -1167,7 +1184,8 @@ can
 
 
 
-3)
+3
+)
 The
 third
 step
@@ -1226,7 +1244,8 @@ for
 no
 justifiable
 reason
-(s)
+(s
+)
 and
 it
 does
@@ -1238,7 +1257,8 @@ all
 .
 
 
-4)
+4
+)
 The
 fourth
 step
@@ -1354,7 +1374,8 @@ go
 
 
 
-5)
+5
+)
 The
 fifth
 step
@@ -1534,7 +1555,8 @@ also
 .
 
 
-6)
+6
+)
 The
 sixth
 and
@@ -1546,7 +1568,8 @@ always
 seek
 professional
 help
-(psychologist)
+(psychologist
+)
 if
 feel
 like
@@ -1579,11 +1602,17 @@ suicide
 #guilt
 #guiltyconscience
 
-[]
 
-[]
+[
+]
 
-[]
+
+[
+]
+
+
+[
+]
 
 -
 Psychology
@@ -1592,12 +1621,17 @@ Post
 not
 marked
 as
-liked[]
+liked
+[
+]
 
 Featured
 Posts
 
-[]
+
+[
+]
+
 
 [If
 you
@@ -1620,6 +1654,7 @@ eventually
 Consume
 you
 .
+
 
 ]
 
@@ -1647,22 +1682,31 @@ you
 
 
 
-[]
+
+[
+]
+
 
 [The
 First
-Impression]
+Impression
+]
 
 The
 First
 Impression
 
-[]
+
+[
+]
 
 Recent
 Posts
 
-[]
+
+[
+]
+
 
 [If
 you
@@ -1685,6 +1729,7 @@ eventually
 Consume
 you
 .
+
 
 ]
 
@@ -1712,41 +1757,60 @@ you
 
 
 
-[]
+
+[
+]
+
 
 [The
 First
-Impression]
+Impression
+]
 
 The
 First
 Impression
 
-[]
+
+[
+]
+
 
 [GUILTY
 CONSCIENCE/BAD
-CONSCIENCE]
+CONSCIENCE
+]
 
 GUILTY
 CONSCIENCE/BAD
 CONSCIENCE
 
-[]
+
+[
+]
+
 
 [PSYCHOLOGICAL
-DEFLECTION]
+DEFLECTION
+]
 
 PSYCHOLOGICAL
 DEFLECTION
 
-[]
 
-[SUBJECTIVITY]
+[
+]
+
+
+[SUBJECTIVITY
+]
 
 SUBJECTIVITY
 
-[]
+
+[
+]
+
 
 [Individualistic
 Moral
@@ -1760,7 +1824,8 @@ Kohlberg
 '
 s
 Conventional
-Stag]
+Stag
+]
 
 Individualistic
 Moral
@@ -1776,7 +1841,10 @@ s
 Conventional
 Stag
 
-[]
+
+[
+]
+
 
 [Your
 Vibe
@@ -1786,6 +1854,7 @@ Attract
 your
 Tribe
 .
+
 
 ]
 
@@ -1800,7 +1869,10 @@ Tribe
 
 
 
-[]
+
+[
+]
+
 
 [Do
 all
@@ -1809,7 +1881,8 @@ Lead
 to
 the
 Same
-Place]
+Place
+]
 
 Do
 all
@@ -1820,7 +1893,10 @@ the
 Same
 Place
 
-[]
+
+[
+]
+
 
 [Gender
 Identity
@@ -1829,7 +1905,8 @@ Gender
 Role
 ,
 and
-Emotions]
+Emotions
+]
 
 Gender
 Identity
@@ -1839,6 +1916,7 @@ Role
 ,
 and
 Emotions
+
 
 [The
 Importance
@@ -1852,7 +1930,8 @@ Child
 s
 Cognitive
 Developmental
-Stages]
+Stages
+]
 
 The
 Importance
@@ -1873,91 +1952,106 @@ Archive
 -
 February
 2020
-(1)
+(1
+)
 1
 post
 -
 January
 2020
-(1)
+(1
+)
 1
 post
 -
 June
 2019
-(3)
+(3
+)
 3
 posts
 -
 April
 2019
-(4)
+(4
+)
 4
 posts
 -
 March
 2019
-(4)
+(4
+)
 4
 posts
 -
 February
 2019
-(1)
+(1
+)
 1
 post
 -
 December
 2017
-(1)
+(1
+)
 1
 post
 -
 April
 2017
-(2)
+(2
+)
 2
 posts
 -
 March
 2017
-(1)
+(1
+)
 1
 post
 -
 June
 2016
-(3)
+(3
+)
 3
 posts
 -
 May
 2016
-(2)
+(2
+)
 2
 posts
 -
 April
 2016
-(6)
+(6
+)
 6
 posts
 -
 March
 2016
-(16)
+(16
+)
 16
 posts
 -
 February
 2016
-(3)
+(3
+)
 3
 posts
 -
 January
 2016
-(3)
+(3
+)
 3
 posts
 
@@ -1985,13 +2079,24 @@ Us
 -
 
 
-[]
 
-[]
+[
+]
 
-[]
 
-[]
+[
+]
+
+
+[
+]
+
+
+[
+]
+
+-
+
 
 -
 
@@ -2005,16 +2110,21 @@ Us
 -
 
 
--
+
+[
+]
 
 
-[]
+[
+]
 
-[]
 
-[]
+[
+]
 
-[]
+
+[
+]
 
 Brice
 Foundation
@@ -2025,7 +2135,11 @@ l
 is
 a
 nonprofit
-501(c)(3)
+501
+(c
+)
+(3
+)
 organization
 that
 is
@@ -2123,7 +2237,9 @@ reserved
 us
 :
 
-﻿1(866)579
+﻿1
+(866
+)579
 .
 
 9729
@@ -2283,7 +2399,9 @@ WebMaster
 
 ﻿
 
-[]
+
+[
+]
 
 bottom
 of

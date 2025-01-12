@@ -1,5 +1,6 @@
 
-(Top)
+(Top
+)
 -
 
 
@@ -138,10 +139,12 @@ conscience
 or
 collective
 conscious
+
 (French
 :
 conscience
-collective)
+collective
+)
 is
 the
 set
@@ -164,7 +167,12 @@ within
 society
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 ---------------
 to
 a
@@ -175,7 +183,12 @@ social
 norms
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 
 The
 modern
@@ -211,7 +224,12 @@ collective
 mind"
 .
 
-^([5])
+
+^
+(
+[5
+]
+)
 
 Historical
 use
@@ -219,7 +237,9 @@ of
 collective
 consciousness
 
-[edit]
+
+[edit
+]
 ---------------
 The
 term
@@ -255,12 +275,22 @@ means
 "consciousness"
 ,
 "awareness"
-,^([6])
+,
+^
+(
+[6
+]
+)
 or
 "perception"
 .
 
-^([7])
+
+^
+(
+[7
+]
+)
 Given
 the
 multiplicity
@@ -317,10 +347,16 @@ foule’
 (soul
 of
 the
-crowd)
+crowd
+)
 .
 
-^([10])
+
+^
+(
+[10
+]
+)
 This
 term
 returns
@@ -349,7 +385,9 @@ of
 collective
 consciousness
 
-[edit]
+
+[edit
+]
 ---------------
 based
 around
@@ -358,7 +396,8 @@ clan
 family
 or
 tribal
-relationships)
+relationships
+)
 ,
 totemic
 religion
@@ -463,7 +502,12 @@ consciousness
 
 —
 Émile
-Durkheim^([11])
+Durkheim
+^
+(
+[11
+]
+)
 ---------------
 In
 Suicide
@@ -517,9 +561,16 @@ be
 higher
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 ---------------
-[edit]
+
+[edit
+]
 
 Antonio
 Gramsci
@@ -567,7 +618,12 @@ a
 multiplicity
 .
 
-”^([13])
+”
+^
+(
+[13
+]
+)
 A
 form
 of
@@ -676,7 +732,8 @@ individual
 experiences
 of
 social
-reality)
+reality
+)
 ,
 which
 coexist
@@ -725,7 +782,8 @@ right-wing
 use
 of
 the
-term)
+term
+)
 embodies
 the
 concept
@@ -791,7 +849,12 @@ mass
 politics
 .
 
-”^([14])
+”
+^
+(
+[14
+]
+)
 Collective
 organisms
 can
@@ -994,7 +1057,12 @@ collective
 etc
 .
 
-”^([15])
+”
+^
+(
+[15
+]
+)
 Knowledge
 in
 a
@@ -1136,10 +1204,12 @@ to
 analyse
 the
 subjective
+
 (such
 as
 individual
-consciousness)
+consciousness
+)
 or
 intersubjective
 bearers
@@ -1150,7 +1220,8 @@ values
 of
 a
 given
-society)
+society
+)
 ,
 in
 other
@@ -1239,7 +1310,9 @@ consciousness
 in
 society
 
-[edit]
+
+[edit
+]
 ---------------
 self
 '
@@ -1256,7 +1329,12 @@ reflect
 "
 .
 
-^([17])
+
+^
+(
+[17
+]
+)
 It
 is
 suggested
@@ -1315,7 +1393,8 @@ a
 group
 (Tsoukalas
 ,
-2007)
+2007
+)
 .
 
 
@@ -1401,7 +1480,12 @@ historical
 research"
 .
 
-^([19])
+
+^
+(
+[19
+]
+)
 There
 is
 still
@@ -1532,7 +1616,8 @@ S
 .
 
 
-(2008)
+(2008
+)
 .
 
 
@@ -1571,7 +1656,8 @@ names
 authors
 list
 
-(link)
+(link
+)
 ---------------
 
 JSTOR j
@@ -1604,7 +1690,8 @@ E
 .
 
 
-(1998)
+(1998
+)
 The
 Social
 Construction
@@ -1631,7 +1718,8 @@ Consciousness
 Studies
 ,
 5
-(1)
+(1
+)
 
 p
 72
@@ -1649,7 +1737,8 @@ I
 .
 
 
-(2007)
+(2007
+)
 .
 
 
@@ -1667,7 +1756,9 @@ Culture
 and
 Psychology
 ,
-13(1)
+13
+(1
+)
 ,
 39-81
 .
@@ -1681,7 +1772,8 @@ Psychology
 Ernst
 ,
 Wolfgang
-(2017)
+(2017
+)
 .
 
 

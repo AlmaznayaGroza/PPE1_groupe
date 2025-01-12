@@ -444,13 +444,15 @@ nature
 of
 human
 consciousness
+
 (Pearson
 1999
 ,
 Clark
 and
 Riel-Salvatore
-2001)
+2001
+)
 .
 
 
@@ -504,7 +506,8 @@ the
 Homeric
 era
 (Jaynes
-1974)
+1974
+)
 .
 
 
@@ -551,7 +554,8 @@ to
 ,
 1988
 ,
-1995)
+1995
+)
 .
 
 
@@ -659,7 +663,8 @@ very
 notion
 of
 thought
-(pensée)
+(pensée
+)
 in
 terms
 of
@@ -675,7 +680,8 @@ the
 Principles
 of
 Philosophy
-(1640)
+(1640
+)
 he
 wrote
 ,
@@ -737,7 +743,8 @@ the
 Discourse
 on
 Metaphysics
-(1686)
+(1686
+)
 that
 allowed
 for
@@ -795,7 +802,8 @@ self-awareness
 In
 the
 Monadology
-(1720)
+(1720
+)
 he
 also
 offered
@@ -897,7 +905,8 @@ century
 by
 David
 Hume
-(1739)
+(1739
+)
 or
 in
 the
@@ -905,7 +914,8 @@ nineteenth
 by
 James
 Mill
-(1829)
+(1829
+)
 ,
 aimed
 to
@@ -924,7 +934,8 @@ century
 by
 Immanuel
 Kant
-(1787)
+(1787
+)
 ,
 who
 argued
@@ -991,15 +1002,18 @@ Edmund
 Husserl
 (1913
 ,
-1929)
+1929
+)
 ,
 Martin
 Heidegger
-(1927)
+(1927
+)
 ,
 Maurice
 Merleau-Ponty
-(1945)
+(1945
+)
 and
 others
 who
@@ -1058,20 +1072,24 @@ work
 of
 Wilhelm
 Wundt
-(1897)
+(1897
+)
 ,
 Hermann
 von
 Helmholtz
-(1897)
+(1897
+)
 ,
 William
 James
-(1890)
+(1890
+)
 and
 Alfred
 Titchener
-(1901)
+(1901
+)
 .
 
 
@@ -1148,7 +1166,8 @@ rubbed
 his
 
 lamp
-(1866)
+(1866
+)
 .
 
 
@@ -1180,18 +1199,21 @@ behaviorism
 1924
 ,
 Skinner
-1953)
+1953
+)
 though
 movements
 such
 as
 Gestalt
 ---------------
+
 (Neisser
 1965
 ,
 Gardiner
-1985)
+1985
+)
 .
 
 
@@ -1270,7 +1292,8 @@ Lycan
 1996
 ,
 Chalmers
-1996)
+1996
+)
 .
 
 
@@ -1314,7 +1337,8 @@ Consciousness
 and
 Cognition
 ,
-Psyche)
+Psyche
+)
 ,
 professional
 societies
@@ -1324,7 +1348,8 @@ the
 Scientific
 Study
 of
-Consciousness—ASSC)
+Consciousness—ASSC
+)
 and
 annual
 conferences
@@ -1336,7 +1361,8 @@ investigation
 (“The
 Science
 of
-Consciousness”)
+Consciousness”
+)
 .
 
 
@@ -1408,7 +1434,8 @@ Gennaro
 1995
 ,
 Carruthers
-2000)
+2000
+)
 .
 
 
@@ -1484,7 +1511,8 @@ form
 of
 self-consciousness
 (Carruthers
-2000)
+2000
+)
 .
 
 
@@ -1590,7 +1618,8 @@ states
 2
 .
 
-2)
+2
+)
 .
 
 
@@ -1658,7 +1687,8 @@ consciousness
 is
 directed
 (Rosenthal
-1986)
+1986
+)
 .
 
 
@@ -1768,7 +1798,8 @@ section
 4
 .
 
-3)
+3
+)
 .
 
 
@@ -1823,7 +1854,8 @@ Thomas
 Nagel
 '
 s
-(1974)
+(1974
+)
 notion
 of
 a
@@ -1928,7 +1960,8 @@ to
 what
 Ned
 Block
-(1995)
+(1995
+)
 calls
 access
 consciousness
@@ -2313,6 +2346,7 @@ problem
 of
 universals
 .
+
 
 )
 It
@@ -2798,7 +2832,8 @@ not
 how
 does
 (or
-could)
+could
+)
 consciousness
 in
 the
@@ -3165,7 +3200,8 @@ of
 investigational
 methods
 (Flanagan
-1992)
+1992
+)
 .
 
 
@@ -3200,7 +3236,8 @@ far
 from
 trivial
 (Husserl
-1913)
+1913
+)
 .
 
 
@@ -3279,7 +3316,8 @@ introspection
 1985
 ,
 Wegner
-2002)
+2002
+)
 .
 
 
@@ -3323,7 +3361,8 @@ perhaps
 even
 second-person
 (Varela
-1995)
+1995
+)
 interactive
 methods
 will
@@ -3403,7 +3442,8 @@ consciousness
 2–4
 .
 
-7)
+7
+)
 .
 
 
@@ -3470,7 +3510,8 @@ central
 1974
 ,
 Chalmers
-1996)
+1996
+)
 .
 
 
@@ -3496,7 +3537,8 @@ associated
 with
 consciousness
 (Siewert
-1998)
+1998
+)
 .
 
 
@@ -3509,6 +3551,7 @@ theories
 of
 consciousness
 .
+
 
 )
 
@@ -3615,7 +3658,8 @@ open
 to
 debate
 (Lycan
-1996)
+1996
+)
 ,
 but
 the
@@ -3644,8 +3688,10 @@ has
 a
 long
 history
+
 (Locke
-1688)
+1688
+)
 .
 
 
@@ -3678,7 +3724,8 @@ limits
 2002
 ,
 Chalmers
-2003)
+2003
+)
 .
 
 
@@ -3688,6 +3735,7 @@ entry
 on
 self-knowledge
 .
+
 
 )
 ---------------
@@ -3766,7 +3814,8 @@ forms
 of
 experience
 (Lorenz
-1977)
+1977
+)
 .
 
 
@@ -3888,6 +3937,7 @@ of
 consciousness
 .
 
+
 )
 
 Particular
@@ -3936,6 +3986,7 @@ consciousness
 and
 intentionality
 .
+
 
 )
 
@@ -4009,6 +4060,7 @@ of
 consciousness
 .
 
+
 )
 Moore
 himself
@@ -4077,8 +4129,10 @@ the
 intentionality”
 of
 consciousness
+
 (Searle
-1992)
+1992
+)
 .
 
 
@@ -4180,7 +4234,8 @@ self-transformation
 what
 William
 James
-(1890)
+(1890
+)
 called
 the
 “stream
@@ -4278,8 +4333,10 @@ its
 underlying
 prior
 organization
+
 (Husserl
-1913)
+1913
+)
 .
 
 
@@ -4309,7 +4366,8 @@ system
 (Varela
 and
 Maturana
-1980)
+1980
+)
 .
 
 
@@ -4321,7 +4379,8 @@ interconnected
 contents
 (Van
 Gulick
-2000)
+2000
+)
 .
 
 
@@ -4596,7 +4655,8 @@ specific
 questions
 (Van
 Gulick
-1995)
+1995
+)
 .
 
 
@@ -4941,7 +5001,8 @@ produce
 consciousness
 (Van
 Gulick
-1995)
+1995
+)
 .
 
 
@@ -4989,7 +5050,8 @@ for
 explaining
 consciousness
 (Jackson
-1993)
+1993
+)
 .
 
 
@@ -5071,7 +5133,8 @@ facts
 about
 consciousness
 (Kim
-1998)
+1998
+)
 .
 
 
@@ -5134,7 +5197,8 @@ exists
 1993
 ,
 McGinn
-1991)
+1991
+)
 .
 
 
@@ -5223,7 +5287,8 @@ described
 following
 Joseph
 Levine
-(1983)
+(1983
+)
 ,
 as
 the
@@ -5319,7 +5384,8 @@ not
 do
 so
 (Chalmers
-1996)
+1996
+)
 .
 
 
@@ -5359,7 +5425,8 @@ Kirk
 1974
 ,
 Chalmers
-1996)
+1996
+)
 .
 
 
@@ -5396,7 +5463,8 @@ g
 
 ,
 genetic
-dominance)
+dominance
+)
 in
 terms
 of
@@ -5460,7 +5528,9 @@ critics
 such
 as
 Kim
-(1987)
+
+(1987
+)
 ,
 have
 challenged
@@ -5480,7 +5550,8 @@ in
 turn
 (Van
 Gulick
-1993)
+1993
+)
 .
 
 
@@ -5616,7 +5687,8 @@ of
 the
 brain
 (Baars
-1988)
+1988
+)
 .
 
 
@@ -5632,7 +5704,8 @@ so-called
 “hard
 problem”
 (Chalmers
-1995)
+1995
+)
 which
 is
 more
@@ -5789,6 +5862,7 @@ the
 early
 stage
 ---------------
+
 (Dennett
 1991
 ,
@@ -5803,7 +5877,8 @@ M
 .
 
 Churchland
-1995)
+1995
+)
 .
 
 
@@ -5846,7 +5921,8 @@ Foster
 1996
 ,
 Chalmers
-1996)
+1996
+)
 .
 
 
@@ -6282,6 +6358,7 @@ on
 epiphenomenalism
 .
 
+
 )
 Such
 worries
@@ -6303,7 +6380,8 @@ Jackson
 1982
 ,
 Chalmers
-1996)
+1996
+)
 ,
 but
 challenges
@@ -6322,7 +6400,8 @@ including
 meta-mental
 consciousness
 (Velmans
-1991)
+1991
+)
 .
 
 
@@ -6377,7 +6456,8 @@ Some
 1970
 ,
 Chalmers
-1996)
+1996
+)
 assert
 such
 beings
@@ -6400,7 +6480,8 @@ it
 1991
 ,
 Levine
-2001)
+2001
+)
 .
 
 
@@ -6491,7 +6572,8 @@ be
 its
 effects
 (Velmans
-1991)
+1991
+)
 .
 
 
@@ -6560,7 +6642,8 @@ shared
 prior
 cause
 (Libet
-1985)
+1985
+)
 .
 
 
@@ -6602,7 +6685,8 @@ and
 commentaries
 accompanying
 Velmans
-1991)
+1991
+)
 .
 
 
@@ -6710,7 +6794,9 @@ it
 
 
 What
-function(s)
+function
+(s
+)
 might
 consciousness
 play
@@ -6721,13 +6807,15 @@ The
 following
 six
 sections
+
 (6
 .
 
 2–6
 .
 
-7)
+7
+)
 discuss
 some
 of
@@ -6779,7 +6867,8 @@ unconscious
 mental
 operations
 (Anderson
-1983)
+1983
+)
 .
 
 
@@ -7021,6 +7110,7 @@ of
 consciousness
 .
 
+
 )
 
 This
@@ -7100,7 +7190,8 @@ semantic
 transparency
 (Van
 Gulick
-1993)
+1993
+)
 .
 
 
@@ -7127,7 +7218,8 @@ section
 9
 .
 
-5)
+5
+)
 and
 Giulio
 Tononi
@@ -7141,7 +7233,8 @@ theory
 .
 
 6
-below)
+below
+)
 .
 
 
@@ -7164,7 +7257,8 @@ of
 access
 consciousness
 (Block
-1995)
+1995
+)
 ,
 but
 meta-mental
@@ -7189,11 +7283,13 @@ the
 availability
 of
 information
+
 (Armstrong
 1981
 ,
 Tye
-1985)
+1985
+)
 .
 
 
@@ -7226,9 +7322,11 @@ s
 Attendend
 Intermediate
 Representation
-(AIR)
+(AIR
+)
 (Prinz
-2012)
+2012
+)
 and
 Tononi
 '
@@ -7245,7 +7343,8 @@ Hasker
 1999
 ,
 Wegner
-2002)
+2002
+)
 .
 
 
@@ -7256,6 +7355,7 @@ on
 free
 will
 .
+
 
 )
 The
@@ -7342,7 +7442,8 @@ freedom
 or
 self-determination
 (Hasker
-1999)
+1999
+)
 .
 
 
@@ -7404,10 +7505,12 @@ of
 freedom
 and
 self-determination
+
 (Dennett
 1984
 ,
-2003)
+2003
+)
 .
 
 
@@ -7496,8 +7599,10 @@ which
 it
 is
 present
+
 (Humphreys
-1992)
+1992
+)
 .
 
 
@@ -7620,7 +7725,8 @@ be
 realized
 (Van
 Gulick
-1993)
+1993
+)
 .
 
 
@@ -7755,8 +7861,10 @@ case
 of
 access
 consciousness
+
 (Carruthers
-2000)
+2000
+)
 .
 
 
@@ -7796,7 +7904,8 @@ why
 it
 exists
 (Chalmers
-1996)
+1996
+)
 .
 
 
@@ -8031,9 +8140,11 @@ on
 dualism
 .
 
+
 )
 ---------------
-1644)
+1644
+)
 ,
 asserts
 the
@@ -8089,12 +8200,14 @@ proponents
 Foster
 1989
 ,
-1996)
+1996
+)
 .
 
 
 ---------------
-1996)
+1996
+)
 according
 to
 which
@@ -8124,6 +8237,7 @@ entry
 on
 panpsychism
 .
+
 
 )
 
@@ -8188,7 +8302,8 @@ the
 neuroscientist
 Giulio
 Tononi
-(2008)
+(2008
+)
 and
 endorsed
 by
@@ -8197,7 +8312,8 @@ neuroscientists
 including
 Christof
 Koch
-(2012)
+(2012
+)
 .
 
 
@@ -8211,7 +8327,8 @@ s
 integrated
 information
 theory
-(IIT)
+(IIT
+)
 of
 consciousness
 that
@@ -8232,7 +8349,8 @@ section
 .
 
 6
-below)
+below
+)
 .
 
 
@@ -8323,17 +8441,20 @@ zombies
 1970
 ,
 Chalmers
-1996)
+1996
+)
 or
 versions
 of
 the
 knowledge
 argument
+
 (Jackson
 1982
 ,
-1986)
+1986
+)
 which
 aim
 to
@@ -8430,6 +8551,7 @@ eliminative
 materialism
 .
 
+
 )
 The
 radical
@@ -8462,7 +8584,8 @@ joints
 (Wilkes
 1984
 ,
-1988)
+1988
+)
 .
 
 
@@ -8503,13 +8626,15 @@ S
 
 
 Churchland
-1983)
+1983
+)
 .
 
 
 ---------------
 Kinsbourne
-1992)
+1992
+)
 .
 
 
@@ -8551,7 +8676,8 @@ Model
 .
 
 3
-below)
+below
+)
 .
 
 
@@ -8696,7 +8822,8 @@ Levine
 1983
 ,
 Chalmers
-1996)
+1996
+)
 .
 
 
@@ -8827,6 +8954,7 @@ of
 consciousness
 .
 
+
 )
 
 Higher-order
@@ -8904,8 +9032,10 @@ occurring
 unconsciously
 ;
 ---------------
+
 (Papineau
-2002)
+2002
+)
 .
 
 
@@ -8996,7 +9126,8 @@ occurrent
 higher-order
 thoughts
 (Carruthers
-2000)
+2000
+)
 .
 
 
@@ -9061,10 +9192,12 @@ it
 The
 idea
 ---------------
+
 (Gennaro
 2004
 ,
-2012)
+2012
+)
 while
 others
 reject
@@ -9085,7 +9218,8 @@ consciousness
 as
 self-awareness
 (Kriegel
-2009)
+2009
+)
 .
 
 
@@ -9272,7 +9406,8 @@ the
 Multiple
 Drafts
 Model
-(MDM)
+(MDM
+)
 of
 consciousness
 ,
@@ -9280,7 +9415,8 @@ advanced
 by
 Daniel
 Dennett
-(1991)
+(1991
+)
 .
 
 
@@ -9430,7 +9566,8 @@ Dretske
 1994
 ,
 Levine
-1994)
+1994
+)
 .
 
 
@@ -9463,6 +9600,7 @@ those
 captured
 by
 it
+
 (Rosenthal
 1994
 ,
@@ -9471,7 +9609,8 @@ Gulick
 1994
 ,
 Akins
-1996)
+1996
+)
 .
 
 
@@ -9589,7 +9728,9 @@ developed
 by
 Bernard
 Baars
-(1988))
+(1988
+)
+)
 global
 workspace
 theory
@@ -9637,7 +9778,8 @@ Stanislas
 Dehaene
 and
 others
-(2000)
+(2000
+)
 .
 
 
@@ -9696,7 +9838,8 @@ above
 6
 .
 
-4)
+4
+)
 ,
 is
 often
@@ -9727,7 +9870,8 @@ theory
 9
 .
 
-3)
+3
+)
 .
 
 
@@ -9740,7 +9884,8 @@ the
 neuroscientist
 Giulio
 Tononi
-(2008)
+(2008
+)
 goes
 further
 in
@@ -9780,7 +9925,8 @@ not
 be
 neural
 or
-biological)
+biological
+)
 .
 
 
@@ -9792,7 +9938,8 @@ s
 Integrated
 Information
 Theory
-(IIT)
+(IIT
+)
 ,
 consciousness
 is
@@ -9955,7 +10102,8 @@ the
 IIT
 approach
 (Koch
-2012)
+2012
+)
 .
 
 
@@ -10259,8 +10407,10 @@ global
 neuronal
 workspace
 model
+
 (Dehaene
-2000)
+2000
+)
 have
 argued
 that
@@ -10294,13 +10444,16 @@ as
 primary
 sensory
 ---------------
-(2006)
+
+(2006
+)
 and
 the
 philosopher
 Ned
 Block
-(2007)
+(2007
+)
 have
 argued
 that
@@ -10315,6 +10468,7 @@ areas
 within
 sensory
 cortex
+
 (e
 .
 
@@ -10324,7 +10478,8 @@ g
 
 with
 visual
-cortex)
+cortex
+)
 can
 suffice
 for
@@ -10530,13 +10685,15 @@ Roger
 Penrose
 (1989
 ,
-1994)
+1994
+)
 and
 the
 anesthesiologist
 Stuart
 Hameroff
-(1998)
+(1998
+)
 have
 championed
 a
@@ -10625,7 +10782,8 @@ coherence
 (Marshall
 and
 Zohar
-1990)
+1990
+)
 .
 
 
@@ -10749,7 +10907,8 @@ consciousness
 (Silberstein
 1998
 ,
-2001)
+2001
+)
 .
 
 
@@ -10786,7 +10945,8 @@ most
 basic
 level
 (Stapp
-1993)
+1993
+)
 .
 
 
@@ -10983,7 +11143,8 @@ of
 “it
 from
 bit”
-theory)
+theory
+)
 .
 
 
@@ -10996,7 +11157,9 @@ vein
 Gregg
 Rosenberg
 has
-(2004)
+
+(2004
+)
 proposed
 an
 account
@@ -11053,7 +11216,8 @@ above
 9
 .
 
-8)
+8
+)
 ,
 some
 quantum
@@ -11067,7 +11231,8 @@ feature
 of
 reality
 (Stapp
-1993)
+1993
+)
 ,
 and
 insofar
@@ -11484,6 +11649,7 @@ M
 (eds
 .
 
+
 )
 2012
 .
@@ -11838,7 +12004,8 @@ and
 Veillet
 ,
 Benedicte
-(2011)
+(2011
+)
 .
 
 
@@ -11865,6 +12032,7 @@ M
 Montague
 (eds
 .
+
 
 )
 
@@ -13760,7 +13928,8 @@ the
 Mirror
 (Rückseite
 dyes
-Speigels)
+Speigels
+)
 .
 
 
@@ -15678,6 +15847,7 @@ Montague
 (eds
 .
 
+
 )
 Cognitive
 Phenomenology
@@ -16451,7 +16621,8 @@ Consciousness
 Studies
 (University
 of
-Arizona/Tucson)
+Arizona/Tucson
+)
 .
 
 

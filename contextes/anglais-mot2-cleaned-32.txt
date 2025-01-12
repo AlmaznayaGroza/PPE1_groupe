@@ -17,6 +17,7 @@ navigation
 ,
 search
 
+
 [This
 page
 Class
@@ -36,15 +37,19 @@ the
 People
 (1831
 ,
-detail)
+detail
+)
 by
 Eugène
 Delacroix
 .
 
+
 ]
 ---------------
-[Enlarge]
+
+[Enlarge
+]
 
 This
 page
@@ -66,7 +71,8 @@ the
 People
 (1831
 ,
-detail)
+detail
+)
 by
 Eugène
 Delacroix
@@ -134,7 +140,8 @@ History
 and
 Class
 Consciousness
-(1923)
+(1923
+)
 |
 |
 -
@@ -239,10 +246,12 @@ part
 by
 public
 schools
+
 (in
 the
 British
-sense)
+sense
+)
 and
 Universities
 .
@@ -264,7 +273,9 @@ not
 only
 the
 ---------------
-[edit]
+
+[edit
+]
 
 Georg
 Lukács
@@ -274,7 +285,8 @@ History
 and
 Class
 Consciousness
-(1923)
+(1923
+)
 
 Class
 consciousness
@@ -291,7 +303,8 @@ History
 and
 Class
 Consciousness
-(1923)
+(1923
+)
 ,
 is
 opposed
@@ -311,6 +324,7 @@ individual
 or
 mass
 psychology
+
 (see
 Freud
 or
@@ -320,7 +334,8 @@ him
 ,
 Gustave
 Le
-Bon)
+Bon
+)
 .
 
 
@@ -389,7 +404,8 @@ must
 be
 "earned"
 or
-won)
+won
+)
 .
 
 
@@ -828,7 +844,8 @@ proletariat
 s
 point
 of
-view")
+view"
+)
 .
 
 
@@ -860,7 +877,8 @@ into
 an
 object
 (a
-commodity)
+commodity
+)
 which
 ,
 when
@@ -910,7 +928,8 @@ consciousness
 of
 itself
 (class
-consciousness)
+consciousness
+)
 is
 also
 consciousness
@@ -924,7 +943,8 @@ entire
 social
 and
 historical
-process)
+process
+)
 .
 
 
@@ -1039,7 +1059,8 @@ mistaken
 with
 vulgar
 economic
-determinism)
+determinism
+)
 ,
 he
 considers
@@ -1161,7 +1182,9 @@ Mises
 argued
 that
 "Marx
-confus[ed]
+confus
+[ed
+]
 the
 notions
 of
@@ -1277,14 +1300,16 @@ consciousness"
 But
 this
 is
-(a)
+(a
+)
 not
 true
 ;
 nor
 would
 it
-(b)
+(b
+)
 help
 much
 if
@@ -1295,7 +1320,8 @@ were
 
 
 ---------------
-b)
+b
+)
 Further
 if
 we

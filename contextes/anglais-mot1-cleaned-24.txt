@@ -117,7 +117,8 @@ uses
 ,
 see
 Conscience
-(disambiguation)
+(disambiguation
+)
 .
 
 
@@ -133,7 +134,8 @@ uses
 ,
 see
 Scruples
-(disambiguation)
+(disambiguation
+)
 .
 
 
@@ -149,7 +151,8 @@ Conscientiousness
 
 
 ---------------
-Delacroix)
+Delacroix
+)
 .
 
 
@@ -345,7 +348,12 @@ of
 conscience
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 Common
 secular
 or
@@ -375,7 +383,12 @@ a
 culture
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 
 Commonly
 used
@@ -390,7 +403,12 @@ within"
 the
 "inner
 light"
-,^([3])
+,
+^
+(
+[3
+]
+)
 or
 even
 Socrates
@@ -409,7 +427,8 @@ sign"
 an
 averting
 (ἀποτρεπτικός
-apotreptikos)
+apotreptikos
+)
 inner
 voice
 heard
@@ -442,7 +461,12 @@ national
 and
 international
 law
-,^([4])
+,
+^
+(
+[4
+]
+)
 is
 increasingly
 conceived
@@ -485,9 +509,16 @@ approaches
 have
 addressed
 it
-:^([8])
+:
+^
+(
+[8
+]
+)
 ---------------
-[]
+
+[
+]
 
 Seated
 Buddha
@@ -576,7 +607,12 @@ many
 lifetimes
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 ---------------
 In
 the
@@ -631,7 +667,12 @@ the
 Lie
 .
 
-"^([12])
+"
+^
+(
+[12
+]
+)
 The
 Chinese
 concept
@@ -656,7 +697,8 @@ to
 follow
 The
 Way
-(Tao)
+(Tao
+)
 a
 mode
 of
@@ -672,7 +714,12 @@ and
 harmony
 .
 
-^([13])
+
+^
+(
+[13
+]
+)
 ---------------
 stillness
 .
@@ -687,7 +734,12 @@ in
 Buddhism
 .
 
-^([14])
+
+^
+(
+[14
+]
+)
 In
 the
 Pali
@@ -765,10 +817,16 @@ right
 contemplation
 .
 
-^([15])
+
+^
+(
+[15
+]
+)
 Santideva
 (685–763
-CE)
+CE
+)
 ---------------
 training
 the
@@ -803,7 +861,12 @@ meditative
 absorption
 .
 
-^([16])
+
+^
+(
+[16
+]
+)
 Conscience
 thus
 manifests
@@ -824,7 +887,12 @@ awakens
 to
 a
 purer
-awareness^([17])
+awareness
+^
+(
+[17
+]
+)
 where
 the
 mind
@@ -937,7 +1005,12 @@ against
 evil"
 .
 
-^([20])
+
+^
+(
+[20
+]
+)
 Qur’ān
 verse
 ---------------
@@ -956,7 +1029,12 @@ from
 God
 .
 
-^([21])
+
+^
+(
+[21
+]
+)
 In
 Qur’ān
 verses
@@ -983,10 +1061,12 @@ taught
 it
 the
 wrong
-(fujūr)
+(fujūr
+)
 and
 right
-(taqwā)
+(taqwā
+)
 .
 
 
@@ -1024,7 +1104,8 @@ al-Mahfūz
 ,
 the
 Preserved
-Tablet)
+Tablet
+)
 ,
 humans
 possess
@@ -1088,7 +1169,12 @@ sinful
 acts
 .
 
-^([23])
+
+^
+(
+[23
+]
+)
 Marshall
 Hodgson
 wrote
@@ -1110,9 +1196,16 @@ World
 Civilization
 .
 
-^([24])
 
-[]
+^
+(
+[24
+]
+)
+
+
+[
+]
 
 The
 Awakening
@@ -1179,7 +1272,12 @@ religious
 sphere
 .
 
-^([25])
+
+^
+(
+[25
+]
+)
 John
 Calvin
 saw
@@ -1216,7 +1314,12 @@ established
 therein"
 .
 
-^([26])
+
+^
+(
+[26
+]
+)
 Many
 Christians
 regard
@@ -1240,7 +1343,12 @@ human
 authority
 .
 
-^([27])
+
+^
+(
+[27
+]
+)
 According
 to
 the
@@ -1371,6 +1479,7 @@ Bible
 versions
 .
 
+
 ]
 (see
 Jesus
@@ -1379,7 +1488,8 @@ the
 woman
 taken
 in
-adultery)
+adultery
+)
 .
 
 
@@ -1390,7 +1500,8 @@ of
 Luke
 (10
 :
-25–37)
+25–37
+)
 Jesus
 tells
 the
@@ -1407,7 +1518,8 @@ Parable
 of
 the
 Good
-Samaritan)
+Samaritan
+)
 who
 (out
 of
@@ -1422,7 +1534,8 @@ conscience
 
 is
 not
-used)
+used
+)
 helps
 an
 injured
@@ -1453,7 +1566,12 @@ other
 side
 .
 
-^([31])
+
+^
+(
+[31
+]
+)
 ---------------
 canvas
 ,
@@ -1505,7 +1623,12 @@ the
 living"
 .
 
-^([32])
+
+^
+(
+[32
+]
+)
 
 Catholic
 theology
@@ -1525,7 +1648,8 @@ appropriate
 moment
 enjoins
 [a
-person]
+person
+]
 to
 do
 good
@@ -1535,12 +1659,18 @@ avoid
 evil"
 .
 
-^([33])
+
+^
+(
+[33
+]
+)
 The
 Second
 Vatican
 Council
-(1962–65)
+(1962–65
+)
 describes
 :
 "Deep
@@ -1661,7 +1791,12 @@ his
 depths
 .
 
-"^([34])
+"
+^
+(
+[34
+]
+)
 Thus
 ,
 conscience
@@ -1732,7 +1867,12 @@ forward
 ,
 to
 remain
-faithful"^([35])
+faithful"
+^
+(
+[35
+]
+)
 In
 terms
 of
@@ -1881,7 +2021,12 @@ religious
 matters"
 .
 
-^([36])
+
+^
+(
+[36
+]
+)
 This
 right
 of
@@ -1957,7 +2102,9 @@ s
 best
 effort
 ,
-"[i]t
+"
+[i
+]t
 can
 happen
 that
@@ -2020,7 +2167,12 @@ he
 commits
 .
 
-"^([37])
+"
+^
+(
+[37
+]
+)
 Thus
 ,
 if
@@ -2256,7 +2408,8 @@ not
 sanctioned
 by
 the
-Magisterium)
+Magisterium
+)
 to
 justify
 actions
@@ -2294,7 +2447,12 @@ moral
 conduct"
 .
 
-^([38])
+
+^
+(
+[38
+]
+)
 An
 example
 of
@@ -2318,10 +2476,17 @@ is
 Sir
 Thomas
 More
-(1478-1535)
+
+(1478-1535
+)
 .
 
-^([39])
+
+^
+(
+[39
+]
+)
 A
 theologian
 who
@@ -2378,7 +2543,12 @@ Cardinal
 Newman
 .
 
-^([40])
+
+^
+(
+[40
+]
+)
 A
 well
 known
@@ -2415,13 +2585,23 @@ the
 pope
 .
 
-^([41])
+
+^
+(
+[41
+]
+)
 
 ---------------
 punishment
 .
 
-^([42])
+
+^
+(
+[42
+]
+)
 Similarly
 ,
 although
@@ -2438,12 +2618,15 @@ the
 Jewish
 faith
 (see
-Zionism)
+Zionism
+)
 many
 scholars
+
 (including
 Moses
-Mendelssohn)
+Mendelssohn
+)
 stated
 that
 conscience
@@ -2464,7 +2647,14 @@ Talmudic
 tradition
 .
 
-^([43][44])
+
+^
+(
+[43
+]
+[44
+]
+)
 The
 concept
 of
@@ -2484,7 +2674,12 @@ with
 conscience
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 Freemasonry
 describes
 itself
@@ -2540,7 +2735,12 @@ all
 mankind
 .
 
-"^([45])
+"
+^
+(
+[45
+]
+)
 The
 historian
 Manning
@@ -2607,7 +2807,12 @@ and
 conscience
 .
 
-^([47])
+
+^
+(
+[47
+]
+)
 Many
 prominent
 religious
@@ -2627,26 +2832,45 @@ the
 works
 of
 Al-Ghazali
-,^([48])
+,
+^
+(
+[48
+]
+)
 Avicenna
-,^([49])
+,
+^
+(
+[49
+]
+)
 Aquinas
-,^([50])
+,
+^
+(
+[50
+]
+)
 Joseph
 ---------------
-[]
+
+[
+]
 
 Illustration
 of
 François
 Chifflart
-(1825–1901)
+(1825–1901
+)
 for
 La
 Conscience
 (by
 Victor
-Hugo)
+Hugo
+)
 
 ---------------
 
@@ -2701,7 +2925,12 @@ authoritarian
 views
 .
 
-^([53])
+
+^
+(
+[53
+]
+)
 Lawrence
 Kohlberg
 considered
@@ -2736,7 +2965,8 @@ personifications
 (such
 as
 Jiminy
-Cricket)
+Cricket
+)
 and
 later
 in
@@ -2750,7 +2980,12 @@ moral
 dilemmas
 .
 
-^([54])
+
+^
+(
+[54
+]
+)
 Erik
 Erikson
 placed
@@ -2777,7 +3012,12 @@ personality
 development
 .
 
-^([55])
+
+^
+(
+[55
+]
+)
 The
 psychologist
 Martha
@@ -2796,7 +3036,12 @@ emotional
 attachments
 .
 
-"^([56])
+"
+^
+(
+[56
+]
+)
 Thus
 a
 good
@@ -2827,7 +3072,12 @@ and
 "easy"
 .
 
-^([57])
+
+^
+(
+[57
+]
+)
 
 Sigmund
 Freud
@@ -2878,10 +3128,16 @@ regard
 from
 parents
 during
-childhood)
+childhood
+)
 .
 
-^([58])
+
+^
+(
+[58
+]
+)
 According
 to
 Freud
@@ -2945,7 +3201,12 @@ conscience
 
 .
 
-^([59])
+
+^
+(
+[59
+]
+)
 
 Antonio
 Damasio
@@ -2977,7 +3238,11 @@ behavior
 .
 
 
-^([60])
+^
+(
+[60
+]
+)
 
 Conscience
 as
@@ -2985,7 +3250,9 @@ a
 society-forming
 instinct
 
-[edit]
+
+[edit
+]
 ---------------
 
 Jeremy
@@ -3141,7 +3408,12 @@ for
 survival
 .
 
-^([62])
+
+^
+(
+[62
+]
+)
 In
 such
 a
@@ -3164,14 +3436,20 @@ to
 the
 persons
 it
-comprises)
+comprises
+)
 is
 bad
 or
 "evil"
 .
 
-^([63])
+
+^
+(
+[63
+]
+)
 Thus
 ,
 conscience
@@ -3216,7 +3494,12 @@ to
 person
 .
 
-^([64])
+
+^
+(
+[64
+]
+)
 A
 requirement
 of
@@ -3240,17 +3523,24 @@ another
 person
 .
 
-^([65])
+
+^
+(
+[65
+]
+)
 Persons
 unable
 to
 do
 this
+
 (psychopaths
 ,
 sociopaths
 ,
-narcissists)
+narcissists
+)
 therefore
 often
 act
@@ -3261,7 +3551,12 @@ are
 "evil"
 .
 
-^([66])
+
+^
+(
+[66
+]
+)
 
 Fundamental
 in
@@ -3367,7 +3662,12 @@ herd-conscience
 
 
 '
-"^([67])
+"
+^
+(
+[67
+]
+)
 Jeremy
 Bentham
 noted
@@ -3402,7 +3702,12 @@ its
 service
 .
 
-"^([68])
+"
+^
+(
+[68
+]
+)
 Hannah
 Arendt
 in
@@ -3543,7 +3848,12 @@ around
 him"
 .
 
-^([69])
+
+^
+(
+[69
+]
+)
 
 Sir
 Arthur
@@ -3599,14 +3909,20 @@ out-group
 
 
 ---------------
-food)
+food
+)
 or
 in
 the
 wild
 .
 
-^([70])
+
+^
+(
+[70
+]
+)
 One
 idea
 is
@@ -3641,7 +3957,14 @@ protect
 it
 .
 
-^([71][72])
+
+^
+(
+[71
+]
+[72
+]
+)
 Similarly
 ,
 in
@@ -3656,7 +3979,8 @@ communities
 as
 the
 Australian
-magpie)
+magpie
+)
 that
 have
 a
@@ -3686,7 +4010,12 @@ within
 societies
 .
 
-^([74])
+
+^
+(
+[74
+]
+)
 In
 his
 book
@@ -3720,14 +4049,21 @@ its
 kin
 .
 
-^([75])
+
+^
+(
+[75
+]
+)
 
 Neuroscience
 and
 artificial
 conscience
 
-[edit]
+
+[edit
+]
 ---------------
 
 Attempts
@@ -3765,7 +4101,8 @@ free
 will
 and
 Benjamin
-Libet)
+Libet
+)
 in
 a
 scientifically
@@ -3789,7 +4126,16 @@ potential
 
 
 '
-^([79][80][81])
+
+^
+(
+[79
+]
+[80
+]
+[81
+]
+)
 
 Jacques
 Pitrat
@@ -3818,7 +4164,12 @@ introspective
 processing
 .
 
-^([82])
+
+^
+(
+[82
+]
+)
 ---------------
 Virtue
 ethics
@@ -3845,7 +4196,12 @@ conscientia
 meaning
 "privity
 of
-knowledge"^([83])
+knowledge"
+^
+(
+[83
+]
+)
 or
 "with-knowledge"
 .
@@ -3884,7 +4240,12 @@ own
 actions
 .
 
-^([84])
+
+^
+(
+[84
+]
+)
 Thus
 conscience
 considered
@@ -3920,7 +4281,12 @@ been
 done
 .
 
-^([85])
+
+^
+(
+[85
+]
+)
 Conscience
 in
 this
@@ -3943,6 +4309,7 @@ features
 of
 a
 situation
+
 (or
 the
 applicable
@@ -3951,7 +4318,8 @@ principles
 ,
 rules
 or
-laws)
+laws
+)
 and
 can
 arise
@@ -3980,11 +4348,18 @@ acceptable
 to
 the
 person
+
 ("traditional
-conscience")
+conscience"
+)
 .
 
-^([86])
+
+^
+(
+[86
+]
+)
 Conscience
 may
 be
@@ -4001,11 +4376,18 @@ convictions
 to
 a
 situation
+
 ("critical
-conscience")
+conscience"
+)
 .
 
-^([87])
+
+^
+(
+[87
+]
+)
 In
 purportedly
 morally
@@ -4055,10 +4437,18 @@ medieval
 Christian
 scholastic
 moral
-philosophy)
+philosophy
+)
 .
 
-^([88][89])
+
+^
+(
+[88
+]
+[89
+]
+)
 Conscience
 is
 accompanied
@@ -4102,7 +4492,8 @@ of
 Nafs
 Ammarah
 (12
-:53)
+:53
+)
 which
 "exhorts
 one
@@ -4125,7 +4516,8 @@ evil"
 Nafs
 Lawammah
 (75
-:2)
+:2
+)
 which
 is
 "the
@@ -4145,7 +4537,8 @@ wrong"
 Nafs
 Mutmainnah
 (89
-:27)
+:27
+)
 which
 is
 "a
@@ -4228,7 +4621,12 @@ or
 conscience
 .
 
-^([49])
+
+^
+(
+[49
+]
+)
 According
 to
 the
@@ -4274,7 +4672,9 @@ God
 ;
 this
 ---------------
-[]
+
+[
+]
 
 The
 Flemish
@@ -4330,8 +4730,10 @@ faculty
 of
 the
 mind
+
 (practical
-reason)
+reason
+)
 and
 inner
 awareness
@@ -4362,7 +4764,12 @@ inner
 torment
 .
 
-^([89])
+
+^
+(
+[89
+]
+)
 Early
 modern
 theologians
@@ -4407,7 +4814,8 @@ conscience
 (as
 a
 rational
-faculty)
+faculty
+)
 produced
 the
 judgement
@@ -4433,10 +4841,16 @@ e
 .
 
 
-casuistry)
+casuistry
+)
 .
 
-^([93])
+
+^
+(
+[93
+]
+)
 
 ---------------
 The
@@ -4445,7 +4859,8 @@ Persian
 philosopher
 Ibn
 Sina
-(Avicenna)
+(Avicenna
+)
 developed
 a
 sensory
@@ -4506,7 +4921,8 @@ a
 .
 
 
-13)
+13
+)
 .
 
 
@@ -4553,7 +4969,8 @@ his
 theory
 of
 Natural
-Law)
+Law
+)
 into
 an
 acquired
@@ -4564,7 +4981,12 @@ moral
 principles
 .
 
-^([50])
+
+^
+(
+[50
+]
+)
 According
 to
 Singer
@@ -4598,7 +5020,8 @@ of
 natural
 virtue
 implicit
-therein)
+therein
+)
 was
 obscured
 in
@@ -4619,10 +5042,16 @@ Theologiae
 ,
 I–II
 ,
-I)
+I
+)
 .
 
-^([94])
+
+^
+(
+[94
+]
+)
 Aquinas
 also
 discussed
@@ -4665,7 +5094,12 @@ of
 others
 .
 
-^([95])
+
+^
+(
+[95
+]
+)
 
 Aquinas
 reasoned
@@ -4708,7 +5142,12 @@ knowledge
 of
 .
 
-^([94])
+
+^
+(
+[94
+]
+)
 Aquinas
 also
 argued
@@ -4723,7 +5162,8 @@ towards
 real
 goods
 (from
-God)
+God
+)
 which
 encouraged
 human
@@ -4739,7 +5179,12 @@ sensory
 pleasures
 .
 
-^([94])
+
+^
+(
+[94
+]
+)
 ---------------
 Thomas
 A
@@ -4754,7 +5199,8 @@ Imitation
 of
 Christ
 (ca
-1418)
+1418
+)
 stated
 that
 the
@@ -4811,7 +5257,12 @@ and
 uneasy
 .
 
-"^([97])
+"
+^
+(
+[97
+]
+)
 The
 anonymous
 medieval
@@ -4867,11 +5318,17 @@ first
 cleanse
 his
 [or
-her]
+her
+]
 conscience
 .
 
-"^([98])
+"
+^
+(
+[98
+]
+)
 The
 medieval
 Flemish
@@ -4913,7 +5370,9 @@ love"
 ;
 "an
 ---------------
-[]
+
+[
+]
 
 Schopenhauer
 considered
@@ -4963,7 +5422,12 @@ of
 eternity
 .
 
-^([101])
+
+^
+(
+[101
+]
+)
 Thus
 ,
 living
@@ -5010,7 +5474,12 @@ to
 time
 .
 
-^([102])
+
+^
+(
+[102
+]
+)
 Hegel
 '
 s
@@ -5048,7 +5517,12 @@ and
 true
 .
 
-^([103])
+
+^
+(
+[103
+]
+)
 Nevertheless
 ,
 Hegel
@@ -5084,7 +5558,12 @@ in
 science
 .
 
-^([104])
+
+^
+(
+[104
+]
+)
 A
 similar
 idealist
@@ -5152,7 +5631,12 @@ with
 it
 .
 
-"^([105])
+"
+^
+(
+[105
+]
+)
 Butler
 advanced
 ethical
@@ -5174,7 +5658,8 @@ first
 "self-love"
 (seeking
 individual
-happiness)
+happiness
+)
 and
 second
 ,
@@ -5184,9 +5669,11 @@ and
 seeking
 good
 for
-another)
+another
+)
 in
 conscience
+
 (also
 linked
 to
@@ -5194,10 +5681,16 @@ the
 agape
 of
 situational
-ethics)
+ethics
+)
 .
 
-^([51])
+
+^
+(
+[51
+]
+)
 Conscience
 tended
 to
@@ -5232,10 +5725,16 @@ to
 probable
 and
 changing
-conclusions)
+conclusions
+)
 .
 
-^([106])
+
+^
+(
+[106
+]
+)
 John
 Selden
 in
@@ -5403,7 +5902,12 @@ universal
 law
 .
 
-"^([110])
+"
+^
+(
+[110
+]
+)
 Kant
 considered
 critical
@@ -5471,7 +5975,12 @@ such
 bliss
 .
 
-^([111])
+
+^
+(
+[111
+]
+)
 Rousseau
 expressed
 a
@@ -5533,7 +6042,9 @@ and
 between
 our
 ---------------
-[]
+
+[
+]
 
 John
 Locke
@@ -5554,7 +6065,9 @@ rights
 
 
 
-[]
+
+[
+]
 
 Adam
 Smith
@@ -5572,11 +6085,14 @@ shape
 and
 dimensions
 
-[]
+
+[
+]
 
 Samuel
 Johnson
-(1775)
+(1775
+)
 stated
 that
 "No
@@ -5614,7 +6130,12 @@ in
 society
 .
 
-^([113])
+
+^
+(
+[113
+]
+)
 John
 Locke
 in
@@ -5655,7 +6176,12 @@ the
 state
 .
 
-^([114])
+
+^
+(
+[114
+]
+)
 Locke
 highlighted
 the
@@ -5728,7 +6254,12 @@ others
 avoid
 .
 
-"^([115])
+"
+^
+(
+[115
+]
+)
 Thomas
 Hobbes
 likewise
@@ -5768,7 +6299,12 @@ or
 truth
 .
 
-^([116])
+
+^
+(
+[116
+]
+)
 William
 Godwin
 expressed
@@ -5804,7 +6340,12 @@ free
 will
 .
 
-^([117])
+
+^
+(
+[117
+]
+)
 Adam
 Smith
 considered
@@ -5853,7 +6394,12 @@ other
 people
 .
 
-^([118])
+
+^
+(
+[118
+]
+)
 John
 Stuart
 Mill
@@ -5921,7 +6467,12 @@ conscientious
 feeling
 .
 
-^([119])
+
+^
+(
+[119
+]
+)
 Mill
 held
 that
@@ -5960,7 +6511,8 @@ would
 
 Josiah
 Royce
-(1855–1916)
+(1855–1916
+)
 built
 on
 the
@@ -6023,7 +6575,12 @@ deeper
 self"
 .
 
-^([120])
+
+^
+(
+[120
+]
+)
 In
 the
 modern
@@ -6094,7 +6651,12 @@ with
 itself
 .
 
-"^([121])
+"
+^
+(
+[121
+]
+)
 For
 Bonhoeffer
 a
@@ -6164,7 +6726,12 @@ with
 itself
 .
 
-^([52])
+
+^
+(
+[52
+]
+)
 Conscience
 for
 Bonhoeffer
@@ -6219,7 +6786,12 @@ and
 irreparable"
 .
 
-^([122])
+
+^
+(
+[122
+]
+)
 The
 man
 with
@@ -6282,9 +6854,16 @@ as
 conscience
 .
 
-^([123])
 
-[]
+^
+(
+[123
+]
+)
+
+
+[
+]
 ---------------
 
 As
@@ -6303,7 +6882,8 @@ Stuart
 Mill
 on
 this
-point)
+point
+)
 :
 a
 bad
@@ -6354,7 +6934,14 @@ the
 self
 .
 
-^([124][125])
+
+^
+(
+[124
+]
+[125
+]
+)
 Representing
 our
 soul
@@ -6388,7 +6975,12 @@ come
 home
 .
 
-"^([126])
+"
+^
+(
+[126
+]
+)
 Arendt
 believed
 that
@@ -6420,7 +7012,12 @@ of
 regrets
 .
 
-^([126])
+
+^
+(
+[126
+]
+)
 Arendt
 also
 wrote
@@ -6508,9 +7105,16 @@ of
 God
 .
 
-"^([127])
+"
+^
+(
+[127
+]
+)
 ---------------
-[]
+
+[
+]
 
 Albert
 Einstein
@@ -6633,7 +7237,14 @@ when
 fulfilled
 .
 
-^([130][131])
+
+^
+(
+[130
+]
+[131
+]
+)
 Simone
 Weil
 also
@@ -6708,7 +7319,12 @@ be
 rejected
 .
 
-"^([132])
+"
+^
+(
+[132
+]
+)
 
 Alternatives
 to
@@ -6788,7 +7404,12 @@ in
 man
 .
 
-"^([133])
+"
+^
+(
+[133
+]
+)
 Émile
 Durkheim
 held
@@ -6816,7 +7437,12 @@ totemic
 ceremonies
 .
 
-^([134])
+
+^
+(
+[134
+]
+)
 A
 .
 
@@ -6879,7 +7505,12 @@ social
 sciences
 .
 
-^([135])
+
+^
+(
+[135
+]
+)
 George
 Edward
 Moore
@@ -7002,7 +7633,8 @@ mort
 très
 douce
 ,
-1964)
+1964
+)
 reflects
 within
 her
@@ -7026,7 +7658,12 @@ of
 others
 .
 
-^([137])
+
+^
+(
+[137
+]
+)
 ---------------
 Michael
 Walzer
@@ -7090,7 +7727,12 @@ of
 conscience
 .
 
-^([138])
+
+^
+(
+[138
+]
+)
 Walzer
 also
 argued
@@ -7151,7 +7793,12 @@ unselfish
 people
 .
 
-^([139])
+
+^
+(
+[139
+]
+)
 Ronald
 Dworkin
 maintains
@@ -7223,7 +7870,12 @@ for
 ease
 .
 
-"^([140])
+"
+^
+(
+[140
+]
+)
 Edward
 Conze
 stated
@@ -7278,7 +7930,12 @@ of
 guilt
 .
 
-"^([141])
+"
+^
+(
+[141
+]
+)
 ---------------
 
 Peter
@@ -7349,7 +8006,12 @@ morally
 identical
 .
 
-^([143])
+
+^
+(
+[143
+]
+)
 It
 has
 also
@@ -7455,7 +8117,12 @@ rebel
 armies
 .
 
-^([144])
+
+^
+(
+[144
+]
+)
 Roger
 Scruton
 has
@@ -7500,7 +8167,12 @@ on
 others
 .
 
-^([146])
+
+^
+(
+[146
+]
+)
 Jonathan
 Glover
 wrote
@@ -7553,7 +8225,12 @@ to
 live
 .
 
-^([147])
+
+^
+(
+[147
+]
+)
 Garrett
 Hardin
 ,
@@ -7629,7 +8306,8 @@ her
 individual
 contribution
 to
-over-population)
+over-population
+)
 in
 people
 acting
@@ -7648,9 +8326,18 @@ the
 race
 .
 
-^([148][149])
 
-[]
+^
+(
+[148
+]
+[149
+]
+)
+
+
+[
+]
 
 John
 Ralston
@@ -7772,7 +8459,8 @@ prevailing
 moral
 (humanist
 or
-religious)
+religious
+)
 ,
 professional
 ethical
@@ -7781,10 +8469,16 @@ legal
 and
 human
 rights
-norms)
+norms
+)
 .
 
-^([151])
+
+^
+(
+[151
+]
+)
 Failure
 to
 acknowledge
@@ -7873,7 +8567,12 @@ a
 whole
 .
 
-^([152])
+
+^
+(
+[152
+]
+)
 Langston
 argues
 that
@@ -7945,7 +8644,12 @@ to
 act
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 Emmanuel
 Levinas
 viewed
@@ -7990,7 +8694,12 @@ obtain
 control
 .
 
-^([153])
+
+^
+(
+[153
+]
+)
 In
 other
 words
@@ -8080,13 +8789,19 @@ a
 priori
 and
 a
-posteriori]
+posteriori
+]
 framework-a
 conceptless
 experience
 .
 
-"^([153])
+"
+^
+(
+[153
+]
+)
 ---------------
 Further
 information
@@ -8123,7 +8838,9 @@ King
 s
 Conscience
 
-[]
+
+[
+]
 ---------------
 In
 the
@@ -8151,7 +8868,12 @@ unjust
 judgments
 .
 
-^([154])
+
+^
+(
+[154
+]
+)
 As
 Keeper
 of
@@ -8190,7 +8912,12 @@ before
 God"
 .
 
-^([154])
+
+^
+(
+[154
+]
+)
 The
 Chancellor
 '
@@ -8293,7 +9020,12 @@ actual
 facts
 .
 
-^([155])
+
+^
+(
+[155
+]
+)
 A
 conscience
 vote
@@ -8317,7 +9049,12 @@ may
 belong
 .
 
-^([156])
+
+^
+(
+[156
+]
+)
 In
 his
 trial
@@ -8367,7 +9104,12 @@ his
 religion"
 .
 
-^([157])
+
+^
+(
+[157
+]
+)
 The
 United
 Nations
@@ -8376,7 +9118,8 @@ Declaration
 on
 Human
 Rights
-(UDHR)
+(UDHR
+)
 which
 is
 part
@@ -8395,7 +9138,12 @@ and
 18
 .
 
-^([4])
+
+^
+(
+[4
+]
+)
 Likewise
 ,
 the
@@ -8408,7 +9156,8 @@ Civil
 and
 Political
 Rights
-(ICCPR)
+(ICCPR
+)
 mentions
 conscience
 in
@@ -8419,7 +9168,12 @@ Article
 1
 .
 
-^([158])
+
+^
+(
+[158
+]
+)
 
 
 All
@@ -8570,7 +9324,9 @@ either
 individually
 or
 ---------------
-[]
+
+[
+]
 
 Amnesty
 International
@@ -8601,15 +9357,22 @@ or
 unjust
 .
 
-^([161])
+
+^
+(
+[161
+]
+)
 Conscientious
 objection
+
 (also
 called
 conscientious
 refusal
 or
-evasion)
+evasion
+)
 to
 obeying
 a
@@ -8652,7 +9415,12 @@ democratic
 institutions
 .
 
-^([162])
+
+^
+(
+[162
+]
+)
 Instead
 it
 should
@@ -8696,7 +9464,8 @@ desires
 ,
 whim
 or
-impulse)
+impulse
+)
 ,
 ---------------
 
@@ -8859,7 +9628,12 @@ and
 association
 .
 
-^([167])
+
+^
+(
+[167
+]
+)
 Aung
 San
 Suu
@@ -8910,7 +9684,8 @@ legalising
 surgical
 or
 pharmaceutical
-abortion)
+abortion
+)
 if
 it
 is
@@ -8922,7 +9697,12 @@ conscientious
 beliefs
 .
 
-^([168])
+
+^
+(
+[168
+]
+)
 Expressed
 justifications
 for
@@ -9000,7 +9780,12 @@ for
 conscience"
 .
 
-^([170])
+
+^
+(
+[170
+]
+)
 The
 remedy
 was
@@ -9060,7 +9845,12 @@ the
 coerced
 .
 
-"^([170])
+"
+^
+(
+[170
+]
+)
 As
 an
 example
@@ -9093,7 +9883,12 @@ professional
 army
 .
 
-^([171])
+
+^
+(
+[171
+]
+)
 Samuel
 Johnson
 pointed
@@ -9162,7 +9957,12 @@ be
 trusted
 .
 
-^([172])
+
+^
+(
+[172
+]
+)
 But
 before
 conscience
@@ -9189,7 +9989,12 @@ thoroughly
 known
 .
 
-^([172])
+
+^
+(
+[172
+]
+)
 "No
 man
 '
@@ -9237,7 +10042,12 @@ of
 another
 .
 
-"^([172])
+"
+^
+(
+[172
+]
+)
 
 ---------------
 
@@ -9312,7 +10122,12 @@ law
 reform
 .
 
-^([175])
+
+^
+(
+[175
+]
+)
 Rosa
 Parks
 similarly
@@ -9352,7 +10167,8 @@ act
 of
 15-year-old
 Claudette
-Colvin)
+Colvin
+)
 led
 ---------------
 Chinese
@@ -9366,7 +10182,12 @@ at
 Nanjing
 .
 
-^([188])
+
+^
+(
+[188
+]
+)
 The
 White
 Rose
@@ -9409,7 +10230,12 @@ in
 peace
 !
 
-"^([189])
+"
+^
+(
+[189
+]
+)
 Conscientious
 noncompliance
 may
@@ -9426,12 +10252,19 @@ to
 victim
 .
 
-^([191])
+
+^
+(
+[191
+]
+)
 
 World
 conscience
 
-[edit]
+
+[edit
+]
 ---------------
 government
 ,
@@ -9512,7 +10345,8 @@ not
 necessarily
 linked
 (often
-destructively)
+destructively
+)
 to
 fundamentalist
 religious
@@ -9537,7 +10371,12 @@ of
 humanity
 .
 
-^([192])
+
+^
+(
+[192
+]
+)
 Thinking
 predicated
 on
@@ -9583,7 +10422,12 @@ Alan
 Stivell
 .
 
-^([193])
+
+^
+(
+[193
+]
+)
 Non-government
 organizations
 ,
@@ -9611,7 +10455,12 @@ the
 conscience
 of
 the
-world^([194])
+world
+^
+(
+[194
+]
+)
 
 ---------------
 coherence
@@ -9641,7 +10490,12 @@ choice
 possible"
 .
 
-^([195])
+
+^
+(
+[195
+]
+)
 Thus
 ,
 world
@@ -9684,7 +10538,20 @@ and
 biodiversity
 .
 
-^([196][197][198][199][200])
+
+^
+(
+[196
+]
+[197
+]
+[198
+]
+[199
+]
+[200
+]
+)
 The
 NGO
 350
@@ -9713,7 +10580,14 @@ gas
 concentrations
 .
 
-^([201][202])
+
+^
+(
+[201
+]
+[202
+]
+)
 
 ---------------
 
@@ -9763,7 +10637,12 @@ business
 savvy"
 .
 
-^([203])
+
+^
+(
+[203
+]
+)
 
 The
 Green
@@ -9790,7 +10669,8 @@ during
 the
 Franklin
 Dam
-protest)
+protest
+)
 expresses
 world
 conscience
@@ -9846,7 +10726,12 @@ currency
 market
 .
 
-^([204])
+
+^
+(
+[204
+]
+)
 Such
 an
 approach
@@ -9951,7 +10836,8 @@ Prevention
 of
 Nuclear
 War
-(IPPNW)
+(IPPNW
+)
 which
 was
 awarded
@@ -9972,7 +10858,12 @@ ailing
 planet"
 .
 
-^([206])
+
+^
+(
+[206
+]
+)
 Worldwide
 expressions
 of
@@ -10009,10 +10900,16 @@ continued
 there
 into
 the
-1990s)
+1990s
+)
 .
 
-^([207])
+
+^
+(
+[207
+]
+)
 
 A
 challenge
@@ -10061,7 +10958,8 @@ survival-of-the-fittest
 value
 of
 conscience-led
-actions)
+actions
+)
 ultimately
 destroy
 a
@@ -10086,7 +10984,12 @@ long-term
 interest
 .
 
-^([148])
+
+^
+(
+[148
+]
+)
 Hardin
 '
 s
@@ -10107,7 +11010,8 @@ on
 the
 freedom
 to
-breed)
+breed
+)
 ,
 created
 controversy
@@ -10155,14 +11059,20 @@ heritage
 (see
 World
 Heritage
-Convention)
+Convention
+)
 and
 the
 human
 genome
 .
 
-^([209])
+
+^
+(
+[209
+]
+)
 It
 will
 be
@@ -10203,7 +11113,9 @@ heritage
 of
 mankind
 ---------------
-[]
+
+[
+]
 
 Darfur
 refugee
@@ -10376,7 +11288,12 @@ and
 compassion
 .
 
-^([214])
+
+^
+(
+[214
+]
+)
 The
 Committee
 on
@@ -10414,7 +11331,12 @@ s
 conscience
 .
 
-^([215])
+
+^
+(
+[215
+]
+)
 Oscar
 Arias
 Sanchez
@@ -10503,7 +11425,12 @@ the
 world
 .
 
-"^([217])
+"
+^
+(
+[217
+]
+)
 Nelson
 Mandela
 ,
@@ -10526,7 +11453,12 @@ the
 world
 .
 
-^([218])
+
+^
+(
+[218
+]
+)
 The
 Right
 Livelihood
@@ -10565,7 +11497,12 @@ its
 people
 .
 
-^([219])
+
+^
+(
+[219
+]
+)
 In
 2009
 ,
@@ -10579,7 +11516,14 @@ sustainable
 use"
 .
 
-^([220][221])
+
+^
+(
+[220
+]
+[221
+]
+)
 Avaaz
 is
 one
@@ -10635,7 +11579,12 @@ everywhere
 want"
 .
 
-^([222])
+
+^
+(
+[222
+]
+)
 
 Notable
 examples
@@ -10646,7 +11595,9 @@ based
 on
 conscience
 
-[edit]
+
+[edit
+]
 ---------------
 al-Ali
 
@@ -10680,7 +11631,12 @@ her
 death
 .
 
-^([223])
+
+^
+(
+[223
+]
+)
 Another
 was
 the
@@ -10691,7 +11647,12 @@ June
 1989
 .
 
-^([225])
+
+^
+(
+[225
+]
+)
 The
 actions
 of
@@ -10711,7 +11672,9 @@ the
 Congo
 despite
 the
-(eventuating)
+
+(eventuating
+)
 threat
 to
 his
@@ -10729,10 +11692,16 @@ his
 diary
 ,
 Vägmärken
-(Markings)
+(Markings
+)
 .
 
-^([226])
+
+^
+(
+[226
+]
+)
 Another
 example
 involved
@@ -10759,7 +11728,12 @@ Vietnam
 War
 .
 
-^([227])
+
+^
+(
+[227
+]
+)
 Evan
 Pederick
 voluntarily
@@ -10834,7 +11808,8 @@ whistleblow
 (see
 list
 of
-whistleblowers)
+whistleblowers
+)
 on
 incompetent
 paediatric
@@ -10847,7 +11822,12 @@ Royal
 Infirmary
 .
 
-^([231])
+
+^
+(
+[231
+]
+)
 Jeffrey
 Wigand
 was
@@ -10884,7 +11864,12 @@ the
 cigarettes
 .
 
-^([232])
+
+^
+(
+[232
+]
+)
 David
 Graham
 ,
@@ -10920,7 +11905,12 @@ this
 information
 .
 
-^([233])
+
+^
+(
+[233
+]
+)
 Rick
 Piltz
 ,
@@ -10939,7 +11929,12 @@ to
 exist
 .
 
-^([234])
+
+^
+(
+[234
+]
+)
 Muntadhar
 al-Zaidi
 ,
@@ -10970,7 +11965,12 @@ W
 Bush
 .
 
-^([235])
+
+^
+(
+[235
+]
+)
 Mordechai
 Vanunu
 ,
@@ -11019,7 +12019,12 @@ spent
 years
 in
 ---------------
-protest^([237])
+protest
+^
+(
+[237
+]
+)
 that
 destroyed
 their
@@ -11027,7 +12032,12 @@ respective
 careers
 .
 
-^([238])
+
+^
+(
+[238
+]
+)
 W
 .
 
@@ -11077,7 +12087,12 @@ Watergate
 scandal
 .
 
-^([239])
+
+^
+(
+[239
+]
+)
 Conscience
 was
 a
@@ -11101,7 +12116,12 @@ the
 public
 .
 
-^([240])
+
+^
+(
+[240
+]
+)
 The
 2008
 attack
@@ -11128,7 +12148,12 @@ s
 conscience"
 .
 
-^([241])
+
+^
+(
+[241
+]
+)
 Conscience
 was
 a
@@ -11159,7 +12184,12 @@ that
 country
 .
 
-^([242])
+
+^
+(
+[242
+]
+)
 Conscience
 was
 a
@@ -11187,7 +12217,12 @@ Nations
 job
 .
 
-^([243])
+
+^
+(
+[243
+]
+)
 Conscience
 motivated
 Bunnatine
@@ -11208,7 +12243,12 @@ in
 Iraq
 .
 
-^([244])
+
+^
+(
+[244
+]
+)
 Naji
 al-Ali
 a
@@ -11247,7 +12287,12 @@ his
 conscience
 .
 
-^([245])
+
+^
+(
+[245
+]
+)
 The
 journalist
 Anna
@@ -11256,7 +12301,8 @@ provided
 (prior
 to
 her
-murder)
+murder
+)
 an
 example
 of
@@ -11276,7 +12322,12 @@ Vladimir
 Putin
 .
 
-^([246])
+
+^
+(
+[246
+]
+)
 Conscience
 motivated
 the
@@ -11300,7 +12351,12 @@ in
 2009
 .
 
-^([247])
+
+^
+(
+[247
+]
+)
 The
 Death
 of
@@ -11318,7 +12374,12 @@ presidential
 election
 .
 
-^([248])
+
+^
+(
+[248
+]
+)
 Muslim
 lawyer
 Shirin
@@ -11329,7 +12390,8 @@ the
 2003
 Nobel
 Peace
-Prize)
+Prize
+)
 has
 been
 described
@@ -11360,7 +12422,12 @@ in
 Iran
 .
 
-^([249])
+
+^
+(
+[249
+]
+)
 The
 human
 rights
@@ -11403,7 +12470,12 @@ constitutional
 2009
 .
 
-^([250])
+
+^
+(
+[250
+]
+)
 2010
 Nobel
 Peace
@@ -11459,7 +12531,12 @@ nation’s
 spirit
 .
 
-"^([251])
+"
+^
+(
+[251
+]
+)
 Sergei
 Magnitsky
 ,
@@ -11490,7 +12567,12 @@ in
 Pakistan
 .
 
-^([254])
+
+^
+(
+[254
+]
+)
 In
 December
 2012
@@ -11530,7 +12612,15 @@ country
 (see
 Rape
 in
-India)^([255][256])
+India
+)
+^
+(
+[255
+]
+[256
+]
+)
 In
 June
 2013
@@ -11549,8 +12639,10 @@ and
 electronic
 communication
 PRISM
+
 (surveillance
-program)
+program
+)
 because
 of
 a
@@ -11573,7 +12665,14 @@ his
 employment
 .
 
-^([257][258])
+
+^
+(
+[257
+]
+[258
+]
+)
 ---------------
 
 The
@@ -11620,18 +12719,25 @@ war
 receives
 counsel
 (see
-Bhagavad-Gita)
+Bhagavad-Gita
+)
 from
 ---------------
 laws
 .
 
-^([260])
+
+^
+(
+[260
+]
+)
 The
 French
 author
 Montaigne
-(1533–1592)
+(1533–1592
+)
 in
 one
 of
@@ -11642,7 +12748,8 @@ of
 his
 essays
 ("On
-experience")
+experience"
+)
 expressed
 the
 benefits
@@ -11697,7 +12804,8 @@ Road
 to
 the
 Deep
-North)
+North
+)
 composed
 of
 mixed
@@ -11708,7 +12816,8 @@ prose
 ,
 Matsuo
 Bashō
-(1644–94)
+(1644–94
+)
 in
 attempting
 to
@@ -11747,7 +12856,12 @@ ancient
 warriors
 .
 
-^([262])
+
+^
+(
+[262
+]
+)
 Chaucer
 '
 s
@@ -11790,7 +12904,12 @@ and
 generous
 .
 
-^([263])
+
+^
+(
+[263
+]
+)
 
 ---------------
 
@@ -11865,16 +12984,24 @@ arm
 ?
 
 "
+
 (v
 .
 
 ii
 .
 
-67))
+67
+)
+)
 .
 
-^([264])
+
+^
+(
+[264
+]
+)
 
 Bradley
 develops
@@ -12002,7 +13129,8 @@ hurt
 and
 will
 do
-none")
+none"
+)
 have
 been
 admired
@@ -12013,7 +13141,12 @@ of
 conscience
 .
 
-^([266])
+
+^
+(
+[266
+]
+)
 So
 has
 John
@@ -12058,7 +13191,12 @@ moves
 ,
 devotion
 is
-;"^([267])
+;"
+^
+(
+[267
+]
+)
 ---------------
 Anton
 Chekhov
@@ -12095,7 +13233,12 @@ on
 conscience
 .
 
-^([268])
+
+^
+(
+[268
+]
+)
 In
 his
 short
@@ -12205,7 +13348,12 @@ watching
 him
 .
 
-"^([269])
+"
+^
+(
+[269
+]
+)
 Characteristically
 ,
 Chekhov
@@ -12301,7 +13449,12 @@ public
 opinion
 .
 
-"^([270])
+"
+^
+(
+[270
+]
+)
 ---------------
 
 '
@@ -12342,7 +13495,8 @@ writer
 would
 have
 given
-us)
+us
+)
 but
 the
 tragic
@@ -12419,7 +13573,12 @@ a
 ferryman
 .
 
-^([272])
+
+^
+(
+[272
+]
+)
 J
 .
 
@@ -12498,7 +13657,12 @@ creature
 Gollum
 .
 
-^([273])
+
+^
+(
+[273
+]
+)
 Conor
 Cruise
 O
@@ -12528,7 +13692,12 @@ non-Western
 world
 .
 
-^([274])
+
+^
+(
+[274
+]
+)
 Harper
 Lee
 '
@@ -12557,7 +13726,9 @@ book
 To
 Kill
 a
-Mockingbird))
+Mockingbird
+)
+)
 as
 a
 lawyer
@@ -12576,7 +13747,12 @@ and
 community
 .
 
-^([275])
+
+^
+(
+[275
+]
+)
 
 The
 Robert
@@ -12619,10 +13795,16 @@ than
 to
 any
 other
-thing")
+thing"
+)
 .
 
-^([276])
+
+^
+(
+[276
+]
+)
 George
 Orwell
 wrote
@@ -12644,7 +13826,8 @@ how
 a
 man
 (Winston
-Smith)
+Smith
+)
 attempts
 to
 develop
@@ -12722,7 +13905,12 @@ nation
 states
 .
 
-^([279])
+
+^
+(
+[279
+]
+)
 Albert
 Tucker
 painted
@@ -12753,7 +13941,12 @@ to
 death
 .
 
-^([280])
+
+^
+(
+[280
+]
+)
 
 ---------------
 die
@@ -12844,7 +14037,8 @@ able
 to
 ?
 
-")
+"
+)
 across
 a
 plague-ridden
@@ -12888,10 +14082,16 @@ to
 escape
 in
 their
-wagon)
+wagon
+)
 .
 
-^([282])
+
+^
+(
+[282
+]
+)
 The
 1942
 Casablanca
@@ -12908,7 +14108,8 @@ American
 Rick
 Blaine
 (Humphrey
-Bogart)
+Bogart
+)
 in
 the
 face
@@ -12943,7 +14144,8 @@ Boris
 Pasternak
 '
 s
-novel)
+novel
+)
 focuses
 strongly
 on
@@ -12969,10 +14171,16 @@ his
 heart
 were
 like
-paper")
+paper"
+)
 .
 
-^([284])
+
+^
+(
+[284
+]
+)
 The
 1982
 Ridley
@@ -12995,7 +14203,9 @@ hunter
 (Rick
 Deckard
 (Harrison
-Ford))
+Ford
+)
+)
 and
 a
 renegade
@@ -13004,7 +14214,9 @@ android
 (Roy
 Batty
 (Rutger
-Hauer))
+Hauer
+)
+)
 in
 a
 future
@@ -13028,9 +14240,16 @@ as
 conscience
 .
 
-^([285])
 
-[]
+^
+(
+[285
+]
+)
+
+
+[
+]
 ---------------
 Johann
 Sebastian
@@ -13047,7 +14266,8 @@ in
 B
 minor
 (BWV
-232)
+232
+)
 to
 express
 the
@@ -13073,7 +14293,12 @@ human
 life
 .
 
-^([286])
+
+^
+(
+[286
+]
+)
 Here
 JS
 Bach
@@ -13098,7 +14323,12 @@ distinct
 grace"
 .
 
-^([287])
+
+^
+(
+[287
+]
+)
 
 Ludwig
 van
@@ -13130,7 +14360,8 @@ Quartet
 in
 A
 Minor
-(1825)
+(1825
+)
 Op
 .
 
@@ -13143,7 +14374,8 @@ No
 .
 
 
-15)
+15
+)
 as
 a
 "Hymn
@@ -13156,7 +14388,14 @@ a
 convalescent"
 .
 
-^([288][289])
+
+^
+(
+[288
+]
+[289
+]
+)
 John
 Lennon
 '
@@ -13187,7 +14426,12 @@ and
 politics
 .
 
-^([290])
+
+^
+(
+[290
+]
+)
 The
 Beatles
 George
@@ -13226,7 +14470,12 @@ heaven
 
 .
 
-^([291])
+
+^
+(
+[291
+]
+)
 In
 the
 1986
@@ -13261,7 +14510,13 @@ as
 it
 is
 in
-Heaven")^([292])
+Heaven"
+)
+^
+(
+[292
+]
+)
 The
 song
 Sweet
@@ -13300,7 +14555,12 @@ older
 brother
 .
 
-^([293])
+
+^
+(
+[293
+]
+)
 The
 Dream
 Academy
@@ -13341,7 +14601,8 @@ of
 Journalists
 and
 Authors
-(ASJA)
+(ASJA
+)
 presents
 the
 Conscience-in-Media
@@ -13373,7 +14634,12 @@ or
 sacrifice"
 .
 
-^([295])
+
+^
+(
+[295
+]
+)
 
 The
 Ambassador
@@ -13412,7 +14678,12 @@ of
 Conscience"
 .
 
-^([6])
+
+^
+(
+[6
+]
+)
 
 See
 also
@@ -13432,7 +14703,8 @@ conscience
 in
 Pinocchio
 (1940
-film)
+film
+)
 -
 List
 of
@@ -13463,7 +14735,9 @@ body
 -
 Synderesis
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Slater
@@ -13476,7 +14750,8 @@ J
 
 ,
 Thomas
-(1925)
+(1925
+)
 .
 
 
@@ -13563,8 +14838,12 @@ Oxford
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Rosemary
 Moore
 .
@@ -13638,8 +14917,12 @@ p
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Amnesty
 International
 .
@@ -13718,8 +15001,12 @@ Ch
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Langston
 ,
 Douglas
@@ -13811,7 +15098,8 @@ Washington
 ^
 Jayne
 Hoose
-(ed)
+(ed
+)
 Conscience
 in
 World
@@ -14059,7 +15347,8 @@ Conscience"
 House
 Publications
 ,
-2006)
+2006
+)
 ;
 Marc
 D
@@ -14087,7 +15376,9 @@ Religion
 &
 Liberty
 
-10(2010)6
+10
+(2010
+)6
 
 <https
 ://acton
@@ -14121,7 +15412,8 @@ aug
 
 
 
-2006]<http
+2006
+]<http
 ://thomasmoreinstitute
 .
 
@@ -14157,7 +15449,8 @@ Newman
 ,
 John
 Henry
-(1887)
+(1887
+)
 .
 
 
@@ -14294,6 +15587,7 @@ Meier
 (Ed
 .
 
+
 )
 Conscience
 and
@@ -14332,8 +15626,12 @@ ISBN 978-0-89885-364-3
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Dietrich
 Bonhoeffer
 .
@@ -14348,6 +15646,7 @@ Bethge
 (ed
 .
 
+
 )
 
 Neville
@@ -14355,6 +15654,7 @@ Horton
 Smith
 (trans
 .
+
 
 )
 Collins
@@ -14379,7 +15679,8 @@ L
 .
 
 
-(1983)
+(1983
+)
 .
 
 
@@ -14429,7 +15730,8 @@ G
 and
 Weingartner
 P
-(Eds)
+(Eds
+)
 .
 
 
@@ -14474,7 +15776,8 @@ LD
 .
 
 
-(1976)
+(1976
+)
 .
 
 
@@ -14589,7 +15892,8 @@ pp
 Damasio
 ,
 Antonio
-(1999)
+(1999
+)
 .
 
 
@@ -14647,7 +15951,8 @@ Compare
 Rachels
 ,
 James
-(1990)
+(1990
+)
 .
 
 
@@ -14861,7 +16166,8 @@ pp
 Pitrat
 ,
 Jacques
-(2009)
+(2009
+)
 .
 
 
@@ -14874,7 +16180,8 @@ of
 a
 
 Conscious
-Machine)
+Machine
+)
 .
 
 
@@ -14942,8 +16249,12 @@ pp
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Langston
 ,
 Douglas
@@ -15004,7 +16315,8 @@ in
 Feinberg
 
 J
-(ed)
+(ed
+)
 Moral
 Concepts
 .
@@ -15122,7 +16434,8 @@ Christ"
 Leo
 Sherley-Price
 
-(trans)
+(trans
+)
 Penguin
 Books
 .
@@ -15180,6 +16493,7 @@ Clifton
 Wolters
 (trans
 .
+
 
 )
 
@@ -15311,7 +16625,8 @@ Press
 Neville
 Horton
 Smith
-(trans)
+(trans
+)
 Collins
 .
 
@@ -15396,13 +16711,20 @@ Brace
 
 
 ^
-^(a)
-^(b)
-^(c)
+^
+(a
+)
+^
+(b
+)
+^
+(c
+)
 Watt
 ,
 Gary
-(2020)
+(2020
+)
 .
 
 
@@ -15411,6 +16733,7 @@ and
 Equity
 (9th ed
 .
+
 
 )
 .
@@ -15639,7 +16962,8 @@ Books
 1989
 ;
 36
-(1)
+(1
+)
 2
 February
 .
@@ -15756,7 +17080,8 @@ P
 
 
 Willetts
-(ed)
+(ed
+)
 The
 Conscience
 of
@@ -15784,7 +17109,8 @@ Hurst
 Co
 ,
 London
-(1996)
+(1996
+)
 p
 .
 
@@ -16013,7 +17339,8 @@ October
 Stewart
 ,
 Whitney
-(1997)
+(1997
+)
 .
 
 
@@ -16071,7 +17398,8 @@ Schiller
 Bill
 (10
 April
-2010)
+2010
+)
 .
 
 
@@ -16110,7 +17438,8 @@ McKey
 Robert
 (8
 October
-2010)
+2010
+)
 Jailed
 Chinese
 Dissident
@@ -16199,7 +17528,9 @@ the
 NSA
 surveillance
 ---------------
-[]
+
+[
+]
 
 Wikimedia
 Commons
@@ -16213,7 +17544,8 @@ Conscience
 
 
 -
-[]
+[
+]
 The
 dictionary
 definition
@@ -16222,7 +17554,8 @@ conscience
 at
 Wiktionary
 -
-[]
+[
+]
 Quotations
 related
 to

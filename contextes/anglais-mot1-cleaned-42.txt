@@ -125,7 +125,9 @@ conscience
 and
 religion
 
-[eu-charter]
+
+[eu-charter
+]
 ---------------
 Previous
 article
@@ -205,7 +207,8 @@ Czechia
 
 Article
 15
-(1)
+(1
+)
 The
 freedom
 of
@@ -242,8 +245,10 @@ conviction
 .
 
 
-(…)
-(3)
+(…
+)
+(3
+)
 No
 one
 
@@ -283,7 +288,8 @@ law
 
 Article
 16
-(1)
+(1
+)
 Everyone
 has
 the
@@ -433,7 +439,9 @@ Slovakia
 
 
 Article
-24(1)
+24
+(1
+)
 Freedom
 of
 thought
@@ -496,7 +504,8 @@ service
 .
 
 
-(2)
+(2
+)
 No
 one
 shall
@@ -564,7 +573,8 @@ convictions
 .
 
 
-(2)
+(2
+)
 Freedom
 of
 conscience
@@ -587,7 +597,8 @@ respect
 .
 
 
-(3)
+(3
+)
 All
 
 religions
@@ -619,8 +630,10 @@ of
 form
 of
 
-worship)
-(1)
+worship
+)
+(1
+)
 Freedom
 of
 conscience
@@ -635,7 +648,8 @@ inviolable
 .
 
 
-(2)
+(2
+)
 No
 one
 shall
@@ -796,7 +810,8 @@ security
 
 Article
 40
-(1)
+(1
+)
 All
 persons
 in
@@ -824,7 +839,8 @@ worship
 .
 
 
-(2)
+(2
+)
 No
 person
 shall

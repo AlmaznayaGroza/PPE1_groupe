@@ -9,7 +9,8 @@ of
 Level
 of
 Consciousness
-(LOC)
+(LOC
+)
 
 Patient
 Awareness
@@ -26,7 +27,8 @@ Classifications
 "Level
 of
 consciousness"
-(LOC)
+(LOC
+)
 is
 a
 medical
@@ -226,7 +228,8 @@ of
 their
 
 surroundings
-(conscious)
+(conscious
+)
 but
 is
 not
@@ -239,7 +242,8 @@ confused
 odd
 ,
 or
-sleepy)
+sleepy
+)
 .
 
 
@@ -262,7 +266,8 @@ stimuli
 ,
 light
 ,
-sound)
+sound
+)
 
 Sleeping
 is
@@ -451,7 +456,8 @@ light
 pain
 ,
 deep
-pain)
+pain
+)
 .
 
 
@@ -468,7 +474,8 @@ coma
 (no
 response
 to
-stimuli)
+stimuli
+)
 .
 
 
@@ -627,7 +634,9 @@ Neurol
 
 
 2021
-;17(3)
+;17
+(3
+)
 :135-156
 .
 

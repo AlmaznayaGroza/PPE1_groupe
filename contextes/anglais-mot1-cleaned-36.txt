@@ -16,7 +16,10 @@ Logic
 ExtensionProcessorQueryProvider+<>c__DisplayClass230_0
 .
 
-<PageSubPageProperty>b__1]()"
+<PageSubPageProperty>b__1
+]
+(
+)"
 ,
 "9
 :_Conscience"
@@ -36,7 +39,10 @@ Logic
 ExtensionProcessorQueryProvider+<>c__DisplayClass230_0
 .
 
-<PageSubPageProperty>b__1]()"
+<PageSubPageProperty>b__1
+]
+(
+)"
 ,
 "zz
 :_Back_Matter"
@@ -81,10 +87,14 @@ returnto=https%3A%2F%2Fhuman
 libretexts
 .
 
-org%2FBookshelves%2FPhilosophy%2FEthics_(Fisher_and_Dimmock)%2F9%253A_Conscience
+org%2FBookshelves%2FPhilosophy%2FEthics_
+(Fisher_and_Dimmock
+)%2F9%253A_Conscience
+
 
 [Humanities
-LibreTexts]
+LibreTexts
+]
 ---------------
 3
 .
@@ -98,7 +108,8 @@ Philosophy
 Ethics
 (Fisher
 and
-Dimmock)
+Dimmock
+)
 5
 .
 
@@ -515,7 +526,9 @@ the
 other
 Sigmund
 Freud’s
-(1856–1939)
+
+(1856–1939
+)
 .
 
 
@@ -530,7 +543,8 @@ a
 philosopher
 (he’s
 a
-psychologist)
+psychologist
+)
 his
 account
 will
@@ -654,7 +668,8 @@ reformation
 
 Martin
 Luther
-(1483–1546)
+(1483–1546
+)
 ,
 being
 charged
@@ -1026,7 +1041,8 @@ seem
 to
 be
 (at
-least)
+least
+)
 three
 related
 functions
@@ -1302,7 +1318,8 @@ all”
 1
 .
 
-78–82)
+78–82
+)
 .
 
 
@@ -1472,6 +1489,7 @@ the
 mid
 eighteenth
 century
+
 (e
 .
 
@@ -1485,7 +1503,8 @@ nor
 Aristotle
 talk
 of
-conscience)
+conscience
+)
 .
 
 
@@ -1718,7 +1737,8 @@ Question
 79
 ,
 Article
-13)
+13
+)
 .
 
 
@@ -1800,7 +1820,8 @@ universal
 principles
 (the
 Eternal/Divine
-law)
+law
+)
 to
 actual
 real
@@ -1826,7 +1847,8 @@ Theologica
 ,
 I–II
 ,
-I)
+I
+)
 .
 
 
@@ -1985,7 +2007,8 @@ when
 conscience
 (and
 not
-synderesis)
+synderesis
+)
 makes
 a
 mistake
@@ -2047,7 +2070,8 @@ using
 one’s
 reason
 (vincible
-ignorance)
+ignorance
+)
 ,
 and
 ignorance
@@ -2286,7 +2310,8 @@ It
 is
 our
 conscience
-(conscientia)
+(conscientia
+)
 which
 tells
 us
@@ -2318,7 +2343,8 @@ could
 have
 been
 avoided
-(vincible)
+(vincible
+)
 means
 our
 action
@@ -2509,7 +2535,8 @@ authority
 derived
 from
 parental
-(social/religious)
+(social/religious
+)
 rules
 and
 regulations
@@ -3500,13 +3527,15 @@ years
 
 
 ---------------
+
 (New
 York
 :
 Random
 House
 ,
-2001)
+2001
+)
 .
 
 
@@ -3595,7 +3624,8 @@ Oxford
 University
 Press
 ,
-2011)
+2011
+)
 ,
 vol
 .
@@ -3698,7 +3728,8 @@ Andrew
 Fisher
 (Open
 Book
-Publishers)
+Publishers
+)
 .
 
 

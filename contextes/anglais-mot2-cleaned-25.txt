@@ -32,7 +32,8 @@ advices
 .
 
 
-(obsolete)
+(obsolete
+)
 Consciousness
 ;
 thinking
@@ -53,7 +54,8 @@ c
 
 1599–1602
 (date
-written)
+written
+)
 ,
 William
 Shakespeare

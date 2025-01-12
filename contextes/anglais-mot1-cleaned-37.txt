@@ -227,7 +227,8 @@ Society
 of
 Friends
 (or
-Quakers)
+Quakers
+)
 places
 particular
 emphasis
@@ -434,9 +435,11 @@ conscience
 
 
 
+
 [Code
 of
-Hammurabi]
+Hammurabi
+]
 ---------------
 More
 From

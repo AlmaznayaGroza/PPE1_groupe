@@ -27,7 +27,12 @@ as
 "conscience"
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 
 Issues
 and
@@ -36,11 +41,13 @@ methods
 
 (with
 or
-together)
+together
+)
 and
 scire
 (to
-know)
+know
+)
 .
 
 
@@ -108,4 +115,5 @@ p
 (quoted
 by
 Susan
-Brownmiller)
+Brownmiller
+)

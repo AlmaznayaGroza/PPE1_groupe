@@ -73,7 +73,8 @@ circumstances
 .
 
 
-(2)
+(2
+)
 It
 will
 be
@@ -111,7 +112,8 @@ days
 .
 
 
-(3)
+(3
+)
 The
 department
 may
@@ -142,7 +144,8 @@ and
 good
 conscience
 :
-(a)
+(a
+)
 Your
 general
 health
@@ -158,7 +161,8 @@ or
 physical
 impairment
 ;
-(b)
+(b
+)
 Your
 education
 level
@@ -166,7 +170,8 @@ level
 including
 literacy
 ;
-(c)
+(c
+)
 Whether
 you
 are
@@ -190,7 +195,8 @@ hardship
 .
 
 
-(4)
+(4
+)
 When
 determining
 whether
@@ -314,7 +320,8 @@ Development
 of
 Criminal
 Law
-(1790-1861)
+(1790-1861
+)
 ,
 
 Development
@@ -328,7 +335,8 @@ Equity
 and
 good
 
-conscience)
+conscience
+)
 Law
 reform
 &
@@ -525,7 +533,9 @@ of
 Law
 of
 Torts
-:(i)
+:
+(i
+)
 England
 ,
 forms
@@ -541,7 +551,9 @@ to
 case
 .
 
-(ii)
+
+(ii
+)
 India
 ,
 -
@@ -574,7 +586,9 @@ and
 objects
 .
 
-(i)
+
+(i
+)
 A
 wrongful
 
@@ -597,7 +611,8 @@ people
 
 within
 thirty
-(30)
+(30
+)
 calendar
 days
 .

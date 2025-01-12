@@ -5,7 +5,10 @@ Freedom
 of
 conscience
 (section
-2(a))
+2
+(a
+)
+)
 ,
 The
 Charter
@@ -44,7 +47,9 @@ and
 Freedoms
 .
 
-[1]
+
+[1
+]
 
 What
 is
@@ -84,7 +89,9 @@ its
 manifestation
 .
 
-”[2] In
+”
+[2
+] In
 fact
 ,
 the
@@ -152,7 +159,9 @@ v
 Morgentaler
 .
 
-[4]
+
+[4
+]
 This
 1988
 case
@@ -170,7 +179,9 @@ Justice
 Wilson
 stated
 :
-“[t]he
+“
+[t
+]he
 decision
 whether
 or
@@ -196,7 +207,9 @@ be
 paramount
 .
 
-”[5] She
+”
+[5
+] She
 also
 held
 that
@@ -205,7 +218,9 @@ freedoms
 guaranteed
 by
 section
-2(a)
+2
+(a
+)
 “should
 be
 broadly
@@ -251,7 +266,9 @@ exists
 ,
 we
 know
-“[t]he
+“
+[t
+]he
 guarantee
 of
 freedom
@@ -272,7 +289,9 @@ value
 system
 .
 
-”[7] If
+”
+[7
+] If
 a
 person’s
 actions
@@ -287,7 +306,8 @@ system”
 (in
 a
 secular
-context)
+context
+)
 ,
  then
 they
@@ -296,10 +316,14 @@ not
 protected
 by
 section
-2(a)
+2
+(a
+)
 .
 
-[8] This
+
+[8
+] This
 can
 be
 quite
@@ -358,7 +382,9 @@ the
 guarantee
 .
 
-[9] This
+
+[9
+] This
 is
 a
 limitation
@@ -400,10 +426,13 @@ was Maurice
 v
 Canada
 (Attorney
-General)
+General
+)
 .
 
-[11]
+
+[11
+]
 Mr
 .
 
@@ -452,7 +481,9 @@ of
 conscience
 .
 
-[12] The
+
+[12
+] The
 Federal
 Court
 agreed
@@ -461,7 +492,9 @@ declaring
 that
 the
 “Charter …
-entitle[s]
+entitle
+[s
+]
 the
 Applicant
 to
@@ -470,7 +503,9 @@ vegetarian
 diet
 .
 
-”[13]
+”
+[13
+]
 
 The
 freedom
@@ -489,7 +524,8 @@ decided Carter
 v
 Canada
 (Attorney
-General)
+General
+)
 .
 
 
@@ -519,7 +555,9 @@ medical
 professionals
 .
 
-[14] This
+
+[14
+] This
 argument
 went
 beyond
@@ -568,7 +606,9 @@ be
 reconciled
 .
 
-”[15]
+”
+[15
+]
 
 What
 are
@@ -628,7 +668,9 @@ can
 argue
 ---------------
 
-[14] 2015
+
+[14
+] 2015
 SCC
 5
 (Factum
@@ -651,7 +693,8 @@ Conscience
 Project
 at
 para
-33)
+33
+)
 ;
 See
 also
@@ -665,7 +708,8 @@ Intervener
 the
 Canadian
 Medical
-Association)
+Association
+)
 (The
 Canadian
 Medical
@@ -675,7 +719,9 @@ not
 refer
 to
 section
-2(a)
+2
+(a
+)
 of
 the Charter
 of
@@ -699,7 +745,9 @@ conscience
 
 
 
-[15] Ibid at
+
+[15
+] Ibid at
 para
 132
 .

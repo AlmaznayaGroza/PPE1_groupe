@@ -23,8 +23,10 @@ M
 
 Dolan
 ---------------
+
 [Pin
-It]
+It
+]
 
 By
 “intellectual
@@ -94,7 +96,9 @@ intellectual
 conscience
 :
 
-[T]he
+
+[T
+]he
 great
 majority
 of
@@ -106,7 +110,8 @@ conscience
 .
 
 
-[…]
+[…
+]
 I
 mean
 :
@@ -135,11 +140,13 @@ first
 having
 given
 ---------------
+
 (The
 Gay
 Science
 §2
 .
+
 
 )
 
@@ -189,6 +196,7 @@ them
 ---------------
 Nihilism
 .
+
 
 )
 
@@ -264,6 +272,7 @@ III
 §24
 .
 
+
 )
 
 Properly
@@ -317,7 +326,8 @@ Page’s
 “Nietzsche
 on
 Honesty”
-(2019)
+(2019
+)
 .
 
 
@@ -352,6 +362,9 @@ can
 do
 .
 
+
 )
 
-[]
+
+[
+]

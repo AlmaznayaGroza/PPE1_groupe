@@ -12,8 +12,8 @@ sed 's/:/ :/g' | \
 sed 's/\^/ \^/g' | \
 sed 's/(/ (/g' | \
 sed 's/)/ )/g' | \
-sed 's/[/ [/g' | \
-sed 's/]/ ]/g' | \
+sed 's/\[/ \[/g' | \
+sed 's/\]/ \]/g' | \
 sed 's/?/ ?\n\n/g' | \
 sed 's/!/ !\n\n/g' | \
 sed 's/[[:space:]]\+/ /g' | \

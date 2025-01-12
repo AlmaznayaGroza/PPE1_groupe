@@ -12,7 +12,7 @@ i=1
 
 for file in ./dumps-text/$LANGUE-*.txt
 do
-    bash ./programmes/clean.sh "$file" "./dumps-text/$LANGUE-cleaned-$i.txt" 2>/dev/null
+    bash  -x ./programmes/clean.sh "$file" "./dumps-text/$LANGUE-cleaned-$i.txt" 2>/dev/null
     i=$((i + 1))
 done
 
@@ -35,6 +35,7 @@ do
     k=$((k + 1))
 done
 
-cat ./contextes/$LANGUE-*-cleaned-*.txt > ./$DOSSIER/contexte-$LANGUE.txt 2>/dev/null
+cat ./contextes/$LANGUE-mot1-cleaned-*.txt > ./$DOSSIER/contexte-mot1-$LANGUE.txt 2>/dev/null
+cat ./contextes/$LANGUE-mot2-cleaned-*.txt > ./$DOSSIER/contexte-mot2-$LANGUE.txt 2>/dev/null
 
 echo "Traitement terminé !"

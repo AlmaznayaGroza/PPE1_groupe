@@ -128,7 +128,8 @@ Interalia
 is
 not
 peer
-reviewed)
+reviewed
+)
 ,
 we
 argue
@@ -421,6 +422,7 @@ the
 key
 adaptive
 function
+
 (providing
 an
 organism
@@ -428,7 +430,8 @@ with
 survival
 and
 reproductive
-benefits)
+benefits
+)
 of
 consciousness
 is

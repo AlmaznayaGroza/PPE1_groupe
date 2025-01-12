@@ -1,49 +1,110 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <title>Tableau des URLs</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Conscience | Projet de groupe PPE1</title>
+    <style>
+        body { background-color: #fefbf5; }
+        .navbar, footer { background-color: #9c7bbf; color: white; }
+        .table-container { box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); background-color: white; border-radius: 10px; padding: 20px; }
+        .table { border-radius: 10px; overflow: hidden; }
+        .table-primary { background-color: #f4f1e0; color: #7b62a3; }
+        .btn-primary { background-color: #9c7bbf ; border-color: #7b62a3}
+    </style>
 </head>
-<body>
-    <section class="section has-background-primary-light">
+<body style="padding-top: 70px;">
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container">
-            <div class="hero has-text-centered">
-                <div class="hero-body">
-                    <h1 class="title is-2 has-text-primary-dark">Programmation et Projet Encadré</h1>
-                </div>
-            </div>
-            <nav class="tabs is-centered is-toggle is-toggle-rounded">
-                <ul>
-                    <li><a href="../index.html"><span>Accueil</span></a></li>
-                    <li class="is-active"><a href="tableau.html"><span>Tableau</span></a></li>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="../index.html">Accueil</a>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../pages/apropos.html">Qui sommes-nous?</a>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="tableaux.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Tableaux
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="../tableaux/anglais.html">Anglais</a></li>
+                            <li><a class="dropdown-item" href="../tableaux/espagnol.html">Espagnol</a></li>
+                            <li><a class="dropdown-item" href="../tableaux/russe.html">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Concordanciers
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="">Anglais</a></li>
+                            <li><a class="dropdown-item" href="">Espagnol</a></li>
+                            <li><a class="dropdown-item" href="">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Nuages de mots
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="">Anglais</a></li>
+                            <li><a class="dropdown-item" href="">Espagnol</a></li>
+                            <li><a class="dropdown-item" href="">Russe</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item vertical-separator"></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../pages/analyse.html">Analyse</a>
+                    </li>
                 </ul>
-            </nav>
-            <div class="table-container mt-4">
-                <table class="table is-bordered is-striped is-hoverable is-fullwidth">
-                    <h2 class="subtitle is-4 has-text-centered has-text-primary-dark">Résultats de l'analyse des URLs</h2>
-                    <thead>
-                        <tr>
-                            <th>#</th>
-                            <th>URL</th>
-                            <th>Code HTTP</th>
-                            <th>Encodage</th>
-                            <th>Nombre de mots</th>
-                            <th>Aspiration</th>
-                            <th>Dump</th>
-                            <th>Occurrences du mot conscience</th>
-                            <th>Occurrences du mot consciousness</th>
-                            <th>Contextes du mot conscience</th>
-                            <th>Contextes du mot consciousness</th>
-                            <th>Concordances du mot conscience</th>
-                            <th>Concordances du mot consciousness</th>
-                        </tr>
-                    </thead>
-                    <tbody>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="py-3">
+        <div class="container text-center">
+            <div class="d-flex justify-content-center" style="gap: 15px; margin-bottom: 20px;">
+                <a href="../tableaux/anglais.html" type="button" class="btn btn-primary btn-lg">Anglais</a>
+                <a href="../tableaux/russe.html" type="button" class="btn btn-primary btn-lg">Russe</a>
+                <a href="../tableaux/espagnol.html" type="button" class="btn btn-primary btn-lg">Espagnol</a>
+            </div>
+    
+            <div class="table-container">
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <h2 class="text-center mb-3 mt-1" style="color: #4a148c;">Résultats du traitement des URLs (consciousness)</h2>
+                        <thead style="background-color: #f4e9f7; color: #7b62a3; text-align: center; vertical-align: middle;">
+                            <tr>
+                                <th>#</th>
+                                <th>URL</th>
+                                <th>Code HTTP</th>
+                                <th>Encodage</th>
+                                <th>Nombre de mots</th>
+                                <th>Aspiration</th>
+                                <th>Dump</th>
+                                <th>Occurrences de conscience</th>
+                                <th>Occurrences de consciousness</th>
+                                <th>Contextes pour conscience</th>
+                                <th>Contextes pour consciousness</th>
+                                <th>Concordances pour conscience</th>
+                                <th>Concordances pour consciousness</th>
+                            </tr>
+                        </thead>
+                        <tbody>
 <tr>
         <td>1</td>
-        <td><a class="has-text-primary" href="https://plato.stanford.edu/entries/conscience/">https://plato.stanford.edu/entries/conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://plato.stanford.edu/entries/conscience/">https://plato.stanford.edu/entries/conscience/</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>10697</td>
@@ -58,7 +119,7 @@
     </tr>
 <tr>
         <td>2</td>
-        <td><a class="has-text-primary" href="https://forumias.com/blog/answeredwhat-do-you-understand-by-the-term-moral-conscience-discuss-the-role-of-moral-conscience-in-ethical-behaviour/">https://forumias.com/blog/answeredwhat-do-you-understand-by-the-term-moral-conscience-discuss-the-role-of-moral-conscience-in-ethical-behaviour/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://forumias.com/blog/answeredwhat-do-you-understand-by-the-term-moral-conscience-discuss-the-role-of-moral-conscience-in-ethical-behaviour/">https://forumias.com/blog/answeredwhat-do-you-understand-by-the-term-moral-conscience-discuss-the-role-of-moral-conscience-in-ethical-behaviour/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1826</td>
@@ -73,7 +134,7 @@
     </tr>
 <tr>
         <td>3</td>
-        <td><a class="has-text-primary" href="https://www.brandingmag.com/2021/12/09/everyone-has-a-purpose-few-have-a-conscience/">https://www.brandingmag.com/2021/12/09/everyone-has-a-purpose-few-have-a-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.brandingmag.com/2021/12/09/everyone-has-a-purpose-few-have-a-conscience/">https://www.brandingmag.com/2021/12/09/everyone-has-a-purpose-few-have-a-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2307</td>
@@ -88,7 +149,7 @@
     </tr>
 <tr>
         <td>4</td>
-        <td><a class="has-text-primary" href="https://www.verywellmind.com/conscience-vs-conscious-whats-the-difference-2794961">https://www.verywellmind.com/conscience-vs-conscious-whats-the-difference-2794961</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.verywellmind.com/conscience-vs-conscious-whats-the-difference-2794961">https://www.verywellmind.com/conscience-vs-conscious-whats-the-difference-2794961</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2396</td>
@@ -103,7 +164,7 @@
     </tr>
 <tr>
         <td>5</td>
-        <td><a class="has-text-primary" href="https://www.catholicity.com/catechism/moral_conscience.html">https://www.catholicity.com/catechism/moral_conscience.html</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.catholicity.com/catechism/moral_conscience.html">https://www.catholicity.com/catechism/moral_conscience.html</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>980</td>
@@ -118,7 +179,7 @@
     </tr>
 <tr>
         <td>6</td>
-        <td><a class="has-text-primary" href="https://www.merriam-webster.com/dictionary/conscience">https://www.merriam-webster.com/dictionary/conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.merriam-webster.com/dictionary/conscience">https://www.merriam-webster.com/dictionary/conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1331</td>
@@ -133,7 +194,7 @@
     </tr>
 <tr>
         <td>7</td>
-        <td><a class="has-text-primary" href="https://psykologvirke.no/en/self-help/bad-conscience-guilt/">https://psykologvirke.no/en/self-help/bad-conscience-guilt/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://psykologvirke.no/en/self-help/bad-conscience-guilt/">https://psykologvirke.no/en/self-help/bad-conscience-guilt/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2760</td>
@@ -148,7 +209,7 @@
     </tr>
 <tr>
         <td>8</td>
-        <td><a class="has-text-primary" href="https://www.thehumanfront.com/pocketsized-nietzsche-on-bad-conscience/">https://www.thehumanfront.com/pocketsized-nietzsche-on-bad-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.thehumanfront.com/pocketsized-nietzsche-on-bad-conscience/">https://www.thehumanfront.com/pocketsized-nietzsche-on-bad-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>461</td>
@@ -163,7 +224,7 @@
     </tr>
 <tr>
         <td>9</td>
-        <td><a class="has-text-primary" href="https://www.merriam-webster.com/dictionary/guilty%2Ftroubled%20conscience">https://www.merriam-webster.com/dictionary/guilty%2Ftroubled%20conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.merriam-webster.com/dictionary/guilty%2Ftroubled%20conscience">https://www.merriam-webster.com/dictionary/guilty%2Ftroubled%20conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>856</td>
@@ -178,7 +239,7 @@
     </tr>
 <tr>
         <td>10</td>
-        <td><a class="has-text-primary" href="https://www.bricefoundation.org/single-post/2019/06/08/guilty-consciencebad-conscience">https://www.bricefoundation.org/single-post/2019/06/08/guilty-consciencebad-conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.bricefoundation.org/single-post/2019/06/08/guilty-consciencebad-conscience">https://www.bricefoundation.org/single-post/2019/06/08/guilty-consciencebad-conscience</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1630</td>
@@ -193,7 +254,7 @@
     </tr>
 <tr>
         <td>11</td>
-        <td><a class="has-text-primary" href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6.html">https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6.html</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6.html">https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6.html</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>2935</td>
@@ -208,22 +269,22 @@
     </tr>
 <tr>
         <td>12</td>
-        <td><a class="has-text-primary" href="https://www.adamsmithworks.org/documents/conscience-moral-rules-edward-harpham">https://www.adamsmithworks.org/documents/conscience-moral-rules-edward-harpham</a></td>
-        <td>000</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
-        <td>/</td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.adamsmithworks.org/documents/conscience-moral-rules-edward-harpham">https://www.adamsmithworks.org/documents/conscience-moral-rules-edward-harpham</a></td>
+        <td>200</td>
+        <td>utf-8</td>
+        <td>3643</td>
+        <td><a href='../aspirations/anglais-12.html'>aspiration</a></td>
+        <td><a href='../dumps-text/anglais-12.txt'>dump</a></td>
+        <td>36</td>
+        <td>0</td>
+        <td><a href='../contextes/anglais-mot1-12.txt'>contextes</a></td>
+        <td><a href='../contextes/anglais-mot2-12.txt'>contextes</a></td>
+        <td><a href='../concordances/anglais-12-group1-concordance.html'>concordances</a></td>
+        <td><a href='../concordances/anglais-12-group2-concordance.html'>concordances</a></td>
     </tr>
 <tr>
         <td>13</td>
-        <td><a class="has-text-primary" href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6/i_the_judgment_of_conscience.html">https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6/i_the_judgment_of_conscience.html</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6/i_the_judgment_of_conscience.html">https://www.vatican.va/content/catechism/en/part_three/section_one/chapter_one/article_6/i_the_judgment_of_conscience.html</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>3399</td>
@@ -238,7 +299,7 @@
     </tr>
 <tr>
         <td>14</td>
-        <td><a class="has-text-primary" href="https://waterloocatholics.org/how-to-form-a-moral-conscience">https://waterloocatholics.org/how-to-form-a-moral-conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://waterloocatholics.org/how-to-form-a-moral-conscience">https://waterloocatholics.org/how-to-form-a-moral-conscience</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2661</td>
@@ -253,7 +314,7 @@
     </tr>
 <tr>
         <td>15</td>
-        <td><a class="has-text-primary" href="https://www.jonmertz.com/perspectives/being-a-leader-of-conscience">https://www.jonmertz.com/perspectives/being-a-leader-of-conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.jonmertz.com/perspectives/being-a-leader-of-conscience">https://www.jonmertz.com/perspectives/being-a-leader-of-conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>678</td>
@@ -268,10 +329,10 @@
     </tr>
 <tr>
         <td>16</td>
-        <td><a class="has-text-primary" href="https://www.desiringgod.org/interviews/how-can-i-have-a-good-conscience">https://www.desiringgod.org/interviews/how-can-i-have-a-good-conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.desiringgod.org/interviews/how-can-i-have-a-good-conscience">https://www.desiringgod.org/interviews/how-can-i-have-a-good-conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
-        <td>2632</td>
+        <td>2645</td>
         <td><a href='../aspirations/anglais-16.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-16.txt'>dump</a></td>
         <td>38</td>
@@ -283,7 +344,7 @@
     </tr>
 <tr>
         <td>17</td>
-        <td><a class="has-text-primary" href="https://www.merriam-webster.com/grammar/usage-of-conscience-vs-conscious">https://www.merriam-webster.com/grammar/usage-of-conscience-vs-conscious</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.merriam-webster.com/grammar/usage-of-conscience-vs-conscious">https://www.merriam-webster.com/grammar/usage-of-conscience-vs-conscious</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1466</td>
@@ -298,7 +359,7 @@
     </tr>
 <tr>
         <td>18</td>
-        <td><a class="has-text-primary" href="https://www.lawinsider.com/dictionary/equity-and-good-conscience">https://www.lawinsider.com/dictionary/equity-and-good-conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.lawinsider.com/dictionary/equity-and-good-conscience">https://www.lawinsider.com/dictionary/equity-and-good-conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2588</td>
@@ -313,7 +374,7 @@
     </tr>
 <tr>
         <td>19</td>
-        <td><a class="has-text-primary" href="https://www.beyondpesticides.org/resources/eating-with-a-conscience/overview">https://www.beyondpesticides.org/resources/eating-with-a-conscience/overview</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.beyondpesticides.org/resources/eating-with-a-conscience/overview">https://www.beyondpesticides.org/resources/eating-with-a-conscience/overview</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1976</td>
@@ -328,7 +389,7 @@
     </tr>
 <tr>
         <td>20</td>
-        <td><a class="has-text-primary" href="https://dictionary.cambridge.org/dictionary/english/conscience">https://dictionary.cambridge.org/dictionary/english/conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://dictionary.cambridge.org/dictionary/english/conscience">https://dictionary.cambridge.org/dictionary/english/conscience</a></td>
         <td>000</td>
         <td>/</td>
         <td>/</td>
@@ -343,7 +404,7 @@
     </tr>
 <tr>
         <td>21</td>
-        <td><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil">https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil">https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1812</td>
@@ -358,7 +419,7 @@
     </tr>
 <tr>
         <td>22</td>
-        <td><a class="has-text-primary" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3729967/">https://pmc.ncbi.nlm.nih.gov/articles/PMC3729967/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3729967/">https://pmc.ncbi.nlm.nih.gov/articles/PMC3729967/</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -373,7 +434,7 @@
     </tr>
 <tr>
         <td>23</td>
-        <td><a class="has-text-primary" href="https://iblp.org/what-can-stand-way-clearing-my-conscience/">https://iblp.org/what-can-stand-way-clearing-my-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://iblp.org/what-can-stand-way-clearing-my-conscience/">https://iblp.org/what-can-stand-way-clearing-my-conscience/</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -388,7 +449,7 @@
     </tr>
 <tr>
         <td>24</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Conscience">https://en.wikipedia.org/wiki/Conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Conscience">https://en.wikipedia.org/wiki/Conscience</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>23732</td>
@@ -403,7 +464,7 @@
     </tr>
 <tr>
         <td>25</td>
-        <td><a class="has-text-primary" href="https://en.wiktionary.org/wiki/conscience">https://en.wiktionary.org/wiki/conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wiktionary.org/wiki/conscience">https://en.wiktionary.org/wiki/conscience</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>3746</td>
@@ -418,7 +479,7 @@
     </tr>
 <tr>
         <td>26</td>
-        <td><a class="has-text-primary" href="https://www.websters1913.com/words/Conscience">https://www.websters1913.com/words/Conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.websters1913.com/words/Conscience">https://www.websters1913.com/words/Conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>376</td>
@@ -433,7 +494,7 @@
     </tr>
 <tr>
         <td>27</td>
-        <td><a class="has-text-primary" href="https://www.oed.com/dictionary/conscience_n?tl=true">https://www.oed.com/dictionary/conscience_n?tl=true</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.oed.com/dictionary/conscience_n?tl=true">https://www.oed.com/dictionary/conscience_n?tl=true</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -448,7 +509,7 @@
     </tr>
 <tr>
         <td>28</td>
-        <td><a class="has-text-primary" href="https://sermons.plainbibleteaching.com/2016/02/01/types-of-conscience/">https://sermons.plainbibleteaching.com/2016/02/01/types-of-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://sermons.plainbibleteaching.com/2016/02/01/types-of-conscience/">https://sermons.plainbibleteaching.com/2016/02/01/types-of-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1535</td>
@@ -463,9 +524,9 @@
     </tr>
 <tr>
         <td>29</td>
-        <td><a class="has-text-primary" href="https://www.iswasandwillbe.com/conscience-an-evil-conscience-part-4-good-and-evil-are-the-only-two-forms-of-conscience/">https://www.iswasandwillbe.com/conscience-an-evil-conscience-part-4-good-and-evil-are-the-only-two-forms-of-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.iswasandwillbe.com/conscience-an-evil-conscience-part-4-good-and-evil-are-the-only-two-forms-of-conscience/">https://www.iswasandwillbe.com/conscience-an-evil-conscience-part-4-good-and-evil-are-the-only-two-forms-of-conscience/</a></td>
         <td>200</td>
-        <td>utf-8</td>
+        <td>UTF-8</td>
         <td>4776</td>
         <td><a href='../aspirations/anglais-29.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-29.txt'>dump</a></td>
@@ -478,7 +539,7 @@
     </tr>
 <tr>
         <td>30</td>
-        <td><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil">https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil">https://www.psychologytoday.com/intl/blog/evolution-the-self/202202/can-ones-conscience-be-evil</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1812</td>
@@ -493,7 +554,7 @@
     </tr>
 <tr>
         <td>31</td>
-        <td><a class="has-text-primary" href="https://spartanchristianity.com/evil-conscience/">https://spartanchristianity.com/evil-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://spartanchristianity.com/evil-conscience/">https://spartanchristianity.com/evil-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1456</td>
@@ -508,7 +569,7 @@
     </tr>
 <tr>
         <td>32</td>
-        <td><a class="has-text-primary" href="https://www.artandpopularculture.com/Class_consciousness">https://www.artandpopularculture.com/Class_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.artandpopularculture.com/Class_consciousness">https://www.artandpopularculture.com/Class_consciousness</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2195</td>
@@ -523,10 +584,10 @@
     </tr>
 <tr>
         <td>33</td>
-        <td><a class="has-text-primary" href="https://ethics.org.au/ethics-explainer-conscience/">https://ethics.org.au/ethics-explainer-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://ethics.org.au/ethics-explainer-conscience/">https://ethics.org.au/ethics-explainer-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>951</td>
+        <td>953</td>
         <td><a href='../aspirations/anglais-33.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-33.txt'>dump</a></td>
         <td>10</td>
@@ -538,7 +599,7 @@
     </tr>
 <tr>
         <td>34</td>
-        <td><a class="has-text-primary" href="https://alevelphilosophyandreligion.com/ocr-religious-studies/ocr-ethics/conscience/">https://alevelphilosophyandreligion.com/ocr-religious-studies/ocr-ethics/conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://alevelphilosophyandreligion.com/ocr-religious-studies/ocr-ethics/conscience/">https://alevelphilosophyandreligion.com/ocr-religious-studies/ocr-ethics/conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>3557</td>
@@ -553,7 +614,7 @@
     </tr>
 <tr>
         <td>35</td>
-        <td><a class="has-text-primary" href="https://philosophyterms.com/conscience/">https://philosophyterms.com/conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://philosophyterms.com/conscience/">https://philosophyterms.com/conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2751</td>
@@ -568,7 +629,7 @@
     </tr>
 <tr>
         <td>36</td>
-        <td><a class="has-text-primary" href="https://human.libretexts.org/Bookshelves/Philosophy/Ethics_(Fisher_and_Dimmock)/9%3A_Conscience">https://human.libretexts.org/Bookshelves/Philosophy/Ethics_(Fisher_and_Dimmock)/9%3A_Conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://human.libretexts.org/Bookshelves/Philosophy/Ethics_(Fisher_and_Dimmock)/9%3A_Conscience">https://human.libretexts.org/Bookshelves/Philosophy/Ethics_(Fisher_and_Dimmock)/9%3A_Conscience</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>5180</td>
@@ -583,10 +644,10 @@
     </tr>
 <tr>
         <td>37</td>
-        <td><a class="has-text-primary" href="https://www.britannica.com/topic/conscience">https://www.britannica.com/topic/conscience</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.britannica.com/topic/conscience">https://www.britannica.com/topic/conscience</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>1025</td>
+        <td>1024</td>
         <td><a href='../aspirations/anglais-37.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-37.txt'>dump</a></td>
         <td>17</td>
@@ -598,7 +659,7 @@
     </tr>
 <tr>
         <td>38</td>
-        <td><a class="has-text-primary" href="https://languagetool.org/insights/post/conscience-conscious-conscientious/">https://languagetool.org/insights/post/conscience-conscious-conscientious/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://languagetool.org/insights/post/conscience-conscious-conscientious/">https://languagetool.org/insights/post/conscience-conscious-conscientious/</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1123</td>
@@ -613,7 +674,7 @@
     </tr>
 <tr>
         <td>39</td>
-        <td><a class="has-text-primary" href="https://www.catholicsforchoice.org/issues/conscience/">https://www.catholicsforchoice.org/issues/conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.catholicsforchoice.org/issues/conscience/">https://www.catholicsforchoice.org/issues/conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1139</td>
@@ -628,7 +689,7 @@
     </tr>
 <tr>
         <td>40</td>
-        <td><a class="has-text-primary" href="https://adflegal.org/article/what-freedom-conscience-and-why-does-it-matter/">https://adflegal.org/article/what-freedom-conscience-and-why-does-it-matter/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://adflegal.org/article/what-freedom-conscience-and-why-does-it-matter/">https://adflegal.org/article/what-freedom-conscience-and-why-does-it-matter/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2200</td>
@@ -643,7 +704,7 @@
     </tr>
 <tr>
         <td>41</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Conscience_clause_in_medicine_in_the_United_States">https://en.wikipedia.org/wiki/Conscience_clause_in_medicine_in_the_United_States</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Conscience_clause_in_medicine_in_the_United_States">https://en.wikipedia.org/wiki/Conscience_clause_in_medicine_in_the_United_States</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>4845</td>
@@ -658,7 +719,7 @@
     </tr>
 <tr>
         <td>42</td>
-        <td><a class="has-text-primary" href="https://fra.europa.eu/en/eu-charter/article/10-freedom-thought-conscience-and-religion">https://fra.europa.eu/en/eu-charter/article/10-freedom-thought-conscience-and-religion</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://fra.europa.eu/en/eu-charter/article/10-freedom-thought-conscience-and-religion">https://fra.europa.eu/en/eu-charter/article/10-freedom-thought-conscience-and-religion</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>8005</td>
@@ -673,7 +734,7 @@
     </tr>
 <tr>
         <td>43</td>
-        <td><a class="has-text-primary" href="https://www.flmedical.org/florida/Florida_Public/News/2023/What_right_of_medical_conscience_means_under_state_law.aspx">https://www.flmedical.org/florida/Florida_Public/News/2023/What_right_of_medical_conscience_means_under_state_law.aspx</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.flmedical.org/florida/Florida_Public/News/2023/What_right_of_medical_conscience_means_under_state_law.aspx">https://www.flmedical.org/florida/Florida_Public/News/2023/What_right_of_medical_conscience_means_under_state_law.aspx</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2274</td>
@@ -688,7 +749,7 @@
     </tr>
 <tr>
         <td>44</td>
-        <td><a class="has-text-primary" href="https://fastercapital.com/keyword/class-consciousness.html">https://fastercapital.com/keyword/class-consciousness.html</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://fastercapital.com/keyword/class-consciousness.html">https://fastercapital.com/keyword/class-consciousness.html</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>15068</td>
@@ -703,7 +764,7 @@
     </tr>
 <tr>
         <td>45</td>
-        <td><a class="has-text-primary" href="https://www.constitutionalstudies.ca/2019/07/freedom-of-conscience/">https://www.constitutionalstudies.ca/2019/07/freedom-of-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.constitutionalstudies.ca/2019/07/freedom-of-conscience/">https://www.constitutionalstudies.ca/2019/07/freedom-of-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1324</td>
@@ -718,7 +779,7 @@
     </tr>
 <tr>
         <td>46</td>
-        <td><a class="has-text-primary" href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/">https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/">https://www.hli.org/resources/what-is-the-role-of-conscience-in-moral-decision-making/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2913</td>
@@ -733,7 +794,7 @@
     </tr>
 <tr>
         <td>47</td>
-        <td><a class="has-text-primary" href="https://bulldogcatholic.org/2016/02/01/examining-the-role-of-conscience-in-making-moral-decisions/">https://bulldogcatholic.org/2016/02/01/examining-the-role-of-conscience-in-making-moral-decisions/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://bulldogcatholic.org/2016/02/01/examining-the-role-of-conscience-in-making-moral-decisions/">https://bulldogcatholic.org/2016/02/01/examining-the-role-of-conscience-in-making-moral-decisions/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1604</td>
@@ -748,10 +809,10 @@
     </tr>
 <tr>
         <td>48</td>
-        <td><a class="has-text-primary" href="https://reformedperspective.ca/what-is-freedom-of-conscience/">https://reformedperspective.ca/what-is-freedom-of-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://reformedperspective.ca/what-is-freedom-of-conscience/">https://reformedperspective.ca/what-is-freedom-of-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>3444</td>
+        <td>3474</td>
         <td><a href='../aspirations/anglais-48.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-48.txt'>dump</a></td>
         <td>72</td>
@@ -763,7 +824,7 @@
     </tr>
 <tr>
         <td>49</td>
-        <td><a class="has-text-primary" href="https://fmdolan.com/what-does-nietzsche-mean-by-the-intellectual-conscience/">https://fmdolan.com/what-does-nietzsche-mean-by-the-intellectual-conscience/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://fmdolan.com/what-does-nietzsche-mean-by-the-intellectual-conscience/">https://fmdolan.com/what-does-nietzsche-mean-by-the-intellectual-conscience/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>571</td>
@@ -778,7 +839,7 @@
     </tr>
 <tr>
         <td>50</td>
-        <td><a class="has-text-primary" href="https://medium.com/@qaisalamdar/the-origin-of-guilt-punishment-and-bad-conscience-according-to-nietzsche-a20b77402498">https://medium.com/@qaisalamdar/the-origin-of-guilt-punishment-and-bad-conscience-according-to-nietzsche-a20b77402498</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://medium.com/@qaisalamdar/the-origin-of-guilt-punishment-and-bad-conscience-according-to-nietzsche-a20b77402498">https://medium.com/@qaisalamdar/the-origin-of-guilt-punishment-and-bad-conscience-according-to-nietzsche-a20b77402498</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2752</td>
@@ -793,7 +854,7 @@
     </tr>
 <tr>
         <td>51</td>
-        <td><a class="has-text-primary" href="https://plato.stanford.edu/entries/conscience-medieval/">https://plato.stanford.edu/entries/conscience-medieval/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://plato.stanford.edu/entries/conscience-medieval/">https://plato.stanford.edu/entries/conscience-medieval/</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>12454</td>
@@ -808,7 +869,7 @@
     </tr>
 <tr>
         <td>52</td>
-        <td><a class="has-text-primary" href="https://theconversation.com/why-consciousness-may-have-evolved-to-benefit-society-rather-than-individuals-232459">https://theconversation.com/why-consciousness-may-have-evolved-to-benefit-society-rather-than-individuals-232459</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://theconversation.com/why-consciousness-may-have-evolved-to-benefit-society-rather-than-individuals-232459">https://theconversation.com/why-consciousness-may-have-evolved-to-benefit-society-rather-than-individuals-232459</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1384</td>
@@ -823,7 +884,7 @@
     </tr>
 <tr>
         <td>53</td>
-        <td><a class="has-text-primary" href="https://www.kilpatrickexecutive.com/conscious-leadership-what-is-it-and-its-benefits/">https://www.kilpatrickexecutive.com/conscious-leadership-what-is-it-and-its-benefits/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.kilpatrickexecutive.com/conscious-leadership-what-is-it-and-its-benefits/">https://www.kilpatrickexecutive.com/conscious-leadership-what-is-it-and-its-benefits/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1227</td>
@@ -838,7 +899,7 @@
     </tr>
 <tr>
         <td>54</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Consciousness">https://en.wikipedia.org/wiki/Consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Consciousness">https://en.wikipedia.org/wiki/Consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>24916</td>
@@ -853,7 +914,7 @@
     </tr>
 <tr>
         <td>55</td>
-        <td><a class="has-text-primary" href="https://plato.stanford.edu/entries/consciousness/">https://plato.stanford.edu/entries/consciousness/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://plato.stanford.edu/entries/consciousness/">https://plato.stanford.edu/entries/consciousness/</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>23675</td>
@@ -868,7 +929,7 @@
     </tr>
 <tr>
         <td>56</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Consciousness_raising">https://en.wikipedia.org/wiki/Consciousness_raising</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Consciousness_raising">https://en.wikipedia.org/wiki/Consciousness_raising</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>4195</td>
@@ -883,10 +944,10 @@
     </tr>
 <tr>
         <td>57</td>
-        <td><a class="has-text-primary" href="https://www.verywellmind.com/what-is-consciousness-2795922">https://www.verywellmind.com/what-is-consciousness-2795922</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.verywellmind.com/what-is-consciousness-2795922">https://www.verywellmind.com/what-is-consciousness-2795922</a></td>
         <td>200</td>
         <td>utf-8</td>
-        <td>2299</td>
+        <td>2291</td>
         <td><a href='../aspirations/anglais-57.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-57.txt'>dump</a></td>
         <td>0</td>
@@ -898,7 +959,7 @@
     </tr>
 <tr>
         <td>58</td>
-        <td><a class="has-text-primary" href="https://www.cpusa.org/article/waking-class-consciousness-today/">https://www.cpusa.org/article/waking-class-consciousness-today/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.cpusa.org/article/waking-class-consciousness-today/">https://www.cpusa.org/article/waking-class-consciousness-today/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2609</td>
@@ -913,7 +974,7 @@
     </tr>
 <tr>
         <td>59</td>
-        <td><a class="has-text-primary" href="https://academic.oup.com/nc/article/2024/1/niae016/7641203">https://academic.oup.com/nc/article/2024/1/niae016/7641203</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://academic.oup.com/nc/article/2024/1/niae016/7641203">https://academic.oup.com/nc/article/2024/1/niae016/7641203</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -928,7 +989,7 @@
     </tr>
 <tr>
         <td>60</td>
-        <td><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/consciousness-and-beyond/202305/what-is-consciousness">https://www.psychologytoday.com/intl/blog/consciousness-and-beyond/202305/what-is-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/consciousness-and-beyond/202305/what-is-consciousness">https://www.psychologytoday.com/intl/blog/consciousness-and-beyond/202305/what-is-consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2038</td>
@@ -943,7 +1004,7 @@
     </tr>
 <tr>
         <td>61</td>
-        <td><a class="has-text-primary" href="https://www.sciencedirect.com/science/article/pii/S1697260024000401">https://www.sciencedirect.com/science/article/pii/S1697260024000401</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.sciencedirect.com/science/article/pii/S1697260024000401">https://www.sciencedirect.com/science/article/pii/S1697260024000401</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -958,10 +1019,10 @@
     </tr>
 <tr>
         <td>62</td>
-        <td><a class="has-text-primary" href="https://www.medicalnewstoday.com/articles/how-does-the-human-brain-create-consciousness-and-why#The-neural-correlates-of-consciousness">https://www.medicalnewstoday.com/articles/how-does-the-human-brain-create-consciousness-and-why#The-neural-correlates-of-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.medicalnewstoday.com/articles/how-does-the-human-brain-create-consciousness-and-why#The-neural-correlates-of-consciousness">https://www.medicalnewstoday.com/articles/how-does-the-human-brain-create-consciousness-and-why#The-neural-correlates-of-consciousness</a></td>
         <td>200</td>
         <td>utf-8</td>
-        <td>2944</td>
+        <td>2945</td>
         <td><a href='../aspirations/anglais-62.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-62.txt'>dump</a></td>
         <td>0</td>
@@ -973,7 +1034,7 @@
     </tr>
 <tr>
         <td>63</td>
-        <td><a class="has-text-primary" href="https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe1/">https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe1/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe1/">https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe1/</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2342</td>
@@ -988,7 +1049,7 @@
     </tr>
 <tr>
         <td>64</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Universal_mind">https://en.wikipedia.org/wiki/Universal_mind</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Universal_mind">https://en.wikipedia.org/wiki/Universal_mind</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1961</td>
@@ -1003,7 +1064,7 @@
     </tr>
 <tr>
         <td>65</td>
-        <td><a class="has-text-primary" href="https://www.scientificamerican.com/article/is-consciousness-universal/">https://www.scientificamerican.com/article/is-consciousness-universal/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.scientificamerican.com/article/is-consciousness-universal/">https://www.scientificamerican.com/article/is-consciousness-universal/</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>3347</td>
@@ -1018,7 +1079,7 @@
     </tr>
 <tr>
         <td>66</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Collective_consciousness#:~:text=Collective%20consciousness%2C%20collective%20conscience%2C%20or,a%20unifying%20force%20within%20society.">https://en.wikipedia.org/wiki/Collective_consciousness#:~:text=Collective%20consciousness%2C%20collective%20conscience%2C%20or,a%20unifying%20force%20within%20society.</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Collective_consciousness#:~:text=Collective%20consciousness%2C%20collective%20conscience%2C%20or,a%20unifying%20force%20within%20society.">https://en.wikipedia.org/wiki/Collective_consciousness#:~:text=Collective%20consciousness%2C%20collective%20conscience%2C%20or,a%20unifying%20force%20within%20society.</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>4315</td>
@@ -1033,7 +1094,7 @@
     </tr>
 <tr>
         <td>67</td>
-        <td><a class="has-text-primary" href="https://meridianuniversity.edu/content/understanding-the-mystery-of-collective-consciousness">https://meridianuniversity.edu/content/understanding-the-mystery-of-collective-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://meridianuniversity.edu/content/understanding-the-mystery-of-collective-consciousness">https://meridianuniversity.edu/content/understanding-the-mystery-of-collective-consciousness</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1717</td>
@@ -1048,7 +1109,7 @@
     </tr>
 <tr>
         <td>68</td>
-        <td><a class="has-text-primary" href="https://www.thoughtco.com/collective-consciousness-definition-3026118">https://www.thoughtco.com/collective-consciousness-definition-3026118</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.thoughtco.com/collective-consciousness-definition-3026118">https://www.thoughtco.com/collective-consciousness-definition-3026118</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1629</td>
@@ -1063,7 +1124,7 @@
     </tr>
 <tr>
         <td>69</td>
-        <td><a class="has-text-primary" href="https://dictionary.cambridge.org/dictionary/english/collective-consciousness">https://dictionary.cambridge.org/dictionary/english/collective-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://dictionary.cambridge.org/dictionary/english/collective-consciousness">https://dictionary.cambridge.org/dictionary/english/collective-consciousness</a></td>
         <td>000</td>
         <td>/</td>
         <td>/</td>
@@ -1078,7 +1139,7 @@
     </tr>
 <tr>
         <td>70</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Social_consciousness">https://en.wikipedia.org/wiki/Social_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Social_consciousness">https://en.wikipedia.org/wiki/Social_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>856</td>
@@ -1093,7 +1154,7 @@
     </tr>
 <tr>
         <td>71</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Class_consciousness">https://en.wikipedia.org/wiki/Class_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Class_consciousness">https://en.wikipedia.org/wiki/Class_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>4900</td>
@@ -1108,10 +1169,10 @@
     </tr>
 <tr>
         <td>72</td>
-        <td><a class="has-text-primary" href="https://www.britannica.com/topic/class-consciousness">https://www.britannica.com/topic/class-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.britannica.com/topic/class-consciousness">https://www.britannica.com/topic/class-consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>1600</td>
+        <td>1626</td>
         <td><a href='../aspirations/anglais-72.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-72.txt'>dump</a></td>
         <td>0</td>
@@ -1123,7 +1184,7 @@
     </tr>
 <tr>
         <td>73</td>
-        <td><a class="has-text-primary" href="https://www.sciencedirect.com/topics/social-sciences/class-consciousness">https://www.sciencedirect.com/topics/social-sciences/class-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.sciencedirect.com/topics/social-sciences/class-consciousness">https://www.sciencedirect.com/topics/social-sciences/class-consciousness</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -1138,7 +1199,7 @@
     </tr>
 <tr>
         <td>74</td>
-        <td><a class="has-text-primary" href="https://www.marxists.org/archive/lukacs/works/history/lukacs3.htm">https://www.marxists.org/archive/lukacs/works/history/lukacs3.htm</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.marxists.org/archive/lukacs/works/history/lukacs3.htm">https://www.marxists.org/archive/lukacs/works/history/lukacs3.htm</a></td>
         <td>200</td>
         <td>iso-8859-1<br>➔ UTF-8</td>
         <td>15297</td>
@@ -1153,7 +1214,7 @@
     </tr>
 <tr>
         <td>75</td>
-        <td><a class="has-text-primary" href="https://www.verywellhealth.com/level-of-consciousness-1132154">https://www.verywellhealth.com/level-of-consciousness-1132154</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.verywellhealth.com/level-of-consciousness-1132154">https://www.verywellhealth.com/level-of-consciousness-1132154</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>2418</td>
@@ -1168,7 +1229,7 @@
     </tr>
 <tr>
         <td>76</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Altered_level_of_consciousness">https://en.wikipedia.org/wiki/Altered_level_of_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Altered_level_of_consciousness">https://en.wikipedia.org/wiki/Altered_level_of_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2392</td>
@@ -1183,7 +1244,7 @@
     </tr>
 <tr>
         <td>77</td>
-        <td><a class="has-text-primary" href="https://straightanursingstudent.com/levels-of-consciousness-decoded/">https://straightanursingstudent.com/levels-of-consciousness-decoded/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://straightanursingstudent.com/levels-of-consciousness-decoded/">https://straightanursingstudent.com/levels-of-consciousness-decoded/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1459</td>
@@ -1198,10 +1259,10 @@
     </tr>
 <tr>
         <td>78</td>
-        <td><a class="has-text-primary" href="https://www.britannica.com/topic/consciousness">https://www.britannica.com/topic/consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.britannica.com/topic/consciousness">https://www.britannica.com/topic/consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>1413</td>
+        <td>1379</td>
         <td><a href='../aspirations/anglais-78.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-78.txt'>dump</a></td>
         <td>1</td>
@@ -1213,10 +1274,10 @@
     </tr>
 <tr>
         <td>79</td>
-        <td><a class="has-text-primary" href="https://www.britannica.com/topic/false-consciousness">https://www.britannica.com/topic/false-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.britannica.com/topic/false-consciousness">https://www.britannica.com/topic/false-consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>954</td>
+        <td>980</td>
         <td><a href='../aspirations/anglais-79.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-79.txt'>dump</a></td>
         <td>0</td>
@@ -1228,10 +1289,10 @@
     </tr>
 <tr>
         <td>80</td>
-        <td><a class="has-text-primary" href="https://www.britannica.com/topic/philosophy-of-mind/Consciousness">https://www.britannica.com/topic/philosophy-of-mind/Consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.britannica.com/topic/philosophy-of-mind/Consciousness">https://www.britannica.com/topic/philosophy-of-mind/Consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
-        <td>2186</td>
+        <td>2233</td>
         <td><a href='../aspirations/anglais-80.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-80.txt'>dump</a></td>
         <td>0</td>
@@ -1243,7 +1304,7 @@
     </tr>
 <tr>
         <td>81</td>
-        <td><a class="has-text-primary" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/consciousness-level">https://www.sciencedirect.com/topics/medicine-and-dentistry/consciousness-level</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.sciencedirect.com/topics/medicine-and-dentistry/consciousness-level">https://www.sciencedirect.com/topics/medicine-and-dentistry/consciousness-level</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -1258,7 +1319,7 @@
     </tr>
 <tr>
         <td>82</td>
-        <td><a class="has-text-primary" href="https://www.physio-pedia.com/Disorders_of_Consciousness">https://www.physio-pedia.com/Disorders_of_Consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.physio-pedia.com/Disorders_of_Consciousness">https://www.physio-pedia.com/Disorders_of_Consciousness</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -1273,7 +1334,7 @@
     </tr>
 <tr>
         <td>83</td>
-        <td><a class="has-text-primary" href="https://www.nature.com/articles/s41467-022-28451-0">https://www.nature.com/articles/s41467-022-28451-0</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.nature.com/articles/s41467-022-28451-0">https://www.nature.com/articles/s41467-022-28451-0</a></td>
         <td>200</td>
         <td>"UTF-8"<br>➔ UTF-8</td>
         <td>13777</td>
@@ -1288,7 +1349,7 @@
     </tr>
 <tr>
         <td>84</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Political_consciousness">https://en.wikipedia.org/wiki/Political_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Political_consciousness">https://en.wikipedia.org/wiki/Political_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1026</td>
@@ -1303,7 +1364,7 @@
     </tr>
 <tr>
         <td>85</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Critical_consciousness">https://en.wikipedia.org/wiki/Critical_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Critical_consciousness">https://en.wikipedia.org/wiki/Critical_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>3579</td>
@@ -1318,7 +1379,7 @@
     </tr>
 <tr>
         <td>86</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Double_consciousness">https://en.wikipedia.org/wiki/Double_consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Double_consciousness">https://en.wikipedia.org/wiki/Double_consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>3561</td>
@@ -1333,7 +1394,7 @@
     </tr>
 <tr>
         <td>87</td>
-        <td><a class="has-text-primary" href="https://www.sciencedirect.com/topics/social-sciences/political-consciousness">https://www.sciencedirect.com/topics/social-sciences/political-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.sciencedirect.com/topics/social-sciences/political-consciousness">https://www.sciencedirect.com/topics/social-sciences/political-consciousness</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -1348,7 +1409,7 @@
     </tr>
 <tr>
         <td>88</td>
-        <td><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Group_consciousness_(political_science)">https://en.wikipedia.org/wiki/Group_consciousness_(political_science)</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://en.wikipedia.org/wiki/Group_consciousness_(political_science)">https://en.wikipedia.org/wiki/Group_consciousness_(political_science)</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>1460</td>
@@ -1363,7 +1424,7 @@
     </tr>
 <tr>
         <td>89</td>
-        <td><a class="has-text-primary" href="https://plato.stanford.edu/entries/self-consciousness/">https://plato.stanford.edu/entries/self-consciousness/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://plato.stanford.edu/entries/self-consciousness/">https://plato.stanford.edu/entries/self-consciousness/</a></td>
         <td>200</td>
         <td>us-ascii<br>➔ UTF-8</td>
         <td>24981</td>
@@ -1378,7 +1439,7 @@
     </tr>
 <tr>
         <td>90</td>
-        <td><a class="has-text-primary" href="https://philosophynow.org/issues/48/Consciousness">https://philosophynow.org/issues/48/Consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://philosophynow.org/issues/48/Consciousness">https://philosophynow.org/issues/48/Consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>982</td>
@@ -1393,7 +1454,7 @@
     </tr>
 <tr>
         <td>91</td>
-        <td><a class="has-text-primary" href="https://www.rep.routledge.com/articles/thematic/consciousness/v-1">https://www.rep.routledge.com/articles/thematic/consciousness/v-1</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.rep.routledge.com/articles/thematic/consciousness/v-1">https://www.rep.routledge.com/articles/thematic/consciousness/v-1</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1008</td>
@@ -1408,7 +1469,7 @@
     </tr>
 <tr>
         <td>92</td>
-        <td><a class="has-text-primary" href="https://www.thoughtco.com/class-consciousness-3026135">https://www.thoughtco.com/class-consciousness-3026135</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.thoughtco.com/class-consciousness-3026135">https://www.thoughtco.com/class-consciousness-3026135</a></td>
         <td>200</td>
         <td>utf-8</td>
         <td>1940</td>
@@ -1423,10 +1484,10 @@
     </tr>
 <tr>
         <td>93</td>
-        <td><a class="has-text-primary" href="https://morningstaronline.co.uk/article/f/full-marx-93-what-false-consciousness">https://morningstaronline.co.uk/article/f/full-marx-93-what-false-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://morningstaronline.co.uk/article/f/full-marx-93-what-false-consciousness">https://morningstaronline.co.uk/article/f/full-marx-93-what-false-consciousness</a></td>
         <td>200</td>
         <td>utf-8</td>
-        <td>2204</td>
+        <td>2181</td>
         <td><a href='../aspirations/anglais-93.html'>aspiration</a></td>
         <td><a href='../dumps-text/anglais-93.txt'>dump</a></td>
         <td>0</td>
@@ -1438,7 +1499,7 @@
     </tr>
 <tr>
         <td>94</td>
-        <td><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/finding-purpose/202308/an-overview-of-the-leading-theories-of-consciousness">https://www.psychologytoday.com/intl/blog/finding-purpose/202308/an-overview-of-the-leading-theories-of-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.psychologytoday.com/intl/blog/finding-purpose/202308/an-overview-of-the-leading-theories-of-consciousness">https://www.psychologytoday.com/intl/blog/finding-purpose/202308/an-overview-of-the-leading-theories-of-consciousness</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>2919</td>
@@ -1453,7 +1514,7 @@
     </tr>
 <tr>
         <td>95</td>
-        <td><a class="has-text-primary" href="https://www.nature.com/articles/s41583-022-00587-4">https://www.nature.com/articles/s41583-022-00587-4</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.nature.com/articles/s41583-022-00587-4">https://www.nature.com/articles/s41583-022-00587-4</a></td>
         <td>200</td>
         <td>"UTF-8"<br>➔ UTF-8</td>
         <td>6497</td>
@@ -1468,7 +1529,7 @@
     </tr>
 <tr>
         <td>96</td>
-        <td><a class="has-text-primary" href="https://www.newscientist.com/question/four-main-theories-consciousness/">https://www.newscientist.com/question/four-main-theories-consciousness/</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.newscientist.com/question/four-main-theories-consciousness/">https://www.newscientist.com/question/four-main-theories-consciousness/</a></td>
         <td>200</td>
         <td>UTF-8</td>
         <td>851</td>
@@ -1483,7 +1544,7 @@
     </tr>
 <tr>
         <td>97</td>
-        <td><a class="has-text-primary" href="https://www.sciencedirect.com/topics/psychology/theory-of-consciousness">https://www.sciencedirect.com/topics/psychology/theory-of-consciousness</a></td>
+        <td style="text-align: left;"><a class="has-text-primary" href="https://www.sciencedirect.com/topics/psychology/theory-of-consciousness">https://www.sciencedirect.com/topics/psychology/theory-of-consciousness</a></td>
         <td>403</td>
         <td>/</td>
         <td>/</td>
@@ -1496,10 +1557,21 @@
         <td>/</td>
         <td>/</td>
     </tr>
-				</tbody>
-                </table>
+				    </tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </section>
+
+    <footer class="text-center py-3 mt-5" style="padding-bottom: 10px;">
+        <p>Programmation et Projet encadré 1 | 2024</p>
+        <p style="margin-bottom: 5px;">
+            <a href="https://github.com/AlmaznayaGroza/PPE1_groupe" target="_blank" style="text-decoration: none; color: #F9E79F; font-weight: bold; font-size: 1rem;">
+                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+                Notre dépôt GitHub
+            </a>
+        </p>
+    </footer>
 </body>
 </html>

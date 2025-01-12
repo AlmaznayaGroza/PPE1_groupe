@@ -9,10 +9,12 @@ conscience
 or
 collective
 conscious
+
 (French
 :
 conscience
-collective)
+collective
+)
 is
 the
 set
@@ -35,7 +37,12 @@ within
 society
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 In
 general
 ,
@@ -59,7 +66,12 @@ social
 norms
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 
 ---------------
 
@@ -97,12 +109,22 @@ means
 "consciousness"
 ,
 "awareness"
-,^([6])
+,
+^
+(
+[6
+]
+)
 or
 "perception"
 .
 
-^([7])
+
+^
+(
+[7
+]
+)
 Given
 the
 multiplicity
@@ -158,7 +180,12 @@ English
 meaning
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 As
 for
 "collective"

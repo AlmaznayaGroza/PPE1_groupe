@@ -177,7 +177,8 @@ people
 have
 separated
 from
-him)
+him
+)
 .
 
 
@@ -380,7 +381,8 @@ prefer
 (primarily
 for
 ignoble
-reasons)
+reasons
+)
 to
 return
 him
@@ -649,6 +651,7 @@ G
 d
 .
 
+
 )
 .
 
@@ -677,7 +680,8 @@ P
 (2016
 ,
 July
-13)
+13
+)
 .
 
 

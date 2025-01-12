@@ -1,4 +1,6 @@
-[]
+
+[
+]
 
 guilty/troubled
 conscience
@@ -78,7 +80,9 @@ audit
 .
 
 
-—[]Virginia
+—
+[
+]Virginia
 La
 Torre
 Jeker
@@ -134,7 +138,9 @@ breakdown
 .
 
 
-—[]The
+—
+[
+]The
 Week
 Uk
 ,
@@ -171,7 +177,9 @@ gray
 .
 
 
-—[]Eric
+—
+[
+]Eric
 Farwell
 ,
 EW
@@ -213,7 +221,9 @@ conscience
 .
 
 
-—[]Lachlan
+—
+[
+]Lachlan
 Cartwright
 ,
 The
@@ -250,7 +260,9 @@ Jan
 .
 
 
-—[]Christina
+—
+[
+]Christina
 Coulter
 ,
 Fox
@@ -280,7 +292,9 @@ past
 .
 
 
-—[]Amy
+—
+[
+]Amy
 Dickinson
 ,
 Detroit
@@ -326,7 +340,9 @@ him
 .
 
 
-—[]Kyndall
+—
+[
+]Kyndall
 Cunningham
 ,
 Vulture
@@ -347,7 +363,9 @@ conscience
 .
 
 
-—[]New
+—
+[
+]New
 York
 Times
 ,
@@ -405,7 +423,7 @@ com/dictionary/guilty%2Ftroubled%20conscience
 
 
 Accessed
-11
+12
 Jan
 .
 
@@ -426,7 +444,8 @@ guilty/troubled
 conscience
 to
 Facebook
-[Facebook]
+[Facebook
+]
 Facebook
 
 Share
@@ -437,6 +456,7 @@ guilty/troubled
 conscience
 on
 Twitter
-[Twitter]
+[Twitter
+]
 Twitter
 

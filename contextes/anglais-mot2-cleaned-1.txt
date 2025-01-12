@@ -1,5 +1,6 @@
 external
-impositions)
+impositions
+)
 .
 
 
@@ -33,7 +34,10 @@ consciousness
 Only
 after
 the
-17^(th)
+17
+^
+(th
+)
 Century
 did
 “consciousness”
@@ -86,7 +90,9 @@ man
 1797
 [1991
 :
-189])
+189
+]
+)
 
 This
 understanding
@@ -124,7 +130,8 @@ McGuire
 1963
 ;
 Fuss
-1964)
+1964
+)
 .
 
 
@@ -142,10 +149,12 @@ in
 the
 individual’s
 consciousness”
+
 (Fuss
 1964
 :
-116)
+116
+)
 .
 
 
@@ -198,7 +207,8 @@ beliefs”
 (Sulmasy
 2008
 :
-138)
+138
+)
 and
 “a
 mode
@@ -220,7 +230,8 @@ character”
 (Bluestein
 1993
 :
-294)
+294
+)
 .
 
 
@@ -256,7 +267,8 @@ Philosophy
 (Winter
 2014
 
-Edition)
+Edition
+)
 ,
 Edward
 N
@@ -266,6 +278,7 @@ N
 Zalta
 (ed
 .
+
 
 )
 ,

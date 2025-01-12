@@ -14,9 +14,13 @@ GUILTY
 CONSCIENCE/BAD
 CONSCIENCE
 
-[]
+
+[
+]
 ---------------
-[]
+
+[
+]
 
 Guilt
 or
@@ -100,7 +104,8 @@ Friedrich
 Nietzsche
 (1844
 -
-1900)
+1900
+)
 .
 
 
@@ -455,7 +460,8 @@ Conscience
 
 
 
-1)
+1
+)
 The
 first
 step
@@ -472,7 +478,8 @@ surrender
 to
 the
 truth
-(Repentance)
+(Repentance
+)
 .
 
 
@@ -506,7 +513,8 @@ can
 
 
 
-3)
+3
+)
 The
 third
 step
@@ -561,7 +569,8 @@ also
 .
 
 
-6)
+6
+)
 The
 sixth
 and
@@ -573,7 +582,8 @@ always
 seek
 professional
 help
-(psychologist)
+(psychologist
+)
 if
 feel
 like
@@ -606,16 +616,24 @@ suicide
 #guilt
 #guiltyconscience
 
-[]
+
+[
+]
 ---------------
-[]
+
+[
+]
+
 
 [GUILTY
 CONSCIENCE/BAD
-CONSCIENCE]
+CONSCIENCE
+]
 
 GUILTY
 CONSCIENCE/BAD
 CONSCIENCE
 
-[]
+
+[
+]

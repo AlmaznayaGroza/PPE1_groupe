@@ -4,6 +4,7 @@ Con"science
 (
 ?
 
+
 )
 ,
 n
@@ -60,6 +61,7 @@ know
 See
 Science
 .
+
 
 ]
 1
@@ -281,7 +283,8 @@ e
 
 
 ,
-moral]
+moral
+]
 faculty
 ,
 
@@ -318,6 +321,7 @@ pity
 
 [Obs
 .
+
 
 ]
 Chaucer
@@ -426,6 +430,7 @@ districts
 [Eng
 .
 
+
 ]
 Blackstone
 .
@@ -513,7 +518,8 @@ of
 conscience
 concerning
 (any
-matter)
+matter
+)
 ,
 or
 to

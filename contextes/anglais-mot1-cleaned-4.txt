@@ -20,7 +20,9 @@ Difference
 By
 ---------------
 Print
-[]
+[
+]
+
 
 [Graphic
 of
@@ -32,7 +34,9 @@ to
 depict
 conscious
 versus
-conscience]
+conscience
+]
+
 
 [Graphic
 of
@@ -44,7 +48,8 @@ to
 depict
 conscious
 versus
-conscience]
+conscience
+]
 
 Gary
 Waters
@@ -55,7 +60,8 @@ Images
 Table
 of
 Contents
-[]
+[
+]
 
 -
 Conscience
@@ -66,7 +72,8 @@ Conscious
 Definition
 ---------------
 Close
-[]
+[
+]
 
 How
 does
@@ -809,7 +816,9 @@ Psychol
 
 
 2010
-;46(5)
+;46
+(5
+)
 :1320-1332
 .
 
@@ -846,7 +855,9 @@ Pers
 
 
 2006
-;74(6)
+;74
+(6
+)
 :1587-1617
 .
 

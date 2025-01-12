@@ -73,7 +73,9 @@ law
 Conscience
 is
 ratio
-(reason)
+
+(reason
+)
 used
 to
 understand
@@ -279,7 +281,8 @@ certain
 situation
 (mistake
 in
-conscientia)
+conscientia
+)
 .
 
 
@@ -680,7 +683,8 @@ Id
 (our
 unconscious
 animalistic
-desires)
+desires
+)
 ,
 Ego
 (Our

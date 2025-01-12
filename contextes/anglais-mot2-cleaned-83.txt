@@ -74,11 +74,13 @@ two
 components
 :
 arousal
-(wakefulness)
+(wakefulness
+)
 and
 awareness
 (subjective
-experience)
+experience
+)
 .
 
 
@@ -108,7 +110,8 @@ an
 explainable
 consciousness
 indicator
-(ECI)
+(ECI
+)
 using
 deep
 learning
@@ -124,7 +127,8 @@ consciousness
 We
 employ
 electroencephalographic
-(EEG)
+(EEG
+)
 responses
 to
 transcranial
@@ -138,13 +142,15 @@ including
 sleep
 (n
 =
-6)
+6
+)
 ,
 general
 anesthesia
 (n
 =
-16)
+16
+)
 ,
 and
 severe
@@ -191,7 +197,9 @@ viewed
 by
 others
 ---------------
-[]
+
+[
+]
 
 Analyzing
 brain-activation
@@ -222,7 +230,9 @@ access
 July
 2024
 ---------------
-[]
+
+[
+]
 
 Dynamical
 structure-function
@@ -244,7 +254,9 @@ access
 September
 2024
 ---------------
-[]
+
+[
+]
 
 Neural
 complexity
@@ -337,8 +349,12 @@ g
 
 
 ,
-dreaming)^(2
-,3)
+dreaming
+)
+^
+(2
+,3
+)
 .
 
 
@@ -369,7 +385,8 @@ state
 of
 alertness
 (or
-wakefulness)
+wakefulness
+)
 .
 
 
@@ -401,7 +418,8 @@ pathological
 modifications
 of
 consciousness
-(Table 1)
+(Table 1
+)
 .
 
 
@@ -409,7 +427,8 @@ In
 non-rapid
 eye
 movement
-(NREM)
+(NREM
+)
 sleep
 with
 no
@@ -493,7 +512,9 @@ syndrome
 ---------------
 Full
 size
-table[]
+table
+[
+]
 
 Table
 1
@@ -545,13 +566,15 @@ labeled
 perturbational
 complexity
 index
-(PCI)
+(PCI
+)
 ,
 was
 developed
 from
 electroencephalographic
-(EEG)
+(EEG
+)
 responses
 to
 direct
@@ -581,13 +604,16 @@ cutoff
 0
 .
 
-31)
+31
+)
 that
 reliably
 discriminates
 between
 unconsciousness
-(PCI_(max)
+(PCI_
+(max
+)
 ≤
 PCI*
 :
@@ -599,10 +625,13 @@ midazolam-
 propofol-
 and
 xenon-induced
-anesthesia)
+anesthesia
+)
 and
 consciousness
-(PCI_(max)
+(PCI_
+(max
+)
 >
 PCI*
 :
@@ -617,7 +646,8 @@ anesthesia
 and
 conscious
 brain-injured
-patients)¹⁷
+patients
+)¹⁷
 .
 
 
@@ -646,8 +676,11 @@ are
 required
 to
 compute
-PCI^(16
-,17)
+PCI
+^
+(16
+,17
+)
 .
 
 
@@ -667,10 +700,13 @@ from
 resting-state
 EEG
 brain
-activity^(3
+activity
+^
+(3
 ,4
 ,18
-,19)
+,19
+)
 .
 
 
@@ -790,7 +826,8 @@ the
 explainable
 consciousness
 indicator
-(ECI)
+(ECI
+)
 ,
 to
 simultaneously
@@ -874,7 +911,8 @@ low/high
 arousal
 and
 low/high
-awareness)
+awareness
+)
 with
 the
 aim
@@ -929,7 +967,8 @@ with
 disorders
 of
 consciousness
-(DoC)
+(DoC
+)
 ,
 which
 includes
@@ -979,7 +1018,10 @@ indicator
 we
 next
 compared
-ECI^(awa)
+ECI
+^
+(awa
+)
 with
 PCI
 ,
@@ -1149,7 +1191,8 @@ the
 explainable
 consciousness
 indicator
-(ECI)
+(ECI
+)
 .
 
 
@@ -1217,7 +1260,8 @@ two
 classes
 (low
 versus
-high)
+high
+)
 .
 
 
@@ -1230,7 +1274,8 @@ awareness
 rapid
 eye
 movement
-(REM)
+(REM
+)
 sleep
 with
 subjective
@@ -1242,11 +1287,19 @@ j
 The
 averaged
 probability
-\({C}_{j}\)
+\
+({C}_{j}\
+)
 is
-ECI^(aro)
+ECI
+^
+(aro
+)
 and
-ECI^(awa)
+ECI
+^
+(awa
+)
 on
 the
 x-
@@ -1299,7 +1352,8 @@ using
 layer-wise
 relevance
 propagation
-(LRP)
+(LRP
+)
 .
 
 
@@ -1353,13 +1407,15 @@ the
 minimally
 conscious
 state
-(MCS)
+(MCS
+)
 and
 with
 unresponsive
 wakefulness
 syndrome
-(UWS)
+(UWS
+)
 ,
 respectively
 .
@@ -1386,8 +1442,12 @@ cutoff
 (0
 .
 
-31^(16
-,17))
+31
+^
+(16
+,17
+)
+)
 that
 maximizes
 the
@@ -1497,7 +1557,8 @@ of
 patients
 (without
 additional
-training)
+training
+)
 to
 identify
 their
@@ -1818,8 +1879,11 @@ of
 dreaming
 and
 unconscious
-sleep^(41
-,42)
+sleep
+^
+(41
+,42
+)
 ,
 and
 our
@@ -1968,8 +2032,11 @@ the
 neural
 correlates
 of
-consciousness^(40
-,45)
+consciousness
+^
+(40
+,45
+)
 .
 
 
@@ -2093,7 +2160,8 @@ e
 
 ,
 anesthesia-induced
-states)
+states
+)
 and
 diagnosing
 patients
@@ -2228,7 +2296,8 @@ consciousness
 
 Methods
 ---------------
-2009/52)
+2009/52
+)
 and
 written
 informed
@@ -2270,13 +2339,15 @@ The
 inclusion
 criteria
 included
-(i)
+(i
+)
 older
 than
 18
 years
 and
-(ii)
+(ii
+)
 diagnosis
 of
 DoC
@@ -2321,7 +2392,8 @@ of
 consciousness
 (arousal
 and
-awareness)
+awareness
+)
 .
 
 
@@ -2426,11 +2498,13 @@ ranges
 between
 0
 (minimum
-complexity)
+complexity
+)
 and
 1
 (maximum
-complexity)
+complexity
+)
 .
 
 
@@ -2448,7 +2522,8 @@ cutoff
 0
 .
 
-31)
+31
+)
 to
 discriminate
 between
@@ -2564,7 +2639,8 @@ Anesthesiology
 ,
 946–959
 
-(2012)
+(2012
+)
 .
 
 
@@ -2614,7 +2690,8 @@ Rep
 ,
 16664
 
-(2018)
+(2018
+)
 .
 
 
@@ -2672,7 +2749,8 @@ Neuroimage
 ,
 631–644
 
-(2019)
+(2019
+)
 .
 
 
@@ -2731,7 +2809,8 @@ Neurosci
 41
 ,
 150–160
-(2018)
+(2018
+)
 .
 
 
@@ -2788,11 +2867,13 @@ M
 M
 .
 
+
 )
 93–104
 (Springer
 ,
-2016)
+2016
+)
 .
 
 
@@ -2839,7 +2920,8 @@ Neurosci
 13
 ,
 36
-(2019)
+(2019
+)
 .
 
 
@@ -2959,7 +3041,8 @@ Neurosci
 ,
 
 457–478
-(2014)
+(2014
+)
 .
 
 
@@ -3018,7 +3101,8 @@ Inj
 ,
 
 1141–1150
-(2014)
+(2014
+)
 .
 
 
@@ -3066,7 +3150,8 @@ Lancet
 384
 ,
 514–522
-(2014)
+(2014
+)
 .
 
 
@@ -3128,7 +3213,8 @@ Med
 ,
 
 198ra105–198ra105
-(2013)
+(2013
+)
 .
 
 
@@ -3172,7 +3258,8 @@ Brain
 ,
 
 3179–3192
-(2018)
+(2018
+)
 .
 
 
@@ -3220,7 +3307,8 @@ Access
 7
 ,
 53731–53742
-(2019)
+(2019
+)
 .
 
 
@@ -3267,7 +3355,8 @@ Inj
 28
 ,
 1180–1189
-(2014)
+(2014
+)
 .
 
 
@@ -3310,7 +3399,8 @@ Brain
 ,
 
 1308–1320
-(2012)
+(2012
+)
 .
 
 
@@ -3367,7 +3457,8 @@ Biol
 25
 ,
 3099–3105
-(2015)
+(2015
+)
 .
 
 
@@ -3423,7 +3514,8 @@ Commun
 ,
 4616
 
-(2019)
+(2019
+)
 .
 
 
@@ -3485,7 +3577,8 @@ Rep
 ,
 
 30932
-(2016)
+(2016
+)
 .
 
 
@@ -3546,7 +3639,8 @@ Rep
 9
 ,
 5175
-(2019)
+(2019
+)
 .
 
 
@@ -3599,7 +3693,8 @@ Rep
 7
 ,
 16791
-(2017)
+(2017
+)
 .
 
 
@@ -3645,7 +3740,8 @@ Brain
 ,
 
 2120–2132
-(2017)
+(2017
+)
 .
 
 
@@ -3696,7 +3792,8 @@ Syst
 ,
 363–373
 
-(2021)
+(2021
+)
 .
 
 
@@ -3737,7 +3834,8 @@ Brain
 133
 ,
 161–171
-(2010)
+(2010
+)
 .
 
 
@@ -3792,7 +3890,8 @@ early
 time
 range
 (<300
-ms)
+ms
+)
 predicts
 
 graded
@@ -3812,7 +3911,8 @@ Cortex
 ,
 
 2677–2688
-(2016)
+(2016
+)
 .
 
 
@@ -3861,7 +3961,8 @@ Clin
 ,
 
 354–362
-(2017)
+(2017
+)
 .
 
 
@@ -3908,7 +4009,8 @@ Stimul
 11
 ,
 358–365
-(2018)
+(2018
+)
 .
 
 
@@ -3951,7 +4053,8 @@ Neuroimage
 179
 ,
 30–39
-(2018)
+(2018
+)
 .
 
 
@@ -4029,6 +4132,7 @@ Laureys
 S
 .
 
+
 )
 Chapter
 9
@@ -4039,7 +4143,8 @@ Chapter
 Berlin
 Heidelberg
 ,
-2013)
+2013
+)
 .
 
 
@@ -4098,7 +4203,8 @@ org/10
 
 5760787
 
-(2021)
+(2021
+)
 .
 
 
@@ -4247,7 +4353,8 @@ Commun
 13
 ,
 1064
-(2022)
+(2022
+)
 .
 
 
@@ -4263,7 +4370,8 @@ org/10
 
 Brain
 Informatics
-(2024)
+(2024
+)
 
 -
 Critical
@@ -4288,7 +4396,8 @@ Maschke
 
 Communications
 Biology
-(2024)
+(2024
+)
 
 -
 PerBrain

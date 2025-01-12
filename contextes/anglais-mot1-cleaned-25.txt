@@ -35,7 +35,9 @@ Conscience
 
 Wikiquote
 ---------------
-[edit]
+
+[edit
+]
 
 From
 Middle
@@ -52,7 +54,8 @@ Latin
 conscientia
 (“knowledge
 within
-oneself”)
+oneself”
+)
 ,
 from
 consciens
@@ -68,11 +71,15 @@ to
 be
 conscious
 (of
-wrong)”)
+wrong
+)”
+)
 ,
 from
 ---------------
-[edit]
+
+[edit
+]
 
 conscience
 (countable
@@ -80,7 +87,8 @@ and
 uncountable
 ,
 plural
-consciences)
+consciences
+)
 
 1
 .
@@ -235,7 +243,8 @@ page
 175
 :
 
-[“]Twer
+[“
+]Twer
 is
 not
 a
@@ -274,7 +283,9 @@ paid
 job
 .
 
-[”]
+
+[”
+]
 
 ---------------
 
@@ -319,7 +330,8 @@ row
 with
 the
 police
-[…]
+[…
+]
 ?
 
 
@@ -346,7 +358,9 @@ Isaac
 Iaggard
 ,
 and
-Ed[ward]
+Ed
+[ward
+]
 Blount
 ,
 published
@@ -359,7 +373,8 @@ published
 III
 ,
 scene
-i]
+i
+]
 :
 
 Thus
@@ -395,7 +410,9 @@ thought
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 -
 a
@@ -506,7 +523,9 @@ unconscienced
 Related
 terms
 ---------------
-[edit]
+
+[edit
+]
 
 Adjectives
 often
@@ -544,7 +563,9 @@ opposite
 
 Collocations
 ---------------
-[edit]
+
+[edit
+]
 
 Some
 phrases
@@ -576,7 +597,9 @@ conscience
 Translations
 ---------------
 |
-omatunto (fi)
+omatunto 
+(fi
+)
 |
 |
 |
@@ -588,7 +611,9 @@ French
 |
 |
 |
-conscience (fr) f
+conscience 
+(fr
+) f
 |
 |
 |
@@ -606,7 +631,9 @@ cusience f
 |
 |
 ---------------
-[edit]
+
+[edit
+]
 
 -
 “conscience”
@@ -648,7 +675,9 @@ Merriam
 in
 The
 Century
-Dictionary […]
+Dictionary 
+[…
+]
 ,
 New
 York
@@ -677,7 +706,9 @@ Co
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 Inherited
 from
@@ -689,9 +720,11 @@ borrowed
 from
 Latin
 cōnscientia
+
 (“knowledge
 within
-oneself”)
+oneself”
+)
 ,
 from
 consciens
@@ -707,7 +740,9 @@ to
 be
 conscious
 (of
-wrong)”)
+wrong
+)”
+)
 .
 
 
@@ -727,11 +762,14 @@ Hyphenation
 :
 con‧science
 ---------------
-[edit]
+
+[edit
+]
 
 conscience f
 (plural
-consciences)
+consciences
+)
 
 1
 .
@@ -745,7 +783,9 @@ conscience
 consciousness
 
 ---------------
-[edit]
+
+[edit
+]
 
 -
 inconscience
@@ -753,7 +793,9 @@ inconscience
 Derived
 terms
 ---------------
-[edit]
+
+[edit
+]
 
 -
 avoir
@@ -805,7 +847,9 @@ conscience
 Related
 terms
 ---------------
-[edit]
+
+[edit
+]
 
 -
 “conscience”
@@ -823,7 +867,8 @@ Treasury
 of
 the
 French
-Language]
+Language
+]
 ,
 2012
 .
@@ -831,7 +876,9 @@ Language]
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 Borrowed
 from
@@ -844,17 +891,21 @@ Latin
 conscientia
 (“knowledge
 within
-oneself”)
+oneself”
+)
 .
 
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 conscience
 (plural
-consciences)
+consciences
+)
 
 1
 .
@@ -864,7 +915,9 @@ conscience
 
 Descendants
 ---------------
-[edit]
+
+[edit
+]
 
 -
 English
@@ -884,7 +937,9 @@ Irish
 :
 coinsias
 ---------------
-[edit]
+
+[edit
+]
 
 -
 “conscience
@@ -917,7 +972,9 @@ Michigan
 
 
 ---------------
-[edit]
+
+[edit
+]
 
 conscience
 oblique
@@ -933,7 +990,8 @@ conscience
 ,
 nominative
 plural
-consciences)
+consciences
+)
 
 1
 .
@@ -963,7 +1021,9 @@ men
 
 Descendants
 ---------------
-[edit]
+
+[edit
+]
 
 -
 French

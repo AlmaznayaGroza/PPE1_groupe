@@ -1,0 +1,407 @@
+[Adam Smith Works]
+
+-   Home
+-   Learn
+-   Read
+-   Teach
+-   Explore
+-   Contributors
+
+-   Sign up or Sign in
+
+1.  Learn.
+2.  Essays by Theme
+3.  Moral Philosophy
+4.  Conscience and Moral Rules in Adam Smith
+
+Conscience and Moral Rules in Adam Smith
+
+sympathy impartial spectator duty self-deceit moral sentiments
+
+Edward J. Harpham
+
+August 11, 2021
+[]
+
+Introduction
+
+In this essay I explore Adam Smith’s analysis of the origins of
+conscience and general moral rules in The Theory of Moral Sentiments. I
+argue that Adam Smith offers a distinction between moral conscience and
+general moral rules that sidesteps the traditional distinction between
+universal and relative moral standards, leading to a fundamental
+rethinking of the problem of the variability of moral opinion and the
+demands of moral conscience and duty.
+
+Moral Conscience
+
+Like the thought of his mentor Francis Hutcheson and of his friend David
+Hume, Smith’s moral theory is rooted in an analysis of the workings of
+our moral sentiments. In its barest form, Smith’s argument is that we
+judge others when we use our imaginations to put ourselves into their
+situation and bring their case home to us.1 Either we do or do not
+sympathize with the sentiments and motives guiding the actions of the
+person we are observing. When the sentiments sparked in the spectator
+are congruent with those found in the agent, we approve of another’s
+actions or character as being appropriate.2 When they do not, we condemn
+them as inappropriate. Moral judgment thus arises from how we feel about
+a particular situation that we, as spectators, are observing. In order
+to correct for any biases that might intrude into our moral judgment
+from either our interests or our passions, Smith argues that we must
+assume the so-called “impartial spectator” position for viewing others’
+actions and motives.3 Our senses of propriety and impropriety, as well
+as of merit and demerit, follow from our observations and judgments as
+spectators of ourselves and other people, with the adoption of an
+impartial spectator position to correct for any bias in our judgments.
+
+Smith’s notion of moral conscience follows directly from this general
+approach. He believes we cultivate a moral conscience by learning to
+view ourselves, our intentions and our actions from a position of
+impartial spectatorship. From this position, we cultivate a concern with
+praiseworthiness and blameworthiness, not praise and blame. Being
+virtuous and having a fully developed moral conscience for Smith
+represents the highest stage in the moral development of an individual.
+
+General Rules and Duty
+
+Early in The Theory of Moral Sentiments Smith appears to be confident in
+our ability to form moral judgments. A more cautious attitude emerges at
+the beginning of Chapter Four of Part III of The Theory of Moral
+Sentiments. The impartial spectator, it seems, is no longer enough to
+help individuals make moral judgments in the real world.4 Smith begins
+the chapter by noting that the impartial spectator has its limitations
+in the world of action. We may try to view our own conduct from the
+perspective of the impartial spectator both before and after we do
+something. But our passions and emotions can affect the way we examine
+ourselves and often lead us to mistaken judgments in both circumstances.
+In general, it is easier to resist this partiality after the fact, when
+our passions and emotions have subsided and no longer dominate our moral
+perception of the world. Our ability to resist the partiality of the
+passions before an action is more problematic. We may want something so
+badly that we are unable to make a good decision about what should be
+done. Our passions want what they want, and there may be nothing that we
+can do about it.5
+
+Smith labels this partiality brought into moral judgment by the passions
+and emotion “self-deceit,” and claims that it the “fatal weakness of
+mankind,” “the source of half the disorders of human life” (TMS: 158).
+The solution that “Nature” appears to have devised to the problem of
+self-deceit comes in the form of general rules concerning what is fit
+and proper to do and what must be avoided. The psychological source of
+these general rules that we use to guide our judgments about ourselves
+is surprising. They do not arise from our observations of our own
+behavior, but from our observations of the behavior of others. As Smith
+explains, “Our continual observations upon the conduct of others,
+insensibly lead us to form to ourselves certain general rules concerning
+what is fit and proper either to be done or to be avoided” (TMS: 159).
+The specific mechanism by which these rules are formed is considerably
+different from the cultivation of conscience. Take the emergence of
+negative rules or commands that order us not to do something. We observe
+another’s behavior and disapprove of it. We hear others express similar
+sentiments, and this confirms and reinforces our earlier judgment. We
+resolve never to be guilty of similar actions and exposed to similar
+disapprobation. “We thus naturally lay down to ourselves a general rule,
+that all such actions are to be avoided, as tending to render us odious,
+contemptible, or punishable, the objects of all those sentiments for
+which we have the greatest dread and aversion” (TMS: 159). In other
+words, general moral rules are formed out of our judgments of particular
+experiences that we observe in conjunction with the judgments of others.
+A desire for praise or an aversion to blame, not the moral conscience’s
+concern for praiseworthiness or aversion to blameworthiness, compels us
+to develop them. After these general rules are formed and “universally
+acknowledged and established by the concurring sentiments of mankind,”
+they are seen to be standards of judgment for evaluating other events in
+the world (TMS: 160).
+
+This view of the origins of general moral rules carries four important
+consequences. First, it explains the tools available to individuals for
+escaping the limitations of the moral sentiments when judging oneself.
+Rather than trying to control or curtail one’s passions and emotions, an
+individual can use general rules through “habitual reflection” as a way
+to escape the misrepresentations of self-love and other passions. The
+rules are standards against which we can judge our actions before the
+fact and decide if they are appropriate behavior or not. Second, this
+view helps account for the enormous variability in moral rules across
+different cultures and historical periods. There is no guarantee that
+different societies will adopt the same general rules for overcoming the
+limitations of moral judgment in real individuals. Third, this account
+helps explain how moral rules themselves can become the objects of moral
+judgments. Individuals come to approve of general rules as being a good
+thing for society to the point that they may believe that they have a
+foundation independent of our moral sentiments. History is replete with
+examples of peoples claiming their rules were given to them by divine
+authority. Our natural sense of duty may be reinforced by a mistaken
+notion of the universality of the moral standards that have emerged in
+the society in which we live. Finally, this view explains how tensions
+arise when the judgments of our moral conscience might be displaced or,
+at least, come into conflict with the general rules that are established
+in a particular society and to which we feel deep sentimental
+attachments. In Smith’s world, there is no guarantee that the
+conclusions of our sense of moral conscience will dovetail neatly into
+our sense of duty.
+
+The Sense of Duty
+
+Smith’s conclusions about the difference between the dictates of moral
+conscience and our sense of duty to obey general rules are profound.
+Virtuous individuals guided by moral conscience cultivate the feelings
+that are appropriate to particular situations. For example, when
+confronted with the benevolent behavior of another, they feel gratitude
+towards that person and act appropriately. A person educated to one’s
+duty may never feel the appropriate sentiment of gratitude. But they may
+learn to act appropriately, based on their regard for the rules of
+gratitude established in their society. “The motive of his actions,”
+Smith explains, “may be no other than a reverence for the established
+rule of duty, as serious and earnest desire of acting, in every respect,
+according to the law of gratitude” (TMS: 162). A regard for the general
+rules of society may be a second-best option for human beings trying to
+live together with one another. Acting from a sense of duty may not
+point one to the most complete perfection of one’s moral character. But
+it does give rise to a society where individuals can treat one another
+with a “tolerable decency,” and, for most of one’s life, be able “to
+avoid any considerable degree of blame” (TMS: 163). More to the point,
+our sense of duty may be more important than our sentiments for virtue.
+“Without this sacred regard to general rules, there is no man whose
+conduct can be much depended upon” (TMS: 163).
+
+The Tension between Conscience and Duty
+
+For Smith, humans are subject to multiple commands in ethics, some
+stemming from the dictates of conscience and others from duty. When
+should the principle of duty be the sole principle regulating our
+conduct in the world, and when should it concur with other motives such
+as those provided by moral conscience? Conscience and duty introduce
+tension into Smith’s understanding of moral judgement and action in The
+Theory of Moral Sentiments. Understanding that tension between the
+demands of conscience and duty lies at the heart of the final chapter of
+Part VI.
+
+Some moral judgements are guided primarily by moral conscience; others
+are guided by general rules and our sense of duty. Given the
+characteristics of a particular passion, individuals may face a
+difficult task of balancing between the demands of conscience and of
+duty. For example, regarding benevolent and social sentiments like love,
+our moral judgements and actions flow naturally from our benevolent
+sentiments. Our sense of duty can be employed to watch over and moderate
+excessive benevolence. On the whole, the benevolent side of our moral
+character can be trusted to work appropriately. With regard to
+malevolent and unsocial passions such as resentment and anger, however,
+moral judgement and action should proceed entirely from a sense of duty,
+the passions themselves being too dangerous to allow unlimited play as a
+motive to our actions. Selfish passions are even more complicated. Our
+ordinary private interest ought to flow from a regard to the general
+rules, not from the objects themselves. But another, quite different,
+conclusion is reached regarding the “extraordinary and important objects
+of self-interest” involving advancement and social recognition (TMS:
+173). Humans recognize that the actions of a prince in war, a member of
+parliament seeking reelection, or a tradesman seeking a special job,
+must be grounded, at least in part, by the passion of ambition, and not
+just duty or conscience, for successful advancement and social
+recognition.
+
+A second issue that follows from the distinction between conscience and
+duty involves the precision and exactness of the general moral rules
+themselves. Some rules are clearer and more important to society than
+others. For example, Smith argues that the rules of such virtues as
+prudence, charity, generosity, gratitude and friendship “are in many
+respects loose and inaccurate, admit of many exceptions, and require so
+many modifications, that it is scarce possible to regulate our conduct
+entirely by a regard for them” (TMS: 174). In contrast, the rules of
+justice are accurate to the highest degree and admit of no exceptions.6
+When we practice the former virtue, sentiment should be allowed to
+predominate rather than a specific regard for any particular rule. “But
+it is otherwise with regard to justice: the man who in that refines the
+least, and adheres with the most obstinate stedfastness to the general
+rules themselves, is the most commendable, and the most to be depended
+on” (TMS: 175).
+
+Given its importance to human society, it is not surprising that Smith
+sees other sentiments in our nature bolstering our sense of duty,
+particularly the religious sentiment. Even in its crudest form, “during
+the ignorance and darkness of pagan superstition,” religion gave support
+to the rules of morality. People believed that the gods could be
+appealed to in order to reward the good and punish the bad. Similarly,
+our natural sense of religion supports our natural sense of duty by
+convincing us that the general rules of morality “are to be regarded as
+the commands and laws of the Deity, promulgated by those vicegerents
+which he has thus set up within us” (TMS: 165). There is a darker side
+to religion’s place in our moral life. Religion may complement the
+teaching of our natural sentiments and reinforce the importance of our
+sense of duty. False religion may pervert our natural sentiments and
+distort our notions of duty beyond recognition (TMS: 176).
+
+The linkage drawn by Smith between the general rules of morality and
+“the commands and laws of the Deity” is one of the most confusing in The
+Theory of Moral Sentiments and remains prone to misinterpretation. One
+might easily argue that what Smith means to say is that the conclusions
+of conscience are the general laws of morality backed by our religious
+sentiment. From this interpretation, conscience can easily be identified
+as “vicegerents of God” that reward us for following the law and punish
+us for breaking it. If my reading of the sharp distinction between duty
+and conscience is correct, this reading is seriously mistaken. As I
+argue above, our general rules of morality are generalizations based
+upon our observations of our moral judgments in conjunction with those
+of others. They are not conclusions of our moral conscience. Conscience
+deals with the problem of praiseworthiness, duty centers upon the
+problem of praise. All people have the capacity for moral
+generalization. All people do not have a highly functioning moral sense
+of conscience. The “vicegerents of God” that Smith is referring to are
+not just the sentiments involved with conscience. They encompass all our
+moral faculties, including our sense of propriety and impropriety, our
+sense of merit and demerit, and our sense of duty.
+
+The significance of the distinction between conscience and duty in
+Smith’s thought is revealed most clearly at the end of Chapter V in Part
+III. Smith emphasizes that while he wants to distinguish between duty
+and conscience, he does not want to say they are necessarily
+antithetical to one another. On the contrary, for the most part they
+complement one another. He comments that “the general rules by which
+external prosperity and adversity are commonly distributed in this life”
+tend to encourage and promote virtue. Prudence is rewarded with success
+in business. Humanity is rewarded in our private lives with love. But
+there are times when some of our natural sentiments fly in the face of
+general rules by which society is governed. Smith explains,
+
+  The industrious knave cultivates the soil; the indolent good man
+  leaves it uncultivated. Who ought to reap the harvest? Who starve, and
+  who live in plenty? The natural course of things decides in favour of
+  the knave: the natural sentiments of mankind in favour of the man of
+  virtue (TMS: 168).
+
+From the perspective of duty, the rules governing marketplace activity,
+that is property rights and the like, generally result in socially
+beneficial outcomes. The fact that wealth goes to the industrious knave
+rather than the lazy or indolent good man is acceptable to our sense of
+justice. But from the perspective of our other sentiments that tell us
+that goodness should be rewarded, another conclusion is sometimes
+reached. The efforts made by societies to redirect the natural
+distribution of wealth often reflect the conflicting demands that our
+sentiments make up the world. Sometimes these demands are misconceived.
+As Smith notes,
+
+  The natural course of things cannot be entirely controlled by the
+  impotent endeavors of man: the current is too rapid and too strong for
+  him to stop it; and though the rules of which direct it appear to have
+  been established for the wisest and best purpose, they sometimes
+  produce effects which shock all his natural sentiments (TMS: 168).
+
+There are natural limits to what we can do to impose the teaching of our
+consciences upon the world. But that does not mean that we must deny our
+consciences out of hand. Indignation in the face of perceived unfairness
+is a natural response of our conscience to the world at times. We may
+not always be able to construct the world in the way that we wish, but
+we do not have to like it at the deepest levels of our being. In the
+end, humans live their lives trying to balance the conflicting moral
+demands of duty and virtue as best they can.
+
+Related Links
+Nir Ben-Moshe, Can We Become the Impartial Spectator?
+Jonathan Jacobs, Adam Smith on Moral Education
+References
+
+1.  Smith uses the term sympathy in a number of different ways, often
+    quite loosely. In one of his broadest definitions, Smith suggests
+    that the term may be used “without much impropriety, be made use of
+    to denote our fellow-feeling with any passion whatever.” (TMS: 10)
+    For the purposes in this paper, sympathy will refer to our
+    imaginative capacity to enter into the sentiments of others. For a
+    further discussion of Smith’s notion of sympathy, see Griswold
+    (1999), Raphael (1985), Otteson (2002), Campbell and Skinner
+    (1982).↩
+2.  For a general discussion of the spectator-agent model see Beck
+    (1975). For an application of this model in Smith’s moral thought
+    see Harpham (2001, 2004, 2010), Campbell (1971), and Griswold
+    (1999).↩
+3.  Like sympathy, the idea of the impartial spectator has sparked
+    considerable controversy in the secondary literature. Interestingly,
+    in Parts II and III Smith uses the concept of the impartial
+    spectator without adequately explaining what he means by it or all
+    the circumstances under which individuals might use it. Elsewhere I
+    have argued that the idea of the impartial spectator is not any one
+    particular position for viewing and judging the conduct of another.
+    It is not the unique position of an ideal spectator. There may be a
+    variety of impartial spectator positions for viewing others, equally
+    “impartial,” but characterized by different capacities for moral
+    judgment or even different amounts of information available to the
+    spectator for making a moral judgment. See Harpham (2001, 2004,
+    2010). For alternative views of Smith’s idea of the impartial
+    spectator see Griswold (1999), Otteson (2002), Montes (2004), and
+    Raphael (2007).↩
+4.  “In order to pervert the rectitude of our own judgments concerning
+    the propriety of our own conduct, it is not always necessary that
+    the real and impartial spectator should be at a great distance. When
+    he is at hand, when he is present, the violence and injustice of our
+    own selfish passions are sometimes sufficient to induce the man
+    within the breast to make a report very different from what the real
+    circumstances of the case are capable of authorizing” (TMS: 157).↩
+5.  This concern over the partiality of the passions and emotions lies
+    at the heart of Smith’s rejection of Francis Hutcheson’s theory of
+    moral sense. Essentially Smith’s argument is that if we had a moral
+    sense, we would be able to judge our own actions and sentiments
+    better than we are able to judge those of others. This, he believes,
+    is clearly not the case and one of the major reasons that general
+    rules emerge in society as standards for measuring our own behavior
+    against. See TMS: 158. See also Hutcheson: 2003.↩
+6.  This whole line of argument follows those developed by Hume in Book
+    III of the Treatise. Echoing his friends, Smith writes, “The rules
+    of justice may be compared to the rules of grammar; the rules of the
+    other virtues to the rules which critics lay down for the attainment
+    of what is sublime and elegant in composition. The one, are precise,
+    accurate an indispensable. The other, are loose, vague, and
+    indeterminate, and present us rather with a general idea of the
+    perfection we ought to aim at, than afford us any certain and
+    infallible directions for acquiring it” (TMS: 176-77).↩
+
+Bibliography
+
+Beck, Lewis White. 1975. The Actor and the Spectator. New Haven: Yale
+University Press.
+
+Campbell, R.H. and A.S. Skinner, 1982. Adams Smith. New York: St.
+Martin’s Press.
+
+Campbell, T.D. 1971. Adam Smith’s Science of Morals. London: George
+Allen and Unwin.
+
+Griswold, Charles L. Jr. 1999. Adam Smith and the Virtues of
+Enlightenment. Cambridge: Cambridge University Press.
+
+Harpham, Edward J. 2001. “Enlightenment, Impartial Spectators, and
+Griswold’s Smith.” Perspectives on Political Science. 30:3. 139-46.
+
+Harpham, Edward J. 2004. “Gratitude in the History of Ideas.” In The
+Psychology of Gratitude. Edited by Robert Emmons and Michael McCulloch.
+Studies in Affective Science. Oxford: Oxford University Press.
+
+Harpham, Edward J. 2010. “Adam Smith’s Lost World of Gratitude.”
+Political Science as Public Philosophy: Essays in Honor of Theodore
+Lowi. Edited by Benjamin Ginsberg and Gwendolyn Mink.
+
+Hutcheson, Francis. 2003. An Essay on the Nature and Conduct of the
+Passions and Affections, with Illustrations on the Moral Sense. Edited
+with an Introduction by Aaron Garret. Indianapolis: Liberty Fund.
+
+Montes, Leonidas. 2004. Adam Smith in Context: A Critical Reassessment
+of Some of the Central Components of His Thought. New York: Palgrave
+Macmillan.
+
+Otteson, James. 2002. Adam Smith’s Marketplace of Life. Cambridge:
+Cambridge University Press,
+
+Raphael, D.D. 1985. Adam Smith. Past Masters. Oxford: Oxford University
+Press.
+
+Raphael, D.D. 2007. The Impartial Spectator: Adam Smith’s Moral
+Philosophy. Oxford: Oxford university Press.
+
+Raphael, D.D. 1969. ‘Adam Smith and the “Infection of David Hume’s
+Society”’, journal of the History of Ideas, 30, reprinted (revised and
+corrected) as appendix II of the Glasgow Edition of Adam Smith, The
+Theory of Moral Sentiments. Indianapolis: Liberty Fund.
+
+Follow us:
+
+A project of Liberty Fund, made possible by a grant from the John
+Templeton Foundation.
+
+Copyright 2017 – 2025, Liberty Fund, Inc. All Rights Reserved.

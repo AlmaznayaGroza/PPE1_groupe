@@ -42,7 +42,12 @@ a
 society
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 
 Social
 consciousness
@@ -61,7 +66,12 @@ social
 identity
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 From
 this
 viewpoint
@@ -164,7 +174,12 @@ social
 consciousness
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 Marx
 said
 :
@@ -263,7 +278,12 @@ their
 consciousness
 .
 
-"^([3])
+"
+^
+(
+[3
+]
+)
 
 See
 also
@@ -334,15 +354,21 @@ of
 redirect
 targets
 ---------------
-[edit]
+
+[edit
+]
 
 1
 .
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Social
 Consciousness
 Archived
@@ -393,7 +419,8 @@ M
 .
 
 
-(2010)
+(2010
+)
 .
 
 
@@ -406,7 +433,8 @@ Development
 of
 Social
 Consciousness"
-(PDF)
+(PDF
+)
 .
 
 
@@ -435,7 +463,8 @@ names
 :
 authors
 list
-(link)
+(link
+)
 3
 .
 
@@ -447,7 +476,8 @@ Karl
 .
 
 
-(1859)
+(1859
+)
 "Preface"
 in
 A
@@ -457,7 +487,9 @@ the
 Critique
 of
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Awakening

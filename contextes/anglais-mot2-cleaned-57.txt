@@ -10,7 +10,8 @@ By
 Table
 of
 Contents
-[]
+[
+]
 
 -
 States
@@ -21,7 +22,8 @@ Consciousness
 Functions
 ---------------
 Close
-[]
+[
+]
 
 Consciousness
 is
@@ -806,7 +808,8 @@ think
 ,
 therefore
 I
-am")
+am"
+)
 ,
 which
 suggested
@@ -1123,8 +1126,11 @@ Biol
 2012
 
 Dec
-;150(4)
-:291]
+;150
+(4
+)
+:291
+]
 .
 
  Arch
@@ -1134,7 +1140,9 @@ Biol
 
 
 2012
-;150(2-3)
+;150
+(2-3
+)
 :56‐90
 .
 
@@ -1177,7 +1185,8 @@ Schneider
 ,
 M
 Velmans
-(Eds)
+(Eds
+)
 ,
 The
 Blackwell
@@ -1204,5 +1213,7 @@ doi
 
 ch16
 
+
 [Kendra
-Cherry]
+Cherry
+]

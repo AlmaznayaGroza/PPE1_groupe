@@ -148,7 +148,8 @@ American
 Mind
 ,
 July/August
-2013]
+2013
+]
 ,
 I
 noted
@@ -285,7 +286,8 @@ to
 come
 out
 on
-top)
+top
+)
 ,
 as
 having
@@ -319,7 +321,8 @@ American
 Mind
 ,
 September/October
-2013]
+2013
+]
 or
 patients
 with
@@ -532,7 +535,8 @@ some
 universal
 ,
 mathematical
-manner)
+manner
+)
 .
 
 
@@ -890,7 +894,8 @@ number
 ,
 &PHgr
 (pronounced
-“fi”)
+“fi”
+)
 [see
 “A
 Theory
@@ -905,7 +910,8 @@ American
 Mind
 ,
 July/August
-2009]
+2009
+]
 .
 
 
@@ -1029,7 +1035,8 @@ neurons
 their
 anatomical
 wiring
-differs)
+differs
+)
 .
 
 
@@ -1112,7 +1119,8 @@ American
 Mind
 ,
 March/April
-2013]
+2013
+]
 .
 
 
@@ -1139,7 +1147,8 @@ and
 spatial
 and
 temporal
-scales)
+scales
+)
 :
 my
 consciousness

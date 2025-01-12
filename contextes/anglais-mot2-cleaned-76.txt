@@ -50,7 +50,8 @@ of
 consciousness
 
 
-[]
+[
+]
 
 
 An
@@ -93,7 +94,8 @@ normal
 Level
 of
 consciousness
-(LOC)
+(LOC
+)
 is
 a
 measurement
@@ -112,7 +114,12 @@ the
 environment
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 A
 mildly
 depressed
@@ -139,7 +146,12 @@ little
 difficulty
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 People
 who
 are
@@ -158,7 +170,14 @@ fully
 aroused
 .
 
-^([1][2])
+
+^
+(
+[1
+]
+[2
+]
+)
 Those
 who
 are
@@ -178,7 +197,14 @@ be
 stuporous
 .
 
-^([1][2])
+
+^
+(
+[1
+]
+[2
+]
+)
 Coma
 is
 the
@@ -190,7 +216,14 @@ purposeful
 response
 .
 
-^([1][2])
+
+^
+(
+[1
+]
+[2
+]
+)
 Scales
 such
 as
@@ -244,7 +277,8 @@ exposure
 to
 poisons
 or
-intoxicants)
+intoxicants
+)
 ,
 insufficient
 oxygen
@@ -278,7 +312,12 @@ medical
 emergency
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 A
 deficit
 in
@@ -303,7 +342,12 @@ been
 injured
 .
 
-^([4])
+
+^
+(
+[4
+]
+)
 A
 decreased
 level
@@ -313,13 +357,20 @@ correlates
 to
 increased
 morbidity
-(sickness)
+(sickness
+)
 and
 mortality
-(death)
+(death
+)
 .
 
-^([5])
+
+^
+(
+[5
+]
+)
 Thus
 it
 is
@@ -356,10 +407,19 @@ vital
 signs
 .
 
-^([3][6])
+
+^
+(
+[3
+]
+[6
+]
+)
 
 ---------------
-[edit]
+
+[edit
+]
 
 Scales
 and
@@ -396,7 +456,13 @@ consciousness
 
 Level
 Summary
-(Kruse)^([2])
+(Kruse
+)
+^
+(
+[2
+]
+)
 Description
 
 Metaconscious
@@ -490,10 +556,16 @@ Dunlosky
 &
 Bjork
 ,
-2008)
+2008
+)
 .
 
-^([7])
+
+^
+(
+[7
+]
+)
 
 Conscious
 Normal
@@ -541,7 +613,12 @@ or
 X3"
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 A
 normal
 sleep
@@ -563,7 +640,12 @@ of
 consciousness
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 "Clouding
 of
 consciousness"
@@ -584,7 +666,12 @@ and
 wakefulness
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 
 Confused
 Disoriented
@@ -617,7 +704,12 @@ or
 "confused"
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 A
 confused
 person
@@ -634,7 +726,12 @@ following
 instructions
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 The
 person
 may
@@ -667,7 +764,8 @@ pollution
 drugs
 (prescription
 and
-nonprescription)
+nonprescription
+)
 ,
 and
 infection
@@ -710,7 +808,12 @@ in
 attention
 .
 
-^([2])
+
+^
+(
+[2
+]
+)
 
 Somnolent
 Sleepy
@@ -733,7 +836,12 @@ disorganized
 movements
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 
 Obtunded
 Decreased
@@ -762,13 +870,19 @@ and
 sleepiness
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 
 Stuporous
 Sleep-like
 state
 (not
-unconscious)
+unconscious
+)
 ;
 little/no
 spontaneous
@@ -796,7 +910,12 @@ painful
 stimuli
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 
 Comatose
 Cannot
@@ -836,7 +955,12 @@ to
 light
 .
 
-^([8])
+
+^
+(
+[8
+]
+)
 
 ---------------
 --------------------------------------------------------------------
@@ -877,7 +1001,8 @@ the
 Glasgow
 Coma
 Scale
-(GCS)
+(GCS
+)
 .
 
 
@@ -894,7 +1019,12 @@ people
 with
 brain
 injury
-,^([2])
+,
+^
+(
+[2
+]
+)
 or
 an
 altered
@@ -943,15 +1073,25 @@ of
 consciousness
 .
 
-^([citation
-needed])
+
+^
+(
+[citation
+needed
+]
+)
 
 Others
 ---------------
 formation
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 Since
 this
 system
@@ -985,7 +1125,12 @@ of
 consciousness
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 
 Normally
 ,
@@ -1011,7 +1156,12 @@ reticular
 formation
 .
 
-^([11])
+
+^
+(
+[11
+]
+)
 Mass
 lesions
 that
@@ -1041,7 +1191,12 @@ cerebral
 hemispheres
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 
 ---------------
 reactions
@@ -1056,7 +1211,12 @@ are
 noted
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 Reflexes
 ,
 such
@@ -1075,7 +1235,12 @@ judging
 LOC
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 Once
 the
 level
@@ -1095,7 +1260,12 @@ any
 alteration
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 Usually
 the
 first
@@ -1114,7 +1284,9 @@ is
 hypoxia
 ,
 ---------------
-[edit]
+
+[edit
+]
 
 A
 lowered
@@ -1129,7 +1301,12 @@ brain
 function
 .
 
-^([4])
+
+^
+(
+[4
+]
+)
 Level
 of
 consciousness
@@ -1145,10 +1322,12 @@ oxygen
 (as
 occurs
 in
-hypoxia)
+hypoxia
+)
 ;
 insufficient
 blood
+
 (as
 occurs
 in
@@ -1160,7 +1339,8 @@ for
 example
 due
 to
-intussusception)
+intussusception
+)
 ;
 or
 has
@@ -1174,7 +1354,12 @@ s
 chemistry
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 Conditions
 of
 the
@@ -1203,7 +1388,12 @@ alter
 consciousness
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 Hypo-
 or
 hypernatremia
@@ -1214,7 +1404,8 @@ levels
 of
 sodium
 ,
-respectively)
+respectively
+)
 as
 well
 as
@@ -1227,7 +1418,12 @@ altered
 LOC
 .
 
-^([13])
+
+^
+(
+[13
+]
+)
 A
 pH
 outside
@@ -1250,7 +1446,12 @@ as
 concussion
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 Ischemic
 stroke
 and
@@ -1264,7 +1465,12 @@ altered
 consciousness
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 Infections
 of
 the
@@ -1294,7 +1500,12 @@ of
 encephalitis
 .
 
-^([14])
+
+^
+(
+[14
+]
+)
 Neoplasms
 within
 the
@@ -1304,7 +1515,12 @@ can
 also
 affect
 consciousness
-,^([12])
+,
+^
+(
+[12
+]
+)
 as
 can
 epilepsy
@@ -1313,7 +1529,12 @@ post-seizure
 states
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 A
 decreased
 LOC
@@ -1327,7 +1548,12 @@ of
 factors
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 A
 concussion
 ,
@@ -1336,7 +1562,9 @@ is
 a
 mild
 ---------------
-[edit]
+
+[edit
+]
 
 Treatment
 depends
@@ -1375,7 +1603,9 @@ the
 administration
 of
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Altered
@@ -1390,7 +1620,8 @@ consciousness
 Level
 of
 consciousness
-(esotericism)
+(esotericism
+)
 -
 Cognitive
 deficit
@@ -1421,7 +1652,8 @@ H
 .
 
 
-(2000)
+(2000
+)
 .
 
 
@@ -1468,15 +1700,28 @@ consciousness
 
 
 ^
-^(a)
-^(b)
-^(c)
-^(d)
-^(e)
-^(f)
+^
+(a
+)
+^
+(b
+)
+^
+(c
+)
+^
+(d
+)
+^
+(e
+)
+^
+(f
+)
 Porth
 C
-(2007)
+(2007
+)
 .
 
 
@@ -1548,8 +1793,12 @@ consciousness
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Porth
 ,
 p
@@ -1587,23 +1836,50 @@ ISBN 0-8476-7451-7
 
 
 ^
-^(a)
-^(b)
-^(c)
-^(d)
-^(e)
-^(f)
-^(g)
-^(h)
-^(i)
-^(j)
-^(k)
-^(l)
-^(m)
+^
+(a
+)
+^
+(b
+)
+^
+(c
+)
+^
+(d
+)
+^
+(e
+)
+^
+(f
+)
+^
+(g
+)
+^
+(h
+)
+^
+(i
+)
+^
+(j
+)
+^
+(k
+)
+^
+(l
+)
+^
+(m
+)
 
 Tindall
 SC
-(1990)
+(1990
+)
 .
 
 
@@ -1625,6 +1901,7 @@ Hurst
 JW
 (eds
 .
+
 
 )
 .
@@ -1694,7 +1971,8 @@ ISBN 978-0-19-532131-9
 ^
 Tindall
 SC
-(1990)
+(1990
+)
 .
 
 
@@ -1716,6 +1994,7 @@ Hurst
 JW
 (eds
 .
+
 
 )
 .
@@ -1751,14 +2030,30 @@ ISBN 9780409900774
 
 
 ^
-^(a)
-^(b)
-^(c)
-^(d)
-^(e)
-^(f)
-^(g)
-^(h)
+^
+(a
+)
+^
+(b
+)
+^
+(c
+)
+^
+(d
+)
+^
+(e
+)
+^
+(f
+)
+^
+(g
+)
+^
+(h
+)
 von
 Koch
 CS
@@ -1766,7 +2061,8 @@ CS
 Hoff
 JT
 
-(2005)
+(2005
+)
 .
 
 
@@ -1787,6 +2083,7 @@ Doherty
 GM
 (ed
 .
+
 
 )
 .

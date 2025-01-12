@@ -196,7 +196,8 @@ providers
 (and
 health
 care
-payors)
+payors
+)
 the
 right
 to
@@ -512,7 +513,8 @@ individuals
 whose
 ---------------
 federal
-requirement)
+requirement
+)
 .
 
 
@@ -643,7 +645,8 @@ employee’s
 sincerely
 held
 religious
-beliefs)
+beliefs
+)
 .
 
 
@@ -1037,7 +1040,8 @@ treatment
 
 
 ---------------
-1184)
+1184
+)
 .
 
 
@@ -1117,7 +1121,8 @@ Section
 ,
 Florida
 Statutes
-(2023)
+(2023
+)
 .
 
 
@@ -1133,7 +1138,8 @@ as
 insurance
 companies
 and
-hospitals)
+hospitals
+)
 can
 also
 have

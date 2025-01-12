@@ -1,4 +1,6 @@
-[]
+
+[
+]
 
 Home
 Keyword
@@ -34,8 +36,10 @@ Challenges
 to
 Fostering
 Class
-Consciousness[Original
-Blog]
+Consciousness
+[Original
+Blog
+]
 
 Fostering
 class
@@ -654,8 +658,10 @@ Contemporary
 Relevance
 of
 Class
-Consciousness[Original
-Blog]
+Consciousness
+[Original
+Blog
+]
 
 Contemporary
 relevance
@@ -1346,8 +1352,10 @@ Class
 Consciousness
 in
 Marxian
-Theory[Original
-Blog]
+Theory
+[Original
+Blog
+]
 
 Class
 consciousness
@@ -2129,8 +2137,10 @@ Historical
 Movements
 and
 Class
-Consciousness[Original
-Blog]
+Consciousness
+[Original
+Blog
+]
 
 Historical
 Movements
@@ -2435,14 +2445,16 @@ American
 Federation
 of
 Labor
-(AFL)
+(AFL
+)
 and
 the
 Congress
 of
 Industrial
 Organizations
-(CIO)
+(CIO
+)
 in
 the
 United
@@ -2747,8 +2759,10 @@ Marxian
 Economics
 and
 Class
-Consciousness[Original
-Blog]
+Consciousness
+[Original
+Blog
+]
 
 Marxian
 Economics
@@ -4327,11 +4341,13 @@ not
 only
 economic
 factors
+
 (such
 as
 income
 and
-occupation)
+occupation
+)
 but
 also
 cultural
@@ -4353,12 +4369,14 @@ between
 the
 bourgeoisie
 (capitalist
-class)
+class
+)
 and
 the
 proletariat
 (working
-class)
+class
+)
 .
 
 
@@ -4474,8 +4492,10 @@ Social
 Status
 and
 Class
-Consciousness[Original
-Blog]
+Consciousness
+[Original
+Blog
+]
 
 ###
 The
@@ -4728,7 +4748,8 @@ society
 
 ---------------
 
-Print("Let
+Print
+("Let
 '
 s
 navigate
@@ -4742,7 +4763,8 @@ class
 consciousness
 !
 
-")
+"
+)
 
 #
 More

@@ -133,7 +133,14 @@ class
 interests
 .
 
-^([1][2])
+
+^
+(
+[1
+]
+[2
+]
+)
 According
 to
 Karl
@@ -174,7 +181,12 @@ ruling
 class"
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 
 Although
 Marxists
@@ -186,7 +198,8 @@ class
 consciousness
 (or
 its
-absence)
+absence
+)
 among
 the
 proletariat
@@ -236,7 +249,14 @@ defend
 it"
 .
 
-^([4][5])
+
+^
+(
+[4
+]
+[5
+]
+)
 For
 example
 ,
@@ -288,7 +308,12 @@ re
 winning
 .
 
-"^([6])
+"
+^
+(
+[6
+]
+)
 ---------------
 reinforced
 by
@@ -328,7 +353,8 @@ the
 Public
 Schools
 and
-Universities)
+Universities
+)
 which
 tenaciously
 maintained
@@ -363,7 +389,12 @@ the
 hierarchy
 .
 
-^([7])
+
+^
+(
+[7
+]
+)
 
 While
 Karl
@@ -412,7 +443,16 @@ or
 status
 .
 
-^([9][10][11])
+
+^
+(
+[9
+]
+[10
+]
+[11
+]
+)
 
 Whereas
 Marx
@@ -499,7 +539,8 @@ this
 Lenin
 '
 s
-opinion)
+opinion
+)
 limited
 worldview
 ,
@@ -529,7 +570,14 @@ class
 consciousness
 .
 
-^([13][14])
+
+^
+(
+[13
+]
+[14
+]
+)
 
 Criticism
 ---------------
@@ -662,7 +710,14 @@ objective
 possibility"
 .
 
-^([15][16])
+
+^
+(
+[15
+]
+[16
+]
+)
 
 Austrian
 School
@@ -673,7 +728,9 @@ Mises
 asserted
 that
 "Marx
-confus[ed]
+confus
+[ed
+]
 the
 notions
 of
@@ -730,7 +787,8 @@ end
 their
 ---------------
 -
-[]Philosophy
+[
+]Philosophy
 portal
 
 -
@@ -754,6 +812,7 @@ struggle
 Milan
 (eds
 .
+
 
 )
 .
@@ -790,7 +849,8 @@ ISBN 978-0415286732
 ^
 Elizabeth
 Borland
-(2008)
+(2008
+)
 .
 
 
@@ -810,6 +870,7 @@ N
 
 (ed
 .
+
 
 )
 .
@@ -853,7 +914,8 @@ Edles
 ;
 Scott
 Appelrouth
-(2020)
+(2020
+)
 .
 
 
@@ -893,7 +955,8 @@ Fein
 (June
 17
 ,
-2012)
+2012
+)
 .
 
 
@@ -919,7 +982,8 @@ Forward
 ^
 Michael
 Parenti
-(1978)
+(1978
+)
 .
 
 
@@ -973,7 +1037,8 @@ Ben
 (November
 26
 ,
-2006)
+2006
+)
 .
 
 
@@ -989,14 +1054,19 @@ Which
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 David
 Cody
 (August
 30
 ,
-2021)
+2021
+)
 .
 
 
@@ -1045,7 +1115,8 @@ Britannica
 ^
 Jon
 Elster
-(1986)
+(1986
+)
 .
 
 
@@ -1089,7 +1160,8 @@ Crossman
 (July
 25
 ,
-2019)
+2019
+)
 .
 
 
@@ -1150,7 +1222,8 @@ on
 ^
 Vladimir
 Lenin
-(1902)
+(1902
+)
 .
 
 
@@ -1193,7 +1266,8 @@ Archive
 ^
 Vladimir
 Lenin
-(1902)
+(1902
+)
 .
 
 
@@ -1479,10 +1553,13 @@ of
 its
 self-appointed
 ---------------
-[edit]
+
+[edit
+]
 
 -
-[]
+[
+]
 Quotations
 related
 to

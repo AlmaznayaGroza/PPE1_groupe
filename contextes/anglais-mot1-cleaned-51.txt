@@ -46,7 +46,8 @@ conscience
 its
 sister-concept
 of
-synderesis)
+synderesis
+)
 ,
 though
 interest
@@ -75,7 +76,8 @@ Eardley
 ,
 and
 Dougherty
-2018)
+2018
+)
 .
 
 
@@ -462,7 +464,8 @@ Aristotle
 (Potts
 1982
 :
-687)
+687
+)
 .
 
 
@@ -486,7 +489,8 @@ BCE
 ---------------
 1961
 :
-5)
+5
+)
 .
 
 
@@ -527,7 +531,8 @@ oneself”
 (Sorabji
 2014
 :
-12)
+12
+)
 .
 
 
@@ -546,7 +551,8 @@ also
 “turn
 back
 on”
-(reflectere)
+(reflectere
+)
 or
 become
 an
@@ -606,7 +612,8 @@ also
 Sorabji
 2014
 :
-12)
+12
+)
 
 Lewis
 refers
@@ -653,7 +660,8 @@ way
 (Lewis
 1960
 :
-190)
+190
+)
 
 Others
 ,
@@ -686,7 +694,8 @@ conscience”
 (D’Arcy
 1961
 :
-8)
+8
+)
 .
 
 
@@ -771,7 +780,8 @@ CE–ca
 
 
 64/67
-CE)
+CE
+)
 ,
 the
 most
@@ -785,10 +795,12 @@ after
 Jesus
 of
 Nazareth
+
 (D’Arcy
 1961
 :
-8)
+8
+)
 .
 
 
@@ -968,7 +980,8 @@ them
 2
 :14–15
 ;
-NIV)
+NIV
+)
 ---------------
 latter
 was
@@ -1012,7 +1025,9 @@ foregoing
 passage
 ,
 conscience
-(syneidesis)
+
+(syneidesis
+)
 is
 not
 the
@@ -1044,7 +1059,8 @@ is
 both
 “written
 on
-[men’s]
+[men’s
+]
 hearts”
 and
 borne
@@ -1077,7 +1093,8 @@ moral
 law
 (or
 natural
-law)
+law
+)
 .
 
 
@@ -1148,7 +1165,8 @@ Corinthians
 8
 :8
 ;
-NIV)
+NIV
+)
 .
 
 
@@ -1179,9 +1197,11 @@ a
 rule
 of
 conduct
+
 (Romans
 14
-:13–23)
+:13–23
+)
 .
 
 
@@ -1357,7 +1377,8 @@ rulings
 (D’Arcy
 1961
 :
-11–12)
+11–12
+)
 
 In
 sum
@@ -1397,7 +1418,8 @@ features
 (Sorabji
 2014
 :
-36)
+36
+)
 .
 
 
@@ -1481,7 +1503,8 @@ Plato
 ,
 Republic
 ,
-436b–441b)
+436b–441b
+)
 .
 
 
@@ -1504,7 +1527,8 @@ that
 of
 conscience”
 (scintilla
-conscientiae)
+conscientiae
+)
 which
 makes
 us
@@ -1650,7 +1674,8 @@ them
 when
 they
 err
-[…]
+[…
+]
 However
 ,
 we
@@ -1660,7 +1685,8 @@ that
 this
 conscience
 
-(conscientia)
+(conscientia
+)
 is
 cast
 down
@@ -1683,7 +1709,8 @@ and
 loses
 its
 place
-[…]
+[…
+]
 .
 
 
@@ -1724,7 +1751,8 @@ Jerome
 ,
 their
 conscience
-(conscientia)
+(conscientia
+)
 ceases
 to
 be
@@ -1733,7 +1761,8 @@ in
 them
 (“looses
 its
-place”)
+place”
+)
 .
 
 
@@ -1896,7 +1925,8 @@ Jerome’s
 “spark
 of
 reason”
-(sic)
+(sic
+)
 in
 the
 aforementioned
@@ -2023,7 +2053,8 @@ and
 ---------------
 Stephen
 Langton
-(1155–1228)
+(1155–1228
+)
 ,
 regent
 master
@@ -2078,7 +2109,8 @@ Quaestiones
 ---------------
 1948
 :
-113)
+113
+)
 .
 
 
@@ -2164,7 +2196,8 @@ sin
 (D’Arcy
 1961
 :
-23–24)
+23–24
+)
 
 ---------------
 as
@@ -2226,7 +2259,8 @@ Chancellor
 .
 
 
-1170–1237)
+1170–1237
+)
 who
 wrote
 the
@@ -2244,7 +2278,8 @@ conscience
 (Lottin
 1948
 :
-139–157)
+139–157
+)
 .
 
 
@@ -2375,7 +2410,8 @@ trans
 
 1980
 :
-95–96)
+95–96
+)
 .
 
 
@@ -2439,7 +2475,8 @@ trans
 
 1980
 :
-96)
+96
+)
 
 ---------------
 
@@ -2481,7 +2518,8 @@ trans
 
 1980
 :
-97)
+97
+)
 
 It
 would
@@ -2520,6 +2558,7 @@ is
 good
 without
 qualification”
+
 (Summa
 de
 bono
@@ -2535,7 +2574,8 @@ trans
 
 1980
 :
-100)
+100
+)
 .
 
 
@@ -2588,7 +2628,8 @@ with
 free
 decision
 (liberum
-arbitrium)
+arbitrium
+)
 .
 
 
@@ -2674,7 +2715,8 @@ conscience
 (Potts
 1980
 :
-104)
+104
+)
 :
 
 1
@@ -2968,7 +3010,8 @@ how
 to
 define
 “conscience”
-(conscientia)
+(conscientia
+)
 .
 
 
@@ -3123,7 +3166,8 @@ that
 is
 “written
 on
-[men’s]
+[men’s
+]
 hearts”
 in
 Romans
@@ -3143,9 +3187,11 @@ to
 seek
 blessedness
 and
-[to]
+[to
+]
 honor
-[one’s]
+[one’s
+]
 parents”
 (commentary
 on
@@ -3176,7 +3222,8 @@ trans
 
 2001
 :
-175–176)
+175–176
+)
 .
 
 
@@ -3374,7 +3421,8 @@ trans
 
 1980
 :
-113)
+113
+)
 
 Conscience
 ,
@@ -3465,7 +3513,8 @@ themselves
 
 As
 ---------------
-120)
+120
+)
 .
 
 
@@ -3507,7 +3556,8 @@ pork
 are
 no
 longer
-applicable)
+applicable
+)
 ,
 it
 accurately
@@ -3652,7 +3702,8 @@ trans
 
 1980
 :
-120)
+120
+)
 
 Is
 one
@@ -3825,7 +3876,8 @@ trans
 
 1980
 :
-114–115)
+114–115
+)
 .
 
 
@@ -3919,7 +3971,8 @@ trans
 
 2001
 :
-186)
+186
+)
 .
 
 
@@ -3974,11 +4027,13 @@ inclination
 towards
 the
 moral
+
 (as
 opposed
 to
 the
-useful)
+useful
+)
 good
 .
 
@@ -4074,7 +4129,8 @@ Bonaventure
 following
 Philip
 the
-Chancellor)
+Chancellor
+)
 ,
 a
 habit-like
@@ -4174,7 +4230,8 @@ Cognitive
 
 Thomas
 Aquinas
-(1224/25–1274)
+(1224/25–1274
+)
 is
 ,
 by
@@ -4284,7 +4341,8 @@ theologica
 D’Arcy
 1961
 :
-36–47)
+36–47
+)
 .
 
 
@@ -4318,7 +4376,8 @@ Great
 .
 
 
-1200–1280)
+1200–1280
+)
 for
 whom
 both
@@ -4333,7 +4392,8 @@ intellect
 Dougherty
 2018
 :
-221)
+221
+)
 .
 
 
@@ -4375,7 +4435,8 @@ ad
 .
 
 
-2)
+2
+)
 .
 
 
@@ -4482,7 +4543,8 @@ act
 (Hoffmann
 2012
 :
-258)
+258
+)
 .
 
 
@@ -4554,6 +4616,7 @@ a
 ,
 corp
 .
+
 
 )
 .
@@ -4690,7 +4753,8 @@ respectively
 (D’Arcy
 1961
 :
-46)
+46
+)
 .
 
 
@@ -4792,7 +4856,8 @@ Dougherty
 
 2018
 :
-222)
+222
+)
 
 Now
 the
@@ -4903,7 +4968,8 @@ trans
 
 1980
 :
-132–133)
+132–133
+)
 .
 
 
@@ -5027,7 +5093,8 @@ indifferent
 
 2012
 :
-260)
+260
+)
 ---------------
 refrains
 .
@@ -5088,7 +5155,8 @@ is
 (subjectively
 if
 not
-objectively)
+objectively
+)
 wrong
 ,
 for
@@ -5098,7 +5166,9 @@ is
 a
 sin
 :
-“[F]
+“
+[F
+]
 from
 the
 very
@@ -5127,6 +5197,7 @@ a
 ,
 corp
 .
+
 
 )
 .
@@ -5209,6 +5280,7 @@ a
 ,
 corp
 .
+
 
 )
 
@@ -5503,7 +5575,8 @@ theologian
 William
 of
 Ockham
-(1285–1347)
+(1285–1347
+)
 we
 encounter
 some
@@ -5607,7 +5680,8 @@ trans
 
 1997
 :
-162–163)
+162–163
+)
 .
 
 
@@ -5768,7 +5842,8 @@ prudence
 (Pinckaers
 1993
 :
-259)
+259
+)
 .
 
 
@@ -5880,7 +5955,8 @@ a
 OTh
 8
 :
-411)
+411
+)
 .
 
 
@@ -5985,7 +6061,8 @@ conscience
 (Eardley
 2013
 :
-94–98)
+94–98
+)
 ,
 the
 state
@@ -6162,7 +6239,8 @@ error
 ,
 but
 your
-(ignorant)
+(ignorant
+)
 act
 is
 virtuous
@@ -6620,6 +6698,7 @@ Lottin
 (ed
 .
 
+
 )
 .
 
@@ -6687,6 +6766,7 @@ Christian
 (ed
 .
 
+
 )
 ,
 1971
@@ -6703,7 +6783,8 @@ Limitations
 Pastoral
 Psychology
 Series
-6)
+6
+)
 ,
 New
 York
@@ -6867,7 +6948,9 @@ Philosophie
 Médiévales
 ,
 
-80(1)
+80
+(1
+)
 :
 77–108
 .
@@ -6902,7 +6985,9 @@ Der
 Philosophie
 ,
 
-89(2)
+89
+(2
+)
 :
 122–156
 .
@@ -6940,6 +7025,7 @@ Brian
 Davies
 (ed
 .
+
 
 )
 ,
@@ -6989,7 +7075,8 @@ Plato
 ,
 and
 Conscience
-(Synderesis)
+(Synderesis
+)
 in
 
 Jerome’s
@@ -7149,7 +7236,8 @@ Ethics
 ,
 (Elements
 in
-Ethics)
+Ethics
+)
 ,
 Cambridge
 :
@@ -7235,7 +7323,8 @@ Pinckaers
 Servais
 ,
 1991
-[2005]
+[2005
+]
 ,
 “La
 conception
@@ -7270,6 +7359,7 @@ Noble
 (trans
 .
 
+
 )
 ,
 in
@@ -7290,7 +7380,8 @@ and
 Craig
 Steven
 Titus
-(eds)
+(eds
+)
 ,
 Washington
 ,
@@ -7391,6 +7482,7 @@ Stump
 (eds
 .
 
+
 )
 ,
 Cambridge
@@ -7468,7 +7560,8 @@ Stępień
 Katarzyna
 ,
 2010
-[2014]
+[2014
+]
 ,
 “Syndereza
 a
@@ -7553,7 +7646,8 @@ of
 Philosophy
 (Winter
 2020
-Edition)
+Edition
+)
 ,
 Edward
 N
@@ -7564,6 +7658,7 @@ Zalta
 
 (ed
 .
+
 
 )
 ,
@@ -7605,6 +7700,7 @@ the
 version
 history
 .
+
 
 ]
 -
@@ -7657,7 +7753,8 @@ Scotus
 John
 |
 Ockham
-[Occam]
+[Occam
+]
 ,
 William
 |

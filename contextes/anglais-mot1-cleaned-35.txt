@@ -111,7 +111,8 @@ with
 one’s
 knowledge
 (of
-morality)
+morality
+)
 .
 
 
@@ -274,7 +275,8 @@ g
 .
 
 
-Catholic)
+Catholic
+)
 or
 as
 a
@@ -292,7 +294,8 @@ g
 
 Protestant
 ,
-Buddhist)
+Buddhist
+)
 .
 
 
@@ -523,7 +526,8 @@ the
 answer
 (see
 “History”
-section)
+section
+)
 
 Thought
 about
@@ -1191,7 +1195,9 @@ Quotation
 :
 
 
-“[T]he
+“
+[T
+]he
 infliction
 of
 cruelty
@@ -1475,7 +1481,10 @@ into
 vogue
 during
 the
-20^(th)
+20
+^
+(th
+)
 century
 ,
 conscience
@@ -1740,7 +1749,10 @@ imperative
 
 ’ 
 Other
-18^(th)
+18
+^
+(th
+)
 century
 philosophers
 believed
@@ -1777,7 +1789,10 @@ conscience
 
 From
 the
-18^(th)
+18
+^
+(th
+)
 century
 on
 ,
@@ -1862,7 +1877,10 @@ general
 
 In
 the
-19^(th)
+19
+^
+(th
+)
 century
 ,
 Darwin
@@ -1898,7 +1916,10 @@ beings
 
 In
 the
-20^(th)
+20
+^
+(th
+)
 century
 ,
 Freud

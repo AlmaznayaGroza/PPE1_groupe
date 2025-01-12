@@ -4,7 +4,8 @@ uses
 ,
 see
 Conscience
-(disambiguation)
+(disambiguation
+)
 .
 
 
@@ -20,7 +21,8 @@ uses
 ,
 see
 Scruples
-(disambiguation)
+(disambiguation
+)
 .
 
 
@@ -36,7 +38,9 @@ Conscientiousness
 
 
 
-[]
+
+[
+]
 ---------------
 knowledge
 requires
@@ -65,7 +69,12 @@ pure
 consciousness
 .
 
-^([11])
+
+^
+(
+[11
+]
+)
 
 In
 the
@@ -93,7 +102,12 @@ conscience
 
 .
 
-^([59])
+
+^
+(
+[59
+]
+)
 
 Antonio
 Damasio
@@ -125,12 +139,21 @@ behavior
 .
 
 
-^([60])
+^
+(
+[60
+]
+)
 ---------------
 meaning
 "privity
 of
-knowledge"^([83])
+knowledge"
+^
+(
+[83
+]
+)
 or
 "with-knowledge"
 .
@@ -169,7 +192,12 @@ own
 actions
 .
 
-^([84])
+
+^
+(
+[84
+]
+)
 Thus
 conscience
 considered
@@ -207,7 +235,12 @@ of
 regrets
 .
 
-^([126])
+
+^
+(
+[126
+]
+)
 Arendt
 also
 wrote
@@ -295,7 +328,12 @@ of
 God
 .
 
-"^([127])
+"
+^
+(
+[127
+]
+)
 ---------------
 generally
 considered
@@ -304,7 +342,8 @@ not
 necessarily
 linked
 (often
-destructively)
+destructively
+)
 to
 fundamentalist
 religious
@@ -329,7 +368,12 @@ of
 humanity
 .
 
-^([192])
+
+^
+(
+[192
+]
+)
 Thinking
 predicated
 on
@@ -359,7 +403,12 @@ democratic
 participation
 .
 
-^([213])
+
+^
+(
+[213
+]
+)
 John
 Passmore
 has
@@ -423,7 +472,12 @@ creature
 Gollum
 .
 
-^([273])
+
+^
+(
+[273
+]
+)
 Conor
 Cruise
 O
@@ -453,7 +507,12 @@ non-Western
 world
 .
 
-^([274])
+
+^
+(
+[274
+]
+)
 Harper
 Lee
 '
@@ -553,7 +612,8 @@ pp
 Pitrat
 ,
 Jacques
-(2009)
+(2009
+)
 .
 
 
@@ -612,7 +672,8 @@ Strawson
 ,
 Galen
 (January
-2019)
+2019
+)
 .
 
 
@@ -634,7 +695,8 @@ absurdity""
 Estudios
 de
 Filosofía
-(59)
+(59
+)
 :
 9–43
 .

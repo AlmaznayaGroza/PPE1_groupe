@@ -232,7 +232,8 @@ the
 mind
 ;
 yet
-[Christians]
+[Christians
+]
 would
 not
 grant
@@ -279,7 +280,9 @@ promise
 .
 
 
-[Conscience]
+
+[Conscience
+]
 is
 a
 messenger
@@ -439,7 +442,8 @@ the
 principles
 of
 morality
-(synderesis)
+(synderesis
+)
 ;
 their
 application

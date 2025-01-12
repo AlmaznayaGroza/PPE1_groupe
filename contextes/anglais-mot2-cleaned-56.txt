@@ -21,7 +21,8 @@ raising
 (also
 called
 awareness
-raising)
+raising
+)
 is
 a
 form
@@ -84,10 +85,17 @@ as
 "conscience"
 .
 
-^([3])
+
+^
+(
+[3
+]
+)
 
 ---------------
-[edit]
+
+[edit
+]
 
 Consciousness
 raising
@@ -130,7 +138,8 @@ a
 group
 including
 ---------------
-Amatniek)
+Amatniek
+)
 ,
 and
 Carol
@@ -306,7 +315,12 @@ consciousness-raising
 
 —
 Anne
-Forer^([4])
+Forer
+^
+(
+[4
+]
+)
 
 On
 Thanksgiving
@@ -454,7 +468,12 @@ its
 peak
 .
 
-^([5])
+
+^
+(
+[5
+]
+)
 Over
 the
 next
@@ -516,7 +535,12 @@ Liberation
 Movement"
 .
 
-^([6])
+
+^
+(
+[6
+]
+)
 Susan
 Brownmiller
 ,
@@ -525,7 +549,12 @@ member
 of
 the
 West
-Village^([a])
+Village
+^
+(
+[a
+]
+)
 would
 later
 write
@@ -639,7 +668,12 @@ of
 men
 .
 
-^([9])
+
+^
+(
+[9
+]
+)
 
 While
 explaining
@@ -747,7 +781,12 @@ and
 strategy"
 .
 
-^([10])
+
+^
+(
+[10
+]
+)
 However
 ,
 most
@@ -794,8 +833,13 @@ was
 shared
 .
 
-^([citation
-needed])
+
+^
+(
+[citation
+needed
+]
+)
 
 Some
 feminist
@@ -835,7 +879,12 @@ individual
 actions"
 .
 
-^([11])
+
+^
+(
+[11
+]
+)
 
 Ellen
 Willis
@@ -881,7 +930,12 @@ philosophical
 assumptions"
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 
 However
 ,
@@ -900,10 +954,17 @@ and
 apolitical
 .
 
-^([13])
+
+^
+(
+[13
+]
+)
 
 ---------------
-[edit]
+
+[edit
+]
 
 Historically
 ,
@@ -920,7 +981,12 @@ consciousness-raising
 groups
 .
 
-^([14])
+
+^
+(
+[14
+]
+)
 Activist
 and
 writer
@@ -954,7 +1020,12 @@ resistance
 groups
 .
 
-^([15])
+
+^
+(
+[15
+]
+)
 This
 focus
 has
@@ -976,7 +1047,12 @@ s
 literary
 writing
 experience
-,^([16])
+,
+^
+(
+[16
+]
+)
 and
 the
 usage
@@ -994,7 +1070,12 @@ liberatory
 praxis
 .
 
-^([17])
+
+^
+(
+[17
+]
+)
 Art
 as
 a
@@ -1012,7 +1093,9 @@ lens
 through
 a
 ---------------
-[edit]
+
+[edit
+]
 
 In
 the
@@ -1025,7 +1108,12 @@ with
 gay
 liberation
 activists
-,^([20])
+,
+^
+(
+[20
+]
+)
 who
 formed
 the
@@ -1118,8 +1206,13 @@ wider
 society
 .
 
-^([citation
-needed])
+
+^
+(
+[citation
+needed
+]
+)
 ---------------
 
 In
@@ -1152,7 +1245,12 @@ feminist
 case
 .
 
-^([21])
+
+^
+(
+[21
+]
+)
 These
 include
 replacing
@@ -1181,6 +1279,7 @@ members
 of
 these
 religions
+
 (which
 he
 compares
@@ -1188,7 +1287,8 @@ to
 our
 using
 non-sexist
-terminology)
+terminology
+)
 and
 Darwin
 as
@@ -1222,10 +1322,16 @@ things
 elsewhere
 (especially
 in
-physics)
+physics
+)
 .
 
-^([21])
+
+^
+(
+[21
+]
+)
 Earlier
 in
 the
@@ -1263,7 +1369,9 @@ activism
 Legal
 awareness
 ---------------
-[edit]
+
+[edit
+]
 
 1
 .
@@ -1299,7 +1407,8 @@ raising"
 Koch
 ,
 Christof
-(2004)
+(2004
+)
 .
 
 
@@ -1360,11 +1469,13 @@ cum
 
 (with
 or
-together)
+together
+)
 and
 scire
 (to
-know)
+know
+)
 .
 
 
@@ -1432,7 +1543,8 @@ p
 (quoted
 by
 Susan
-Brownmiller)
+Brownmiller
+)
 5
 .
 
@@ -1487,7 +1599,8 @@ Archived
 from
 the
 original
-(Leaflet)
+(Leaflet
+)
 on
 12
 February
@@ -1504,6 +1617,7 @@ Fairleigh
 Dickinson
 Univ
 .
+
 
 )
 (p
@@ -1546,14 +1660,16 @@ Y
 Fawcett
 Columbine
 ,
-1989)
+1989
+)
 ,
 pp
 .
 
 
 
-10–11)
+10–11
+)
 .
 
 
@@ -1562,7 +1678,8 @@ pp
 
 
 ^
-Vernon)
+Vernon
+)
 ,
 Reed
 ,
@@ -1575,7 +1692,8 @@ V
 
 
 (Thomas
-(2005)
+(2005
+)
 .
 
 
@@ -1595,7 +1713,8 @@ Studies
 
 
 23
-(1)
+(1
+)
 :
 93–105
 .
@@ -1626,7 +1745,8 @@ S2CID 148814316
 Yu
 ,
 Nilan
-(2018)
+(2018
+)
 ,
 "Consciousness-raising
 and
@@ -1678,7 +1798,8 @@ org
 Retrieved
 ---------------
 
-(ISBN 0-385-31486-8)
+(ISBN 0-385-31486-8
+)
 .
 
 
@@ -1689,7 +1810,8 @@ Women
 s
 Liberation
 Union
-(1971)
+(1971
+)
 ,
 How
 to
@@ -1703,7 +1825,8 @@ group
 Freeman
 ,
 Jo
-(1972)
+(1972
+)
 .
 
 
@@ -1728,7 +1851,8 @@ Sociology
 
 -
 Redstockings
-(1975/1978)
+(1975/1978
+)
 .
 
 
@@ -1742,7 +1866,8 @@ edition
 with
 additional
 writings
-(ISBN 0-394-73240-5)
+(ISBN 0-394-73240-5
+)
 .
 
 
@@ -1750,7 +1875,8 @@ writings
 Sarachild
 ,
 Kathie
-(1973)
+(1973
+)
 :
 Consciousness-Raising
 :
@@ -1842,7 +1968,8 @@ Herstory
 Miss
 America
 protest
-(1968)
+(1968
+)
 |
 ---------------
 |
@@ -1850,7 +1977,8 @@ protest
 God
 Giving
 Birth
-(1968)
+(1968
+)
 |
 |
 |
@@ -1871,7 +1999,8 @@ raising
 -
 Sex-positive
 feminism
-(1979)
+(1979
+)
 |
 |
 |

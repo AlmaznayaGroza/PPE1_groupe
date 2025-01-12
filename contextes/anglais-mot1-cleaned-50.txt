@@ -13,8 +13,10 @@ According
 to
 Nietzsche
 
+
 [Qais
-Alamdar]
+Alamdar
+]
 ---------------
 starting
 with
@@ -140,7 +142,8 @@ Morality
 A
 Polemic
 ,
-p409)
+p409
+)
 .
 
 

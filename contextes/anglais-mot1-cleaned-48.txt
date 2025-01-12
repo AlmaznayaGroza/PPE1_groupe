@@ -376,12 +376,15 @@ Tim
 
 
 1
-:5)
+:5
+)
 .
 
 
 
-[]Christian
+
+[
+]Christian
 political
 scientist
 David
@@ -1218,7 +1221,9 @@ conscience
 
 
 
-[]
+
+[
+]
 
 The
 conscience
@@ -1782,7 +1787,8 @@ civil
 government
 (or
 other
-authorities)
+authorities
+)
 limits
 conscience
 ,
@@ -2010,7 +2016,8 @@ and
 men”
 (Acts
 24
-:16)
+:16
+)
 .
 
 
@@ -2224,7 +2231,8 @@ Cor
 .
 
 
-8)
+8
+)
 .
 
 

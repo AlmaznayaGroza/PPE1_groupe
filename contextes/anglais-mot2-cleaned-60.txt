@@ -271,7 +271,8 @@ influential
 views
 on
 this
-blog)
+blog
+)
 ,
 but
 a
@@ -529,7 +530,8 @@ the
 “real
 question
 of
-consciousness”)
+consciousness”
+)
 is
 answering
 why
@@ -562,7 +564,8 @@ truly
 illusionary
 (which
 few
-accept)
+accept
+)
 ,
 the
 experience
@@ -674,7 +677,8 @@ K
 .
 
 
-(2016)
+(2016
+)
 .
 
 
@@ -692,7 +696,9 @@ of
 Consciousness
 Studies
 ,
-23(11-12)
+23
+(11-12
+)
 ,
 11-39
 .
@@ -731,7 +737,8 @@ V
 .
 
 
-(1998)
+(1998
+)
 .
 
 
@@ -753,7 +760,8 @@ A
 .
 
 
-(2021)
+(2021
+)
 .
 
 
@@ -784,6 +792,7 @@ com/us/blog/consciousness-deep-dive/202110/the-real-problem-consciousness
 More
 references
 ---------------
+
 [Damian
 K
 .
@@ -799,6 +808,7 @@ M
 
 Sc
 .
+
 
 ]
 

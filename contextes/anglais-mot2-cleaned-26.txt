@@ -2,6 +2,7 @@ Con"science
 (
 ?
 
+
 )
 ,
 n
@@ -59,6 +60,7 @@ See
 Science
 .
 
+
 ]
 1
 .
@@ -78,8 +80,10 @@ consciousness
 .
 
 
+
 [Obs
 .
+
 
 ]
 
@@ -180,7 +184,8 @@ e
 
 
 ,
-moral]
+moral
+]
 faculty
 ,
 

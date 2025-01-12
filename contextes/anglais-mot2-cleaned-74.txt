@@ -95,7 +95,8 @@ understand
 class
 consciousness
 (in
-theory)
+theory
+)
 ?
 
 
@@ -104,7 +105,8 @@ Second
 what
 is
 the
-(practical)
+(practical
+)
 function
 of
 class
@@ -219,7 +221,8 @@ are
 independent
 of
 man’s
-(psychological)
+(psychological
+)
 consciousness
 of
 them
@@ -385,7 +388,11 @@ letter
 to
 Mehring
 ,
-^([9])
+^
+(
+[9
+]
+)
 this
 consciousness
 is
@@ -457,6 +464,7 @@ process
 
 
 ---------------
+
 (’individual’
 here
 can
@@ -468,7 +476,8 @@ man
 ,
 class
 or
-people)
+people
+)
 and
 in
 his
@@ -478,7 +487,8 @@ given
 hence
 psychological
 or
-mass-psychological)
+mass-psychological
+)
 consciousness
 .
 
@@ -795,7 +805,8 @@ and
 rational
 reactions
 ‘imputed’
-[zugerechnet]
+[zugerechnet
+]
 to
 a
 particular
@@ -808,7 +819,12 @@ of
 production
 .
 
-^([11])
+
+^
+(
+[11
+]
+)
 This
 consciousness
 is
@@ -1026,7 +1042,11 @@ it
 .
 
 
-^([12])
+^
+(
+[12
+]
+)
 Regarded
 abstractly
 and
@@ -1050,7 +1070,11 @@ condition
 .
 
 
-^([13])
+^
+(
+[13
+]
+)
 This
 condition
 is
@@ -1171,7 +1195,8 @@ the
 primitive
 accumulation
 of
-capital)
+capital
+)
 .
 
 
@@ -1628,7 +1653,11 @@ them”
 .
 
 
-^([15])
+^
+(
+[15
+]
+)
 
 It
 would
@@ -1754,7 +1783,8 @@ production
 with
 the
 Roman
-Lumpenproletariat)
+Lumpenproletariat
+)
 or
 if
 it
@@ -1900,7 +1930,12 @@ form
 
 Marx
 emphasises
-^([19])
+
+^
+(
+[19
+]
+)
 that
 in
 Greece
@@ -1941,7 +1976,8 @@ content
 ,
 the
 juridical
-(privilege-creating)
+(privilege-creating
+)
 forms
 retain
 a
@@ -2010,7 +2046,8 @@ the
 knights
 during
 the
-Reformation)
+Reformation
+)
 or
 else
 –
@@ -2040,7 +2077,8 @@ still
 retains
 this
 (objectively
-unreal)
+unreal
+)
 ideological
 coherence
 .
@@ -2137,7 +2175,8 @@ case
 with
 the
 great
-landowners)
+landowners
+)
 .
 
 
@@ -2203,7 +2242,8 @@ virtue
 of
 an
 ‘imputed’
-consciousness)
+consciousness
+)
 of
 the
 “true
@@ -2270,7 +2310,8 @@ itself
 (albeit
 unconsciously
 or
-repressed)
+repressed
+)
 .
 
 
@@ -2424,7 +2465,11 @@ harmony”
 .
 
 
-^([25])
+^
+(
+[25
+]
+)
 In
 all
 decisions
@@ -2500,7 +2545,8 @@ the
 Russian
 Revolution
 of
-1917)
+1917
+)
 ,
 or
 reactionary
@@ -2508,7 +2554,8 @@ reactionary
 with
 Napoleon’s
 coup
-d’état)
+d’état
+)
 will
 depend
 on
@@ -2612,7 +2659,8 @@ Revolutionaries
 in
 1917
 and
-1918)
+1918
+)
 .
 
 
@@ -2718,7 +2766,8 @@ Marxist
 sense
 of
 the
-term)
+term
+)
 :
 for
 a
@@ -3099,7 +3148,12 @@ the
 first
 system
 ---------------
-^([27])
+
+^
+(
+[27
+]
+)
 and
 this
 implies
@@ -3122,7 +3176,8 @@ the
 possession
 of
 an
-(imputed)
+(imputed
+)
 class
 consciousness
 of
@@ -3222,7 +3277,11 @@ production”
 ,
 Marx
 emphasised
-^([28])
+^
+(
+[28
+]
+)
 that
 he
 ---------------
@@ -3390,7 +3449,12 @@ domination
 had
 left
 unmolested
-^([34])
+
+^
+(
+[34
+]
+)
 the
 forms
 of
@@ -3516,7 +3580,9 @@ irreconcilable
 antagonism
 between
 the
-(capitalist)
+
+(capitalist
+)
 individual
 ,
 i
@@ -4372,7 +4438,8 @@ to
 overcome
 these
 internal
-(bourgeois)
+(bourgeois
+)
 contradictions
 ,
 but
@@ -4466,7 +4533,8 @@ it
 the
 fate
 of
-mankind)
+mankind
+)
 will
 depend
 on
@@ -4594,9 +4662,11 @@ proletariat
 to
 use
 bourgeois
+
 (or
 petty
-bourgeois)
+bourgeois
+)
 tactics
 .
 
@@ -4768,7 +4838,11 @@ one
 Marx
 repeatedly
 exposed
-^([37])
+^
+(
+[37
+]
+)
 the
 fallacy
 of
@@ -4961,7 +5035,8 @@ quite
 apart
 from
 all
-(imputed)
+(imputed
+)
 consciousness
 –
 as
@@ -5059,8 +5134,13 @@ in
 Silesia
 .
 
+
 )
-^([38])
+^
+(
+[38
+]
+)
 For
 because
 of
@@ -5505,7 +5585,8 @@ proletariat
 nor
 with
 the
-(mass-psychological)
+(mass-psychological
+)
 consciousness
 of
 the
@@ -5602,7 +5683,11 @@ attention
 very
 early
 on
-^([41])
+^
+(
+[41
+]
+)
 to
 this
 danger
@@ -5792,6 +5877,7 @@ crisis
 ,
 etc
 .
+
 
 )
 ,
@@ -6043,6 +6129,7 @@ interests
 of
 the
 workers
+
 (i
 .
 
@@ -6056,7 +6143,8 @@ immediate
 national
 or
 professional
-interests)
+interests
+)
 and
 as
 something
@@ -6077,7 +6165,8 @@ that
 which
 is
 psychologically
-given)
+given
+)
 .
 
 
@@ -6560,6 +6649,7 @@ consciousness
 .
 
 
+
 (The
 separation
 of
@@ -6604,6 +6694,7 @@ false
 theories
 of
 consciousness
+
 (including
 both
 the
@@ -6616,7 +6707,8 @@ and
 the
 ‘materialism’
 of
-Feuerbach)
+Feuerbach
+)
 and
 towards
 the
@@ -6643,7 +6735,8 @@ Correspondence
 of
 1843
 [with
-Ruge]
+Ruge
+]
 he
 conceives
 of
@@ -6707,7 +6800,8 @@ only
 show
 it
 [the
-world]
+world
+]
 what
 its
 struggles
@@ -6747,7 +6841,11 @@ it”
 .
 
 
-^([44])
+^
+(
+[44
+]
+)
 The
 great
 polemic
@@ -6765,7 +6863,11 @@ point
 .
 
 
-^([45])
+^
+(
+[45
+]
+)
 ,
 Hegel’s
 inadequacy
@@ -7020,7 +7122,12 @@ mouthpiece”
 .
 
 
-^([46])
+
+^
+(
+[46
+]
+)
 ---------------
 means
 that
@@ -7353,6 +7460,7 @@ objective
 possibilities
 of
 consciousness
+
 (such
 as
 the
@@ -7366,7 +7474,8 @@ in
 comparison
 to
 cultural
-questions)
+questions
+)
 .
 
 
@@ -7579,7 +7688,8 @@ confused
 with
 its
 opportunist
-caricatures)
+caricatures
+)
 is
 one
 of

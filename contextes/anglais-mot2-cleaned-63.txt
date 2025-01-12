@@ -717,7 +717,8 @@ the
 black
 and
 white
-room”)
+room”
+)
 ,
 as
 well
@@ -847,7 +848,8 @@ writes
 “then
 (in
 all
-likelihood)
+likelihood
+)
 God
 exists
 .
@@ -876,6 +878,7 @@ emergent
 phenomena
 themselves
 .
+
 
 )
 The
@@ -1104,7 +1107,8 @@ it
 
 *Editor’s
 Note
-(10/4/23)
+(10/4/23
+)
 :
 This
 paragraph

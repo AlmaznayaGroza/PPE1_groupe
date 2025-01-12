@@ -79,7 +79,8 @@ system
 see
 Conscience
 clause
-(education)
+(education
+)
 .
 
 
@@ -144,7 +145,12 @@ their
 children
 .
 
-^([1])
+
+^
+(
+[1
+]
+)
 ---------------
 Inside
 drawer
@@ -154,7 +160,8 @@ Frank
 Church
 '
 s
-(D-ID)
+(D-ID
+)
 senate
 desk
 
@@ -205,7 +212,12 @@ by
 public
 .
 
-"^([1])
+"
+^
+(
+[1
+]
+)
 
 Conscience
 clauses
@@ -284,7 +296,12 @@ other
 countries
 .
 
-^([5])
+
+^
+(
+[5
+]
+)
 
 ---------------
 
@@ -335,14 +352,21 @@ an
 doctors
 .
 
-"^([7])
+"
+^
+(
+[7
+]
+)
 
 Right
 of
 Conscience
 Rule
 
-[edit]
+
+[edit
+]
 
 The
 Right
@@ -415,11 +439,20 @@ Conscience
 Rule
 .
 
-^([9][10])
+
+^
+(
+[9
+]
+[10
+]
+)
 
 Pharmacists
 ---------------
-[edit]
+
+[edit
+]
 
 States
 have
@@ -439,7 +472,12 @@ in
 abortions
 .
 
-^([11])
+
+^
+(
+[11
+]
+)
 In
 April
 2005
@@ -513,7 +551,12 @@ v
 Wade
 .
 
-^([29])
+
+^
+(
+[29
+]
+)
 Though
 the
 case
@@ -609,7 +652,9 @@ conscience
 clauses
 ,
 saying
-“[t]here’s
+“
+[t
+]here’s
 a
 movement
 that
@@ -637,7 +682,9 @@ driven
 out
 of
 ---------------
-[edit]
+
+[edit
+]
 
 The
 conscience
@@ -697,7 +744,12 @@ or
 close
 .
 
-"^([31])
+"
+^
+(
+[31
+]
+)
 Timothy
 Dolan
 has
@@ -724,7 +776,12 @@ our
 consciences
 .
 
-"^([32])
+"
+^
+(
+[32
+]
+)
 However
 ,
 conscience
@@ -745,7 +802,12 @@ given
 context
 .
 
-^([33])
+
+^
+(
+[33
+]
+)
 ---------------
 Three
 members
@@ -799,16 +861,24 @@ safety
 and
 patient
 ---------------
-[edit]
+
+[edit
+]
 
 1
 .
 
 
 ^
-^(a)
-^(b)
-^(c)
+^
+(a
+)
+^
+(b
+)
+^
+(c
+)
 Berlinger
 ,
 Nancy
@@ -842,7 +912,8 @@ J
 .
 
 
-(2010)
+(2010
+)
 .
 
 
@@ -870,7 +941,8 @@ Review
 
 
 8
-(2)
+(2
+)
 .
 
 
@@ -926,7 +998,8 @@ Law
 Journal
 
 2516
-(2015)
+(2015
+)
 .
 
 
@@ -942,7 +1015,8 @@ J
 
 
 M
-(2005)
+(2005
+)
 .
 
 
@@ -981,7 +1055,8 @@ Island
 
 
 88
-(8)
+(8
+)
 :
 279–81
 .
@@ -1010,14 +1085,17 @@ and
 Conscientious
 Refusal
 ,
-21(2)
+21
+(2
+)
 Journal
 of
 Clinical
 Ethics
 163-180
 
-(2010)
+(2010
+)
 ,
 http
 ://clinicalethics
@@ -1042,7 +1120,8 @@ Stein
 Rob
 (18
 February
-2011)
+2011
+)
 .
 
 
@@ -1112,7 +1191,8 @@ Reg
 
 23
 ,
-2011)
+2011
+)
 (to
 be
 
@@ -1133,7 +1213,8 @@ pt
 .
 
 
-88)
+88
+)
 .
 
 
@@ -1171,7 +1252,8 @@ Mary
 Rose
 (25
 June
-2020)
+2020
+)
 .
 
 
@@ -1212,7 +1294,9 @@ Melinda
 Henneberger
 writing
 ---------------
-[edit]
+
+[edit
+]
 
 -
 Appel

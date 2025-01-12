@@ -86,7 +86,8 @@ about
 the
 “history
 of
-consciousness”)
+consciousness”
+)
 ,
 and
 sometimes
@@ -106,7 +107,8 @@ off
 the
 animal
 regained
-consciousness)
+consciousness
+)
 .
 
 
@@ -130,7 +132,8 @@ British
 philosopher
 Bertrand
 Russell
-(1872–1970)
+(1872–1970
+)
 ---------------
 
 It
@@ -230,7 +233,8 @@ British
 philosopher
 Ludwig
 Wittgenstein
-(1889–1951)
+(1889–1951
+)
 was
 ---------------
 In
@@ -334,7 +338,8 @@ behaviour”
 (see
 below
 Radical
-behaviourism)
+behaviourism
+)
 .
 
 

@@ -1,5 +1,6 @@
 -
-[]YouTube
+[
+]YouTube
 
 What
 Is
@@ -43,6 +44,7 @@ freedom
 -
 
 
+
 [What
 Is
 Freedom
@@ -55,6 +57,7 @@ Does
 It
 Matter
 ?
+
 
 ]
 
@@ -114,7 +117,8 @@ on
 their
 right
 shoulder
-(conscience)
+(conscience
+)
 and
 a
 devil
@@ -122,7 +126,8 @@ on
 their
 left
 shoulder
-(temptation)
+(temptation
+)
 before
 making
 a
@@ -271,7 +276,8 @@ if
 we
 didn’t
 (or
-couldn’t)
+couldn’t
+)
 act
 on
 what’s
@@ -708,7 +714,8 @@ to
 do
 (and
 have
-done)
+done
+)
 just
 that
 .

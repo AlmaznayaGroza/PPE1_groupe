@@ -1,4 +1,6 @@
-(disambiguation)
+
+(disambiguation
+)
 .
 
 
@@ -15,7 +17,9 @@ Conscientiousness
 
 
 
-[]
+
+[
+]
 ---------------
 writing
 in
@@ -59,7 +63,12 @@ nowhere
 defined
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 In
 Search
 after
@@ -77,7 +86,8 @@ lumen
 naturale
 ,
 Amsterdam
-1701)
+1701
+)
 he
 wrote
 the
@@ -91,16 +101,25 @@ conscientiâ
 vel
 interno
 testimonio
+
 (translatable
 as
 "conscience
 ,
 or
 internal
-testimony")
+testimony"
+)
 .
 
-^([13][14])
+
+^
+(
+[13
+]
+[14
+]
+)
 It
 might
 mean
@@ -117,15 +136,26 @@ own
 thoughts
 .
 
-^([12])
+
+^
+(
+[12
+]
+)
 
 ---------------
 celebrated
 Dictionary
-(1755)
+(1755
+)
 .
 
-^([17])
+
+^
+(
+[17
+]
+)
 
 The
 French
@@ -168,8 +198,10 @@ have
 ^
 Barfield
 O
-(1962)
-[1926]
+(1962
+)
+[1926
+]
 .
 
 
@@ -186,6 +218,7 @@ paper
 
 covered ed
 .
+
 
 )
 .
@@ -214,7 +247,8 @@ S
 
 
 Lewis
-(1990)
+(1990
+)
 .
 
 
@@ -254,7 +288,8 @@ ISBN 978-0-521-39831-2
 ^
 Thomas
 Hobbes
-(1904)
+(1904
+)
 .
 
 
@@ -322,7 +357,8 @@ métiers
 :902
 (Paris
 ,
-1753)
+1753
+)
 .
 
 
@@ -336,7 +372,8 @@ RL
 ,
 Sansthana
 DA
-(2010)
+(2010
+)
 .
 
 
@@ -348,7 +385,8 @@ Defining
 ---------------
 
 Consciousness"
-(PDF)
+(PDF
+)
 .
 
 
@@ -364,15 +402,20 @@ Laboratory
 
 
 ^
-^(a)
-^(b)
+^
+(a
+)
+^
+(b
+)
 Frith
 C
 ,
 Metzinger
 T
 (March
-2016)
+2016
+)
 .
 
 
@@ -405,6 +448,7 @@ Engel
 AK
 (ed
 .
+
 
 )
 .

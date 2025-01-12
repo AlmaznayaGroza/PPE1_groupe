@@ -14,7 +14,9 @@ why
 
 
 
-[]
+
+[
+]
 ---------------
 subjective
 .
@@ -52,6 +54,7 @@ evolved
 
 
 
+
 [black
 and
 white
@@ -69,7 +72,8 @@ wires
 layered
 over
 their
-eyes]Share
+eyes
+]Share
 on
 Pinterest
 
@@ -393,7 +397,8 @@ functional
 magnetic
 resonance
 imaging
-(fMRI)
+(fMRI
+)
 and
 ---------------
 network

@@ -227,7 +227,8 @@ that
 develop
 this
 potential
-[humanity]
+[humanity
+]
 .
 
 "
@@ -388,7 +389,8 @@ Conscience
 (2017
 ,
 November
-17)
+17
+)
 .
 
 
@@ -405,7 +407,8 @@ virtue
 .
 
 
-(2019)
+(2019
+)
 .
 
 
@@ -431,7 +434,8 @@ R
 .
 
 
-(2021)
+(2021
+)
 .
 
 
