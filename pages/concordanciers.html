@@ -105,5 +105,15 @@
         <p>Programmation et Projet encadré 1 | 2024</p>
     </footer>
 
+<script>
+    // Fonction pour charger les fichiers HTML du dossier 'concordance'
+    fetch('concordances/')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('concordances-container').innerHTML = data;
+        })
+        .catch(error => console.error('Erreur de chargement des fichiers:', error));
+</script>
+
 </body>
 </html>
