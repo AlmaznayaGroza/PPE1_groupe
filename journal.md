@@ -57,7 +57,7 @@ J'ai modifié le script principal pour qu'il puisse à chaque tour de boucle app
 
 J'ai aussi terminé le script make_pals_corpus, qui appelle un autre script qui nettoie chaque fichier texte. Le script créé des versions "cleaned" de chaque fichier, puis une commande grep récupère chaque mot pour en afficher 1 par ligne. Cependant il manque les lignes vides entre chaque phrase.
 
-## (Marina) 10/01 - Travail effectué
+## (Marina) 9-10/01 - Travail effectué
 
 - Reconstitution complet des URLS suite à un problème technique ('Détaillé par mail + Ubuntu via Microsoft Store donc modification de certaines manipulation')
 - Hésitation sur le mots espagnol: "conciencia" et "consciencia" signifie la même chose cependant 2 orthographes possibles mais une plus utilisé que l'autre
@@ -70,7 +70,9 @@ J'ai aussi terminé le script make_pals_corpus, qui appelle un autre script qui 
 
 - Upload les nouveaux dossiers via les nouveaux Scripts
 - Création complète d'une clé SSH
-- Entrain de définir les mots pour la langue Es dans l'Index.html 
+- Entrain de définir les mots pour la langue Es dans l'Index.html
+- Tentative d'amélioration pour les scripts
+- J'essaye de régler certains soucis d'affichage
 
 ## (Maïwenn) 11/01 - Modification du script pals et utilisation du script cooccurrents
 
