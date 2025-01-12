@@ -88,3 +88,9 @@ Travail sur le site: création de la page index.html et des pages secondaires, u
 
 Amélioration de plusieurs scripts (clean.sh, make_pals_corpus.sh)
 Modification de ma liste d'URLs
+
+## (Maïwenn) 12/01 - Travail sur le site et correction d'erreurs sur divers scripts
+
+J'ai modifié le script pour appeler le script python cooccurrences.py pour qu'il puisse prendre en entrée soit des mots soit des fichiers (afin de pouvoir chercher soit un mot simple soit un regex avec des variantes du même mot). J'ai aussi corrigé le script clean.sh car il manquait des backslash qui cassaient le sed. J'ai aussi fait en sorte que le script make_pals_corpus fasse deux fichiers de contexte en format pals pour chaque mot, afin de calculer la spécificité des co-occurrents pour chaque mot séparément. J'ai créé un environnement pour le git afin d'installer la librairie wordcloud et ainsi pouvoir faire tourner le script fakecloud.py. J'ai généré mes nuages de mots à partir des fichiers contextes pour PALS pour chaque mot. J'ai aussi généré les fichiers avec les spécificités pour chaque mot à l'aide du script cooccurrents.sh qui appelle le script cooccurrents.py (avec un nouvel argument créé par Géraldine qui permet de retirer les stopwords). J'ai importé les fichiers sur libre office calc afin de créer un graphe pour afficher les 10 mots cooccurrents les plus spécifiques. J'ai ensuite travaillé sur le site pour modifier l'apparence, ajouter les nuages de mots et graphes, et séparer la rubrique d'analyse en 3 rubriques (1 par langue) avec un menu dropdown.
+
+
